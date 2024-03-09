@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "github_imagesync_test/sync_image.md",
+                "file": "Servlet JSP/240308_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "github_imagesync_test/sync_image.md"
+                "file": "Servlet JSP/240308_수업정리.md"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "github_imagesync_test/sync_image.md",
+                "file": "Servlet JSP/240308_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,21 +155,20 @@
   },
   "active": "2f7a65c8b96dc8cc",
   "lastOpenFiles": [
+    "문제상황/240309github 연동확인.md",
+    "Servlet JSP/240308_수업정리.md",
+    "image/Pasted image 20240309114835.png",
+    "github_imagesync_test/sync_image.md",
     "image/Pasted image 20240309114257.png",
     "image/Pasted image 20240309114253.png",
     "image/Pasted image 20240309114222.png",
     "image/Pasted image 20240309114201.png",
-    "Servlet JSP/240308_수업정리.md",
-    "github_imagesync_test/sync_image.md",
     "github_imagesync_test",
     "image/Pasted image 20240309113911.png",
     "image/Pasted image 20240309110434.png",
-    "문제상황/240309github 연동확인.md",
     "image/Pasted image 20240309105307.png",
     "image/Pasted image 20240309104633.png",
     "image/Pasted image 20240309104457.png",
-    "image/Pasted image 20240309104358.png",
-    "image/Pasted image 20240309103813.png",
     "테스트폴더",
     "Servlet JSP/테스트폴더.md",
     "Servlet JSP/240307_수업정리.md",
