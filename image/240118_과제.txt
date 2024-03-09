@@ -1,0 +1,104 @@
+[탄탄히 다지기1] 기본 테이블은 EMP_COPY로 하여 20번 부서에 소속된 사원들의 사번과 이
+름과 부서번호와 상관의 사번을 출력하기 위한 SELECT문을 EMP_VIEW20 
+이란 이름의 뷰로 정의해 봅시다.
+
+답 :
+Create view EMP_VIEW20
+As
+Select empno, ename, deptno, mgr
+From emp_copy
+Where deptno=20;
+Select * from EMP_VIEW20;
+
+
+[탄탄히 다지기2] 각 부서별 최대 급여와 최소 급여를 출력하는 뷰를 SAL_VIEW 란 이름으로
+작성하시오.
+
+답 :
+CREATE VIEW SAL_VIEW
+AS
+SELECT DNAME, MAX(SAL) "MAX_SAL", MIN(SAL) "MIN_SAL"
+FROM EMP, DEPT
+WHERE EMP.DEPTNO=DEPT.DEPTNO
+GROUP BY DNAME;
+
+SELECT * FROM SAL_VIEW;
+
+
+[탄탄히 다지기2] <탄탄히 다지기> 1. 번에서 작성한 뷰에 다음과 같은 결과를 얻을 수 있도록
+컬럼 별칭을 추가하여 뷰를 변경해 봅시다. ( 힌트 : OR REPLACE 옵션 사
+용)
+
+답 :
+CREATE OR REPLACE VIEW EMP_VIEW20
+AS
+SELECT EMPNO "EMP_NO", ENAME "EMP_NAME", DEPTNO "DEPT_NO", MGR "MANAGER", SAL
+FROM EMP_COPY	
+WHERE DEPTNO=20;
+
+[탄탄히 다지기3] 인라인 뷰를 사용하여 급여를 많이 받는 순서대로 3명만 출력하는 뷰
+(SAL_TOP3_VIEW)를 작성하시오.
+
+답 :
+CREATE VIEW SAL_TOP3_VIEW
+AS
+SELECT ROWNUM "RANKING", EMPNO, ENAME, SAL
+FROM (SELECT EMPNO, ENAME, SAL
+	FROM EMP
+	ORDER BY SAL DESC
+       )
+WHERE ROWNUM <= 3;
+SELECT * FROM SAL_TOP3_VIEW;
+
+[탄탄히 다지기4] 3번을 참고하여 2위와 3위만 출력하도록 해보세요
+
+답 :
+SELECT *
+FROM SAL_TOP3_VIEW
+WHERE RANKING BETWEEN 2 AND 3;
+
+
+
+
+[탄탄히 다지기1]  부서 번호를 생성하는 시퀀스 객체를 생성하여 시퀀스 객체를 이용하여 부서 번
+호를 자동 생성하도록 해 봅시다. 
+이 문제를 풀기 위해서 다음과 같이 부서 테이블을 생성합니다.
+부서 번호를 저장하는 DEPTNO 컬럼은 기본 키로 설정하였으므로 중복된 값을
+가질 수 없습니다.
+
+답 :
+CREATE SEQUENCE DEPT_SEQ
+INCREMENT BY 10
+START WITH 10;
+
+INSERT INTO DEPT_EXAMPLE VALUES (DEPT_SEQ.NEXTVAL, '인사과', '서울');
+INSERT INTO DEPT_EXAMPLE VALUES (DEPT_SEQ.NEXTVAL, '경리과', '서울');
+INSERT INTO DEPT_EXAMPLE VALUES (DEPT_SEQ.NEXTVAL, '총무과', '대전');
+INSERT INTO DEPT_EXAMPLE VALUES (DEPT_SEQ.NEXTVAL, '기술팀', '인천');
+
+[탄탄히 다지기2] 시퀀스값 순환하기(DEPT_SEQ)
+• 10 -> 20 -> 30 -> 40 -> 10 -> 20 -> 
+30 -> 40 -> 10 …
+
+답 :
+CREATE SEQUENCE DEPT_SEQ
+START WITH 10
+INCREMENT BY 10
+MAXVALUE 40
+MINVALUE 10
+CYCLE
+NOCACHE;
+
+[탄탄히 다지기3] MAX(EMPNO)를 이용해서 사원번호 만들어 보세요
+• 1 -> 2 -> 3 -> 4 -> 5 ...
+
+CREATE TABLE EMP_MAX(
+	EMPNO NUMBER(2) PRIMARY KEY,
+	ENAME VARCHAR2(12)
+);
+
+INSERT INTO EMP_MAX
+VALUES ( (SELECT NVL(MAX(EMPNO), 0)+1 FROM EMP_MAX), 'AAA');
+
+INSERT INTO EMP_MAX
+VALUES ( (SELECT NVL(MAX(EMPNO), 0)+1 FROM EMP_MAX), 'BBB');

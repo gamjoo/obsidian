@@ -1,0 +1,28 @@
+{
+  "outline:open-for-current": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F7"
+    }
+  ],
+  "editor:swap-line-up": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "obsidian-outliner:fold": [],
+  "editor:swap-line-down": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "obsidian-outliner:unfold": []
+}

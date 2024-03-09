@@ -1,0 +1,10 @@
+{
+  "attachmentFolderPath": "image",
+  "showLineNumber": true,
+  "autoPairMarkdown": false,
+  "smartIndentList": false,
+  "autoPairBrackets": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "promptDelete": false
+}

@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "dd4faa6ab4f7d677",
+    "type": "split",
+    "children": [
+      {
+        "id": "bce388b37d8b4237",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "352a731c498158d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Servlet JSP/240308_수업정리.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a78033639f84f02",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "228fb2f6a3855da7",
+    "type": "split",
+    "children": [
+      {
+        "id": "eea4bf51acce2e35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd8903911fb5db5b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7d0bf019f34e48ac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "try-",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f174d8fa8788e26b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "85986f97c58e1ecf",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "11d3cec3c02f16c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "53fe08fbd63ea7ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3dcfcc8d274a68b6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Servlet JSP/240308_수업정리.md"
+              }
+            }
+          },
+          {
+            "id": "d41bddd27d226f8a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "0d657f294db8def4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Servlet JSP/240308_수업정리.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "random-note:랜덤 노트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "352a731c498158d9",
+  "lastOpenFiles": [
+    "Servlet JSP/240307_수업정리.md",
+    "jQuery/240227_수업정리.md",
+    "Java/240201_수업정리.md",
+    "image/Pasted image 20240307212747.png",
+    "Servlet JSP/240306_수업정리.md",
+    "Java/240202_수업정리.md",
+    "Java/240201_과제.md",
+    "Java/240130_수업정리.md",
+    "Oracle/240122 _수업정리.md",
+    "Java/240125_수업정리.md",
+    "Java/240205_수업정리_JDBC시작 1.md",
+    "Java/240205_수업정리.md",
+    "image/Pasted image 20240307210043.png",
+    "image/Pasted image 20240307205959.png",
+    "image/Pasted image 20240307205827.png",
+    "image/Pasted image 20240307205713.png",
+    "image/Pasted image 20240307205537.png",
+    "image/Pasted image 20240307205258.png",
+    "Servlet JSP/240305_수업정리.md",
+    "JavaScript/240220_수업정리.md",
+    "JavaScript/240219_수업정리_JS시작.md",
+    "Oracle/240117_과제_solution.md",
+    "Oracle/240118_과제.md",
+    "Oracle/240116_과제.md",
+    "Oracle/240116_수업정리.md",
+    "Oracle/240117_수업기록(정리중).md",
+    "Oracle/240124_오라클 마지막_과제_게시판쿼리.md",
+    "image/Pasted image 20240307173003.png",
+    "image/Pasted image 20240307172235.png",
+    "image/Pasted image 20240307171652.png",
+    "image/mail-1.4.7 1.jar",
+    "image/activation-1.1 1.jar",
+    "image/mail-1.4.7.jar",
+    "image/activation-1.1.jar",
+    "image/240307_0. 배포하는 법.txt",
+    "Servlet JSP/240304_수업정리.md",
+    "Servlet JSP/240229_수업정리_서블릿 시작&끝.md",
+    "image/240307_cos.jar 파일 다운받기.txt",
+    "읽은 책/처음 해보는 Servlet&JSP 웹 프로그래밍(오정임 지음) 240302~.md",
+    "jQuery/240228_수업정리.md",
+    "JavaScript/240223_수업정리.md",
+    "image/240306_layout(문제).docx",
+    "image/240305_과제_출력결과.docx",
+    "JSP",
+    "프로젝트진행정리"
+  ]
+}

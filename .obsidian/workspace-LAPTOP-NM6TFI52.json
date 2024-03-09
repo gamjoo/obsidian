@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "dd4faa6ab4f7d677",
+    "type": "split",
+    "children": [
+      {
+        "id": "bce388b37d8b4237",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81378c51ba44fd37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Servlet JSP/240305_수업정리.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5563fab6caa2b2be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Oracle/240116_과제.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "228fb2f6a3855da7",
+    "type": "split",
+    "children": [
+      {
+        "id": "eea4bf51acce2e35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd8903911fb5db5b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7d0bf019f34e48ac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f174d8fa8788e26b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "85986f97c58e1ecf",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "11d3cec3c02f16c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffccfb023ac05269",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d41bddd27d226f8a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "3dcfcc8d274a68b6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Oracle/240116_과제.md"
+              }
+            }
+          },
+          {
+            "id": "68c892cf4751406c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Oracle/240116_과제.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fbedc1624fe949df",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Oracle/240116_과제.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "random-note:랜덤 노트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "bd8903911fb5db5b",
+  "lastOpenFiles": [
+    "읽은 책/처음 해보는 Servlet&JSP 웹 프로그래밍(오정임 지음) 240302~.md",
+    "프로젝트진행정리/240301.md",
+    "프로젝트진행정리/240305.md",
+    "Oracle/240116_과제.md",
+    "Servlet JSP/240305_수업정리.md",
+    "Servlet JSP/240304_수업정리.md",
+    "Servlet JSP/240306_수업정리.md",
+    "jQuery/240227_수업정리.md",
+    "image/Pasted image 20240306171907.png",
+    "image/Pasted image 20240306170316.png",
+    "image/Pasted image 20240306164415.png",
+    "image/Pasted image 20240306163659.png",
+    "image/Pasted image 20240306163301.png",
+    "jQuery/240228_수업정리.md",
+    "JavaScript/240223_수업정리.md",
+    "JavaScript/240220_수업정리.md",
+    "image/Pasted image 20240306160358.png",
+    "image/Pasted image 20240306160122.png",
+    "image/Pasted image 20240306153641.png",
+    "image/Pasted image 20240306153629.png",
+    "image/Pasted image 20240306153525.png",
+    "Servlet JSP/240229_수업정리_서블릿 시작&끝.md",
+    "image/240306_layout(문제).docx",
+    "프로젝트진행정리/3월 일정.md",
+    "JavaScript/240222_수업정리.md",
+    "JavaScript/240226_수업정리_JS끝.md",
+    "CSS/240216_수업정리.md",
+    "image/240305_과제_출력결과.docx",
+    "명령어모음.md",
+    "jQuery/240226_수업정리_jQuery시작.md",
+    "JavaScript/240219_수업정리_JS시작.md",
+    "CSS/240215_수업정리_CSS시작.md",
+    "Java/240125_calendar과제_내코드.md",
+    "JavaScript/240221_수업정리.md",
+    "CSS/240215_과제.md",
+    "JSP",
+    "Java/JDBC/240205_수업정리_JDBC시작.md",
+    "프로젝트진행정리",
+    "공부재료/자바정석basic_p213연습문제16.md",
+    "공부재료/자바정석basic_p213연습문제15.md",
+    "image/톰캣설치 및 프로젝트 생성.docx",
+    "Servlet JSP",
+    "1.동기화테스트_240226",
+    "image/프로젝트에 필요한 파일들.zip",
+    "jQuery",
+    "image/240226_1. 아이디 중복 검사시 1.txt"
+  ]
+}

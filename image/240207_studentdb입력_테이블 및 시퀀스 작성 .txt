@@ -1,0 +1,36 @@
+*** 테이블 및 시퀀스 작성 ***
+1. 테이블 이름 : hakjum
+ LOWSCORE     NUMBER(3)
+ HISCORE      NUMBER(5,2)
+ GRADE        VARCHAR2(3)  -- 기본키
+
+sql>select * from hakjum
+LOWSCORE HISCORE GRADE
+---------- ---------- ------
+         0      59.99       F
+        60      64.99      D0
+        65      69.99      D+
+        70      74.99      C0
+        75      79.99      C+
+        80      84.99      B0
+        85      89.99      B+
+        90      94.99      A0
+        95      100        A+
+
+
+2. 테이블 이름 : student
+ NO               NUMBER  -- 기본키
+ NAME             VARCHAR2(21) -- not null
+ KOR              NUMBER(3)  -- 0~100 사이의 값, not null
+ MATH             NUMBER(3)  -- 0~100 사이의 값,not null
+ ENG              NUMBER(3)  -- 0~100 사이의 값,not null
+ TOT              NUMBER(3)
+ AVG              NUMBER(5,2)
+ GRADE            VARCHAR2(3)
+
+3. 제약조건
+    student의 GRADE 컬럼은 hakjum테이블의 GRADE컬럼을 부모키로 사용합니다.
+    student의 GRADE 컬럼은 외래키입니다.
+
+4. 1부터 1씩 증가하는 시퀀스 만들기
+    시퀀스 이름:  student_seq
