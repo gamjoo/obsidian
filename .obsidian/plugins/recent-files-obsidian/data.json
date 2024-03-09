@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "github 연동확인",
+      "path": "테스트폴더/github 연동확인.md"
+    },
+    {
       "basename": "240308_수업정리",
       "path": "Servlet JSP/240308_수업정리.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "240229_이클립스git",
       "path": "문제상황/240229_이클립스git.md"
-    },
-    {
-      "basename": "240219_수업정리_끝",
-      "path": "CSS/240219_수업정리_끝.md"
     }
   ],
   "omittedPaths": [],

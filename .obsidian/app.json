@@ -6,5 +6,6 @@
   "autoPairBrackets": false,
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
-  "promptDelete": false
+  "promptDelete": false,
+  "useMarkdownLinks": true
 }
