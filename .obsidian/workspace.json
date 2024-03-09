@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Servlet JSP/240308_수업정리.md",
+                "file": "github_imagesync_test/sync_image.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servlet JSP/240308_수업정리.md"
+                "file": "github_imagesync_test/sync_image.md"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servlet JSP/240308_수업정리.md",
+                "file": "github_imagesync_test/sync_image.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,6 +155,13 @@
   },
   "active": "2f7a65c8b96dc8cc",
   "lastOpenFiles": [
+    "image/Pasted image 20240309114257.png",
+    "image/Pasted image 20240309114253.png",
+    "image/Pasted image 20240309114222.png",
+    "image/Pasted image 20240309114201.png",
+    "Servlet JSP/240308_수업정리.md",
+    "github_imagesync_test/sync_image.md",
+    "github_imagesync_test",
     "image/Pasted image 20240309113911.png",
     "image/Pasted image 20240309110434.png",
     "문제상황/240309github 연동확인.md",
@@ -162,12 +169,7 @@
     "image/Pasted image 20240309104633.png",
     "image/Pasted image 20240309104457.png",
     "image/Pasted image 20240309104358.png",
-    "Servlet JSP/240308_수업정리.md",
     "image/Pasted image 20240309103813.png",
-    "image/Pasted image 20240309103803.png",
-    "image/Pasted image 20240309102658.png",
-    "image/Pasted image 20240309102601.png",
-    "image/Pasted image 20240309102424.png",
     "테스트폴더",
     "Servlet JSP/테스트폴더.md",
     "Servlet JSP/240307_수업정리.md",
@@ -196,10 +198,8 @@
     "image/activation-1.1.jar",
     "image/240307_0. 배포하는 법.txt",
     "Servlet JSP/240304_수업정리.md",
-    "Servlet JSP/240229_수업정리_서블릿 시작&끝.md",
     "image/240307_cos.jar 파일 다운받기.txt",
     "image/240306_layout(문제).docx",
-    "image/240305_과제_출력결과.docx",
-    "JSP"
+    "image/240305_과제_출력결과.docx"
   ]
 }

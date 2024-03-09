@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "sync_image",
+      "path": "github_imagesync_test/sync_image.md"
+    },
+    {
       "basename": "240308_수업정리",
       "path": "Servlet JSP/240308_수업정리.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "자바정석basic_p213연습문제14",
       "path": "공부재료/자바정석basic_p213연습문제14.md"
-    },
-    {
-      "basename": "240229_이클립스git",
-      "path": "문제상황/240229_이클립스git.md"
     }
   ],
   "omittedPaths": [],
