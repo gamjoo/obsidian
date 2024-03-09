@@ -6,8 +6,8 @@
   "autoPairBrackets": false,
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
-  "promptDelete": false,
+  "promptDelete": true,
   "useMarkdownLinks": true,
   "showUnsupportedFiles": true,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "absolute"
 }
