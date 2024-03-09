@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Servlet JSP/240308_수업정리.md",
+                "file": "문제상황/240309_github잔디.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servlet JSP/240308_수업정리.md"
+                "file": "문제상황/240309_github잔디.md"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servlet JSP/240308_수업정리.md",
+                "file": "문제상황/240309_github잔디.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,9 @@
   },
   "active": "2f7a65c8b96dc8cc",
   "lastOpenFiles": [
-    "문제상황/240309github 연동확인.md",
+    "문제상황/240309_github 연동확인.md",
+    "image/Pasted image 20240309125725.png",
+    "문제상황/240309_github잔디.md",
     "Servlet JSP/240308_수업정리.md",
     "image/Pasted image 20240309114835.png",
     "github_imagesync_test/sync_image.md",
@@ -168,7 +170,6 @@
     "image/Pasted image 20240309110434.png",
     "image/Pasted image 20240309105307.png",
     "image/Pasted image 20240309104633.png",
-    "image/Pasted image 20240309104457.png",
     "테스트폴더",
     "Servlet JSP/테스트폴더.md",
     "Servlet JSP/240307_수업정리.md",
@@ -196,7 +197,6 @@
     "image/mail-1.4.7.jar",
     "image/activation-1.1.jar",
     "image/240307_0. 배포하는 법.txt",
-    "Servlet JSP/240304_수업정리.md",
     "image/240307_cos.jar 파일 다운받기.txt",
     "image/240306_layout(문제).docx",
     "image/240305_과제_출력결과.docx"
