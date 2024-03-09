@@ -32,14 +32,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6a78033639f84f02",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
         "currentTab": 1
@@ -163,8 +155,8 @@
   },
   "active": "2f7a65c8b96dc8cc",
   "lastOpenFiles": [
-    "Servlet JSP/240308_수업정리.md",
     "문제상황/240309github 연동확인.md",
+    "Servlet JSP/240308_수업정리.md",
     "image/Pasted image 20240309095643.png",
     "image/Pasted image 20240309093338.png",
     "image/Pasted image 20240309093322.png",
