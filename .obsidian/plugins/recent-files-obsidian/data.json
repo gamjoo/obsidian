@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "세미프로젝트일정",
+      "path": "세미프로젝트관련/세미프로젝트일정.md"
+    },
+    {
+      "basename": "240226_수업정리_jQuery시작",
+      "path": "jQuery/240226_수업정리_jQuery시작.md"
+    },
+    {
       "basename": "240307_수업정리",
       "path": "Servlet JSP/240307_수업정리.md"
     },
@@ -134,7 +142,7 @@
     },
     {
       "basename": "3월 일정",
-      "path": "프로젝트진행정리/3월 일정.md"
+      "path": "세미프로젝트관련/3월 일정.md"
     },
     {
       "basename": "240222_수업정리",
@@ -146,11 +154,11 @@
     },
     {
       "basename": "240305",
-      "path": "프로젝트진행정리/240305.md"
+      "path": "세미프로젝트관련/240305.md"
     },
     {
       "basename": "240301",
-      "path": "프로젝트진행정리/240301.md"
+      "path": "세미프로젝트관련/240301.md"
     },
     {
       "basename": "240216_수업정리",
@@ -159,10 +167,6 @@
     {
       "basename": "명령어모음",
       "path": "명령어모음.md"
-    },
-    {
-      "basename": "240226_수업정리_jQuery시작",
-      "path": "jQuery/240226_수업정리_jQuery시작.md"
     },
     {
       "basename": "240125_calendar과제_내코드",
@@ -195,10 +199,6 @@
     {
       "basename": "자바정석basic_p212연습문제12",
       "path": "공부재료/자바정석basic_p212연습문제12.md"
-    },
-    {
-      "basename": "자바정석basic_p213연습문제14",
-      "path": "공부재료/자바정석basic_p213연습문제14.md"
     }
   ],
   "omittedPaths": [],
