@@ -6,6 +6,8 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiAnticlockwise2Fill",
+      "RiPencilFill",
       "RiPenNibFill",
       "RiCircleFill",
       "RiLayout2Fill"
@@ -24,5 +26,7 @@
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true,
     "iconIdentifier": ":"
-  }
+  },
+  "Servlet JSP/240307_수업정리.md": "RiAnticlockwise2Fill",
+  "Servlet JSP/240308_수업정리.md": "RiAnticlockwise2Fill"
 }
