@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Servlet JSP/240311_수업정리.md",
+                "file": "문제상황/240311_자바버전.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servlet JSP/240311_수업정리.md"
+                "file": "문제상황/240311_자바버전.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servlet JSP/240311_수업정리.md",
+                "file": "문제상황/240311_자바버전.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,6 +141,16 @@
   },
   "active": "1d2c918ffe6b3882",
   "lastOpenFiles": [
+    "image/Pasted image 20240311180627.png",
+    "문제상황/240311_옵시디언충돌.md",
+    "문제상황/240311_자바버전.md",
+    "문제상황/240309_github잔디.md",
+    "문제상황/240309_github 연동확인.md",
+    "문제상황/240229_이클립스git.md",
+    "문제상황/240228_이클립스github연동.md",
+    "문제상황/240222_CSS문제.md",
+    "문제상황/240215_이클립스 에디터.md",
+    "Servlet JSP/240311_수업정리.md",
     "image/Pasted image 20240311175024.png",
     "image/Pasted image 20240311174257.png",
     "image/Pasted image 20240311173723.png",
@@ -151,21 +161,16 @@
     "image/Pasted image 20240311164207.png",
     "image/Pasted image 20240311163918.png",
     "image/Pasted image 20240311163818.png",
-    "image/Pasted image 20240311163624.png",
-    "문제상황/240311_옵시디언충돌.md",
-    "Servlet JSP/240311_수업정리.md",
     "Servlet JSP/240308_수업정리.md",
     "conflict-files-obsidian-git.md",
     "명령어모음.md",
     "gitignore.txt",
     "gitignore.txt.crdownload",
-    "문제상황/240309_github잔디.md",
     "세미프로젝트관련/세미프로젝트일정.md",
     "세미프로젝트관련/3월 일정.md",
     "세미프로젝트관련/240305.md",
     "세미프로젝트관련/240301.md",
     "세미프로젝트관련",
-    "문제상황/240309_github 연동확인.md",
     "github_imagesync_test/sync_image.md",
     "github_imagesync_test",
     "테스트폴더",
@@ -177,11 +182,6 @@
     "Java/240202_수업정리.md",
     "Java/240201_과제.md",
     "Java/240130_수업정리.md",
-    "Oracle/240122 _수업정리.md",
-    "Java/240125_수업정리.md",
-    "Java/240205_수업정리_JDBC시작 1.md",
-    "Java/240205_수업정리.md",
-    "Servlet JSP/240305_수업정리.md",
     "image/mail-1.4.7 1.jar",
     "image/activation-1.1 1.jar",
     "image/mail-1.4.7.jar",

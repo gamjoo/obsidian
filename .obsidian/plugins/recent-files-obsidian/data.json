@@ -1,20 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "240311_수업정리",
-      "path": "Servlet JSP/240311_수업정리.md"
+      "basename": "240311_자바버전",
+      "path": "문제상황/240311_자바버전.md"
     },
     {
       "basename": "240311_옵시디언충돌",
       "path": "문제상황/240311_옵시디언충돌.md"
-    },
-    {
-      "basename": "240308_수업정리",
-      "path": "Servlet JSP/240308_수업정리.md"
-    },
-    {
-      "basename": "명령어모음",
-      "path": "명령어모음.md"
     },
     {
       "basename": "240309_github잔디",
@@ -23,6 +15,34 @@
     {
       "basename": "240309_github 연동확인",
       "path": "문제상황/240309_github 연동확인.md"
+    },
+    {
+      "basename": "240229_이클립스git",
+      "path": "문제상황/240229_이클립스git.md"
+    },
+    {
+      "basename": "240228_이클립스github연동",
+      "path": "문제상황/240228_이클립스github연동.md"
+    },
+    {
+      "basename": "240222_CSS문제",
+      "path": "문제상황/240222_CSS문제.md"
+    },
+    {
+      "basename": "240215_이클립스 에디터",
+      "path": "문제상황/240215_이클립스 에디터.md"
+    },
+    {
+      "basename": "240311_수업정리",
+      "path": "Servlet JSP/240311_수업정리.md"
+    },
+    {
+      "basename": "240308_수업정리",
+      "path": "Servlet JSP/240308_수업정리.md"
+    },
+    {
+      "basename": "명령어모음",
+      "path": "명령어모음.md"
     },
     {
       "basename": "240307_수업정리",
@@ -179,18 +199,6 @@
     {
       "basename": "자바정석basic_p213연습문제16",
       "path": "공부재료/자바정석basic_p213연습문제16.md"
-    },
-    {
-      "basename": "자바정석basic_p213연습문제15",
-      "path": "공부재료/자바정석basic_p213연습문제15.md"
-    },
-    {
-      "basename": "자바정석basic_p212연습문제10",
-      "path": "공부재료/자바정석basic_p212연습문제10.md"
-    },
-    {
-      "basename": "자바정석basic_p212연습문제12",
-      "path": "공부재료/자바정석basic_p212연습문제12.md"
     }
   ],
   "omittedPaths": [],
