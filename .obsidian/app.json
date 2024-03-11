@@ -1,7 +1,7 @@
 {
   "attachmentFolderPath": "image",
   "showLineNumber": true,
-  "autoPairMarkdown": false,
+  "autoPairMarkdown": true,
   "smartIndentList": false,
   "autoPairBrackets": false,
   "alwaysUpdateLinks": true,

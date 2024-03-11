@@ -11,8 +11,13 @@
             "id": "1d2c918ffe6b3882",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Servlet JSP/240311_수업정리.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -88,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Servlet JSP/240311_수업정리.md"
+              }
             }
           },
           {
@@ -108,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Servlet JSP/240311_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,12 +141,12 @@
   },
   "active": "1d2c918ffe6b3882",
   "lastOpenFiles": [
+    "Servlet JSP/240308_수업정리.md",
     "Servlet JSP/240311_수업정리.md",
     "문제상황/240311.md",
     "conflict-files-obsidian-git.md",
     "image/Pasted image 20240311093137.png",
     "명령어모음.md",
-    "Servlet JSP/240308_수업정리.md",
     "image/Pasted image 20240311092333.png",
     "image/Pasted image 20240311092242.png",
     "gitignore.txt",
