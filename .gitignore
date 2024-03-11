@@ -1,12 +1,11 @@
 .DS_Store
-.obsidian/workspace.json
-obsidian/workspace-mobile.json
-.obsidian/workspace-mobile.json
-.obsidian/workspace.json
-.obsidian/plugins/recent-files-obsidian
+/.obsidian/workspace.json
+/obsidian/workspace-mobile.json
+/.obsidian/workspace-mobile.json
+/.obsidian/workspace.json
+/.obsidian/plugins/recent-files-obsidian
 
-.obsidian/appearance.json
-.obsidian/plugins/remember-cursor-position/cursor-positions.json
-.obsidian/workspace.json
+/.obsidian/appearance.json
+/.obsidian/plugins/remember-cursor-position/cursor-positions.json
 
 .trash/
