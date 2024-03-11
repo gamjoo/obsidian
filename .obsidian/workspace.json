@@ -19,8 +19,113 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "95df69b31efdc4a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Servlet JSP/240311_수업정리.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00a043164a88d484",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "문제상황/240311.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "28b0699ff10d8fe3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "문제상황/240311.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57ab3ca5f34ee380",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Servlet JSP/240311_수업정리.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eca89896d484b1e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Servlet JSP/240311_수업정리.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a66acf63f4868eac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Servlet JSP/240311_수업정리.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b15eccab813e2c82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "문제상황/240311.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "798c0f8515456972",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -94,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servlet JSP/240311_수업정리.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -115,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servlet JSP/240311_수업정리.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,25 +244,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "51c27ef13ec66ecf",
+  "active": "798c0f8515456972",
   "lastOpenFiles": [
-    "image/Pasted image 20240311090704.png",
-    "Servlet JSP/240308_수업정리.md",
+    "문제상황/240311.md",
+    "conflict-files-obsidian-git.md",
+    "image/Pasted image 20240311093137.png",
     "Servlet JSP/240311_수업정리.md",
+    "명령어모음.md",
+    "Servlet JSP/240308_수업정리.md",
+    "image/Pasted image 20240311092333.png",
+    "image/Pasted image 20240311092242.png",
+    "gitignore.txt",
+    "gitignore.txt.crdownload",
+    "image/Pasted image 20240311091627.png",
+    "문제상황/240309_github잔디.md",
+    "image/Pasted image 20240311091427.png",
+    "세미프로젝트관련/세미프로젝트일정.md",
+    "세미프로젝트관련/3월 일정.md",
+    "세미프로젝트관련/240305.md",
+    "세미프로젝트관련/240301.md",
+    "세미프로젝트관련",
+    "image/Pasted image 20240311090704.png",
     "image/Pasted image 20240309130713.png",
     "문제상황/240309_github 연동확인.md",
     "image/Pasted image 20240309125725.png",
-    "문제상황/240309_github잔디.md",
     "image/Pasted image 20240309114835.png",
     "github_imagesync_test/sync_image.md",
     "image/Pasted image 20240309114257.png",
-    "image/Pasted image 20240309114253.png",
-    "image/Pasted image 20240309114222.png",
-    "image/Pasted image 20240309114201.png",
     "github_imagesync_test",
-    "image/Pasted image 20240309113911.png",
-    "image/Pasted image 20240309110434.png",
-    "image/Pasted image 20240309105307.png",
     "테스트폴더",
     "Servlet JSP/테스트폴더.md",
     "Servlet JSP/240307_수업정리.md",
@@ -172,20 +286,10 @@
     "Java/240205_수업정리_JDBC시작 1.md",
     "Java/240205_수업정리.md",
     "Servlet JSP/240305_수업정리.md",
-    "JavaScript/240220_수업정리.md",
-    "JavaScript/240219_수업정리_JS시작.md",
-    "Oracle/240117_과제_solution.md",
-    "Oracle/240118_과제.md",
-    "Oracle/240116_과제.md",
-    "Oracle/240116_수업정리.md",
-    "Oracle/240117_수업기록(정리중).md",
     "image/mail-1.4.7 1.jar",
     "image/activation-1.1 1.jar",
     "image/mail-1.4.7.jar",
     "image/activation-1.1.jar",
-    "image/240307_0. 배포하는 법.txt",
-    "image/240307_cos.jar 파일 다운받기.txt",
-    "image/240306_layout(문제).docx",
-    "image/240305_과제_출력결과.docx"
+    "image/240307_0. 배포하는 법.txt"
   ]
 }

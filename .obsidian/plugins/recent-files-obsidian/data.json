@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "240311",
+      "path": "문제상황/240311.md"
+    },
+    {
       "basename": "240311_수업정리",
       "path": "Servlet JSP/240311_수업정리.md"
+    },
+    {
+      "basename": "명령어모음",
+      "path": "명령어모음.md"
     },
     {
       "basename": "240308_수업정리",
@@ -137,10 +145,6 @@
       "path": "JavaScript/240223_수업정리.md"
     },
     {
-      "basename": "3월 일정",
-      "path": "프로젝트진행정리/3월 일정.md"
-    },
-    {
       "basename": "240222_수업정리",
       "path": "JavaScript/240222_수업정리.md"
     },
@@ -149,20 +153,8 @@
       "path": "JavaScript/240226_수업정리_JS끝.md"
     },
     {
-      "basename": "240305",
-      "path": "프로젝트진행정리/240305.md"
-    },
-    {
-      "basename": "240301",
-      "path": "프로젝트진행정리/240301.md"
-    },
-    {
       "basename": "240216_수업정리",
       "path": "CSS/240216_수업정리.md"
-    },
-    {
-      "basename": "명령어모음",
-      "path": "명령어모음.md"
     },
     {
       "basename": "240226_수업정리_jQuery시작",
