@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문제상황/240311_자바버전.md",
+                "file": "Servlet JSP/240311_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "문제상황/240311_자바버전.md"
+                "file": "Servlet JSP/240311_수업정리.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "문제상황/240311_자바버전.md",
+                "file": "Servlet JSP/240311_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +141,9 @@
   },
   "active": "1d2c918ffe6b3882",
   "lastOpenFiles": [
+    "문제상황/240311_자바버전.md",
     "image/Pasted image 20240311180627.png",
     "문제상황/240311_옵시디언충돌.md",
-    "문제상황/240311_자바버전.md",
     "문제상황/240309_github잔디.md",
     "문제상황/240309_github 연동확인.md",
     "문제상황/240229_이클립스git.md",
@@ -160,7 +160,6 @@
     "image/Pasted image 20240311164258.png",
     "image/Pasted image 20240311164207.png",
     "image/Pasted image 20240311163918.png",
-    "image/Pasted image 20240311163818.png",
     "Servlet JSP/240308_수업정리.md",
     "conflict-files-obsidian-git.md",
     "명령어모음.md",
