@@ -1,8 +1,8 @@
 {
-  "accentColor": "#f55c5c",
-  "theme": "obsidian",
-  "baseFontSize": 17,
-  "translucency": true,
+  "accentColor": "#dbc98a",
   "cssTheme": "AnuPpuccin",
-  "baseFontSizeAction": true
+  "theme": "obsidian",
+  "baseFontSizeAction": true,
+  "translucency": true,
+  "baseFontSize": 14
 }

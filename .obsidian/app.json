@@ -1,13 +1,14 @@
 {
   "attachmentFolderPath": "image",
   "showLineNumber": true,
-  "autoPairMarkdown": false,
-  "smartIndentList": false,
-  "autoPairBrackets": false,
+  "autoPairMarkdown": true,
+  "smartIndentList": true,
+  "autoPairBrackets": true,
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
   "promptDelete": true,
   "useMarkdownLinks": true,
   "showUnsupportedFiles": true,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "tabSize": 3
 }

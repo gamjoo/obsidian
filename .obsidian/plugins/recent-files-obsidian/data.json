@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "240308_수업정리",
-      "path": "Servlet JSP/240308_수업정리.md"
-    },
-    {
       "basename": "세미프로젝트일정",
       "path": "세미프로젝트관련/세미프로젝트일정.md"
+    },
+    {
+      "basename": "240308_수업정리",
+      "path": "Servlet JSP/240308_수업정리.md"
     },
     {
       "basename": "240226_수업정리_jQuery시작",
@@ -195,10 +195,6 @@
     {
       "basename": "자바정석basic_p212연습문제10",
       "path": "공부재료/자바정석basic_p212연습문제10.md"
-    },
-    {
-      "basename": "자바정석basic_p212연습문제12",
-      "path": "공부재료/자바정석basic_p212연습문제12.md"
     }
   ],
   "omittedPaths": [],
