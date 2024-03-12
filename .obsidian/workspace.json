@@ -104,16 +104,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3dcfcc8d274a68b6",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Servlet JSP/240311_수업정리.md"
-              }
-            }
-          },
-          {
             "id": "d41bddd27d226f8a",
             "type": "leaf",
             "state": {
@@ -125,18 +115,17 @@
             }
           },
           {
-            "id": "0d657f294db8def4",
+            "id": "82be7f09afb92c70",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
+              "type": "outline",
               "state": {
-                "file": "Servlet JSP/240311_수업정리.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "Servlet JSP/240311_수업정리.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
