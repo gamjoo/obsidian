@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "352a731c498158d9",
+            "id": "2f7a65c8b96dc8cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Servlet JSP/240308_수업정리.md",
+                "file": "Servlet JSP/240312_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "2f7a65c8b96dc8cc",
+            "id": "1204d46a940fccf8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Servlet JSP/240312_수업정리.md",
+                "file": "Servlet JSP/240311_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servlet JSP/240312_수업정리.md"
+                "file": "Servlet JSP/240311_수업정리.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servlet JSP/240312_수업정리.md",
+                "file": "Servlet JSP/240311_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,8 +154,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2f7a65c8b96dc8cc",
+  "active": "1204d46a940fccf8",
   "lastOpenFiles": [
+    "Servlet JSP/240312_수업정리.md",
     "image/Pasted image 20240312223033.png",
     "image/Pasted image 20240312222517.png",
     "Servlet JSP/240311_수업정리.md",
@@ -169,8 +170,6 @@
     "image/Pasted image 20240312142559.png",
     "image/Pasted image 20240312141916.png",
     "image/Pasted image 20240312141442.png",
-    "image/Pasted image 20240312140743.png",
-    "Servlet JSP/240312_수업정리.md",
     "세미프로젝트관련/세미프로젝트일정.md",
     "Servlet JSP/240308_수업정리.md",
     "문제상황/240311_자바버전.md",
