@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Servlet JSP/240312_수업정리.md",
+                "file": "Servlet JSP/240311_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servlet JSP/240312_수업정리.md"
+                "file": "Servlet JSP/240311_수업정리.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servlet JSP/240312_수업정리.md",
+                "file": "Servlet JSP/240311_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,6 +168,8 @@
   },
   "active": "792385336103353b",
   "lastOpenFiles": [
+    "Servlet JSP/240312_수업정리.md",
+    "image/Pasted image 20240312100717.png",
     "image/Pasted image 20240312100351.png",
     "image/Pasted image 20240312095023.png",
     "image/Pasted image 20240312094511.png",
@@ -175,7 +177,6 @@
     "image/Pasted image 20240312093035.png",
     "image/Pasted image 20240312091235.png",
     "Servlet JSP/240311_수업정리.md",
-    "Servlet JSP/240312_수업정리.md",
     "Servlet JSP/240308_수업정리.md",
     "문제상황/240312_옵시디언@git.md",
     "image/Pasted image 20240312084855.png",
@@ -190,8 +191,6 @@
     "문제상황/240228_이클립스github연동.md",
     "문제상황/240222_CSS문제.md",
     "문제상황/240215_이클립스 에디터.md",
-    "image/Pasted image 20240311175024.png",
-    "image/Pasted image 20240311174257.png",
     "명령어모음.md",
     "gitignore.txt",
     "gitignore.txt.crdownload",
