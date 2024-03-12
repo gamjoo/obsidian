@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "11d3cec3c02f16c0",
@@ -155,6 +156,7 @@
   },
   "active": "2f7a65c8b96dc8cc",
   "lastOpenFiles": [
+    "image/Pasted image 20240312223033.png",
     "image/Pasted image 20240312222517.png",
     "Servlet JSP/240311_수업정리.md",
     "conflict-files-obsidian-git.md",
@@ -168,7 +170,6 @@
     "image/Pasted image 20240312141916.png",
     "image/Pasted image 20240312141442.png",
     "image/Pasted image 20240312140743.png",
-    "image/Pasted image 20240312124320.png",
     "Servlet JSP/240312_수업정리.md",
     "세미프로젝트관련/세미프로젝트일정.md",
     "Servlet JSP/240308_수업정리.md",
