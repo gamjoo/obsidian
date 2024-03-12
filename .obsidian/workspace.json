@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "아이디어/240214_포트폴리오특강.md",
+                "file": "Servlet JSP/240312_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ajax",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,8 +101,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -122,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "아이디어/240214_포트폴리오특강.md"
+                "file": "Servlet JSP/240312_수업정리.md"
               }
             }
           },
@@ -143,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "아이디어/240214_포트폴리오특강.md",
+                "file": "Servlet JSP/240312_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,6 +168,17 @@
   },
   "active": "792385336103353b",
   "lastOpenFiles": [
+    "Servlet JSP/240229_수업정리_서블릿 시작&끝.md",
+    "jQuery/240226_수업정리_jQuery시작.md",
+    "jQuery/240227_수업정리.md",
+    "jQuery/240228_수업정리.md",
+    "JavaScript/240226_수업정리_JS끝.md",
+    "JavaScript/240220_수업정리.md",
+    "JavaScript/240221_수업정리.md",
+    "JavaScript/240222_수업정리.md",
+    "JavaScript/240223_수업정리.md",
+    "JavaScript/240219_수업정리_JS시작.md",
+    "아이디어/240214_포트폴리오특강.md",
     "Servlet JSP/240312_수업정리.md",
     "image/Pasted image 20240312230010.png",
     "image/Pasted image 20240312224944.png",
@@ -178,7 +188,6 @@
     "image/Pasted image 20240312153918.png",
     "image/Pasted image 20240312153153.png",
     "Servlet JSP/240311_수업정리.md",
-    "jQuery/240228_수업정리.md",
     "image/Pasted image 20240312144918.png",
     "image/Pasted image 20240312143825.png",
     "image/Pasted image 20240312142826.png",
@@ -195,20 +204,11 @@
     "문제상황/240228_이클립스github연동.md",
     "문제상황/240222_CSS문제.md",
     "문제상황/240215_이클립스 에디터.md",
-    "명령어모음.md",
     "gitignore.txt",
     "gitignore.txt.crdownload",
-    "세미프로젝트관련/세미프로젝트일정.md",
-    "세미프로젝트관련/3월 일정.md",
-    "세미프로젝트관련/240305.md",
-    "세미프로젝트관련/240301.md",
     "세미프로젝트관련",
-    "github_imagesync_test/sync_image.md",
     "github_imagesync_test",
     "테스트폴더",
-    "Servlet JSP/테스트폴더.md",
-    "Servlet JSP/240307_수업정리.md",
-    "jQuery/240227_수업정리.md",
     "image/mail-1.4.7 1.jar",
     "image/activation-1.1 1.jar",
     "image/mail-1.4.7.jar",
