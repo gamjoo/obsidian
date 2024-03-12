@@ -5,6 +5,14 @@
       "path": "Servlet JSP/240312_수업정리.md"
     },
     {
+      "basename": "240205_수업정리_JDBC시작",
+      "path": "Java/JDBC/240205_수업정리_JDBC시작.md"
+    },
+    {
+      "basename": "240205_과제",
+      "path": "Java/JDBC/240205_과제.md"
+    },
+    {
       "basename": "240308_수업정리",
       "path": "Servlet JSP/240308_수업정리.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "240125_calendar과제_내코드",
       "path": "Java/240125_calendar과제_내코드.md"
-    },
-    {
-      "basename": "240221_수업정리",
-      "path": "JavaScript/240221_수업정리.md"
-    },
-    {
-      "basename": "240215_과제",
-      "path": "CSS/240215_과제.md"
     }
   ],
   "omittedPaths": [],
