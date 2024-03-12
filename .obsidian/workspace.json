@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Servlet JSP/240311_수업정리.md",
+                "file": "Servlet JSP/240312_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servlet JSP/240311_수업정리.md"
+                "file": "Servlet JSP/240312_수업정리.md"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servlet JSP/240311_수업정리.md",
+                "file": "Servlet JSP/240312_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,22 +155,24 @@
   },
   "active": "2f7a65c8b96dc8cc",
   "lastOpenFiles": [
-    "세미프로젝트관련/세미프로젝트일정.md",
+    "Servlet JSP/240311_수업정리.md",
     "conflict-files-obsidian-git.md",
+    "문제상황/240312_옵시디언@git.md",
+    "image/Pasted image 20240312153918.png",
+    "image/Pasted image 20240312153153.png",
+    "image/Pasted image 20240312144918.png",
+    "image/Pasted image 20240312143825.png",
+    "image/Pasted image 20240312142826.png",
+    "image/Pasted image 20240312142559.png",
+    "image/Pasted image 20240312141916.png",
+    "image/Pasted image 20240312141442.png",
+    "image/Pasted image 20240312140743.png",
+    "image/Pasted image 20240312124320.png",
+    "Servlet JSP/240312_수업정리.md",
+    "세미프로젝트관련/세미프로젝트일정.md",
     "Servlet JSP/240308_수업정리.md",
     "문제상황/240311_자바버전.md",
     "문제상황/240311_옵시디언충돌.md",
-    "image/Pasted image 20240311180627.png",
-    "image/Pasted image 20240311175024.png",
-    "image/Pasted image 20240311174257.png",
-    "image/Pasted image 20240311173723.png",
-    "image/Pasted image 20240311171526.png",
-    "image/Pasted image 20240311170345.png",
-    "image/Pasted image 20240311170317.png",
-    "image/Pasted image 20240311164258.png",
-    "image/Pasted image 20240311164207.png",
-    "image/Pasted image 20240311163918.png",
-    "Servlet JSP/240311_수업정리.md",
     "jQuery/240226_수업정리_jQuery시작.md",
     "Servlet JSP/240307_수업정리.md",
     "Servlet JSP/240306_수업정리.md",
@@ -191,8 +193,6 @@
     "Java/240205_수업정리.md",
     "Servlet JSP/240305_수업정리.md",
     "JavaScript/240220_수업정리.md",
-    "JavaScript/240219_수업정리_JS시작.md",
-    "Oracle/240117_과제_solution.md",
     "image/mail-1.4.7 1.jar",
     "image/activation-1.1 1.jar",
     "image/mail-1.4.7.jar",
