@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문제상황/240312_옵시디언@git.md",
+                "file": "Servlet JSP/240311_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "문제상황/240312_옵시디언@git.md"
+                "file": "Servlet JSP/240311_수업정리.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "문제상황/240312_옵시디언@git.md",
+                "file": "Servlet JSP/240311_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,10 +166,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "792385336103353b",
+  "active": "bd8903911fb5db5b",
   "lastOpenFiles": [
-    "Servlet JSP/240311_수업정리.md",
     "문제상황/240312_옵시디언@git.md",
+    "Servlet JSP/240311_수업정리.md",
     "image/Pasted image 20240312084855.png",
     "conflict-files-obsidian-git.md",
     "image/Pasted image 20240312082600.png",
