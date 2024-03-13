@@ -5,80 +5,28 @@
       "path": "Servlet JSP/240312 ~ 240313 수업정리.md"
     },
     {
-      "basename": "240227_수업정리",
-      "path": "jQuery/240227_수업정리.md"
-    },
-    {
-      "basename": "240228_수업정리",
-      "path": "jQuery/240228_수업정리.md"
-    },
-    {
-      "basename": "240304_수업정리",
-      "path": "Servlet JSP/240304_수업정리.md"
-    },
-    {
-      "basename": "240222_수업정리",
-      "path": "JavaScript/240222_수업정리.md"
-    },
-    {
-      "basename": "240226_수업정리_jQuery시작",
-      "path": "jQuery/240226_수업정리_jQuery시작.md"
-    },
-    {
       "basename": "240311_수업정리",
       "path": "Servlet JSP/240311_수업정리.md"
     },
     {
-      "basename": "240229_수업정리_서블릿 시작&끝",
-      "path": "Servlet JSP/240229_수업정리_서블릿 시작&끝.md"
-    },
-    {
-      "basename": "240226_수업정리_JS끝",
-      "path": "JavaScript/240226_수업정리_JS끝.md"
-    },
-    {
-      "basename": "240220_수업정리",
-      "path": "JavaScript/240220_수업정리.md"
-    },
-    {
-      "basename": "240221_수업정리",
-      "path": "JavaScript/240221_수업정리.md"
-    },
-    {
-      "basename": "240223_수업정리",
-      "path": "JavaScript/240223_수업정리.md"
-    },
-    {
-      "basename": "240219_수업정리_JS시작",
-      "path": "JavaScript/240219_수업정리_JS시작.md"
-    },
-    {
-      "basename": "240214_포트폴리오특강",
-      "path": "아이디어/240214_포트폴리오특강.md"
-    },
-    {
-      "basename": "240205_수업정리_JDBC시작",
-      "path": "Java/JDBC/240205_수업정리_JDBC시작.md"
-    },
-    {
-      "basename": "240205_과제",
-      "path": "Java/JDBC/240205_과제.md"
+      "basename": "세미프로젝트일정",
+      "path": "세미프로젝트관련/세미프로젝트일정.md"
     },
     {
       "basename": "240308_수업정리",
       "path": "Servlet JSP/240308_수업정리.md"
     },
     {
-      "basename": "240312_옵시디언@git",
-      "path": "문제상황/240312_옵시디언@git.md"
+      "basename": "240226_수업정리_jQuery시작",
+      "path": "jQuery/240226_수업정리_jQuery시작.md"
     },
     {
-      "basename": "240311_자바버전",
-      "path": "문제상황/240311_자바버전.md"
+      "basename": "240307_수업정리",
+      "path": "Servlet JSP/240307_수업정리.md"
     },
     {
-      "basename": "240311_옵시디언충돌",
-      "path": "문제상황/240311_옵시디언충돌.md"
+      "basename": "240306_수업정리",
+      "path": "Servlet JSP/240306_수업정리.md"
     },
     {
       "basename": "240309_github잔디",
@@ -89,36 +37,20 @@
       "path": "문제상황/240309_github 연동확인.md"
     },
     {
-      "basename": "240229_이클립스git",
-      "path": "문제상황/240229_이클립스git.md"
-    },
-    {
-      "basename": "240228_이클립스github연동",
-      "path": "문제상황/240228_이클립스github연동.md"
-    },
-    {
-      "basename": "240222_CSS문제",
-      "path": "문제상황/240222_CSS문제.md"
-    },
-    {
-      "basename": "240215_이클립스 에디터",
-      "path": "문제상황/240215_이클립스 에디터.md"
-    },
-    {
-      "basename": "명령어모음",
-      "path": "명령어모음.md"
-    },
-    {
-      "basename": "240307_수업정리",
-      "path": "Servlet JSP/240307_수업정리.md"
-    },
-    {
       "basename": "240207_수업정리",
       "path": "Java/JDBC/240207_수업정리.md"
     },
     {
+      "basename": "240227_수업정리",
+      "path": "jQuery/240227_수업정리.md"
+    },
+    {
       "basename": "240215_수업정리_CSS시작",
       "path": "CSS/240215_수업정리_CSS시작.md"
+    },
+    {
+      "basename": "240304_수업정리",
+      "path": "Servlet JSP/240304_수업정리.md"
     },
     {
       "basename": "240215_수업정리_HTML끝",
@@ -139,10 +71,6 @@
     {
       "basename": "240201_수업정리",
       "path": "Java/240201_수업정리.md"
-    },
-    {
-      "basename": "240306_수업정리",
-      "path": "Servlet JSP/240306_수업정리.md"
     },
     {
       "basename": "240202_수업정리",
@@ -173,6 +101,14 @@
       "path": "Servlet JSP/240305_수업정리.md"
     },
     {
+      "basename": "240220_수업정리",
+      "path": "JavaScript/240220_수업정리.md"
+    },
+    {
+      "basename": "240219_수업정리_JS시작",
+      "path": "JavaScript/240219_수업정리_JS시작.md"
+    },
+    {
       "basename": "240117_과제_solution",
       "path": "Oracle/240117_과제_solution.md"
     },
@@ -195,6 +131,74 @@
     {
       "basename": "240124_오라클 마지막_과제_게시판쿼리",
       "path": "Oracle/240124_오라클 마지막_과제_게시판쿼리.md"
+    },
+    {
+      "basename": "240229_수업정리_서블릿 시작&끝",
+      "path": "Servlet JSP/240229_수업정리_서블릿 시작&끝.md"
+    },
+    {
+      "basename": "처음 해보는 Servlet&JSP 웹 프로그래밍(오정임 지음) 240302~",
+      "path": "읽은 책/처음 해보는 Servlet&JSP 웹 프로그래밍(오정임 지음) 240302~.md"
+    },
+    {
+      "basename": "240228_수업정리",
+      "path": "jQuery/240228_수업정리.md"
+    },
+    {
+      "basename": "240223_수업정리",
+      "path": "JavaScript/240223_수업정리.md"
+    },
+    {
+      "basename": "3월 일정",
+      "path": "세미프로젝트관련/3월 일정.md"
+    },
+    {
+      "basename": "240222_수업정리",
+      "path": "JavaScript/240222_수업정리.md"
+    },
+    {
+      "basename": "240226_수업정리_JS끝",
+      "path": "JavaScript/240226_수업정리_JS끝.md"
+    },
+    {
+      "basename": "240305",
+      "path": "세미프로젝트관련/240305.md"
+    },
+    {
+      "basename": "240301",
+      "path": "세미프로젝트관련/240301.md"
+    },
+    {
+      "basename": "240216_수업정리",
+      "path": "CSS/240216_수업정리.md"
+    },
+    {
+      "basename": "명령어모음",
+      "path": "명령어모음.md"
+    },
+    {
+      "basename": "240125_calendar과제_내코드",
+      "path": "Java/240125_calendar과제_내코드.md"
+    },
+    {
+      "basename": "240221_수업정리",
+      "path": "JavaScript/240221_수업정리.md"
+    },
+    {
+      "basename": "240215_과제",
+      "path": "CSS/240215_과제.md"
+    },
+    {
+      "basename": "240205_수업정리_JDBC시작",
+      "path": "Java/JDBC/240205_수업정리_JDBC시작.md"
+    },
+    {
+      "basename": "자바정석basic_p213연습문제16",
+      "path": "공부재료/자바정석basic_p213연습문제16.md"
+    },
+    {
+      "basename": "자바정석basic_p213연습문제15",
+      "path": "공부재료/자바정석basic_p213연습문제15.md"
     }
   ],
   "omittedPaths": [],
