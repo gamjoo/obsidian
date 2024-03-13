@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "240312_수업정리",
-      "path": "Servlet JSP/240312_수업정리.md"
+      "basename": "240312 ~ 240313 수업정리",
+      "path": "Servlet JSP/240312 ~ 240313 수업정리.md"
     },
     {
       "basename": "240229_수업정리_서블릿 시작&끝",
@@ -195,10 +195,6 @@
     {
       "basename": "240124_오라클 마지막_과제_게시판쿼리",
       "path": "Oracle/240124_오라클 마지막_과제_게시판쿼리.md"
-    },
-    {
-      "basename": "처음 해보는 Servlet&JSP 웹 프로그래밍(오정임 지음) 240302~",
-      "path": "읽은 책/처음 해보는 Servlet&JSP 웹 프로그래밍(오정임 지음) 240302~.md"
     }
   ],
   "omittedPaths": [],

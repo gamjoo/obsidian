@@ -39,7 +39,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Servlet JSP/240312_수업정리.md",
+                "file": "Servlet JSP/240229_수업정리_서블릿 시작&끝.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6cee077a6781f79f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Servlet JSP/240312 ~ 240313 수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servlet JSP/240312_수업정리.md"
+                "file": "Servlet JSP/240312 ~ 240313 수업정리.md"
               }
             }
           },
@@ -142,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servlet JSP/240312_수업정리.md",
+                "file": "Servlet JSP/240312 ~ 240313 수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,9 +179,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "792385336103353b",
+  "active": "6cee077a6781f79f",
   "lastOpenFiles": [
+    "image/Pasted image 20240313090434.png",
     "Servlet JSP/240229_수업정리_서블릿 시작&끝.md",
+    "Servlet JSP/240312_수업정리.md",
+    "Servlet JSP/240312 ~ 240313 수업정리.md",
     "jQuery/240226_수업정리_jQuery시작.md",
     "jQuery/240227_수업정리.md",
     "jQuery/240228_수업정리.md",
@@ -179,7 +195,6 @@
     "JavaScript/240223_수업정리.md",
     "JavaScript/240219_수업정리_JS시작.md",
     "아이디어/240214_포트폴리오특강.md",
-    "Servlet JSP/240312_수업정리.md",
     "image/Pasted image 20240312230010.png",
     "image/Pasted image 20240312224944.png",
     "image/Pasted image 20240312224918.png",
@@ -202,8 +217,6 @@
     "문제상황/240309_github 연동확인.md",
     "문제상황/240229_이클립스git.md",
     "문제상황/240228_이클립스github연동.md",
-    "문제상황/240222_CSS문제.md",
-    "문제상황/240215_이클립스 에디터.md",
     "gitignore.txt",
     "gitignore.txt.crdownload",
     "세미프로젝트관련",
