@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Servlet JSP/240311_수업정리.md",
+                "file": "Ajax/240314_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servlet JSP/240311_수업정리.md"
+                "file": "Ajax/240314_수업정리.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servlet JSP/240311_수업정리.md",
+                "file": "Ajax/240314_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,6 +181,9 @@
   },
   "active": "6cee077a6781f79f",
   "lastOpenFiles": [
+    "image/Pasted image 20240314112623.png",
+    "Servlet JSP/240312 ~ 240313 수업정리.md",
+    "Servlet JSP/240311_수업정리.md",
     "Servlet JSP/240308_수업정리.md",
     "Servlet JSP/240307_수업정리.md",
     "Ajax/240314_수업정리.md",
@@ -194,8 +197,6 @@
     "image/Pasted image 20240314103655.png",
     "image/Pasted image 20240314103402.png",
     "image/Pasted image 20240314103327.png",
-    "Servlet JSP/240312 ~ 240313 수업정리.md",
-    "Servlet JSP/240311_수업정리.md",
     "Servlet JSP/240229_수업정리_서블릿 시작&끝.md",
     "Ajax",
     "아이디어/240214_포트폴리오특강.md",
@@ -217,7 +218,6 @@
     "문제상황/240311_자바버전.md",
     "문제상황/240311_옵시디언충돌.md",
     "문제상황/240309_github잔디.md",
-    "문제상황/240309_github 연동확인.md",
     "gitignore.txt",
     "gitignore.txt.crdownload",
     "세미프로젝트관련",
