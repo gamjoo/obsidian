@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ajax/240314_수업정리.md",
+                "file": "Servlet JSP/240304_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pool",
+                "query": "important",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ajax/240314_수업정리.md"
+                "file": "Servlet JSP/240304_수업정리.md"
               }
             }
           },
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ajax/240314_수업정리.md",
+                "file": "Servlet JSP/240304_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,49 +141,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "floating": {
-    "id": "3f461772259981a1",
-    "type": "floating",
-    "children": [
-      {
-        "id": "d7d53797de7500f7",
-        "type": "window",
-        "children": [
-          {
-            "id": "c7a26a40ede86bbc",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c9d11f06a034623c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Servlet JSP/240308_수업정리.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 154,
-        "y": 7,
-        "width": 600,
-        "height": 970,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "2f7a65c8b96dc8cc",
   "lastOpenFiles": [
+    "Ajax/240314_수업정리.md",
     "Servlet JSP/240308_수업정리.md",
     "문제상황/240314_JDBC드라이버.md",
-    "Ajax/240314_수업정리.md",
     "image/Pasted image 20240314230604.png",
     "아이디어/240214_포트폴리오특강.md",
     "Servlet JSP/240312 ~ 240313 수업정리.md",
