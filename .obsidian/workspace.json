@@ -39,19 +39,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Servlet JSP/240229_수업정리_서블릿 시작&끝.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6cee077a6781f79f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Ajax/240314_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
@@ -60,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -89,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "eq:",
+                "query": "find",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,8 +166,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6cee077a6781f79f",
+  "active": "792385336103353b",
   "lastOpenFiles": [
+    "image/Pasted image 20240314150725.png",
+    "jQuery/240227_수업정리.md",
+    "Ajax/240314_수업정리.md",
+    "Servlet JSP/240312 ~ 240313 수업정리.md",
+    "JavaScript/240221_수업정리.md",
+    "JavaScript/240222_수업정리.md",
+    "JavaScript/240223_수업정리.md",
+    "JavaScript/240226_수업정리_JS끝.md",
+    "jQuery/240226_수업정리_jQuery시작.md",
+    "jQuery/240228_수업정리.md",
     "image/Pasted image 20240314143711.png",
     "image/Pasted image 20240314143229.png",
     "image/Pasted image 20240314143209.png",
@@ -191,18 +188,8 @@
     "image/Pasted image 20240314140841.png",
     "image/Pasted image 20240314124654.png",
     "image/Pasted image 20240314124225.png",
-    "image/Pasted image 20240314123550.png",
-    "Servlet JSP/240312 ~ 240313 수업정리.md",
-    "jQuery/240226_수업정리_jQuery시작.md",
-    "jQuery/240227_수업정리.md",
-    "jQuery/240228_수업정리.md",
     "JavaScript/240219_수업정리_JS시작.md",
     "JavaScript/240220_수업정리.md",
-    "JavaScript/240221_수업정리.md",
-    "JavaScript/240222_수업정리.md",
-    "JavaScript/240223_수업정리.md",
-    "JavaScript/240226_수업정리_JS끝.md",
-    "Ajax/240314_수업정리.md",
     "Servlet JSP/240311_수업정리.md",
     "Servlet JSP/240308_수업정리.md",
     "Servlet JSP/240307_수업정리.md",
