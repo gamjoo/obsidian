@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c9b8d2557e38006e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servlet JSP/240312 ~ 240313 수업정리.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -115,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servlet JSP/240312 ~ 240313 수업정리.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +154,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2f7a65c8b96dc8cc",
+  "active": "c9b8d2557e38006e",
   "lastOpenFiles": [
-    "image/Pasted image 20240313232611.png",
+    "Servlet JSP/240312 ~ 240313 수업정리.md",
+    "conflict-files-obsidian-git.md",
+    "image/Pasted image 20240314173548.png",
+    "image/Pasted image 20240314172533.png",
+    "image/Pasted image 20240314172508.png",
+    "image/Pasted image 20240314171900.png",
+    "image/Pasted image 20240314171455.png",
+    "image/Pasted image 20240314171031.png",
+    "image/Pasted image 20240314170831.png",
+    "image/Pasted image 20240314170552.png",
+    "image/Pasted image 20240314170353.png",
+    "image/Pasted image 20240314164900.png",
+    "Ajax/240314_수업정리.md",
+    "Ajax",
     "JavaScript/240222_수업정리.md",
     "JavaScript/240223_수업정리.md",
     "JavaScript/240226_수업정리_JS끝.md",
@@ -156,20 +183,8 @@
     "CSS/240215_과제.md",
     "CSS/240216_수업정리.md",
     "CSS/240219_수업정리_끝.md",
-    "Servlet JSP/240312 ~ 240313 수업정리.md",
     "Servlet JSP/240311_수업정리.md",
-    "image/Pasted image 20240313120042.png",
-    "image/Pasted image 20240313115205.png",
-    "image/Pasted image 20240313112803.png",
-    "image/Pasted image 20240313111857.png",
-    "image/Pasted image 20240313110402.png",
-    "image/Pasted image 20240313104411.png",
-    "image/Pasted image 20240313103107.png",
-    "image/Pasted image 20240313102735.png",
-    "image/Pasted image 20240313101707.png",
-    "image/Pasted image 20240313101609.png",
     "Servlet JSP/240312_수업정리.md",
-    "conflict-files-obsidian-git.md",
     "문제상황/240312_옵시디언@git.md",
     "세미프로젝트관련/세미프로젝트일정.md",
     "Servlet JSP/240308_수업정리.md",
@@ -177,7 +192,6 @@
     "문제상황/240311_옵시디언충돌.md",
     "Servlet JSP/240307_수업정리.md",
     "Servlet JSP/240306_수업정리.md",
-    "문제상황/240309_github잔디.md",
     "github_imagesync_test",
     "테스트폴더",
     "image/mail-1.4.7 1.jar",
@@ -186,7 +200,6 @@
     "image/activation-1.1.jar",
     "image/240307_0. 배포하는 법.txt",
     "image/240307_cos.jar 파일 다운받기.txt",
-    "image/240306_layout(문제).docx",
-    "image/240305_과제_출력결과.docx"
+    "image/240306_layout(문제).docx"
   ]
 }
