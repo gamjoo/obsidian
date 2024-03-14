@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "240308_수업정리",
+      "path": "Servlet JSP/240308_수업정리.md"
+    },
+    {
+      "basename": "240314_JDBC드라이버",
+      "path": "문제상황/240314_JDBC드라이버.md"
+    },
+    {
       "basename": "240314_수업정리",
       "path": "Ajax/240314_수업정리.md"
     },
@@ -71,10 +79,6 @@
     {
       "basename": "세미프로젝트일정",
       "path": "세미프로젝트관련/세미프로젝트일정.md"
-    },
-    {
-      "basename": "240308_수업정리",
-      "path": "Servlet JSP/240308_수업정리.md"
     },
     {
       "basename": "240307_수업정리",
@@ -195,10 +199,6 @@
     {
       "basename": "명령어모음",
       "path": "명령어모음.md"
-    },
-    {
-      "basename": "240125_calendar과제_내코드",
-      "path": "Java/240125_calendar과제_내코드.md"
     }
   ],
   "omittedPaths": [],
