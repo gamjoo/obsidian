@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "세미프로젝트관련/세미프로젝트일정.md",
+                "file": "Ajax/240315_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "세미프로젝트관련/세미프로젝트일정.md"
+                "file": "Ajax/240315_수업정리.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "세미프로젝트관련/세미프로젝트일정.md",
+                "file": "Ajax/240315_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,13 +168,14 @@
   },
   "active": "e0fb1baffc8820e7",
   "lastOpenFiles": [
+    "image/Pasted image 20240315100415.png",
+    "세미프로젝트관련/세미프로젝트일정.md",
     "세미프로젝트관련/240305.md",
     "세미프로젝트관련/3월 일정.md",
     "Ajax/240315_수업정리.md",
     "image/Pasted image 20240315093813.png",
     "image/Pasted image 20240315093153.png",
     "Servlet JSP/240312 ~ 240313 수업정리.md",
-    "세미프로젝트관련/세미프로젝트일정.md",
     "image/Pasted image 20240315092449.png",
     "image/Pasted image 20240315091912.png",
     "image/Pasted image 20240315090730.png",
@@ -204,7 +205,6 @@
     "아이디어/240214_포트폴리오특강.md",
     "Servlet JSP/240304_수업정리.md",
     "Servlet JSP/240312_수업정리.md",
-    "Java/JDBC/240205_수업정리_JDBC시작.md",
     "gitignore.txt",
     "gitignore.txt.crdownload",
     "세미프로젝트관련",
