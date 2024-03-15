@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "세미프로젝트일정",
+      "path": "세미프로젝트관련/세미프로젝트일정.md"
+    },
+    {
+      "basename": "240305",
+      "path": "세미프로젝트관련/240305.md"
+    },
+    {
+      "basename": "3월 일정",
+      "path": "세미프로젝트관련/3월 일정.md"
+    },
+    {
       "basename": "240315_수업정리",
       "path": "Ajax/240315_수업정리.md"
     },
     {
       "basename": "240312 ~ 240313 수업정리",
       "path": "Servlet JSP/240312 ~ 240313 수업정리.md"
-    },
-    {
-      "basename": "세미프로젝트일정",
-      "path": "세미프로젝트관련/세미프로젝트일정.md"
     },
     {
       "basename": "240314_수업정리",
@@ -191,14 +199,6 @@
     {
       "basename": "240118_과제",
       "path": "Oracle/240118_과제.md"
-    },
-    {
-      "basename": "240116_과제",
-      "path": "Oracle/240116_과제.md"
-    },
-    {
-      "basename": "240116_수업정리",
-      "path": "Oracle/240116_수업정리.md"
     }
   ],
   "omittedPaths": [],
