@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Servlet JSP/240304_수업정리.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "482ecf0068a6675b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Ajax/240315_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "important",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -120,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Ajax/240315_수업정리.md"
               }
             }
           },
@@ -130,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Ajax/240315_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 203.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,10 +140,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "482ecf0068a6675b",
+  "active": "2f7a65c8b96dc8cc",
   "lastOpenFiles": [
-    "Servlet JSP/240304_수업정리.md",
     "conflict-files-obsidian-git.md",
+    "Servlet JSP/240304_수업정리.md",
     "image/Pasted image 20240315174538.png",
     "image/Pasted image 20240315174205.png",
     "image/Pasted image 20240315172400.png",
