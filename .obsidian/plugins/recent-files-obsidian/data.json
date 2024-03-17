@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "240315_수업정리",
-      "path": "Ajax/240315_수업정리.md"
+      "basename": "240213_수업정리(240208_과제_solution포함)_JDBC끝",
+      "path": "Java/JDBC/240213_수업정리(240208_과제_solution포함)_JDBC끝.md"
     },
     {
       "basename": "240304_수업정리",
       "path": "Servlet JSP/240304_수업정리.md"
+    },
+    {
+      "basename": "240315_수업정리",
+      "path": "Ajax/240315_수업정리.md"
     },
     {
       "basename": "240314_수업정리",
@@ -195,10 +199,6 @@
     {
       "basename": "240305",
       "path": "세미프로젝트관련/240305.md"
-    },
-    {
-      "basename": "240301",
-      "path": "세미프로젝트관련/240301.md"
     }
   ],
   "omittedPaths": [],

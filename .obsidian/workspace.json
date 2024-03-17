@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ajax/240315_수업정리.md",
+                "file": "Java/JDBC/240213_수업정리(240208_과제_solution포함)_JDBC끝.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "페이징",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ajax/240315_수업정리.md"
+                "file": "Java/JDBC/240213_수업정리(240208_과제_solution포함)_JDBC끝.md"
               }
             }
           },
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ajax/240315_수업정리.md",
+                "file": "Java/JDBC/240213_수업정리(240208_과제_solution포함)_JDBC끝.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,8 +143,10 @@
   },
   "active": "2f7a65c8b96dc8cc",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Servlet JSP/240304_수업정리.md",
+    "Java/JDBC/240213_수업정리(240208_과제_solution포함)_JDBC끝.md",
+    "Ajax/240315_수업정리.md",
+    "conflict-files-obsidian-git.md",
     "image/Pasted image 20240315174538.png",
     "image/Pasted image 20240315174205.png",
     "image/Pasted image 20240315172400.png",
@@ -154,7 +157,6 @@
     "image/Pasted image 20240315164123.png",
     "image/Pasted image 20240315162159.png",
     "image/Pasted image 20240315161438.png",
-    "Ajax/240315_수업정리.md",
     "Ajax/240314_수업정리.md",
     "Servlet JSP/240308_수업정리.md",
     "문제상황/240314_JDBC드라이버.md",
@@ -178,7 +180,6 @@
     "Servlet JSP/240312_수업정리.md",
     "문제상황/240312_옵시디언@git.md",
     "세미프로젝트관련/세미프로젝트일정.md",
-    "문제상황/240311_자바버전.md",
     "github_imagesync_test",
     "테스트폴더",
     "image/mail-1.4.7 1.jar",
