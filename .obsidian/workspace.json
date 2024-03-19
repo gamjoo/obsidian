@@ -26,11 +26,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ajax/240318~240319_수업정리.md",
+                "file": "Java/240205_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
+            }
+          },
+          {
+            "id": "3818a2939405406c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -76,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "세미프로젝",
+                "query": "드라이버",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +109,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -121,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ajax/240318~240319_수업정리.md"
+                "file": "Java/240205_수업정리.md"
               }
             }
           },
@@ -142,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ajax/240318~240319_수업정리.md",
+                "file": "Java/240205_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,6 +177,8 @@
   },
   "active": "e0fb1baffc8820e7",
   "lastOpenFiles": [
+    "Servlet JSP/240229_수업정리_서블릿 시작&끝.md",
+    "Ajax/240318~240319_수업정리.md",
     "image/Pasted image 20240319154631.png",
     "image/Pasted image 20240319153337.png",
     "image/Pasted image 20240319152757.png",
@@ -178,9 +189,7 @@
     "image/Pasted image 20240319150125.png",
     "image/Pasted image 20240319144215.png",
     "image/Pasted image 20240319143659.png",
-    "image/Pasted image 20240319142743.png",
     "세미프로젝트관련/세미프로젝트일정.md",
-    "Ajax/240318~240319_수업정리.md",
     "Ajax/240315_수업정리.md",
     "Ajax/240316_수업정리.md",
     "Java/240124_과제_solution.md",
