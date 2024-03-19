@@ -34,19 +34,6 @@
             }
           },
           {
-            "id": "9a51fb0e0f46ca98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3818a2939405406c",
             "type": "leaf",
             "state": {
@@ -68,7 +55,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,7 +151,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +174,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9a51fb0e0f46ca98",
+  "active": "7d0bf019f34e48ac",
   "lastOpenFiles": [
     "Java/240205_수업정리.md",
     "conflict-files-obsidian-git.md",
