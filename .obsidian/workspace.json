@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ajax/240315_수업정리.md",
+                "file": "Ajax/240318~240320_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ajax/240315_수업정리.md"
+                "file": "Ajax/240318~240320_수업정리.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ajax/240315_수업정리.md",
+                "file": "Ajax/240318~240320_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,6 +142,7 @@
   },
   "active": "e859eaaec77ed843",
   "lastOpenFiles": [
+    "Ajax/240315_수업정리.md",
     "Ajax/240314_수업정리.md",
     "Ajax/240318~240320_수업정리.md",
     "conflict-files-obsidian-git.md",
@@ -155,7 +156,6 @@
     "image/Pasted image 20240320154710.png",
     "image/Pasted image 20240320154040.png",
     "image/Pasted image 20240320152551.png",
-    "Ajax/240315_수업정리.md",
     "Ajax/240318~240319_수업정리.md",
     "Ajax/240318_수업정리.md",
     "아이디어/240214_포트폴리오특강.md",
