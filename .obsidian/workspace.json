@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ajax/240318~240319_수업정리.md",
+                "file": "Ajax/240318~240320_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ajax/240318~240319_수업정리.md"
+                "file": "Ajax/240318~240320_수업정리.md"
               }
             }
           },
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ajax/240318~240319_수업정리.md",
+                "file": "Ajax/240318~240320_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,13 +174,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e0fb1baffc8820e7",
+  "active": "bd8903911fb5db5b",
   "lastOpenFiles": [
+    "image/Pasted image 20240320090846.png",
     "Ajax/240315_수업정리.md",
     "Java/240205_수업정리.md",
     "conflict-files-obsidian-git.md",
     "Servlet JSP/240229_수업정리_서블릿 시작&끝.md",
-    "Ajax/240318~240319_수업정리.md",
+    "Ajax/240318~240320_수업정리.md",
     "image/Pasted image 20240319154631.png",
     "image/Pasted image 20240319153337.png",
     "image/Pasted image 20240319152757.png",
@@ -211,7 +212,6 @@
     "jQuery/240226_수업정리_jQuery시작.md",
     "jQuery/240228_수업정리.md",
     "JavaScript/240219_수업정리_JS시작.md",
-    "JavaScript/240220_수업정리.md",
     "Ajax",
     "gitignore.txt",
     "gitignore.txt.crdownload",
