@@ -37,9 +37,12 @@
             "id": "bafca38cad578ba3",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.11"
+                "file": "Oracle/240116_수업정리.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -94,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "콤보",
+                "query": "cascade",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +122,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -139,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ajax/240318~240320_수업정리.md"
+                "file": "Oracle/240116_수업정리.md"
               }
             }
           },
@@ -160,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ajax/240318~240320_수업정리.md",
+                "file": "Oracle/240116_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,6 +190,7 @@
   },
   "active": "bafca38cad578ba3",
   "lastOpenFiles": [
+    "Ajax/240318~240320_수업정리.md",
     "image/Pasted image 20240320172652.png",
     "image/Pasted image 20240320171350.png",
     "image/Pasted image 20240320170848.png",
@@ -196,9 +201,7 @@
     "image/Pasted image 20240320154710.png",
     "image/Pasted image 20240320154040.png",
     "image/Pasted image 20240320152551.png",
-    "image/Pasted image 20240320152521.png",
     "Oracle/240118_수업기록.md",
-    "Ajax/240318~240320_수업정리.md",
     "Ajax/240315_수업정리.md",
     "Java/240205_수업정리.md",
     "conflict-files-obsidian-git.md",
