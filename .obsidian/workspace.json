@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/240205_수업정리.md",
+                "file": "Ajax/240318~240319_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "드라이버",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,8 +109,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Ajax/240318~240319_수업정리.md"
               }
             }
           },
@@ -151,6 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ajax/240318~240319_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,8 +174,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7d0bf019f34e48ac",
+  "active": "e0fb1baffc8820e7",
   "lastOpenFiles": [
+    "Ajax/240315_수업정리.md",
     "Java/240205_수업정리.md",
     "conflict-files-obsidian-git.md",
     "Servlet JSP/240229_수업정리_서블릿 시작&끝.md",
@@ -191,7 +192,6 @@
     "image/Pasted image 20240319144215.png",
     "image/Pasted image 20240319143659.png",
     "세미프로젝트관련/세미프로젝트일정.md",
-    "Ajax/240315_수업정리.md",
     "Ajax/240316_수업정리.md",
     "Java/240124_과제_solution.md",
     "Java/240124_과제.md",
