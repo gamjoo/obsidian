@@ -6,6 +6,7 @@
       {
         "id": "48f51b6b66da03f1",
         "type": "tabs",
+        "dimension": 71.26436781609196,
         "children": [
           {
             "id": "1d2c918ffe6b3882",
@@ -44,7 +45,8 @@
                 "backlinks": false,
                 "source": false
               }
-            }
+            },
+            "group": "6a12eb0b00960598"
           },
           {
             "id": "3818a2939405406c",
@@ -69,6 +71,24 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "dcc71cefece0e178",
+        "type": "tabs",
+        "dimension": 28.735632183908045,
+        "children": [
+          {
+            "id": "01fec866d6eb0ea9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ajax/240321_수업정리.md"
+              }
+            },
+            "group": "6a12eb0b00960598"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,7 +193,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
