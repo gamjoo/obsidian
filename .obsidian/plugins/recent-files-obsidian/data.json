@@ -5,6 +5,26 @@
       "path": "Ajax/240321_수업정리.md"
     },
     {
+      "basename": "240311_수업정리",
+      "path": "Servlet JSP/240311_수업정리.md"
+    },
+    {
+      "basename": "240318~240320_수업정리",
+      "path": "Ajax/240318~240320_수업정리.md"
+    },
+    {
+      "basename": "240305_수업정리",
+      "path": "Servlet JSP/240305_수업정리.md"
+    },
+    {
+      "basename": "240315_수업정리",
+      "path": "Ajax/240315_수업정리.md"
+    },
+    {
+      "basename": "240314_수업정리",
+      "path": "Ajax/240314_수업정리.md"
+    },
+    {
       "basename": "240208_수업정리",
       "path": "Java/JDBC/240208_수업정리.md"
     },
@@ -25,20 +45,12 @@
       "path": "Oracle/240119_수업정리.md"
     },
     {
-      "basename": "240318~240320_수업정리",
-      "path": "Ajax/240318~240320_수업정리.md"
-    },
-    {
       "basename": "240116_수업정리",
       "path": "Oracle/240116_수업정리.md"
     },
     {
       "basename": "240118_수업기록",
       "path": "Oracle/240118_수업기록.md"
-    },
-    {
-      "basename": "240315_수업정리",
-      "path": "Ajax/240315_수업정리.md"
     },
     {
       "basename": "240205_수업정리",
@@ -81,10 +93,6 @@
       "path": "Servlet JSP/240312 ~ 240313 수업정리.md"
     },
     {
-      "basename": "240314_수업정리",
-      "path": "Ajax/240314_수업정리.md"
-    },
-    {
       "basename": "240312_옵시디언@git",
       "path": "문제상황/240312_옵시디언@git.md"
     },
@@ -123,10 +131,6 @@
     {
       "basename": "240220_수업정리",
       "path": "JavaScript/240220_수업정리.md"
-    },
-    {
-      "basename": "240311_수업정리",
-      "path": "Servlet JSP/240311_수업정리.md"
     },
     {
       "basename": "240308_수업정리",
@@ -195,10 +199,6 @@
     {
       "basename": "240215_수업정리_CSS시작",
       "path": "CSS/240215_수업정리_CSS시작.md"
-    },
-    {
-      "basename": "240215_수업정리_HTML끝",
-      "path": "HTML/240215_수업정리_HTML끝.md"
     }
   ],
   "omittedPaths": [],

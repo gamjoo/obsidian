@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rownum",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,7 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 318.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,6 +189,12 @@
   },
   "active": "bafca38cad578ba3",
   "lastOpenFiles": [
+    "Servlet JSP/240311_수업정리.md",
+    "Ajax/240318~240320_수업정리.md",
+    "Servlet JSP/240305_수업정리.md",
+    "Ajax/240315_수업정리.md",
+    "Ajax/240314_수업정리.md",
+    "Ajax/240321_수업정리.md",
     "image/Pasted image 20240321122958.png",
     "image/Pasted image 20240321122233.png",
     "image/Pasted image 20240321121003.png",
@@ -203,14 +209,10 @@
     "Oracle/240116_과제.md",
     "Oracle/240117_과제_solution.md",
     "Oracle/240119_수업정리.md",
-    "Ajax/240321_수업정리.md",
     "image/Pasted image 20240321104040.png",
-    "image/Pasted image 20240321102555.png",
-    "Ajax/240318~240320_수업정리.md",
     "Oracle/240116_수업정리.md",
     "conflict-files-obsidian-git.md",
     "Oracle/240118_수업기록.md",
-    "Ajax/240315_수업정리.md",
     "Java/240205_수업정리.md",
     "Servlet JSP/240229_수업정리_서블릿 시작&끝.md",
     "세미프로젝트관련/세미프로젝트일정.md",
@@ -222,9 +224,7 @@
     "세미프로젝트관련/240305.md",
     "세미프로젝트관련/3월 일정.md",
     "Servlet JSP/240312 ~ 240313 수업정리.md",
-    "Ajax/240314_수업정리.md",
     "문제상황/240312_옵시디언@git.md",
-    "문제상황/240314_JDBC드라이버.md",
     "Ajax",
     "gitignore.txt",
     "gitignore.txt.crdownload",
