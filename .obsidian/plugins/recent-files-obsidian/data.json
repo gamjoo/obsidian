@@ -5,6 +5,26 @@
       "path": "Ajax/240321_수업정리.md"
     },
     {
+      "basename": "240208_수업정리",
+      "path": "Java/JDBC/240208_수업정리.md"
+    },
+    {
+      "basename": "240119_과제",
+      "path": "Oracle/240119_과제.md"
+    },
+    {
+      "basename": "240116_과제",
+      "path": "Oracle/240116_과제.md"
+    },
+    {
+      "basename": "240117_과제_solution",
+      "path": "Oracle/240117_과제_solution.md"
+    },
+    {
+      "basename": "240119_수업정리",
+      "path": "Oracle/240119_수업정리.md"
+    },
+    {
       "basename": "240318~240320_수업정리",
       "path": "Ajax/240318~240320_수업정리.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "240215_수업정리_HTML끝",
       "path": "HTML/240215_수업정리_HTML끝.md"
-    },
-    {
-      "basename": "240122 _수업정리",
-      "path": "Oracle/240122 _수업정리.md"
-    },
-    {
-      "basename": "240119_수업정리",
-      "path": "Oracle/240119_수업정리.md"
-    },
-    {
-      "basename": "240208_수업정리",
-      "path": "Java/JDBC/240208_수업정리.md"
-    },
-    {
-      "basename": "240201_수업정리",
-      "path": "Java/240201_수업정리.md"
-    },
-    {
-      "basename": "240306_수업정리",
-      "path": "Servlet JSP/240306_수업정리.md"
     }
   ],
   "omittedPaths": [],
