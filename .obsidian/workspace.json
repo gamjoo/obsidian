@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ajax/240321_수업정리.md",
+                "file": "Ajax/240321~240322_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -83,7 +83,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ajax/240321_수업정리.md"
+                "file": "Ajax/240321~240322_수업정리.md"
               }
             },
             "group": "6a12eb0b00960598"
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ajax/240321_수업정리.md"
+                "file": "Ajax/240321~240322_수업정리.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ajax/240321_수업정리.md",
+                "file": "Ajax/240321~240322_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,6 +210,7 @@
   },
   "active": "bafca38cad578ba3",
   "lastOpenFiles": [
+    "image/Pasted image 20240322090639.png",
     "image/Pasted image 20240322090307.png",
     "image/Pasted image 20240321153042.png",
     "image/Pasted image 20240321152437.png",
@@ -222,11 +223,10 @@
     "Servlet JSP/240305_수업정리.md",
     "Ajax/240315_수업정리.md",
     "Ajax/240314_수업정리.md",
-    "Ajax/240321_수업정리.md",
+    "Ajax/240321~240322_수업정리.md",
     "image/Pasted image 20240321122958.png",
     "image/Pasted image 20240321122233.png",
     "image/Pasted image 20240321121003.png",
-    "image/Pasted image 20240321120214.png",
     "Java/JDBC/240208_수업정리.md",
     "Oracle/240119_과제.md",
     "Oracle/240116_과제.md",
