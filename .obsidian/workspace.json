@@ -49,19 +49,6 @@
             "group": "6a12eb0b00960598"
           },
           {
-            "id": "14830768afdda7c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3818a2939405406c",
             "type": "leaf",
             "state": {
@@ -83,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "dcc71cefece0e178",
@@ -175,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Ajax/240321~240322_수업정리.md"
               }
             }
           },
@@ -196,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Ajax/240321~240322_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,10 +208,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "14830768afdda7c6",
+  "active": "bafca38cad578ba3",
   "lastOpenFiles": [
-    "Ajax/240321~240322_수업정리.md",
     "conflict-files-obsidian-git.md",
+    "Ajax/240321~240322_수업정리.md",
     "image/Pasted image 20240322174411.png",
     "image/Pasted image 20240322173104.png",
     "image/Pasted image 20240322172113.png",
