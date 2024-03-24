@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d15bdbe6cac766a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ajax/240318~240320_수업정리.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -115,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ajax/240318~240320_수업정리.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,22 +154,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e859eaaec77ed843",
+  "active": "d15bdbe6cac766a9",
   "lastOpenFiles": [
-    "Ajax/240315_수업정리.md",
-    "Ajax/240314_수업정리.md",
     "Ajax/240318~240320_수업정리.md",
     "conflict-files-obsidian-git.md",
-    "image/Pasted image 20240320172652.png",
-    "image/Pasted image 20240320171350.png",
-    "image/Pasted image 20240320170848.png",
-    "image/Pasted image 20240320170345.png",
-    "image/Pasted image 20240320164441.png",
-    "image/Pasted image 20240320161758.png",
-    "image/Pasted image 20240320160455.png",
-    "image/Pasted image 20240320154710.png",
-    "image/Pasted image 20240320154040.png",
-    "image/Pasted image 20240320152551.png",
+    "image/Pasted image 20240322174411.png",
+    "image/Pasted image 20240322173104.png",
+    "image/Pasted image 20240322172113.png",
+    "image/Pasted image 20240322171342.png",
+    "image/Pasted image 20240322164727.png",
+    "image/Pasted image 20240322162831.png",
+    "image/Pasted image 20240322161851.png",
+    "image/Pasted image 20240322161241.png",
+    "image/Pasted image 20240322160224.png",
+    "image/Pasted image 20240322160218.png",
+    "Ajax/240321~240322_수업정리.md",
+    "Ajax/240315_수업정리.md",
+    "Ajax/240314_수업정리.md",
     "Ajax/240318~240319_수업정리.md",
     "Ajax/240318_수업정리.md",
     "아이디어/240214_포트폴리오특강.md",
@@ -177,7 +192,6 @@
     "JavaScript/240219_수업정리_JS시작.md",
     "CSS/240215_과제.md",
     "CSS/240216_수업정리.md",
-    "CSS/240219_수업정리_끝.md",
     "github_imagesync_test",
     "테스트폴더",
     "image/mail-1.4.7 1.jar",
