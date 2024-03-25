@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "공격",
+                "query": "8088",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +134,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -202,6 +203,7 @@
   },
   "active": "229be64a975a5c8c",
   "lastOpenFiles": [
+    "image/Pasted image 20240325114434.png",
     "image/Pasted image 20240325113415.png",
     "image/Pasted image 20240325113112.png",
     "image/Pasted image 20240325112235.png",
@@ -216,7 +218,6 @@
     "image/Pasted image 20240325100517.png",
     "Ajax/240314_수업정리.md",
     "image/Pasted image 20240325093528.png",
-    "image/Pasted image 20240325092749.png",
     "conflict-files-obsidian-git.md",
     "Ajax/240315_수업정리.md",
     "Servlet JSP/240311_수업정리.md",
