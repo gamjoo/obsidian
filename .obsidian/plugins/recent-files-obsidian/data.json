@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "240325_JSON데이터",
+      "path": "문제상황/240325_JSON데이터.md"
+    },
+    {
       "basename": "240325_수업정리",
       "path": "Ajax/240325_수업정리.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "240124_오라클 마지막_과제_게시판쿼리",
       "path": "Oracle/240124_오라클 마지막_과제_게시판쿼리.md"
-    },
-    {
-      "basename": "240229_수업정리_서블릿 시작&끝",
-      "path": "Servlet JSP/240229_수업정리_서블릿 시작&끝.md"
     }
   ],
   "omittedPaths": [],
