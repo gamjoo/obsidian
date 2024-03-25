@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4c4cf7c141ef28fc",
+        "id": "cc9d1076be60d908",
         "type": "tabs",
         "children": [
           {
-            "id": "8318d8b5de561fcc",
+            "id": "9350ad02d7fb5ba4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -69,7 +69,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -132,6 +133,6 @@
       "random-note:랜덤 노트 열기": false
     }
   },
-  "active": "8318d8b5de561fcc",
+  "active": "9350ad02d7fb5ba4",
   "lastOpenFiles": []
 }
