@@ -6,6 +6,7 @@
       {
         "id": "eb60b7eae23e2acb",
         "type": "tabs",
+        "dimension": 87.146529562982,
         "children": [
           {
             "id": "2a7f6adf63a02f18",
@@ -18,7 +19,26 @@
                 "backlinks": false,
                 "source": false
               }
-            }
+            },
+            "group": "4ad25369e229e526"
+          }
+        ]
+      },
+      {
+        "id": "8fe31168e2422e80",
+        "type": "tabs",
+        "dimension": 12.853470437017995,
+        "children": [
+          {
+            "id": "b5991b8a16694864",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ajax/240325_수업정리.md"
+              }
+            },
+            "group": "4ad25369e229e526"
           }
         ]
       }
@@ -143,6 +163,7 @@
   },
   "active": "2a7f6adf63a02f18",
   "lastOpenFiles": [
+    "Ajax/240325_수업정리.md",
     "conflict-files-obsidian-git.md",
     "image/깃수업.pdf",
     "image/Pasted image 20240325140727.png",
@@ -156,7 +177,6 @@
     "image/Pasted image 20240325122932.png",
     "image/Pasted image 20240325122109.png",
     "git/240325_수업정리.md",
-    "git",
-    "Ajax/240325_수업정리.md"
+    "git"
   ]
 }
