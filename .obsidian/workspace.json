@@ -1,23 +1,18 @@
 {
   "main": {
-    "id": "dd4faa6ab4f7d677",
+    "id": "1139011b17584260",
     "type": "split",
     "children": [
       {
-        "id": "3b7b79f79d272a7e",
+        "id": "4c4cf7c141ef28fc",
         "type": "tabs",
         "children": [
           {
-            "id": "e859eaaec77ed843",
+            "id": "8318d8b5de561fcc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ajax/240321~240322_수업정리.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -26,15 +21,23 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "228fb2f6a3855da7",
+    "id": "6394db1ea94af83d",
     "type": "split",
     "children": [
       {
-        "id": "eea4bf51acce2e35",
+        "id": "dd647a4e0e3ec0bf",
         "type": "tabs",
         "children": [
           {
-            "id": "bd8903911fb5db5b",
+            "id": "c6b591d3a1368c7a",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "ffb4f3fb5a9558bb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,13 +47,13 @@
             }
           },
           {
-            "id": "7d0bf019f34e48ac",
+            "id": "e347d56d8c798a89",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "0318",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -59,18 +62,10 @@
             }
           },
           {
-            "id": "f174d8fa8788e26b",
+            "id": "dd9460ea0ef01699",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "85986f97c58e1ecf",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
               "state": {}
             }
           }
@@ -78,114 +73,65 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "11d3cec3c02f16c0",
+    "id": "c616556be8acbe6b",
     "type": "split",
     "children": [
       {
-        "id": "53fe08fbd63ea7ff",
+        "id": "e980d3952b486542",
         "type": "tabs",
         "children": [
           {
-            "id": "d41bddd27d226f8a",
+            "id": "0310e275a3918f4d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "11ebbfad7e56b432",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
           {
-            "id": "82be7f09afb92c70",
+            "id": "2e4648bfd160d95b",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Ajax/240321~240322_수업정리.md"
-              }
-            }
-          },
-          {
-            "id": "783c0c1fe47f05d0",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Ajax/240321~240322_수업정리.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 203.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "random-note:랜덤 노트 열기": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "random-note:랜덤 노트 열기": false
     }
   },
-  "active": "e859eaaec77ed843",
-  "lastOpenFiles": [
-    "Ajax/240318~240320_수업정리.md",
-    "conflict-files-obsidian-git.md",
-    "image/Pasted image 20240322174411.png",
-    "image/Pasted image 20240322173104.png",
-    "image/Pasted image 20240322172113.png",
-    "image/Pasted image 20240322171342.png",
-    "image/Pasted image 20240322164727.png",
-    "image/Pasted image 20240322162831.png",
-    "image/Pasted image 20240322161851.png",
-    "image/Pasted image 20240322161241.png",
-    "image/Pasted image 20240322160224.png",
-    "image/Pasted image 20240322160218.png",
-    "Ajax/240321~240322_수업정리.md",
-    "Ajax/240315_수업정리.md",
-    "Ajax/240314_수업정리.md",
-    "Ajax/240318~240319_수업정리.md",
-    "Ajax/240318_수업정리.md",
-    "아이디어/240214_포트폴리오특강.md",
-    "Java/JDBC/240213_수업정리(240208_과제_solution포함)_JDBC끝.md",
-    "Servlet JSP/240304_수업정리.md",
-    "Servlet JSP/240308_수업정리.md",
-    "문제상황/240314_JDBC드라이버.md",
-    "Servlet JSP/240312 ~ 240313 수업정리.md",
-    "Ajax",
-    "JavaScript/240222_수업정리.md",
-    "JavaScript/240223_수업정리.md",
-    "JavaScript/240226_수업정리_JS끝.md",
-    "CSS/240215_수업정리_CSS시작.md",
-    "jQuery/240228_수업정리.md",
-    "jQuery/240227_수업정리.md",
-    "jQuery/240226_수업정리_jQuery시작.md",
-    "JavaScript/240221_수업정리.md",
-    "JavaScript/240220_수업정리.md",
-    "JavaScript/240219_수업정리_JS시작.md",
-    "CSS/240215_과제.md",
-    "CSS/240216_수업정리.md",
-    "github_imagesync_test",
-    "테스트폴더",
-    "image/mail-1.4.7 1.jar",
-    "image/activation-1.1 1.jar",
-    "image/mail-1.4.7.jar",
-    "image/activation-1.1.jar",
-    "image/240307_0. 배포하는 법.txt",
-    "image/240307_cos.jar 파일 다운받기.txt",
-    "image/240306_layout(문제).docx"
-  ]
+  "active": "8318d8b5de561fcc",
+  "lastOpenFiles": []
 }
