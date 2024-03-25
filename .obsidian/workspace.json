@@ -4,55 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "eb60b7eae23e2acb",
+        "id": "66b9a85cb10e4bd5",
         "type": "tabs",
-        "dimension": 87.146529562982,
+        "dimension": 71.26436781609196,
         "children": [
           {
-            "id": "2a7f6adf63a02f18",
+            "id": "7ace0a9f7d9a18db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문제상황/240325_JSON데이터.md",
+                "file": "공부재료/240326_알라딘서버에 ajax.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             },
-            "group": "4ad25369e229e526"
-          },
-          {
-            "id": "69535d247a1d84e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "jQuery/240228_수업정리.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
+            "group": "3e69c34fc2d8d866"
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "8fe31168e2422e80",
+        "id": "b8584e960330762e",
         "type": "tabs",
-        "dimension": 12.853470437017995,
+        "dimension": 28.735632183908045,
         "children": [
           {
-            "id": "b5991b8a16694864",
+            "id": "85679f7382238e52",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "문제상황/240325_JSON데이터.md"
+                "file": "공부재료/240326_알라딘서버에 ajax.md"
               }
             },
-            "group": "4ad25369e229e526"
+            "group": "3e69c34fc2d8d866"
           }
         ]
       }
@@ -109,11 +95,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "c616556be8acbe6b",
@@ -129,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "jQuery/240228_수업정리.md",
+                "file": "공부재료/240326_알라딘서버에 ajax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "jQuery/240228_수업정리.md"
+                "file": "공부재료/240326_알라딘서버에 ajax.md"
               }
             }
           }
@@ -175,8 +161,13 @@
       "random-note:랜덤 노트 열기": false
     }
   },
-  "active": "69535d247a1d84e4",
+  "active": "7ace0a9f7d9a18db",
   "lastOpenFiles": [
+    "image/Pasted image 20240326001242.png",
+    "JavaScript/240220_수업정리.md",
+    "공부재료/240326_알라딘서버에 ajax.md",
+    "JavaScript/240219_수업정리_JS시작.md",
+    "jQuery/240228_수업정리.md",
     "CSS/240215_수업정리_CSS시작.md",
     "문제상황/240325_JSON데이터.md",
     "문제상황/240325_CORS.md",

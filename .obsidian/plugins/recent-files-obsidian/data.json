@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "240326_알라딘서버에 ajax",
+      "path": "공부재료/240326_알라딘서버에 ajax.md"
+    },
+    {
+      "basename": "240220_수업정리",
+      "path": "JavaScript/240220_수업정리.md"
+    },
+    {
+      "basename": "240219_수업정리_JS시작",
+      "path": "JavaScript/240219_수업정리_JS시작.md"
+    },
+    {
       "basename": "240228_수업정리",
       "path": "jQuery/240228_수업정리.md"
     },
@@ -83,14 +95,6 @@
     {
       "basename": "240221_수업정리",
       "path": "JavaScript/240221_수업정리.md"
-    },
-    {
-      "basename": "240220_수업정리",
-      "path": "JavaScript/240220_수업정리.md"
-    },
-    {
-      "basename": "240219_수업정리_JS시작",
-      "path": "JavaScript/240219_수업정리_JS시작.md"
     },
     {
       "basename": "240215_과제",
@@ -195,10 +199,6 @@
     {
       "basename": "240116_수업정리",
       "path": "Oracle/240116_수업정리.md"
-    },
-    {
-      "basename": "240117_수업기록(정리중)",
-      "path": "Oracle/240117_수업기록(정리중).md"
     }
   ],
   "omittedPaths": [],
