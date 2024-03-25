@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/240325_수업정리.md",
+                "file": "Ajax/240321~240322_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -75,7 +75,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/240325_수업정리.md"
+                "file": "Ajax/240321~240322_수업정리.md"
               }
             },
             "group": "24d2d73d25e49a53"
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "8088",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/240325_수업정리.md"
+                "file": "Ajax/240321~240322_수업정리.md"
               }
             }
           },
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/240325_수업정리.md",
+                "file": "Ajax/240321~240322_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,11 +203,17 @@
   "active": "229be64a975a5c8c",
   "lastOpenFiles": [
     "Ajax/240325_수업정리.md",
-    "Ajax/240314_수업정리.md",
-    "Ajax/240315_수업정리.md",
-    "Ajax/240321~240322_수업정리.md",
     "Ajax/240318~240320_수업정리.md",
+    "Ajax/240315_수업정리.md",
+    "Ajax/240314_수업정리.md",
+    "jQuery/240227_수업정리.md",
+    "JavaScript/240220_수업정리.md",
+    "JavaScript/240219_수업정리_JS시작.md",
+    "HTML/240215_수업정리_HTML끝.md",
+    "JavaScript/240226_수업정리_JS끝.md",
+    "JavaScript/240221_수업정리.md",
     "git/240325_수업정리.md",
+    "Ajax/240321~240322_수업정리.md",
     "image/깃수업.pdf",
     "image/Pasted image 20240325140727.png",
     "image/Pasted image 20240325140605.png",
@@ -234,11 +240,6 @@
     "Servlet JSP/240229_수업정리_서블릿 시작&끝.md",
     "세미프로젝트관련/세미프로젝트일정.md",
     "Ajax/240316_수업정리.md",
-    "Java/240124_과제_solution.md",
-    "Java/240124_과제.md",
-    "Java/240206_수업정리.md",
-    "Java/JDBC/240213_수업정리(240208_과제_solution포함)_JDBC끝.md",
-    "세미프로젝트관련/240305.md",
     "Ajax",
     "gitignore.txt",
     "gitignore.txt.crdownload",

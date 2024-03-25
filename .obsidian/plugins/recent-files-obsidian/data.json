@@ -1,28 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "240325_수업정리",
-      "path": "git/240325_수업정리.md"
+      "basename": "240321~240322_수업정리",
+      "path": "Ajax/240321~240322_수업정리.md"
     },
     {
       "basename": "240325_수업정리",
       "path": "Ajax/240325_수업정리.md"
     },
     {
-      "basename": "240314_수업정리",
-      "path": "Ajax/240314_수업정리.md"
+      "basename": "240318~240320_수업정리",
+      "path": "Ajax/240318~240320_수업정리.md"
     },
     {
       "basename": "240315_수업정리",
       "path": "Ajax/240315_수업정리.md"
     },
     {
-      "basename": "240321~240322_수업정리",
-      "path": "Ajax/240321~240322_수업정리.md"
+      "basename": "240314_수업정리",
+      "path": "Ajax/240314_수업정리.md"
     },
     {
-      "basename": "240318~240320_수업정리",
-      "path": "Ajax/240318~240320_수업정리.md"
+      "basename": "240227_수업정리",
+      "path": "jQuery/240227_수업정리.md"
+    },
+    {
+      "basename": "240220_수업정리",
+      "path": "JavaScript/240220_수업정리.md"
+    },
+    {
+      "basename": "240219_수업정리_JS시작",
+      "path": "JavaScript/240219_수업정리_JS시작.md"
+    },
+    {
+      "basename": "240215_수업정리_HTML끝",
+      "path": "HTML/240215_수업정리_HTML끝.md"
+    },
+    {
+      "basename": "240226_수업정리_JS끝",
+      "path": "JavaScript/240226_수업정리_JS끝.md"
+    },
+    {
+      "basename": "240221_수업정리",
+      "path": "JavaScript/240221_수업정리.md"
+    },
+    {
+      "basename": "240325_수업정리",
+      "path": "git/240325_수업정리.md"
     },
     {
       "basename": "240311_수업정리",
@@ -105,14 +129,6 @@
       "path": "문제상황/240312_옵시디언@git.md"
     },
     {
-      "basename": "240227_수업정리",
-      "path": "jQuery/240227_수업정리.md"
-    },
-    {
-      "basename": "240221_수업정리",
-      "path": "JavaScript/240221_수업정리.md"
-    },
-    {
       "basename": "240222_수업정리",
       "path": "JavaScript/240222_수업정리.md"
     },
@@ -121,24 +137,12 @@
       "path": "JavaScript/240223_수업정리.md"
     },
     {
-      "basename": "240226_수업정리_JS끝",
-      "path": "JavaScript/240226_수업정리_JS끝.md"
-    },
-    {
       "basename": "240226_수업정리_jQuery시작",
       "path": "jQuery/240226_수업정리_jQuery시작.md"
     },
     {
       "basename": "240228_수업정리",
       "path": "jQuery/240228_수업정리.md"
-    },
-    {
-      "basename": "240219_수업정리_JS시작",
-      "path": "JavaScript/240219_수업정리_JS시작.md"
-    },
-    {
-      "basename": "240220_수업정리",
-      "path": "JavaScript/240220_수업정리.md"
     },
     {
       "basename": "240308_수업정리",
@@ -195,10 +199,6 @@
     {
       "basename": "240215_이클립스 에디터",
       "path": "문제상황/240215_이클립스 에디터.md"
-    },
-    {
-      "basename": "명령어모음",
-      "path": "명령어모음.md"
     }
   ],
   "omittedPaths": [],
