@@ -21,8 +21,22 @@
               }
             },
             "group": "4ad25369e229e526"
+          },
+          {
+            "id": "69535d247a1d84e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "jQuery/240228_수업정리.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "8fe31168e2422e80",
@@ -77,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "after",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +109,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -115,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "문제상황/240325_JSON데이터.md",
+                "file": "jQuery/240228_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "문제상황/240325_JSON데이터.md"
+                "file": "jQuery/240228_수업정리.md"
               }
             }
           }
@@ -161,12 +175,15 @@
       "random-note:랜덤 노트 열기": false
     }
   },
-  "active": "2a7f6adf63a02f18",
+  "active": "69535d247a1d84e4",
   "lastOpenFiles": [
+    "CSS/240215_수업정리_CSS시작.md",
+    "문제상황/240325_JSON데이터.md",
+    "문제상황/240325_CORS.md",
+    "image/Pasted image 20240325234841.png",
     "image/Pasted image 20240325234430.png",
     "image/Pasted image 20240325233244.png",
     "Ajax/240325_수업정리.md",
-    "문제상황/240325_JSON데이터.md",
     "conflict-files-obsidian-git.md",
     "image/깃수업.pdf",
     "image/Pasted image 20240325140727.png",
@@ -176,8 +193,6 @@
     "image/Pasted image 20240325140323.png",
     "image/Pasted image 20240325140133.png",
     "image/Pasted image 20240325123858.png",
-    "image/Pasted image 20240325123523.png",
-    "image/Pasted image 20240325122932.png",
     "git/240325_수업정리.md",
     "git"
   ]

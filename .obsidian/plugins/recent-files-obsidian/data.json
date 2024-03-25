@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "240228_수업정리",
+      "path": "jQuery/240228_수업정리.md"
+    },
+    {
+      "basename": "240215_수업정리_CSS시작",
+      "path": "CSS/240215_수업정리_CSS시작.md"
+    },
+    {
       "basename": "240325_JSON데이터",
       "path": "문제상황/240325_JSON데이터.md"
+    },
+    {
+      "basename": "240325_CORS",
+      "path": "문제상황/240325_CORS.md"
     },
     {
       "basename": "240325_수업정리",
@@ -59,14 +71,6 @@
     {
       "basename": "240226_수업정리_JS끝",
       "path": "JavaScript/240226_수업정리_JS끝.md"
-    },
-    {
-      "basename": "240215_수업정리_CSS시작",
-      "path": "CSS/240215_수업정리_CSS시작.md"
-    },
-    {
-      "basename": "240228_수업정리",
-      "path": "jQuery/240228_수업정리.md"
     },
     {
       "basename": "240227_수업정리",
@@ -195,10 +199,6 @@
     {
       "basename": "240117_수업기록(정리중)",
       "path": "Oracle/240117_수업기록(정리중).md"
-    },
-    {
-      "basename": "240124_오라클 마지막_과제_게시판쿼리",
-      "path": "Oracle/240124_오라클 마지막_과제_게시판쿼리.md"
     }
   ],
   "omittedPaths": [],
