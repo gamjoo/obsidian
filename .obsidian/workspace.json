@@ -6,7 +6,7 @@
       {
         "id": "66b9a85cb10e4bd5",
         "type": "tabs",
-        "dimension": 71.26436781609196,
+        "dimension": 83.33333333333334,
         "children": [
           {
             "id": "7ace0a9f7d9a18db",
@@ -14,31 +14,45 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ajax/240318~240320_수업정리.md",
+                "file": "CSS/240216_수업정리.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca17ae21530fc6ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS/240215_수업정리_CSS시작.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             },
-            "group": "3e69c34fc2d8d866"
+            "group": "fc3f58e5aff8ce1e"
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "b8584e960330762e",
+        "id": "76cb74311aca2510",
         "type": "tabs",
-        "dimension": 28.735632183908045,
+        "dimension": 16.666666666666664,
         "children": [
           {
-            "id": "85679f7382238e52",
+            "id": "080f35dacf41e897",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ajax/240318~240320_수업정리.md"
+                "file": "CSS/240215_수업정리_CSS시작.md"
               }
             },
-            "group": "3e69c34fc2d8d866"
+            "group": "fc3f58e5aff8ce1e"
           }
         ]
       }
@@ -77,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "after",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ajax/240318~240320_수업정리.md",
+                "file": "CSS/240215_수업정리_CSS시작.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ajax/240318~240320_수업정리.md"
+                "file": "CSS/240215_수업정리_CSS시작.md"
               }
             }
           }
@@ -161,8 +175,16 @@
       "random-note:랜덤 노트 열기": false
     }
   },
-  "active": "7ace0a9f7d9a18db",
+  "active": "ca17ae21530fc6ff",
   "lastOpenFiles": [
+    "CSS/240216_수업정리.md",
+    "CSS/240219_수업정리_끝.md",
+    "Ajax/240325_수업정리.md",
+    "Ajax/240321~240322_수업정리.md",
+    "Ajax/240315_수업정리.md",
+    "Ajax/240318~240320_수업정리.md",
+    "CSS/240215_수업정리_CSS시작.md",
+    "CSS/240215_과제.md",
     "문제상황/240312_옵시디언@git.md",
     "문제상황/240314_JDBC드라이버.md",
     "문제상황/240325_JSON데이터.md",
@@ -172,11 +194,9 @@
     "JavaScript/240220_수업정리.md",
     "JavaScript/240219_수업정리_JS시작.md",
     "jQuery/240228_수업정리.md",
-    "CSS/240215_수업정리_CSS시작.md",
     "image/Pasted image 20240325234841.png",
     "image/Pasted image 20240325234430.png",
     "image/Pasted image 20240325233244.png",
-    "Ajax/240325_수업정리.md",
     "conflict-files-obsidian-git.md",
     "image/깃수업.pdf",
     "image/Pasted image 20240325140727.png",
