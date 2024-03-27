@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ajax/240321~240322_수업정리.md",
+                "file": "Ajax/240315_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -75,7 +75,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ajax/240321~240322_수업정리.md"
+                "file": "Ajax/240315_수업정리.md"
               }
             },
             "group": "24d2d73d25e49a53"
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cos",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ajax/240321~240322_수업정리.md"
+                "file": "Ajax/240315_수업정리.md"
               }
             }
           },
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ajax/240321~240322_수업정리.md",
+                "file": "Ajax/240315_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,8 +202,24 @@
   },
   "active": "229be64a975a5c8c",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Ajax/240314_수업정리.md",
+    "Servlet JSP/240311_수업정리.md",
+    "Servlet JSP/240308_수업정리.md",
+    "Servlet JSP/240307_수업정리.md",
+    "Servlet JSP/240306_수업정리.md",
+    "Servlet JSP/240305_수업정리.md",
+    "Servlet JSP/240304_수업정리.md",
+    "Servlet JSP/240229_수업정리_서블릿 시작&끝.md",
+    "Oracle/240116_과제.md",
+    "Oracle/240118_수업기록.md",
+    "Oracle/240118_과제.md",
+    "Oracle/240117_수업기록(정리중).md",
+    "Oracle/240117_과제_solution.md",
+    "Oracle/240116_수업정리.md",
+    "Java/JDBC/240205_과제.md",
+    "Ajax/240318~240320_수업정리.md",
     "Ajax/240321~240322_수업정리.md",
+    "conflict-files-obsidian-git.md",
     "문제상황/240325_JSON데이터.md",
     "문제상황/240325_CORS.md",
     "공부재료/240326_알라딘서버에 ajax.md",
@@ -212,16 +228,10 @@
     "image/Pasted image 20240325234430.png",
     "image/Pasted image 20240325233244.png",
     "Ajax/240325_수업정리.md",
-    "Ajax/240318~240320_수업정리.md",
     "Ajax/240315_수업정리.md",
-    "Ajax/240314_수업정리.md",
     "jQuery/240227_수업정리.md",
     "JavaScript/240220_수업정리.md",
     "JavaScript/240219_수업정리_JS시작.md",
-    "HTML/240215_수업정리_HTML끝.md",
-    "JavaScript/240226_수업정리_JS끝.md",
-    "JavaScript/240221_수업정리.md",
-    "git/240325_수업정리.md",
     "image/깃수업.pdf",
     "image/Pasted image 20240325140727.png",
     "image/Pasted image 20240325140605.png",
@@ -230,16 +240,6 @@
     "image/Pasted image 20240325140323.png",
     "image/Pasted image 20240325140133.png",
     "git",
-    "Servlet JSP/240311_수업정리.md",
-    "Servlet JSP/240305_수업정리.md",
-    "Java/JDBC/240208_수업정리.md",
-    "Oracle/240119_과제.md",
-    "Oracle/240116_과제.md",
-    "Oracle/240117_과제_solution.md",
-    "Oracle/240119_수업정리.md",
-    "Oracle/240116_수업정리.md",
-    "Oracle/240118_수업기록.md",
-    "Java/240205_수업정리.md",
     "Ajax",
     "gitignore.txt",
     "gitignore.txt.crdownload",
