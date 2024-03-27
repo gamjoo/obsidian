@@ -22,6 +22,19 @@
             }
           },
           {
+            "id": "60f7bd07b4efc0ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ca17ae21530fc6ff",
             "type": "leaf",
             "state": {
@@ -35,7 +48,8 @@
             },
             "group": "fc3f58e5aff8ce1e"
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "76cb74311aca2510",
@@ -128,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servlet JSP/240305_수업정리.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servlet JSP/240305_수업정리.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -174,8 +188,12 @@
       "random-note:랜덤 노트 열기": false
     }
   },
-  "active": "7ace0a9f7d9a18db",
+  "active": "60f7bd07b4efc0ae",
   "lastOpenFiles": [
+    "Servlet JSP/240305_수업정리.md",
+    "conflict-files-obsidian-git.md",
+    "세미프로젝트관련/240327_학원로컬DB접속.md",
+    "image/Pasted image 20240327094535.png",
     "CSS/240216_수업정리.md",
     "CSS/240215_수업정리_CSS시작.md",
     "CSS/240219_수업정리_끝.md",
@@ -196,14 +214,12 @@
     "image/Pasted image 20240325234841.png",
     "image/Pasted image 20240325234430.png",
     "image/Pasted image 20240325233244.png",
-    "conflict-files-obsidian-git.md",
     "image/깃수업.pdf",
     "image/Pasted image 20240325140727.png",
     "image/Pasted image 20240325140605.png",
     "image/Pasted image 20240325140550.png",
     "image/Pasted image 20240325140428.png",
     "image/Pasted image 20240325140323.png",
-    "image/Pasted image 20240325140133.png",
     "git/240325_수업정리.md",
     "git"
   ]
