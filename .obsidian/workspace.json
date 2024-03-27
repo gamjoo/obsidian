@@ -22,19 +22,6 @@
             }
           },
           {
-            "id": "60f7bd07b4efc0ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ca17ae21530fc6ff",
             "type": "leaf",
             "state": {
@@ -48,8 +35,7 @@
             },
             "group": "fc3f58e5aff8ce1e"
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "76cb74311aca2510",
@@ -142,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Servlet JSP/240305_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Servlet JSP/240305_수업정리.md"
               }
             }
           }
@@ -188,10 +174,10 @@
       "random-note:랜덤 노트 열기": false
     }
   },
-  "active": "60f7bd07b4efc0ae",
+  "active": "7ace0a9f7d9a18db",
   "lastOpenFiles": [
-    "Servlet JSP/240305_수업정리.md",
     "conflict-files-obsidian-git.md",
+    "Servlet JSP/240305_수업정리.md",
     "세미프로젝트관련/240327_학원로컬DB접속.md",
     "image/Pasted image 20240327094535.png",
     "CSS/240216_수업정리.md",
