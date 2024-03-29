@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "240329_drag drop 기능",
+      "path": "공부재료/240329_drag drop 기능.md"
+    },
+    {
+      "basename": "240314_수업정리",
+      "path": "Ajax/240314_수업정리.md"
+    },
+    {
       "basename": "240220_수업정리",
       "path": "JavaScript/240220_수업정리.md"
     },
@@ -91,10 +99,6 @@
     {
       "basename": "240228_수업정리",
       "path": "jQuery/240228_수업정리.md"
-    },
-    {
-      "basename": "240314_수업정리",
-      "path": "Ajax/240314_수업정리.md"
     },
     {
       "basename": "240214_포트폴리오특강",
@@ -195,10 +199,6 @@
     {
       "basename": "240117_과제_solution",
       "path": "Oracle/240117_과제_solution.md"
-    },
-    {
-      "basename": "240118_과제",
-      "path": "Oracle/240118_과제.md"
     }
   ],
   "omittedPaths": [],

@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/240220_수업정리.md",
+                "file": "공부재료/240329_drag drop 기능.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -74,7 +74,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/240220_수업정리.md"
+                "file": "공부재료/240329_drag drop 기능.md"
               }
             }
           }
@@ -115,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "substr",
+                "query": "ajax",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,7 +133,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/240220_수업정리.md",
+                "file": "공부재료/240329_drag drop 기능.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/240220_수업정리.md"
+                "file": "공부재료/240329_drag drop 기능.md"
               }
             }
           }
@@ -201,6 +201,9 @@
   },
   "active": "3e661cafd36fdcc1",
   "lastOpenFiles": [
+    "Ajax/240314_수업정리.md",
+    "공부재료/240329_drag drop 기능.md",
+    "JavaScript/240220_수업정리.md",
     "JavaScript/240221_수업정리.md",
     "CSS/240215_수업정리_CSS시작.md",
     "jQuery/240227_수업정리.md",
@@ -225,9 +228,7 @@
     "문제상황/240325_JSON데이터.md",
     "공부재료/240326_알라딘서버에 ajax.md",
     "image/Pasted image 20240326001242.png",
-    "JavaScript/240220_수업정리.md",
     "JavaScript/240219_수업정리_JS시작.md",
-    "jQuery/240228_수업정리.md",
     "image/Pasted image 20240325234841.png",
     "image/Pasted image 20240325234430.png",
     "image/Pasted image 20240325233244.png",
@@ -237,7 +238,6 @@
     "image/Pasted image 20240325140550.png",
     "image/Pasted image 20240325140428.png",
     "image/Pasted image 20240325140323.png",
-    "git/240325_수업정리.md",
     "git"
   ]
 }
