@@ -6,7 +6,7 @@
       {
         "id": "66b9a85cb10e4bd5",
         "type": "tabs",
-        "dimension": 83.33333333333334,
+        "dimension": 72.936400541272,
         "children": [
           {
             "id": "7ace0a9f7d9a18db",
@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Servlet JSP/240311_수업정리.md",
+                "file": "JavaScript/240220_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -66,7 +66,7 @@
       {
         "id": "66e0f1456c75a454",
         "type": "tabs",
-        "dimension": 16.666666666666664,
+        "dimension": 27.063599458728014,
         "children": [
           {
             "id": "a65ce24266e1f3f7",
@@ -74,7 +74,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/240214_수업정리.md"
+                "file": "JavaScript/240220_수업정리.md"
               }
             }
           }
@@ -115,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "substr",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/240214_수업정리.md",
+                "file": "JavaScript/240220_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/240214_수업정리.md"
+                "file": "JavaScript/240220_수업정리.md"
               }
             }
           }
@@ -199,13 +199,16 @@
       "random-note:랜덤 노트 열기": false
     }
   },
-  "active": "e347d56d8c798a89",
+  "active": "3e661cafd36fdcc1",
   "lastOpenFiles": [
+    "JavaScript/240221_수업정리.md",
+    "CSS/240215_수업정리_CSS시작.md",
+    "jQuery/240227_수업정리.md",
+    "Java/240125_수업정리.md",
+    "HTML/240214_수업정리.md",
     "Java/240201_수업정리.md",
     "Servlet JSP/240305_수업정리.md",
     "Ajax/240318~240320_수업정리.md",
-    "HTML/240214_수업정리.md",
-    "CSS/240215_수업정리_CSS시작.md",
     "Ajax/240315_수업정리.md",
     "Ajax/240325_수업정리.md",
     "Ajax/240321~240322_수업정리.md",

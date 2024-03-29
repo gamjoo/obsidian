@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "240220_수업정리",
+      "path": "JavaScript/240220_수업정리.md"
+    },
+    {
+      "basename": "240221_수업정리",
+      "path": "JavaScript/240221_수업정리.md"
+    },
+    {
+      "basename": "240215_수업정리_CSS시작",
+      "path": "CSS/240215_수업정리_CSS시작.md"
+    },
+    {
+      "basename": "240227_수업정리",
+      "path": "jQuery/240227_수업정리.md"
+    },
+    {
+      "basename": "240125_수업정리",
+      "path": "Java/240125_수업정리.md"
+    },
+    {
       "basename": "240214_수업정리",
       "path": "HTML/240214_수업정리.md"
     },
@@ -19,10 +39,6 @@
     {
       "basename": "240318~240320_수업정리",
       "path": "Ajax/240318~240320_수업정리.md"
-    },
-    {
-      "basename": "240215_수업정리_CSS시작",
-      "path": "CSS/240215_수업정리_CSS시작.md"
     },
     {
       "basename": "240315_수업정리",
@@ -69,10 +85,6 @@
       "path": "공부재료/240326_알라딘서버에 ajax.md"
     },
     {
-      "basename": "240220_수업정리",
-      "path": "JavaScript/240220_수업정리.md"
-    },
-    {
       "basename": "240219_수업정리_JS시작",
       "path": "JavaScript/240219_수업정리_JS시작.md"
     },
@@ -117,16 +129,8 @@
       "path": "JavaScript/240226_수업정리_JS끝.md"
     },
     {
-      "basename": "240227_수업정리",
-      "path": "jQuery/240227_수업정리.md"
-    },
-    {
       "basename": "240226_수업정리_jQuery시작",
       "path": "jQuery/240226_수업정리_jQuery시작.md"
-    },
-    {
-      "basename": "240221_수업정리",
-      "path": "JavaScript/240221_수업정리.md"
     },
     {
       "basename": "세미프로젝트일정",
@@ -179,10 +183,6 @@
     {
       "basename": "240130_수업정리",
       "path": "Java/240130_수업정리.md"
-    },
-    {
-      "basename": "240125_수업정리",
-      "path": "Java/240125_수업정리.md"
     },
     {
       "basename": "240205_수업정리_JDBC시작 1",
