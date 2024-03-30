@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "240216_수업정리",
+      "path": "CSS/240216_수업정리.md"
+    },
+    {
+      "basename": "240129_수업정리",
+      "path": "Java/240129_수업정리.md"
+    },
+    {
       "basename": "240214_수업정리",
       "path": "HTML/240214_수업정리.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "240215_수업정리_CSS시작",
       "path": "CSS/240215_수업정리_CSS시작.md"
-    },
-    {
-      "basename": "240216_수업정리",
-      "path": "CSS/240216_수업정리.md"
     },
     {
       "basename": "240219_수업정리_끝",
@@ -195,10 +199,6 @@
     {
       "basename": "240205_수업정리",
       "path": "Java/240205_수업정리.md"
-    },
-    {
-      "basename": "240117_과제_solution",
-      "path": "Oracle/240117_과제_solution.md"
     }
   ],
   "omittedPaths": [],
