@@ -66,7 +66,7 @@
       {
         "id": "66e0f1456c75a454",
         "type": "tabs",
-        "dimension": 26.99055330634278,
+        "dimension": 26.990553306342782,
         "children": [
           {
             "id": "a65ce24266e1f3f7",
@@ -74,7 +74,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/240125_수업정리.md"
+                "file": "HTML/240214_수업정리.md"
               }
             }
           }
@@ -115,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "append",
+                "query": "git m\\\\\\\\\\",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/240125_수업정리.md",
+                "file": "HTML/240214_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/240125_수업정리.md"
+                "file": "HTML/240214_수업정리.md"
               }
             }
           }
@@ -199,7 +199,7 @@
       "random-note:랜덤 노트 열기": false
     }
   },
-  "active": "3e661cafd36fdcc1",
+  "active": "e347d56d8c798a89",
   "lastOpenFiles": [
     "JavaScript/240220_수업정리.md",
     "JavaScript/240221_수업정리.md",
