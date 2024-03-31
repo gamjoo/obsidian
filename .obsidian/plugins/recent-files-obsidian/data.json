@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "240401_해보고싶은 것",
+      "path": "공부재료/240401_해보고싶은 것.md"
+    },
+    {
       "basename": "240214_수업정리",
       "path": "HTML/240214_수업정리.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "240130_수업정리",
       "path": "Java/240130_수업정리.md"
-    },
-    {
-      "basename": "240205_수업정리_JDBC시작 1",
-      "path": "Java/240205_수업정리_JDBC시작 1.md"
     }
   ],
   "omittedPaths": [],

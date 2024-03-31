@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Servlet JSP/240311_수업정리.md",
+                "file": "공부재료/240401_해보고싶은 것.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -74,7 +74,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/240214_수업정리.md"
+                "file": "공부재료/240401_해보고싶은 것.md"
               }
             }
           }
@@ -115,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "forEach",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,7 +133,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/240214_수업정리.md",
+                "file": "공부재료/240401_해보고싶은 것.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/240214_수업정리.md"
+                "file": "공부재료/240401_해보고싶은 것.md"
               }
             }
           }
@@ -199,8 +199,10 @@
       "random-note:랜덤 노트 열기": false
     }
   },
-  "active": "e347d56d8c798a89",
+  "active": "3e661cafd36fdcc1",
   "lastOpenFiles": [
+    "HTML/240214_수업정리.md",
+    "공부재료/240401_해보고싶은 것.md",
     "Ajax/240318~240320_수업정리.md",
     "JavaScript/240220_수업정리.md",
     "Java/240201_수업정리.md",
@@ -220,13 +222,11 @@
     "문제상황/240330_다수첨부파일.md",
     "JavaScript/240226_수업정리_JS끝.md",
     "Java/240129_수업정리.md",
-    "HTML/240214_수업정리.md",
     "CSS/240215_수업정리_CSS시작.md",
     "CSS/240219_수업정리_끝.md",
     "CSS/240215_과제.md",
     "Java/240125_수업정리.md",
     "공부재료/240329_drag drop 기능.md",
-    "Ajax/240314_수업정리.md",
     "image/Pasted image 20240327094535.png",
     "image/Pasted image 20240326001242.png",
     "image/Pasted image 20240325234841.png",
