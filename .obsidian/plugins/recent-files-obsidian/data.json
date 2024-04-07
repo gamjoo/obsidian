@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "240402_톰캣오류",
+      "path": "문제상황/240402_톰캣오류.md"
+    },
+    {
+      "basename": "240306_수업정리",
+      "path": "Servlet JSP/240306_수업정리.md"
+    },
+    {
+      "basename": "240305_수업정리",
+      "path": "Servlet JSP/240305_수업정리.md"
+    },
+    {
+      "basename": "240215_수업정리_CSS시작",
+      "path": "CSS/240215_수업정리_CSS시작.md"
+    },
+    {
+      "basename": "240215_과제",
+      "path": "CSS/240215_과제.md"
+    },
+    {
       "basename": "240304_수업정리",
       "path": "Servlet JSP/240304_수업정리.md"
     },
@@ -11,10 +31,6 @@
     {
       "basename": "240214_수업정리",
       "path": "HTML/240214_수업정리.md"
-    },
-    {
-      "basename": "240306_수업정리",
-      "path": "Servlet JSP/240306_수업정리.md"
     },
     {
       "basename": "240221_수업정리",
@@ -45,20 +61,12 @@
       "path": "jQuery/240227_수업정리.md"
     },
     {
-      "basename": "240215_수업정리_CSS시작",
-      "path": "CSS/240215_수업정리_CSS시작.md"
-    },
-    {
       "basename": "240226_수업정리_JS끝",
       "path": "JavaScript/240226_수업정리_JS끝.md"
     },
     {
       "basename": "240219_수업정리_JS시작",
       "path": "JavaScript/240219_수업정리_JS시작.md"
-    },
-    {
-      "basename": "240402_톰캣오류",
-      "path": "문제상황/240402_톰캣오류.md"
     },
     {
       "basename": "240125_수업정리",
@@ -75,10 +83,6 @@
     {
       "basename": "240318~240320_수업정리",
       "path": "Ajax/240318~240320_수업정리.md"
-    },
-    {
-      "basename": "240305_수업정리",
-      "path": "Servlet JSP/240305_수업정리.md"
     },
     {
       "basename": "240401_해보고싶은 것",
@@ -111,10 +115,6 @@
     {
       "basename": "240129_수업정리",
       "path": "Java/240129_수업정리.md"
-    },
-    {
-      "basename": "240215_과제",
-      "path": "CSS/240215_과제.md"
     },
     {
       "basename": "240329_drag drop 기능",
