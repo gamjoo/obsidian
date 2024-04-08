@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문제상황/240402_톰캣오류.md",
+                "file": "CSS/240216_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -74,7 +74,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "문제상황/240402_톰캣오류.md"
+                "file": "CSS/240216_수업정리.md"
               }
             }
           }
@@ -115,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "box-sizing",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,7 +133,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "문제상황/240402_톰캣오류.md",
+                "file": "CSS/240216_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "문제상황/240402_톰캣오류.md"
+                "file": "CSS/240216_수업정리.md"
               }
             }
           }
@@ -201,11 +201,11 @@
   },
   "active": "fe023cab497a511d",
   "lastOpenFiles": [
+    "문제상황/240402_톰캣오류.md",
     "Servlet JSP/240306_수업정리.md",
     "Servlet JSP/240305_수업정리.md",
     "CSS/240215_수업정리_CSS시작.md",
     "CSS/240215_과제.md",
-    "문제상황/240402_톰캣오류.md",
     "Servlet JSP/240304_수업정리.md",
     "HTML/240214_수업정리.md",
     "JavaScript/240222_수업정리.md",
