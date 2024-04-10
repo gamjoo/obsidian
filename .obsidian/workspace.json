@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/240216_수업정리.md",
+                "file": "Java/240130_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -74,7 +74,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/240216_수업정리.md"
+                "file": "CSS/240215_수업정리_CSS시작.md"
               }
             }
           }
@@ -115,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "box-sizing",
+                "query": "include",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/240216_수업정리.md",
+                "file": "CSS/240215_수업정리_CSS시작.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/240216_수업정리.md"
+                "file": "CSS/240215_수업정리_CSS시작.md"
               }
             }
           }
@@ -199,8 +199,9 @@
       "random-note:랜덤 노트 열기": false
     }
   },
-  "active": "fe023cab497a511d",
+  "active": "e347d56d8c798a89",
   "lastOpenFiles": [
+    "CSS/240216_수업정리.md",
     "문제상황/240402_톰캣오류.md",
     "Servlet JSP/240306_수업정리.md",
     "Servlet JSP/240305_수업정리.md",
@@ -226,7 +227,6 @@
     "공부재료/240401_해보고싶은 것.md",
     "JavaScript/240220_수업정리.md",
     "Java/240201_과제.md",
-    "CSS/240216_수업정리.md",
     "Servlet JSP/240308_수업정리.md",
     "image/Pasted image 20240327094535.png",
     "image/Pasted image 20240326001242.png",
