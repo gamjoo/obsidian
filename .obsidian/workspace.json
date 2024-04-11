@@ -66,7 +66,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/제출해야 할 것.md",
+                "file": "JavaScript/240411_제출해야 할 것.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/제출해야 할 것.md"
+                "file": "JavaScript/240411_제출해야 할 것.md"
               }
             }
           }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/제출해야 할 것.md",
+                "file": "JavaScript/240411_제출해야 할 것.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/제출해야 할 것.md"
+                "file": "JavaScript/240411_제출해야 할 것.md"
               }
             }
           }
@@ -212,11 +212,11 @@
       "random-note:랜덤 노트 열기": false
     }
   },
-  "active": "c451d2da0c31112e",
+  "active": "a65ce24266e1f3f7",
   "lastOpenFiles": [
     "image/Pasted image 20240411174337.png",
     "JavaScript/240219_수업정리_JS시작.md",
-    "JavaScript/제출해야 할 것.md",
+    "JavaScript/240411_제출해야 할 것.md",
     "아이디어/240214_포트폴리오특강.md",
     "CSS/240215_수업정리_CSS시작.md",
     "CSS/240216_수업정리.md",
