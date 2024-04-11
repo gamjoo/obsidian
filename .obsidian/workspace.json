@@ -4,90 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "66b9a85cb10e4bd5",
+        "id": "a4d1b68243e329c8",
         "type": "tabs",
-        "dimension": 73.00944669365722,
         "children": [
           {
-            "id": "ca17ae21530fc6ff",
+            "id": "af610a4ec973b058",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/240215_수업정리_CSS시작.md",
+                "file": "공부재료/240401_해보고싶은 것.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "68b6950f4f4cc1bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ajax/240318~240320_수업정리.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e661cafd36fdcc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "jQuery/240227_수업정리.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe023cab497a511d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript/240219_수업정리_JS시작.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c451d2da0c31112e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript/240411_제출해야 할 것.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "66e0f1456c75a454",
-        "type": "tabs",
-        "dimension": 26.990553306342782,
-        "children": [
-          {
-            "id": "a65ce24266e1f3f7",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "JavaScript/240411_제출해야 할 것.md"
               }
             }
           }
@@ -128,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "0411",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/240411_제출해야 할 것.md",
+                "file": "공부재료/240401_해보고싶은 것.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/240411_제출해야 할 것.md"
+                "file": "공부재료/240401_해보고싶은 것.md"
               }
             }
           }
@@ -212,11 +141,11 @@
       "random-note:랜덤 노트 열기": false
     }
   },
-  "active": "a65ce24266e1f3f7",
+  "active": "af610a4ec973b058",
   "lastOpenFiles": [
+    "공부재료/240411_제출해야 할 것.md",
     "image/Pasted image 20240411174337.png",
     "JavaScript/240219_수업정리_JS시작.md",
-    "JavaScript/240411_제출해야 할 것.md",
     "아이디어/240214_포트폴리오특강.md",
     "CSS/240215_수업정리_CSS시작.md",
     "CSS/240216_수업정리.md",
@@ -250,7 +179,6 @@
     "image/Pasted image 20240325140727.png",
     "image/Pasted image 20240325140605.png",
     "image/Pasted image 20240325140550.png",
-    "image/Pasted image 20240325140428.png",
     "git"
   ]
 }
