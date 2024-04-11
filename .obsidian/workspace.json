@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "공부재료/240401_해보고싶은 것.md",
+                "file": "공부재료/240411_제출해야 할 것.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "공부재료/240401_해보고싶은 것.md",
+                "file": "공부재료/240411_제출해야 할 것.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "공부재료/240401_해보고싶은 것.md"
+                "file": "공부재료/240411_제출해야 할 것.md"
               }
             }
           }
@@ -143,6 +143,7 @@
   },
   "active": "af610a4ec973b058",
   "lastOpenFiles": [
+    "공부재료/240401_해보고싶은 것.md",
     "공부재료/240411_제출해야 할 것.md",
     "image/Pasted image 20240411174337.png",
     "JavaScript/240219_수업정리_JS시작.md",
@@ -169,7 +170,6 @@
     "Ajax/240314_수업정리.md",
     "Ajax/240315_수업정리.md",
     "Ajax/240318~240320_수업정리.md",
-    "공부재료/240401_해보고싶은 것.md",
     "image/Pasted image 20240327094535.png",
     "image/Pasted image 20240326001242.png",
     "image/Pasted image 20240325234841.png",
