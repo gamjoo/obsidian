@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "제출해야 할 것",
+      "path": "JavaScript/제출해야 할 것.md"
+    },
+    {
+      "basename": "240219_수업정리_JS시작",
+      "path": "JavaScript/240219_수업정리_JS시작.md"
+    },
+    {
       "basename": "240214_포트폴리오특강",
       "path": "아이디어/240214_포트폴리오특강.md"
     },
@@ -75,10 +83,6 @@
     {
       "basename": "240226_수업정리_JS끝",
       "path": "JavaScript/240226_수업정리_JS끝.md"
-    },
-    {
-      "basename": "240219_수업정리_JS시작",
-      "path": "JavaScript/240219_수업정리_JS시작.md"
     },
     {
       "basename": "240125_수업정리",
@@ -195,10 +199,6 @@
     {
       "basename": "240119_수업정리",
       "path": "Oracle/240119_수업정리.md"
-    },
-    {
-      "basename": "240208_수업정리",
-      "path": "Java/JDBC/240208_수업정리.md"
     }
   ],
   "omittedPaths": [],
