@@ -39,3 +39,8 @@ https://mvnrepository.com/artifact/org.mybatis/mybatis/3.5.15
 ## sqlMapConfig.xml
 ★https://mybatis.org/mybatis-3/ko/getting-started.html
 ![](../image/Pasted%20image%2020240412113619.png)
+![](../image/Pasted%20image%2020240412120130.png)
+★1번 체크박스 체크
+
+### 설명
+![](../image/Pasted%20image%2020240412120156.png)
