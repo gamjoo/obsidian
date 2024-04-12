@@ -95,3 +95,9 @@ https://mvnrepository.com/artifact/org.mybatis/mybatis/3.5.15
 
 ## List\<Member> list( )
 ![](../image/Pasted%20image%2020240412164956.png)
+
+
+## member.xml
+![](../image/Pasted%20image%2020240412170430.png)
+★id="list"
+
