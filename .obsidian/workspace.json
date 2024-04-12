@@ -6,6 +6,7 @@
       {
         "id": "16b00d796fa42f19",
         "type": "tabs",
+        "dimension": 67.74193548387096,
         "children": [
           {
             "id": "175fa6e3d1368a31",
@@ -28,10 +29,29 @@
                 "backlinks": false,
                 "source": false
               }
-            }
+            },
+            "group": "72fc03ba0b6baa2b"
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "200c69af6dfe0299",
+        "type": "tabs",
+        "dimension": 32.25806451612903,
+        "children": [
+          {
+            "id": "c987a77b77e4baab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MyBatis/240412_수업정리_MyBatis시작.md"
+              }
+            },
+            "group": "72fc03ba0b6baa2b"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c616556be8acbe6b",
