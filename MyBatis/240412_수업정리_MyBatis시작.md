@@ -13,3 +13,9 @@ configuration
 ![](../image/Pasted%20image%2020240412091824.png)
 mapper.. configuration 과 다르다.
 
+![](../image/Pasted%20image%2020240412092059.png)
+★maven repisitory에서 관련 라이브러리를 다운 받는다..
+
+![](../image/Pasted%20image%2020240412092152.png)
+★3.5.15의 jar 파일
+
