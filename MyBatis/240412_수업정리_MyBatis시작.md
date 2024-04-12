@@ -24,3 +24,7 @@ mapper.. configuration 과 다르다.
 
 ## DTO 클래스
 ![](../image/Pasted%20image%2020240412094252.png)
+
+
+## main.jsp
+![](../image/Pasted%20image%2020240412094917.png)
