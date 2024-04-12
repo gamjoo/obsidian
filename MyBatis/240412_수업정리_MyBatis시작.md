@@ -89,3 +89,6 @@ https://mvnrepository.com/artifact/org.mybatis/mybatis/3.5.15
 ![](../image/Pasted%20image%2020240412163745.png)
 (시험문제)session.invalidate( )
 
+
+## ListAction.java
+![](../image/Pasted%20image%2020240412164457.png)
