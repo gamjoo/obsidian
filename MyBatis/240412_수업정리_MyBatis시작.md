@@ -28,3 +28,4 @@ mapper.. configuration 과 다르다.
 
 ## main.jsp
 ![](../image/Pasted%20image%2020240412094917.png)
+
