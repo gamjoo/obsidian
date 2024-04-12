@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200.5
+    "width": 200
   },
   "right": {
     "id": "c616556be8acbe6b",
@@ -143,6 +143,7 @@
   },
   "active": "af610a4ec973b058",
   "lastOpenFiles": [
+    "image/Pasted image 20240412091344.png",
     "image/Pasted image 20240412091236.png",
     "image/Pasted image 20240412091130.png",
     "image/Pasted image 20240412091021.png",
@@ -179,7 +180,6 @@
     "image/Pasted image 20240327094535.png",
     "image/Pasted image 20240326001242.png",
     "image/Pasted image 20240325234841.png",
-    "image/Pasted image 20240325234430.png",
     "image/깃수업.pdf",
     "git"
   ]
