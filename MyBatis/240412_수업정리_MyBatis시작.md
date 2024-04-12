@@ -83,7 +83,9 @@ https://mvnrepository.com/artifact/org.mybatis/mybatis/3.5.15
 (시험문제) HttpServletResponse
 (시험문제) request.getParameter("")
 ![](../image/Pasted%20image%2020240412161449.png)
-(시험문제)session.invalidate( )
+
 
 ## LogoutAction.java
 ![](../image/Pasted%20image%2020240412163745.png)
+(시험문제)session.invalidate( )
+
