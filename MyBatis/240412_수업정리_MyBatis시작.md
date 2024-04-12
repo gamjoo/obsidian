@@ -82,3 +82,4 @@ https://mvnrepository.com/artifact/org.mybatis/mybatis/3.5.15
 ![](../image/Pasted%20image%2020240412160630.png)
 (시험문제) HttpServletResponse
 (시험문제) request.getParameter("")
+![](../image/Pasted%20image%2020240412161449.png)

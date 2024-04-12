@@ -9,16 +9,6 @@
         "dimension": 77.67857142857143,
         "children": [
           {
-            "id": "175fa6e3d1368a31",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "MyBatis/240412_수업정리_MyBatis시작.md"
-              }
-            }
-          },
-          {
             "id": "be43e961d1fd2370",
             "type": "leaf",
             "state": {
@@ -29,11 +19,9 @@
                 "backlinks": false,
                 "source": false
               }
-            },
-            "group": "72fc03ba0b6baa2b"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "200c69af6dfe0299",
@@ -48,8 +36,7 @@
               "state": {
                 "file": "MyBatis/240412_수업정리_MyBatis시작.md"
               }
-            },
-            "group": "72fc03ba0b6baa2b"
+            }
           }
         ]
       }
@@ -175,6 +162,7 @@
   },
   "active": "be43e961d1fd2370",
   "lastOpenFiles": [
+    "image/Pasted image 20240412161449.png",
     "image/Pasted image 20240412160630.png",
     "image/Pasted image 20240412151435.png",
     "image/Pasted image 20240412150555.png",
@@ -185,7 +173,6 @@
     "image/Pasted image 20240412142536.png",
     "image/Pasted image 20240412142343.png",
     "image/Pasted image 20240412140550.png",
-    "image/Pasted image 20240412124926.png",
     "공부재료/240411_제출해야 할 것.md",
     "MyBatis/240412_수업정리_MyBatis시작.md",
     "MyBatis",
