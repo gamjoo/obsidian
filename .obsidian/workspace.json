@@ -9,12 +9,25 @@
         "dimension": 87.92270531400966,
         "children": [
           {
-            "id": "be43e961d1fd2370",
+            "id": "06c6d3e8d5598f42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "일정정리/240413_일정정리.md",
+                "file": "일정정리/240413_일정정리(24년 15주차).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3890fc83314c0d58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "일정정리/240411_제출해야 할 것.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +47,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "일정정리/240413_일정정리.md"
+                "file": "일정정리/240413_일정정리(24년 15주차).md"
               }
             }
           }
@@ -113,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "일정정리/240413_일정정리.md",
+                "file": "일정정리/240413_일정정리(24년 15주차).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "일정정리/240413_일정정리.md"
+                "file": "일정정리/240413_일정정리(24년 15주차).md"
               }
             }
           }
@@ -159,10 +172,17 @@
       "random-note:랜덤 노트 열기": false
     }
   },
-  "active": "be43e961d1fd2370",
+  "active": "06c6d3e8d5598f42",
   "lastOpenFiles": [
+    "image/240411_멘토링.txt",
+    "공부재료/240413_Gradle.md",
+    "공부재료/자바정석basic/자바정석basic_p209연습문제5.md",
+    "일정정리/240411_제출해야 할 것.md",
+    "공부재료/240413_Maven.md",
+    "공부재료/자바정석basic/자바정석basic_p210연습문제6.md",
+    "일정정리/240413_일정정리(24년 15주차).md",
+    "공부재료/자바정석basic",
     "MyBatis/240412_수업정리_MyBatis시작.md",
-    "일정정리/240413_일정정리.md",
     "일정정리",
     "image/Pasted image 20240412173746.png",
     "image/Pasted image 20240412172143.png",
@@ -174,7 +194,6 @@
     "image/Pasted image 20240412160630.png",
     "image/Pasted image 20240412151435.png",
     "image/Pasted image 20240412150555.png",
-    "공부재료/240411_제출해야 할 것.md",
     "MyBatis",
     "공부재료/240401_해보고싶은 것.md",
     "JavaScript/240219_수업정리_JS시작.md",
@@ -194,11 +213,6 @@
     "Servlet JSP/240311_수업정리.md",
     "Java/240201_수업정리.md",
     "JavaScript/240226_수업정리_JS끝.md",
-    "jQuery/240227_수업정리.md",
-    "Java/240125_수업정리.md",
-    "CSS/240219_수업정리_끝.md",
-    "Ajax/240314_수업정리.md",
-    "Ajax/240315_수업정리.md",
     "image/깃수업.pdf",
     "git"
   ]
