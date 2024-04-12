@@ -35,3 +35,4 @@ https://mvnrepository.com/artifact/org.mybatis/mybatis/3.5.15
 
 ## MemberDao
 ![](../image/Pasted%20image%2020240412113332.png)
+![](../image/Pasted%20image%2020240412113619.png)
