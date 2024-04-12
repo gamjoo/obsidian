@@ -31,3 +31,7 @@ https://mvnrepository.com/artifact/org.mybatis/mybatis/3.5.15
 ## JoinProAction.java
 ![](../image/Pasted%20image%2020240412112052.png)
 ★17~18 : 파라미터name / property /  테이블 컬럼 : 3가지가 동일하면 스프링에서는 생략되는 것들이 많아진다.
+
+
+## MemberDao
+![](../image/Pasted%20image%2020240412113332.png)
