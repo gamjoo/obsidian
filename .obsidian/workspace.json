@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "공부재료/240411_제출해야 할 것.md",
+                "file": "MyBatis/240412_수업정리_MyBatis시작.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "공부재료/240411_제출해야 할 것.md",
+                "file": "MyBatis/240412_수업정리_MyBatis시작.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "공부재료/240411_제출해야 할 것.md"
+                "file": "MyBatis/240412_수업정리_MyBatis시작.md"
               }
             }
           }
@@ -143,8 +143,13 @@
   },
   "active": "af610a4ec973b058",
   "lastOpenFiles": [
-    "공부재료/240401_해보고싶은 것.md",
+    "image/Pasted image 20240412091021.png",
+    "image/Pasted image 20240412090941.png",
+    "image/Pasted image 20240412090917.png",
     "공부재료/240411_제출해야 할 것.md",
+    "MyBatis/240412_수업정리_MyBatis시작.md",
+    "MyBatis",
+    "공부재료/240401_해보고싶은 것.md",
     "image/Pasted image 20240411174337.png",
     "JavaScript/240219_수업정리_JS시작.md",
     "아이디어/240214_포트폴리오특강.md",
@@ -169,7 +174,6 @@
     "CSS/240219_수업정리_끝.md",
     "Ajax/240314_수업정리.md",
     "Ajax/240315_수업정리.md",
-    "Ajax/240318~240320_수업정리.md",
     "image/Pasted image 20240327094535.png",
     "image/Pasted image 20240326001242.png",
     "image/Pasted image 20240325234841.png",
@@ -177,8 +181,6 @@
     "image/Pasted image 20240325233244.png",
     "image/깃수업.pdf",
     "image/Pasted image 20240325140727.png",
-    "image/Pasted image 20240325140605.png",
-    "image/Pasted image 20240325140550.png",
     "git"
   ]
 }

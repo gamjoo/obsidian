@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "240412_수업정리_MyBatis시작",
+      "path": "MyBatis/240412_수업정리_MyBatis시작.md"
+    },
+    {
       "basename": "240411_제출해야 할 것",
       "path": "공부재료/240411_제출해야 할 것.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "240122 _수업정리",
       "path": "Oracle/240122 _수업정리.md"
-    },
-    {
-      "basename": "240119_수업정리",
-      "path": "Oracle/240119_수업정리.md"
     }
   ],
   "omittedPaths": [],
