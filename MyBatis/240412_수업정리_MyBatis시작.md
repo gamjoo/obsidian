@@ -77,3 +77,8 @@ https://mvnrepository.com/artifact/org.mybatis/mybatis/3.5.15
 ![](../image/Pasted%20image%2020240412150555.png)
 ![](../image/Pasted%20image%2020240412151435.png)
 
+
+## LoginProAction.java
+![](../image/Pasted%20image%2020240412160630.png)
+(시험문제) HttpServletResponse
+(시험문제) request.getParameter("")
