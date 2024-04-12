@@ -67,3 +67,6 @@ https://mvnrepository.com/artifact/org.mybatis/mybatis/3.5.15
 
 ### memberDao_설명
 ![](../image/Pasted%20image%2020240412144020.png)
+
+## MemberDao(3)
+![](../image/Pasted%20image%2020240412144404.png)
