@@ -34,3 +34,7 @@ https://mvnrepository.com/artifact/org.mybatis/mybatis/3.5.15
 
 ## loginForm.jsp
 ![](../image/Pasted%20image%2020240412100950.png)
+
+
+## joinForm.jsp
+![](../image/Pasted%20image%2020240412101849.png)

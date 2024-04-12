@@ -99,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c616556be8acbe6b",
@@ -164,6 +163,9 @@
   },
   "active": "af610a4ec973b058",
   "lastOpenFiles": [
+    "image/Pasted image 20240412101849.png",
+    "공부재료/240411_제출해야 할 것.md",
+    "MyBatis/240412_수업정리_MyBatis시작.md",
     "image/Pasted image 20240412100950.png",
     "image/Pasted image 20240412094917.png",
     "image/Pasted image 20240412094252.png",
@@ -174,9 +176,6 @@
     "image/Pasted image 20240412091855.png",
     "image/Pasted image 20240412091824.png",
     "image/Pasted image 20240412091344.png",
-    "image/Pasted image 20240412091236.png",
-    "공부재료/240411_제출해야 할 것.md",
-    "MyBatis/240412_수업정리_MyBatis시작.md",
     "MyBatis",
     "공부재료/240401_해보고싶은 것.md",
     "JavaScript/240219_수업정리_JS시작.md",
