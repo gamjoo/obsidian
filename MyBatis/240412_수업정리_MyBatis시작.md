@@ -5,3 +5,11 @@
 ![](../image/Pasted%20image%2020240412091130.png)
 ![](../image/Pasted%20image%2020240412091236.png)
 ![](../image/Pasted%20image%2020240412091344.png)
+
+
+https://mybatis.org/mybatis-3/ko/index.html
+![](../image/Pasted%20image%2020240412091855.png)
+configuration
+![](../image/Pasted%20image%2020240412091824.png)
+mapper.. configuration 과 다르다.
+
