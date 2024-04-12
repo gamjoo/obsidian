@@ -57,5 +57,6 @@ https://mvnrepository.com/artifact/org.mybatis/mybatis/3.5.15
 ### member-설명
 ![](../image/Pasted%20image%2020240412123244.png)
 ![](../image/Pasted%20image%2020240412124926.png)![](../image/Pasted%20image%2020240412140550.png)
- ![](../image/Pasted%20image%2020240412142343.png)
+![](../image/Pasted%20image%2020240412142536.png)
+
  
