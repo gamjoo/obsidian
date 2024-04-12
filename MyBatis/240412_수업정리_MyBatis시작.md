@@ -38,3 +38,7 @@ https://mvnrepository.com/artifact/org.mybatis/mybatis/3.5.15
 
 ## joinForm.jsp
 ![](../image/Pasted%20image%2020240412101849.png)
+
+
+## MainAction.java
+![](../image/Pasted%20image%2020240412103229.png)
