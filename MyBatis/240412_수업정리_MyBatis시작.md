@@ -28,19 +28,6 @@ https://mvnrepository.com/artifact/org.mybatis/mybatis/3.5.15
 ★계층 간(Controller, View, Business Layer) 데이터 교환을 위한 Java Bean을 의미한다. DTO는 로직을 가지지 않는 데이터 객체이고, getter / setter 메소드만 가진 클래스를 의미한다.
 
 
-## main.jsp
-![](../image/Pasted%20image%2020240412094917.png)
-
-
-## loginForm.jsp
-![](../image/Pasted%20image%2020240412100950.png)
-
-
-## joinForm.jsp
-![](../image/Pasted%20image%2020240412101849.png)
-
-
-## MainAction.java
-![](../image/Pasted%20image%2020240412103229.png)
-
-
+## JoinProAction.java
+![](../image/Pasted%20image%2020240412112052.png)
+★17~18 : 파라미터name / property /  테이블 컬럼 : 3가지가 동일하면 스프링에서는 생략되는 것들이 많아진다.
