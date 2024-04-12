@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MyBatis/240412_수업정리_MyBatis시작.md",
+                "file": "일정정리/240413_일정정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MyBatis/240412_수업정리_MyBatis시작.md"
+                "file": "일정정리/240413_일정정리.md"
               }
             }
           }
@@ -97,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c616556be8acbe6b",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MyBatis/240412_수업정리_MyBatis시작.md",
+                "file": "일정정리/240413_일정정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MyBatis/240412_수업정리_MyBatis시작.md"
+                "file": "일정정리/240413_일정정리.md"
               }
             }
           }
@@ -162,6 +161,9 @@
   },
   "active": "be43e961d1fd2370",
   "lastOpenFiles": [
+    "MyBatis/240412_수업정리_MyBatis시작.md",
+    "일정정리/240413_일정정리.md",
+    "일정정리",
     "image/Pasted image 20240412173746.png",
     "image/Pasted image 20240412172143.png",
     "image/Pasted image 20240412170430.png",
@@ -172,9 +174,7 @@
     "image/Pasted image 20240412160630.png",
     "image/Pasted image 20240412151435.png",
     "image/Pasted image 20240412150555.png",
-    "image/Pasted image 20240412144811.png",
     "공부재료/240411_제출해야 할 것.md",
-    "MyBatis/240412_수업정리_MyBatis시작.md",
     "MyBatis",
     "공부재료/240401_해보고싶은 것.md",
     "JavaScript/240219_수업정리_JS시작.md",
