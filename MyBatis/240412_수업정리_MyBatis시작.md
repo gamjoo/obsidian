@@ -19,4 +19,8 @@ mapper.. configuration 과 다르다.
 
 ![](../image/Pasted%20image%2020240412092152.png)
 ★3.5.15의 jar 파일
+![](../image/240412_Image20240412092211.png)
+![](../image/Pasted%20image%2020240412094133.png)
 
+## DTO 클래스
+![](../image/Pasted%20image%2020240412094252.png)
