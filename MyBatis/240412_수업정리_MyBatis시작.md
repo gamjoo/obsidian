@@ -101,3 +101,6 @@ https://mvnrepository.com/artifact/org.mybatis/mybatis/3.5.15
 ![](../image/Pasted%20image%2020240412170430.png)
 ★id="list"
 
+
+## list.jsp
+![](../image/Pasted%20image%2020240412172143.png)
