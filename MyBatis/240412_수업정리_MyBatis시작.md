@@ -72,5 +72,5 @@ https://mvnrepository.com/artifact/org.mybatis/mybatis/3.5.15
 ![](../image/Pasted%20image%2020240412144404.png)
 
 
-## member.xml
+## member.xml (mapper파일 작)
 ![](../image/Pasted%20image%2020240412144811.png)
