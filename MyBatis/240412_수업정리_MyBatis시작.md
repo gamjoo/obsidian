@@ -70,10 +70,12 @@ https://mvnrepository.com/artifact/org.mybatis/mybatis/3.5.15
 
 ### sqlMapConfig설명.xml
 ![](../image/Pasted%20image%2020240412120156.png)
+★xml 기술을 사용하여 작성하기 때문에 제일 먼저 xml 선언과 태그 규칙을 정의한 DTD선언을 한다. DTD란 문서 형식 정의(Document Type Definition, DTD)라는 컴퓨터 용어로, SGML(Standard Generalized Markup Language) 계열의 마크업 언어에서 문서 형식을 정의하는 것이다. SGML을 비롯해 HTML, XHTML, XML 등에서 쓰인다.
+★\<configuration>\</configuration> : 
 ![](../image/Pasted%20image%2020240412121209.png)
 ![](../image/Pasted%20image%2020240412121902.png)
 ![](../image/Pasted%20image%2020240412122152.png)
-★xml 기술을 사용하여 작성하기 때문에 제일 먼저 xml 선언과 태그 규칙을 정의한 DTD선언을 한다. DTD란 문서 형식 정의(Document Type Definition, DTD)라는 컴퓨터 용어로, SGML 계열의 마크업 언어에서 문서 형식을 정의하는 것이다.
+
 
 ## member.xml
 ![](../image/Pasted%20image%2020240412122746.png)
