@@ -16,9 +16,20 @@
 - 자바 메서드와 SQL문을 연결하는 SQL 매핑 프레임워크
 - JDBC 코드를 캡슐화하여 DB 프로그래밍을 단순화 시킴
 - 자바 소스에서 SQL을 분리하여 관리함
-- SQL을 개발자가 직접 제어 -> DBMS의 고유기능 사용 -> 최적
+- SQL을 개발자가 직접 제어 -> DBMS의 고유기능 사용 -> 최적화
+- 배우기 쉽고 빠르게 적용할 수 있다
 ![](../image/Pasted%20image%2020240412091344.png)
-
+★Mybatis 핵심 컴포넌트
+- SqlSession
+  - SQL을 실행하는 객체. SQL을 처리하기 위해 JDBC드라이버를 사용한다.
+- SqlSessionFactory
+  - SqlSession 객체를 생성한다.
+- SqlSessionFactoryBuilder
+  - mybatis 설정 파일의 내용을 토대로 SqlSessionFactory 객체를 생성한다.
+- mybatis 설정 파일
+  - DB연결 정보, 트랜잭션 정보, mybatis 제어 정보 등의 설정 내용을 포함하고 있다. SqlSessionFactory를 만들 때 사용한다.
+- SQL 맵퍼 파일
+  - SQL문을 담고 있는 파일. SqlSession 객체가 참조한다.
 
 https://mybatis.org/mybatis-3/ko/index.html
 ![](../image/Pasted%20image%2020240412091855.png)
