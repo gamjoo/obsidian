@@ -48,7 +48,8 @@ https://mvnrepository.com/artifact/org.mybatis/mybatis/3.5.15
 
 ## DTO 클래스(Data Transfer Object)
 ![](../image/Pasted%20image%2020240412094252.png)
-★계층 간(Controller, View, Business Layer) 데이터 교환을 위한 Java Bean을 의미한다. DTO는 로직을 가지지 않는 데이터 객체이고, getter / setter 메소드만 가진 클래스를 의미한다.
+★DTO(Data Transfer Object)
+- 계층 간(Controller, View, Business Layer) 데이터 교환을 위한 Java Bean을 의미한다. DTO는 로직을 가지지 않는 데이터 객체이고, getter / setter 메소드만 가진 클래스를 의미한다.
 
 
 ## JoinProAction.java
@@ -58,7 +59,7 @@ https://mvnrepository.com/artifact/org.mybatis/mybatis/3.5.15
 
 ## MemberDao
 ![](../image/Pasted%20image%2020240412113332.png)
-
+★SqlSession session 
 ## sqlMapConfig.xml
 ★https://mybatis.org/mybatis-3/ko/getting-started.html
 ![](../image/Pasted%20image%2020240412113619.png)
