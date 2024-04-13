@@ -59,7 +59,9 @@ https://mvnrepository.com/artifact/org.mybatis/mybatis/3.5.15
 
 ## MemberDao
 ![](../image/Pasted%20image%2020240412113332.png)
-★SqlSession session 
+★Reader reader = Resource.getResourceAsReader("org/hta/mybatis/config/sqlMapConfig.xml")
+★SqlSessionFactory sf = new SqlSessionFactoryBuilder( ).build(reader)
+★SqlSession session = sf.openSession(true)
 ## sqlMapConfig.xml
 ★https://mybatis.org/mybatis-3/ko/getting-started.html
 ![](../image/Pasted%20image%2020240412113619.png)
