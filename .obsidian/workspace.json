@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "일정정리/240413_일정정리(24년 15주차).md",
+                "file": "MyBatis/240412_수업정리_MyBatis시작.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +47,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "일정정리/240413_일정정리(24년 15주차).md"
+                "file": "MyBatis/240412_수업정리_MyBatis시작.md"
               }
             }
           }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "일정정리/240413_일정정리(24년 15주차).md",
+                "file": "MyBatis/240412_수업정리_MyBatis시작.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "일정정리/240413_일정정리(24년 15주차).md"
+                "file": "MyBatis/240412_수업정리_MyBatis시작.md"
               }
             }
           }
@@ -174,13 +174,13 @@
   },
   "active": "06c6d3e8d5598f42",
   "lastOpenFiles": [
+    "일정정리/240413_일정정리(24년 15주차).md",
     "image/240411_멘토링.txt",
     "공부재료/240413_Gradle.md",
     "공부재료/자바정석basic/자바정석basic_p209연습문제5.md",
     "일정정리/240411_제출해야 할 것.md",
     "공부재료/240413_Maven.md",
     "공부재료/자바정석basic/자바정석basic_p210연습문제6.md",
-    "일정정리/240413_일정정리(24년 15주차).md",
     "공부재료/자바정석basic",
     "MyBatis/240412_수업정리_MyBatis시작.md",
     "일정정리",

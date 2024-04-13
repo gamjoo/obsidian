@@ -1,10 +1,22 @@
-# MyBatis
 ![](../image/Pasted%20image%2020240412090917.png)
 ★select 에서만 resultType 속성이 존재한다.
+
+# 퍼시스턴스 프레임워크 (Persistence framework)
 ![](../image/Pasted%20image%2020240412090941.png)
 ![](../image/Pasted%20image%2020240412091021.png)
+★퍼시스턴스(Persistence) : 데이터의 지속성. 애플리케이션을 종료하고 다시 실행하더라도 이전에 저장한 데이터를 다시 불러올 수 있는 기술.
+★프레임워크(Framework) : 라이브러리가 개발에 필요한 도구들을 단순히 나열해 놓은 것이라면, 프레임워크는 동작에 필요한 구조를 어느 정도 완성해 놓은 반제품 형태의 도구.
 ![](../image/Pasted%20image%2020240412091130.png)
+★SQL맵퍼(mapper) : SQL 문장으로 직접 DB 데이터를 다룬다. eg)mybatis
+★객체 관계 맵퍼(Object-Relational mapper) : 자바 객체를 통해 간접적으로 DB데이터를 다룬다. eg)하이버네이트(Hibernate)와 탑링크(TopLink)
+- 프레임워크에서 제공하는 API 전용 객체 질의어를 사용하여 데이터를 다룬다.
 ![](../image/Pasted%20image%2020240412091236.png)
+★mybatis
+- 퍼시스턴스 프레임워크의 일종
+- 자바 메서드와 SQL문을 연결하는 SQL 매핑 프레임워크
+- JDBC 코드를 캡슐화하여 DB 프로그래밍을 단순화 시킴
+- 자바 소스에서 SQL을 분리하여 관리함
+- SQL을 개발자가 직접 제어 -> DBMS의 고유기능 사용 -> 최적
 ![](../image/Pasted%20image%2020240412091344.png)
 
 
