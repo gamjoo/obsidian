@@ -1,16 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "240414_세미프로젝트정리",
+      "path": "idea/240414_세미프로젝트정리.md"
+    },
+    {
+      "basename": "240411_제출해야 할 것",
+      "path": "일정정리/240411_제출해야 할 것.md"
+    },
+    {
+      "basename": "money•appearance and power",
+      "path": "idea/money•appearance and power.md"
+    },
+    {
+      "basename": "240214_포트폴리오특강",
+      "path": "idea/240214_포트폴리오특강.md"
+    },
+    {
+      "basename": "라이프코드 강연",
+      "path": "idea/라이프코드 강연.md"
+    },
+    {
+      "basename": "Shadow of love",
+      "path": "idea/Shadow of love.md"
+    },
+    {
+      "basename": "Power of Love",
+      "path": "idea/Power of Love.md"
+    },
+    {
+      "basename": "240330_다수첨부파일",
+      "path": "문제상황/240330_다수첨부파일.md"
+    },
+    {
       "basename": "240307_수업정리",
       "path": "Servlet JSP/240307_수업정리.md"
     },
     {
       "basename": "240413_일정정리(24년 15주차)",
       "path": "일정정리/240413_일정정리(24년 15주차).md"
-    },
-    {
-      "basename": "240411_제출해야 할 것",
-      "path": "일정정리/240411_제출해야 할 것.md"
     },
     {
       "basename": "240412_수업정리_MyBatis시작",
@@ -39,10 +67,6 @@
     {
       "basename": "240219_수업정리_JS시작",
       "path": "JavaScript/240219_수업정리_JS시작.md"
-    },
-    {
-      "basename": "240214_포트폴리오특강",
-      "path": "아이디어/240214_포트폴리오특강.md"
     },
     {
       "basename": "240215_수업정리_CSS시작",
@@ -149,10 +173,6 @@
       "path": "jQuery/240226_수업정리_jQuery시작.md"
     },
     {
-      "basename": "240330_다수첨부파일",
-      "path": "문제상황/240330_다수첨부파일.md"
-    },
-    {
       "basename": "240129_수업정리",
       "path": "Java/240129_수업정리.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "240314_JDBC드라이버",
       "path": "문제상황/240314_JDBC드라이버.md"
-    },
-    {
-      "basename": "240325_JSON데이터",
-      "path": "문제상황/240325_JSON데이터.md"
-    },
-    {
-      "basename": "240326_알라딘서버에 ajax",
-      "path": "공부재료/240326_알라딘서버에 ajax.md"
-    },
-    {
-      "basename": "240228_수업정리",
-      "path": "jQuery/240228_수업정리.md"
-    },
-    {
-      "basename": "240213_수업정리(240208_과제_solution포함)_JDBC끝",
-      "path": "Java/JDBC/240213_수업정리(240208_과제_solution포함)_JDBC끝.md"
-    },
-    {
-      "basename": "240312 ~ 240313 수업정리",
-      "path": "Servlet JSP/240312 ~ 240313 수업정리.md"
     }
   ],
   "omittedPaths": [],

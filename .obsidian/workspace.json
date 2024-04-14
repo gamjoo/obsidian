@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Servlet JSP/240307_수업정리.md",
+                "file": "idea/240414_세미프로젝트정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +47,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servlet JSP/240307_수업정리.md"
+                "file": "idea/240414_세미프로젝트정리.md"
               }
             }
           }
@@ -106,11 +106,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 251.5
   },
   "right": {
     "id": "c616556be8acbe6b",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servlet JSP/240307_수업정리.md",
+                "file": "idea/240414_세미프로젝트정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servlet JSP/240307_수업정리.md"
+                "file": "idea/240414_세미프로젝트정리.md"
               }
             }
           }
@@ -172,10 +172,18 @@
       "random-note:랜덤 노트 열기": false
     }
   },
-  "active": "c987a77b77e4baab",
+  "active": "06c6d3e8d5598f42",
   "lastOpenFiles": [
-    "일정정리/240413_일정정리(24년 15주차).md",
     "일정정리/240411_제출해야 할 것.md",
+    "idea/240414_세미프로젝트정리.md",
+    "idea/money•appearance and power.md",
+    "idea/240214_포트폴리오특강.md",
+    "idea/라이프코드 강연.md",
+    "idea/Shadow of love.md",
+    "idea/Power of Love.md",
+    "문제상황/240330_다수첨부파일.md",
+    "Servlet JSP/240307_수업정리.md",
+    "일정정리/240413_일정정리(24년 15주차).md",
     "MyBatis/240412_수업정리_MyBatis시작.md",
     "MyBatis/Mybatis정리.md",
     "image/240411_멘토링.txt",
@@ -198,7 +206,6 @@
     "MyBatis",
     "공부재료/240401_해보고싶은 것.md",
     "JavaScript/240219_수업정리_JS시작.md",
-    "아이디어/240214_포트폴리오특강.md",
     "CSS/240215_수업정리_CSS시작.md",
     "CSS/240216_수업정리.md",
     "문제상황/240402_톰캣오류.md",
@@ -207,13 +214,6 @@
     "CSS/240215_과제.md",
     "Servlet JSP/240304_수업정리.md",
     "HTML/240214_수업정리.md",
-    "JavaScript/240222_수업정리.md",
-    "JavaScript/240221_수업정리.md",
-    "HTML/240215_수업정리_HTML끝.md",
-    "JavaScript/240223_수업정리.md",
-    "Servlet JSP/240311_수업정리.md",
-    "Java/240201_수업정리.md",
-    "JavaScript/240226_수업정리_JS끝.md",
     "image/깃수업.pdf",
     "git"
   ]
