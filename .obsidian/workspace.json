@@ -6,7 +6,7 @@
       {
         "id": "16b00d796fa42f19",
         "type": "tabs",
-        "dimension": 72.82608695652173,
+        "dimension": 71.18155619596543,
         "children": [
           {
             "id": "06c6d3e8d5598f42",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "일정정리/240413_일정정리(24년 15주차).md",
+                "file": "멘토링/240411_멘토링과제.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -39,7 +39,7 @@
       {
         "id": "200c69af6dfe0299",
         "type": "tabs",
-        "dimension": 27.17391304347826,
+        "dimension": 28.818443804034583,
         "children": [
           {
             "id": "c987a77b77e4baab",
@@ -47,7 +47,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "일정정리/240413_일정정리(24년 15주차).md"
+                "file": "멘토링/240411_멘토링과제.md"
               }
             }
           }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "일정정리/240413_일정정리(24년 15주차).md",
+                "file": "멘토링/240411_멘토링과제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "일정정리/240413_일정정리(24년 15주차).md"
+                "file": "멘토링/240411_멘토링과제.md"
               }
             }
           }
@@ -174,9 +174,11 @@
   },
   "active": "06c6d3e8d5598f42",
   "lastOpenFiles": [
-    "idea/240414_세미프로젝트회고.md",
     "일정정리/240413_일정정리(24년 15주차).md",
     "일정정리/240411_제출해야 할 것.md",
+    "멘토링/240411_멘토링과제.md",
+    "멘토링",
+    "idea/240414_세미프로젝트회고.md",
     "문제상황/240330_다수첨부파일.md",
     "문제상황/240402_톰캣오류.md",
     "공부재료/240401_해보고싶은 것.md",
