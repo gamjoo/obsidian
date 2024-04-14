@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "idea/240414_세미프로젝트정리.md",
+                "file": "idea/240414_세미프로젝트회고.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -39,7 +39,7 @@
       {
         "id": "200c69af6dfe0299",
         "type": "tabs",
-        "dimension": 27.173913043478258,
+        "dimension": 27.17391304347826,
         "children": [
           {
             "id": "c987a77b77e4baab",
@@ -47,7 +47,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "idea/240414_세미프로젝트정리.md"
+                "file": "idea/240414_세미프로젝트회고.md"
               }
             }
           }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "idea/240414_세미프로젝트정리.md",
+                "file": "idea/240414_세미프로젝트회고.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "idea/240414_세미프로젝트정리.md"
+                "file": "idea/240414_세미프로젝트회고.md"
               }
             }
           }
@@ -174,16 +174,21 @@
   },
   "active": "06c6d3e8d5598f42",
   "lastOpenFiles": [
+    "일정정리/240413_일정정리(24년 15주차).md",
     "일정정리/240411_제출해야 할 것.md",
-    "idea/240414_세미프로젝트정리.md",
+    "문제상황/240330_다수첨부파일.md",
+    "문제상황/240402_톰캣오류.md",
+    "공부재료/240401_해보고싶은 것.md",
+    "idea/240414_세미프로젝트회고.md",
+    "image/Pasted image 20240414160245.png",
+    "image/Pasted image 20240414160204.png",
+    "image/Pasted image 20240414160145.png",
     "idea/money•appearance and power.md",
     "idea/240214_포트폴리오특강.md",
     "idea/라이프코드 강연.md",
     "idea/Shadow of love.md",
     "idea/Power of Love.md",
-    "문제상황/240330_다수첨부파일.md",
     "Servlet JSP/240307_수업정리.md",
-    "일정정리/240413_일정정리(24년 15주차).md",
     "MyBatis/240412_수업정리_MyBatis시작.md",
     "MyBatis/Mybatis정리.md",
     "image/240411_멘토링.txt",
@@ -200,20 +205,14 @@
     "image/Pasted image 20240412164457.png",
     "image/Pasted image 20240412163745.png",
     "image/Pasted image 20240412161449.png",
-    "image/Pasted image 20240412160630.png",
-    "image/Pasted image 20240412151435.png",
-    "image/Pasted image 20240412150555.png",
     "MyBatis",
-    "공부재료/240401_해보고싶은 것.md",
     "JavaScript/240219_수업정리_JS시작.md",
     "CSS/240215_수업정리_CSS시작.md",
     "CSS/240216_수업정리.md",
-    "문제상황/240402_톰캣오류.md",
     "Servlet JSP/240306_수업정리.md",
     "Servlet JSP/240305_수업정리.md",
     "CSS/240215_과제.md",
     "Servlet JSP/240304_수업정리.md",
-    "HTML/240214_수업정리.md",
     "image/깃수업.pdf",
     "git"
   ]
