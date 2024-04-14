@@ -73,7 +73,25 @@ https://mvnrepository.com/artifact/org.mybatis/mybatis/3.5.15
 ![](../image/Pasted%20image%2020240412121209.png)
 ![](../image/Pasted%20image%2020240412121902.png)
 ![](../image/Pasted%20image%2020240412122152.png)
-
+★XML 기술을 사용하여 작성하기 때문에 제일 먼저 XML 선언과 태그 규칙을 정의한 DTD 선언이 온다. DTD란 문서 형식 정의(Document Type Definition, DTD) 라는 컴퓨터 용어로, SGML(Standard Generalized Markup Language) 계열의 마크업 언어에서 문서 형식을 정의하는 것이다. SGML을 비롯해 HTML, XHTML, XML 등에서 쓰인다.
+★\<configuration> 엘리먼트 : mybatis 설정 파일의 루트 엘리먼트
+★\<typeAliases> 엘리먼트 : typeAliases 엘리먼트. 자바 클래스 이름(패키지 포함)에 대한 별칭을 설정하는데 SQL 맵퍼 파일에서 사용할 별칭들이다.
+- type 속성값 : 패키지 이름을 포함한 클래스 이름.
+- alias 속성값 : type에서 지정한 클래스의 별칭.
+★\<environments>엘리먼트 : 프레임워크에서 사용할 데이터베이스 정보(트랜잭션 관리자, 데이터 소스)를 설정한다. 이 태그를 이용하면 여러 개의 데이터베이스 접속 정보를 설정할 수 있다. 설정된 정보 중에서 하나를 선택할 때 default 속성을 사용한다.
+- \<environment> 엘리먼트 : 각각의 데이터베이스 접속 정보를 정의한다. id속성은 \<environment>를 구분할 때 사용할 식별자다.
+★\<transactionManager> 엘리먼트 : 트랜잭션 관리 유형 2가지. type에서 설정한다.
+- (1)JDBC : 직접 JDBC의 commit, rollback 기능을 사용하여 mybatis 자체에서 트랜잭션을 관리한다.
+- (2)MANAGED : Java EE 애플리케이션 서버(JBoss, WebLogic, WebShpere)나 서블릿 컨테이너(톰캣 서버)에서 트랜잭션을 관리한다.
+★\<dataSource> 엘리먼트 : mybatis는 JDBC 표준 인터페이스인 javax.sql.DataSource 구현체를 이용하여 DB connection을 다룬다.
+- \<dataSource type="POOLED">
+-   \<property name="driver" value="oracle.jdbc.drvier.OracleDriver" />
+-   \<property name="url" value="jdbc:oracle:thin:@localhost:1521:xe"/>
+-   \<property name="username" value="scott"/>
+-   \<property name="password" value="tiger"/>
+- \<dataSource>
+★\<mappers> 엘리먼트 : SQL맵퍼 파일들의 정보를 설정할 때 사용한다. 각각의 SQL맵퍼 파일의 정보는 \<mapper>태그로 정의한다. 자바의 클래스 경로를 사용하는 방법으로 resource 속성을 사용한다.
+- \<mapper resource="org/hta/mybatis/mapper/member.xml"/>
 
 ## member.xml
 ![](../image/Pasted%20image%2020240412122746.png)

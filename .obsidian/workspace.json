@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "멘토링/240411_멘토링과제.md",
+                "file": "MyBatis/240412_수업정리_MyBatis시작.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +47,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "멘토링/240411_멘토링과제.md"
+                "file": "MyBatis/240412_수업정리_MyBatis시작.md"
               }
             }
           }
@@ -110,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c616556be8acbe6b",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "멘토링/240411_멘토링과제.md",
+                "file": "MyBatis/240412_수업정리_MyBatis시작.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "멘토링/240411_멘토링과제.md"
+                "file": "MyBatis/240412_수업정리_MyBatis시작.md"
               }
             }
           }
@@ -174,18 +175,18 @@
   },
   "active": "06c6d3e8d5598f42",
   "lastOpenFiles": [
+    "idea/240414_세미프로젝트회고.md",
+    "idea/money•appearance and power.md",
+    "멘토링/240411_멘토링과제.md",
     "일정정리/240413_일정정리(24년 15주차).md",
     "일정정리/240411_제출해야 할 것.md",
-    "멘토링/240411_멘토링과제.md",
     "멘토링",
-    "idea/240414_세미프로젝트회고.md",
     "문제상황/240330_다수첨부파일.md",
     "문제상황/240402_톰캣오류.md",
     "공부재료/240401_해보고싶은 것.md",
     "image/Pasted image 20240414160245.png",
     "image/Pasted image 20240414160204.png",
     "image/Pasted image 20240414160145.png",
-    "idea/money•appearance and power.md",
     "idea/240214_포트폴리오특강.md",
     "idea/라이프코드 강연.md",
     "idea/Shadow of love.md",
