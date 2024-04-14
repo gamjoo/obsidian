@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "240412_수업정리_MyBatis시작",
-      "path": "MyBatis/240412_수업정리_MyBatis시작.md"
+      "basename": "240307_수업정리",
+      "path": "Servlet JSP/240307_수업정리.md"
     },
     {
       "basename": "240413_일정정리(24년 15주차)",
       "path": "일정정리/240413_일정정리(24년 15주차).md"
+    },
+    {
+      "basename": "240411_제출해야 할 것",
+      "path": "일정정리/240411_제출해야 할 것.md"
+    },
+    {
+      "basename": "240412_수업정리_MyBatis시작",
+      "path": "MyBatis/240412_수업정리_MyBatis시작.md"
     },
     {
       "basename": "240413_Gradle",
@@ -15,10 +23,6 @@
     {
       "basename": "자바정석basic_p209연습문제5",
       "path": "공부재료/자바정석basic/자바정석basic_p209연습문제5.md"
-    },
-    {
-      "basename": "240411_제출해야 할 것",
-      "path": "일정정리/240411_제출해야 할 것.md"
     },
     {
       "basename": "240413_Maven",
