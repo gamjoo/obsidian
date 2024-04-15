@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "240411_멘토링과제",
+      "path": "멘토링/240411_멘토링과제.md"
+    },
+    {
       "basename": "240415_수업정리(스프링시작)",
       "path": "Spring/240415_수업정리(스프링시작).md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "240412_수업정리_MyBatis시작",
       "path": "MyBatis/240412_수업정리_MyBatis시작.md"
-    },
-    {
-      "basename": "240411_멘토링과제",
-      "path": "멘토링/240411_멘토링과제.md"
     },
     {
       "basename": "240415_수업정리(mybatis끝)",

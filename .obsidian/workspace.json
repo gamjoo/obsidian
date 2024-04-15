@@ -4,40 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4e3deffa8c1ca46b",
+        "id": "655a845bc138f0d6",
         "type": "tabs",
-        "dimension": 71.26436781609196,
         "children": [
           {
-            "id": "c1f75745c8525505",
+            "id": "e155367c9f0ae806",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/240415_수업정리(스프링시작).md",
+                "file": "멘토링/240411_멘토링과제.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "47d3bb7b39ff5502",
-        "type": "tabs",
-        "dimension": 28.735632183908045,
-        "children": [
-          {
-            "id": "c6da9d94db17b0b0",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Servlet JSP/240312 ~ 240313 수업정리.md"
-              }
-            },
-            "group": "b7a88a49f9140046"
           }
         ]
       }
@@ -76,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "MVC",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -114,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/240415_수업정리(스프링시작).md",
+                "file": "멘토링/240411_멘토링과제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/240415_수업정리(스프링시작).md"
+                "file": "멘토링/240411_멘토링과제.md"
               }
             }
           }
@@ -160,50 +141,11 @@
       "random-note:랜덤 노트 열기": false
     }
   },
-  "floating": {
-    "id": "e90be3980833aa78",
-    "type": "floating",
-    "children": [
-      {
-        "id": "6ef4141a914f5dff",
-        "type": "window",
-        "children": [
-          {
-            "id": "e884cf2c3b4a9c2e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "414c6611c0ebed4e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Servlet JSP/240312 ~ 240313 수업정리.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                },
-                "group": "b7a88a49f9140046"
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 340,
-        "y": 9,
-        "width": 600,
-        "height": 909,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "c1f75745c8525505",
+  "active": "e155367c9f0ae806",
   "lastOpenFiles": [
+    "Spring/240415_수업정리(스프링시작).md",
     "Servlet JSP/240312 ~ 240313 수업정리.md",
     "Servlet JSP/240229_수업정리_서블릿 시작&끝.md",
-    "Spring/240415_수업정리(스프링시작).md",
     "MyBatis/240412_수업정리_MyBatis시작.md",
     "멘토링/240411_멘토링과제.md",
     "MyBatis/240415_수업정리(mybatis끝).md",
