@@ -6,6 +6,7 @@
   "translucency": true,
   "baseFontSize": 14,
   "enabledCssSnippets": [
-    "margin"
+    "margin",
+    "extended-colorschemes"
   ]
 }
