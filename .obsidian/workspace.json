@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MyBatis/240415_수업정리.md",
+                "file": "공부재료/240413_Gradle.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +47,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MyBatis/240415_수업정리.md"
+                "file": "공부재료/240413_Gradle.md"
               }
             }
           }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MyBatis/240415_수업정리.md",
+                "file": "공부재료/240413_Gradle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MyBatis/240415_수업정리.md"
+                "file": "공부재료/240413_Gradle.md"
               }
             }
           }
@@ -174,6 +174,7 @@
   },
   "active": "06c6d3e8d5598f42",
   "lastOpenFiles": [
+    "MyBatis/240415_수업정리.md",
     "image/Pasted image 20240415114921.png",
     "image/Pasted image 20240415114238.png",
     "image/Pasted image 20240415113621.png",
@@ -184,13 +185,11 @@
     "image/Pasted image 20240415111122.png",
     "image/Pasted image 20240415110516.png",
     "image/Pasted image 20240415103848.png",
-    "image/Image20240415103646.png",
     "MyBatis/240412_수업정리_MyBatis시작.md",
     "일정정리/240411_제출해야 할 것.md",
     "일정정리/240413_일정정리(24년 15주차).md",
     "idea/240214_포트폴리오특강.md",
     "idea/240414_세미프로젝트회고.md",
-    "MyBatis/240415_수업정리.md",
     "idea/money•appearance and power.md",
     "idea/Power of Love.md",
     "idea/Shadow of love.md",
