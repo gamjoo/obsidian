@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "240229_수업정리_서블릿 시작&끝",
+      "path": "Servlet JSP/240229_수업정리_서블릿 시작&끝.md"
+    },
+    {
       "basename": "240415_수업정리(스프링시작)",
       "path": "Spring/240415_수업정리(스프링시작).md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "240201_과제",
       "path": "Java/240201_과제.md"
-    },
-    {
-      "basename": "240308_수업정리",
-      "path": "Servlet JSP/240308_수업정리.md"
     }
   ],
   "omittedPaths": [],
