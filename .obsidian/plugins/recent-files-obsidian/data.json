@@ -1,12 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "240413_Gradle",
-      "path": "공부재료/240413_Gradle.md"
-    },
-    {
       "basename": "240415_수업정리",
       "path": "MyBatis/240415_수업정리.md"
+    },
+    {
+      "basename": "240215_수업정리_HTML끝",
+      "path": "HTML/240215_수업정리_HTML끝.md"
+    },
+    {
+      "basename": "240214_수업정리",
+      "path": "HTML/240214_수업정리.md"
+    },
+    {
+      "basename": "240213_수업정리_HTML시작",
+      "path": "HTML/240213_수업정리_HTML시작.md"
+    },
+    {
+      "basename": "Shadow of love",
+      "path": "idea/Shadow of love.md"
+    },
+    {
+      "basename": "240215_이클립스 에디터",
+      "path": "문제상황/240215_이클립스 에디터.md"
+    },
+    {
+      "basename": "240411_멘토링과제",
+      "path": "멘토링/240411_멘토링과제.md"
+    },
+    {
+      "basename": "240325_수업정리",
+      "path": "Ajax/240325_수업정리.md"
+    },
+    {
+      "basename": "240314_수업정리",
+      "path": "Ajax/240314_수업정리.md"
+    },
+    {
+      "basename": "240413_Gradle",
+      "path": "공부재료/240413_Gradle.md"
     },
     {
       "basename": "240412_수업정리_MyBatis시작",
@@ -35,14 +67,6 @@
     {
       "basename": "Power of Love",
       "path": "idea/Power of Love.md"
-    },
-    {
-      "basename": "Shadow of love",
-      "path": "idea/Shadow of love.md"
-    },
-    {
-      "basename": "240411_멘토링과제",
-      "path": "멘토링/240411_멘토링과제.md"
     },
     {
       "basename": "240330_다수첨부파일",
@@ -113,24 +137,12 @@
       "path": "JavaScript/240222_수업정리.md"
     },
     {
-      "basename": "240214_수업정리",
-      "path": "HTML/240214_수업정리.md"
-    },
-    {
       "basename": "240221_수업정리",
       "path": "JavaScript/240221_수업정리.md"
     },
     {
-      "basename": "240215_수업정리_HTML끝",
-      "path": "HTML/240215_수업정리_HTML끝.md"
-    },
-    {
       "basename": "240223_수업정리",
       "path": "JavaScript/240223_수업정리.md"
-    },
-    {
-      "basename": "240314_수업정리",
-      "path": "Ajax/240314_수업정리.md"
     },
     {
       "basename": "240311_수업정리",
@@ -187,18 +199,6 @@
     {
       "basename": "240329_drag drop 기능",
       "path": "공부재료/240329_drag drop 기능.md"
-    },
-    {
-      "basename": "240325_수업정리",
-      "path": "Ajax/240325_수업정리.md"
-    },
-    {
-      "basename": "240321~240322_수업정리",
-      "path": "Ajax/240321~240322_수업정리.md"
-    },
-    {
-      "basename": "240325_CORS",
-      "path": "문제상황/240325_CORS.md"
     }
   ],
   "omittedPaths": [],

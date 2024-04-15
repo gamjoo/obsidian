@@ -6,7 +6,7 @@
       {
         "id": "16b00d796fa42f19",
         "type": "tabs",
-        "dimension": 71.18155619596543,
+        "dimension": 71.26436781609196,
         "children": [
           {
             "id": "06c6d3e8d5598f42",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "공부재료/240413_Gradle.md",
+                "file": "MyBatis/240415_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -39,7 +39,7 @@
       {
         "id": "200c69af6dfe0299",
         "type": "tabs",
-        "dimension": 28.818443804034583,
+        "dimension": 28.735632183908045,
         "children": [
           {
             "id": "c987a77b77e4baab",
@@ -47,7 +47,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "공부재료/240413_Gradle.md"
+                "file": "MyBatis/240415_수업정리.md"
               }
             }
           }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "공부재료/240413_Gradle.md",
+                "file": "MyBatis/240415_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "공부재료/240413_Gradle.md"
+                "file": "MyBatis/240415_수업정리.md"
               }
             }
           }
@@ -174,6 +174,15 @@
   },
   "active": "06c6d3e8d5598f42",
   "lastOpenFiles": [
+    "HTML/240215_수업정리_HTML끝.md",
+    "HTML/240214_수업정리.md",
+    "HTML/240213_수업정리_HTML시작.md",
+    "idea/Shadow of love.md",
+    "문제상황/240215_이클립스 에디터.md",
+    "멘토링/240411_멘토링과제.md",
+    "Ajax/240325_수업정리.md",
+    "Ajax/240314_수업정리.md",
+    "공부재료/240413_Gradle.md",
     "MyBatis/240415_수업정리.md",
     "image/Pasted image 20240415114921.png",
     "image/Pasted image 20240415114238.png",
@@ -192,9 +201,6 @@
     "idea/240414_세미프로젝트회고.md",
     "idea/money•appearance and power.md",
     "idea/Power of Love.md",
-    "idea/Shadow of love.md",
-    "공부재료/240413_Gradle.md",
-    "멘토링/240411_멘토링과제.md",
     "멘토링",
     "문제상황/240330_다수첨부파일.md",
     "문제상황/240402_톰캣오류.md",
@@ -209,11 +215,6 @@
     "공부재료/자바정석basic",
     "일정정리",
     "MyBatis",
-    "JavaScript/240219_수업정리_JS시작.md",
-    "CSS/240215_수업정리_CSS시작.md",
-    "CSS/240216_수업정리.md",
-    "Servlet JSP/240306_수업정리.md",
-    "Servlet JSP/240305_수업정리.md",
     "image/깃수업.pdf",
     "git"
   ]
