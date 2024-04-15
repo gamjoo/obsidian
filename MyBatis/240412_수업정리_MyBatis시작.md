@@ -94,13 +94,18 @@ https://mvnrepository.com/artifact/org.mybatis/mybatis/3.5.15
 - \<mapper resource="org/hta/mybatis/mapper/member.xml"/>
 
 ## member.xml
-![](../image/Pasted%20image%2020240412122746.png)
+![](../image/Pasted%20image%2020240412123244.png)
 ★SQL 맵퍼 파일은 루트 앨리먼트 \<mapper>를 작성하는 것으로 시작한다. 프로젝트에서 기본적으로 여러 개의 \<mapper>를 가지기 때문에 중복되는 이름을 가진 SQL문이 존재할 수 있다. 따라서 각 \<mapper>마다 namespace 속성을 이용하여 \<mapper>를 구분한다.
 
 
 ### memberDao_설명
-![](../image/Pasted%20image%2020240412123244.png)
-![](../image/Pasted%20image%2020240412124926.png)![](../image/Pasted%20image%2020240412140550.png)
+![](../image/Pasted%20image%2020240412124926.png)
+★mybatis 프레임워크의 핵심 컴포넌트
+- (1)SqlSession : 실제 SQL을 실행하는 객체로 이 객체는 SQL을 처리하기 위해 JDBC드라이버를 사용한다.
+- (2)SqlSessionFactory : SqlSession 객체를 생성한다.
+- (3)SqlSessionFactoryBuilder : 마이바티스 설정 파일(config)의 내용을 토대로 SqlSessionFactory를 생성한다.
+- (4)mybatis 설정 파일(config) : 
+![](../image/Pasted%20image%2020240412140550.png)
 
 
 ## MemberDao (2)
