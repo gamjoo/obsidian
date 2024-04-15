@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MyBatis/240412_수업정리_MyBatis시작.md",
+                "file": "MyBatis/240415_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +47,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MyBatis/240412_수업정리_MyBatis시작.md"
+                "file": "MyBatis/240415_수업정리.md"
               }
             }
           }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MyBatis/240412_수업정리_MyBatis시작.md",
+                "file": "MyBatis/240415_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MyBatis/240412_수업정리_MyBatis시작.md"
+                "file": "MyBatis/240415_수업정리.md"
               }
             }
           }
@@ -174,13 +174,19 @@
   },
   "active": "06c6d3e8d5598f42",
   "lastOpenFiles": [
-    "공부재료/240413_Gradle.md",
+    "image/Pasted image 20240415091928.png",
+    "image/Pasted image 20240415091744.png",
     "MyBatis/240412_수업정리_MyBatis시작.md",
-    "idea/240414_세미프로젝트회고.md",
+    "MyBatis/240415_수업정리.md",
     "idea/money•appearance and power.md",
-    "멘토링/240411_멘토링과제.md",
-    "일정정리/240413_일정정리(24년 15주차).md",
+    "idea/Power of Love.md",
+    "idea/Shadow of love.md",
+    "idea/240214_포트폴리오특강.md",
+    "idea/240414_세미프로젝트회고.md",
     "일정정리/240411_제출해야 할 것.md",
+    "일정정리/240413_일정정리(24년 15주차).md",
+    "공부재료/240413_Gradle.md",
+    "멘토링/240411_멘토링과제.md",
     "멘토링",
     "문제상황/240330_다수첨부파일.md",
     "문제상황/240402_톰캣오류.md",
@@ -188,10 +194,7 @@
     "image/Pasted image 20240414160245.png",
     "image/Pasted image 20240414160204.png",
     "image/Pasted image 20240414160145.png",
-    "idea/240214_포트폴리오특강.md",
     "idea/라이프코드 강연.md",
-    "idea/Shadow of love.md",
-    "idea/Power of Love.md",
     "Servlet JSP/240307_수업정리.md",
     "MyBatis/Mybatis정리.md",
     "image/240411_멘토링.txt",
@@ -206,15 +209,12 @@
     "image/Pasted image 20240412164956.png",
     "image/Pasted image 20240412164457.png",
     "image/Pasted image 20240412163745.png",
-    "image/Pasted image 20240412161449.png",
     "MyBatis",
     "JavaScript/240219_수업정리_JS시작.md",
     "CSS/240215_수업정리_CSS시작.md",
     "CSS/240216_수업정리.md",
     "Servlet JSP/240306_수업정리.md",
     "Servlet JSP/240305_수업정리.md",
-    "CSS/240215_과제.md",
-    "Servlet JSP/240304_수업정리.md",
     "image/깃수업.pdf",
     "git"
   ]
