@@ -119,6 +119,8 @@ https://mvnrepository.com/artifact/org.mybatis/mybatis/3.5.15
 ## member.xml (mapper파일 작성)
 ![](../image/Pasted%20image%2020240412144811.png)
 ![](../image/Pasted%20image%2020240412150555.png)
+★
+
 ![](../image/Pasted%20image%2020240412151435.png)
 
 

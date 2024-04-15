@@ -4,16 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "a4340f4aaf66a23c",
+        "id": "4e3deffa8c1ca46b",
         "type": "tabs",
+        "dimension": 73.68421052631578,
         "children": [
           {
-            "id": "b486b99c2a88b3c3",
+            "id": "c1f75745c8525505",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
+              "type": "markdown",
+              "state": {
+                "file": "MyBatis/240412_수업정리_MyBatis시작.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            },
+            "group": "a9f87dd99a50002d"
+          }
+        ]
+      },
+      {
+        "id": "cba7687291666614",
+        "type": "tabs",
+        "dimension": 26.31578947368421,
+        "children": [
+          {
+            "id": "5ee66fc63a584fa6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MyBatis/240412_수업정리_MyBatis시작.md"
+              }
+            },
+            "group": "a9f87dd99a50002d"
           }
         ]
       }
@@ -90,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "MyBatis/240412_수업정리_MyBatis시작.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "MyBatis/240412_수업정리_MyBatis시작.md"
+              }
             }
           }
         ]
@@ -133,8 +161,10 @@
       "random-note:랜덤 노트 열기": false
     }
   },
-  "active": "b486b99c2a88b3c3",
+  "active": "c1f75745c8525505",
   "lastOpenFiles": [
+    "MyBatis/240415_수업정리(mybatis끝).md",
+    "MyBatis/240412_수업정리_MyBatis시작.md",
     "Spring/240415_수업정리(스프링시작).md",
     "image/sts3-zip설치 톰캣10(2024-04-15).txt",
     "image/Pasted image 20240415172950.png",
@@ -147,8 +177,6 @@
     "image/Pasted image 20240415172157.png",
     "image/Pasted image 20240415172117.png",
     "image/Pasted image 20240415172036.png",
-    "MyBatis/240415_수업정리(mybatis끝).md",
-    "MyBatis/240412_수업정리_MyBatis시작.md",
     "Servlet JSP/240312 ~ 240313 수업정리.md",
     "명령어모음.md",
     "Spring",
