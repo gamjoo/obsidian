@@ -5,6 +5,10 @@
       "path": "MyBatis/240412_수업정리_MyBatis시작.md"
     },
     {
+      "basename": "240413_Gradle",
+      "path": "공부재료/240413_Gradle.md"
+    },
+    {
       "basename": "240414_세미프로젝트회고",
       "path": "idea/240414_세미프로젝트회고.md"
     },
@@ -55,10 +59,6 @@
     {
       "basename": "240307_수업정리",
       "path": "Servlet JSP/240307_수업정리.md"
-    },
-    {
-      "basename": "240413_Gradle",
-      "path": "공부재료/240413_Gradle.md"
     },
     {
       "basename": "자바정석basic_p209연습문제5",

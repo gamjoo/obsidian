@@ -110,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c616556be8acbe6b",
@@ -175,6 +174,8 @@
   },
   "active": "06c6d3e8d5598f42",
   "lastOpenFiles": [
+    "공부재료/240413_Gradle.md",
+    "MyBatis/240412_수업정리_MyBatis시작.md",
     "idea/240414_세미프로젝트회고.md",
     "idea/money•appearance and power.md",
     "멘토링/240411_멘토링과제.md",
@@ -192,10 +193,8 @@
     "idea/Shadow of love.md",
     "idea/Power of Love.md",
     "Servlet JSP/240307_수업정리.md",
-    "MyBatis/240412_수업정리_MyBatis시작.md",
     "MyBatis/Mybatis정리.md",
     "image/240411_멘토링.txt",
-    "공부재료/240413_Gradle.md",
     "공부재료/자바정석basic/자바정석basic_p209연습문제5.md",
     "공부재료/240413_Maven.md",
     "공부재료/자바정석basic/자바정석basic_p210연습문제6.md",
