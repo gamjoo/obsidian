@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "240415_수업정리",
-      "path": "MyBatis/240415_수업정리.md"
+      "basename": "240415_수업정리(스프링시작)",
+      "path": "Spring/240415_수업정리(스프링시작).md"
+    },
+    {
+      "basename": "240415_수업정리(mybatis끝)",
+      "path": "MyBatis/240415_수업정리(mybatis끝).md"
+    },
+    {
+      "basename": "명령어모음",
+      "path": "명령어모음.md"
     },
     {
       "basename": "240413_일정정리(24년 15주차)",
@@ -191,14 +199,6 @@
     {
       "basename": "240226_수업정리_jQuery시작",
       "path": "jQuery/240226_수업정리_jQuery시작.md"
-    },
-    {
-      "basename": "240129_수업정리",
-      "path": "Java/240129_수업정리.md"
-    },
-    {
-      "basename": "240329_drag drop 기능",
-      "path": "공부재료/240329_drag drop 기능.md"
     }
   ],
   "omittedPaths": [],
