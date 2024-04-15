@@ -1,0 +1,142 @@
+1. https://spring.io/tools
+   하단에 
+   Looking for Spring Tool Suite 3?
+
+   Spring Tool Suite 3 wiki 클릭
+   https://github.com/spring-attic/toolsuite-distribution/wiki/Spring-Tool-Suite-3
+  
+   =>Latest STS3 Downloads
+    https://download.springsource.com/release/STS/3.9.18.RELEASE/dist/e4.21/spring-tool-suite-3.9.18.RELEASE-e4.21.0-win32-x86_64.zip
+    마우스 우클릭 -> 다른 이름의 저장 -> sts.zip
+  
+
+2. 압축 해제시 생성할 폴더 이름이 길면 에러 발생하므로 짦게 만드세요(예)sts)
+    spring-tool-suite-3.9.18.RELEASE-e4.21.0-win32-x86_64.zip
+ => sts.zip
+  
+    압축 푸는데 class파일명이 길어서 에러나는 경우 건너띄기 하세요
+
+   c:\sts\sts-bundle\sts-3.9.18\sts.exe 실행
+   - 이클립스와 비슷한데  다른점은 Spring 프로젝트가 따로 만들어 있습니다.
+
+[확인]
+* Window-Preferences-Java-Installed JREs-C:\Program Files\Java\jdk-17
+
+
+3. ***** 디폴트 서버 삭제  *****
+
+    실행하시면 VMware tc Server Developer Edition v4.1 서버가 기본으로 설정되어 있습니다. 
+    우리는 톰캣 서버이므로 이것을 지워야합니다
+
+    (1) Servers 탭에서 삭제
+
+    (2) Window->Prefernces -> Server -> Runtime Environment에서 삭제
+
+     꼭 두가지 모두 실행해야 합니다.
+
+4. **** 톰캣 서버 설치*****
+    (1)  https://archive.apache.org/dist/tomcat/tomcat-10/v10.0.0/bin/  접속
+    (2)  apache-tomcat-10.0.0-windows-x64.zip 다운로드 및 압축풀기
+    (3)  압축폴더를 
+         C:\Program Files\Apache Software Foundation\apache-tomcat-10.0.0 로 이동합니다.
+    (4) C:\Program Files\Apache Software Foundation\apache-tomcat-10.0.0\conf\server.xml 수정
+          port="8080"을 port="8088"로 수정합니다.
+
+            <Connector port="8088" protocol="HTTP/1.1"
+               connectionTimeout="20000"
+               redirectPort="8443" />
+    (5) C:\Program Files\Apache Software Foundation\apache-tomcat-10.0.0\bin\tomcat10w.exe 실행합니다.
+    (6) http://localhost:8088/ 접속시 톰캣 나타나면 됩니다.
+    (7) 
+     Servers뷰에서 오른쪽 마우스 버튼 -> New -> Server ->Apache -> Tomcat v10.0 Server 선택
+    -> Next -> Browse 선택 
+               C:\Program Files\Apache Software Foundation\apache-tomcat-10.0.0   
+    -> Finish
+
+    설치 후 
+    Package Explorer의
+    server.xml에서 
+
+     Connector connectionTimeout="20000" port="8080" 에서 port변경하기
+     =>      port="8088" 
+             URIEncoding="UTF-8"
+
+
+
+5.  *****  Spring MVC Project 생성법 *****
+
+   Window - Perspective - Open Perspective - Other - Spring 선택
+   
+
+   종말을 맞은 Spring MVC Projcet 가 안보여요
+
+       Spring MVC Projcet는 Maven(자바용 프로젝트 관리 도구)을 기본으로 프로젝트가 생성됩니다.
+     /*
+         아파치 소프트웨어 재단에서 개발하는 Java 기반 프로젝트의 라이프사이클 관리를 위한 빌드 도구. 
+         이에 따라 컴파일과 빌드를 동시에 수행, 테스트를 병행하거나 서버 측 Deploy 자원을 관리할 수 있는 
+         환경을 제공한다. 또한 라이브러리 관리 기능도 내포하고 있다. 
+         Java로 개발하다 보면 다양한 라이브러리를 필요로 하게 되는데, 
+          pom.xml 파일에 필요한 라이브러리만 적으면 Maven이 알아서 다운받고 설치해주고 경로까지 지정해준다 
+          pom.xml(Projet Object Model)
+           - addressing system 이 있으며, Group Id, Artifact Id, version 정보로 구별한다.
+      
+          1) groupId - 프로젝트 속하는 그룹 식별 값. 회사, 본부, 또는 단체를 의미하는 값이 오며, 패키지 형식으로 계층을 표현한다. 
+          
+          2) artifactId - 프로젝트 결과물의 식별 값. 프로젝트나 모듈을 의미하는 값이 온다. 
+         
+           3) name - 프로젝트 이름        
+
+           4) package - 컴파일된 클래스 파일과 리소스 파일들을 war 혹은 jar와 같은 파일로 묶는 것.
+      
+           5) version - 결과물의 버전을 입력한다. 기본 값인 1.0-SNAPSHOT을 사용.
+    */
+
+       Maven의 기본 폴더 구조를 갖습니다.
+      또한 MVC 프로젝트를 위한 스프링 설정 파일들을 기본으로 생성해주며 로그를 위한 log4j도 장착해 줍니다.
+       main  -----------------------------------------------------------------   
+
+       src.main.java ------------------------------------------------------------ 자바 코드
+
+       src.main.resources ----------------------------------------------------- 코드에 필요한 리소스들
+
+       src.main.webapp -------------------------------------------------------- 웹어플리케이션 디렉토리
+
+       src.main.webapp.resources -------------------------------------------- 웹어플리케이션의 정적리소스
+
+       src.main.webapp.resources.META-INF -------------------------------- 웹어플리케이션 메타정보
+
+       src.main.webapp.resources :: log4j.xml ------------------------------- 로그설정파일(log4j)
+
+       src.main.webapp.WEB-INF.spring -------------------------------------- 스프링 설정파일 폴더
+
+       src.main.webapp.WEB-INF.spring :: root-context.xml ----------------- web.xml의 context-param설정 파일
+
+       src.main.webapp.WEB-INF.spring.appServlet :: servlet-context.xml - web.xml의 servlet의 init-param설정 파일
+
+       src.main.webapp.WEB-INF.views -------------------------------------- 어플리케이션 뷰파일들 (jsp, vm, jsf등)
+
+       src.main.webapp.WEB-INF.views :: home.jsp ------------------------- 기본으로생성된 뷰페이지 (hello world)
+
+       src.main.webapp.WEB-INF :: web.xml --------------------------------- 웹어플리케이션 명세
+
+       target ------------------------------------------------- 빌드를 실행하면 생기는 war, jar 파일을 저장하는 폴더
+
+       test ---------------------------------------------------- 프로그램에서 사용하는 단위 테스트의 소스 코드가 저장되는 폴더
+
+     (4)*****  Spring MVC Project 실행 ***** 
+     springTest-src-main-webapp- WEB-INF -views - home.jsp 파일을 한번 실행 시킨후
+
+     웹브라우저에 다음과 같이 입력합니다.
+     http://localhost:8088/myhome      
+
+     현재 시스템의 날짜, 시간이 나타나면 성공~!!
+
+     한글이 깨져서 나오면 
+
+     springTest-src-main-webapp-WEB-INF-views - home.jsp 파일에
+     
+     <%@ page language="java" contentType="text/html; charset=UTF-8" %> 추가함
+
+
+
+
