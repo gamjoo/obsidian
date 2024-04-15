@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Servlet JSP/240229_수업정리_서블릿 시작&끝.md",
+                "file": "Servlet JSP/240312 ~ 240313 수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "HttpServlet",
+                "query": "MVC",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servlet JSP/240229_수업정리_서블릿 시작&끝.md",
+                "file": "Servlet JSP/240312 ~ 240313 수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servlet JSP/240229_수업정리_서블릿 시작&끝.md"
+                "file": "Servlet JSP/240312 ~ 240313 수업정리.md"
               }
             }
           }
@@ -177,8 +177,8 @@
   },
   "active": "414c6611c0ebed4e",
   "lastOpenFiles": [
-    "Spring/240415_수업정리(스프링시작).md",
     "Servlet JSP/240229_수업정리_서블릿 시작&끝.md",
+    "Spring/240415_수업정리(스프링시작).md",
     "MyBatis/240412_수업정리_MyBatis시작.md",
     "멘토링/240411_멘토링과제.md",
     "MyBatis/240415_수업정리(mybatis끝).md",
