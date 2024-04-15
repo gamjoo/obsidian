@@ -4,5 +4,8 @@
   "theme": "obsidian",
   "baseFontSizeAction": true,
   "translucency": true,
-  "baseFontSize": 16
+  "baseFontSize": 14,
+  "enabledCssSnippets": [
+    "margin"
+  ]
 }

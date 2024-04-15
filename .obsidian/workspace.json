@@ -6,6 +6,7 @@
       {
         "id": "655a845bc138f0d6",
         "type": "tabs",
+        "dimension": 71.26436781609196,
         "children": [
           {
             "id": "e155367c9f0ae806",
@@ -18,7 +19,26 @@
                 "backlinks": false,
                 "source": false
               }
-            }
+            },
+            "group": "2c54bcf7c1f49ef8"
+          }
+        ]
+      },
+      {
+        "id": "a2465fa7a65d85b9",
+        "type": "tabs",
+        "dimension": 28.735632183908045,
+        "children": [
+          {
+            "id": "e52de966adc3ee11",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Spring/240415_수업정리(스프링시작).md"
+              }
+            },
+            "group": "2c54bcf7c1f49ef8"
           }
         ]
       }
@@ -79,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c616556be8acbe6b",
