@@ -4,57 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "655a845bc138f0d6",
-        "type": "tabs",
-        "dimension": 71.26436781609196,
-        "children": [
-          {
-            "id": "e155367c9f0ae806",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring/240415_수업정리(스프링시작).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            },
-            "group": "2c54bcf7c1f49ef8"
-          },
-          {
-            "id": "5ce35d6c1abf6596",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring/240415_수업정리(스프링시작).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "486c5f5988913fe0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
         "id": "a2465fa7a65d85b9",
         "type": "tabs",
-        "dimension": 28.735632183908045,
         "children": [
           {
             "id": "e52de966adc3ee11",
@@ -64,10 +15,23 @@
               "state": {
                 "file": "Spring/240415_수업정리(스프링시작).md"
               }
-            },
-            "group": "2c54bcf7c1f49ef8"
+            }
+          },
+          {
+            "id": "75039ab8e77c6404",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring/240415_수업정리(스프링시작).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Spring/240415_수업정리(스프링시작).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Spring/240415_수업정리(스프링시작).md"
               }
             }
           }
@@ -189,8 +153,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "486c5f5988913fe0",
+  "active": "75039ab8e77c6404",
   "lastOpenFiles": [
+    "Spring/240416_수업정리.md",
     "Spring/240415_수업정리(스프링시작).md",
     "conflict-files-obsidian-git.md",
     "Fonts/나눔손글씨 성실체.ttf",
@@ -232,7 +197,6 @@
     "문제상황/240330_다수첨부파일.md",
     "문제상황/240402_톰캣오류.md",
     "공부재료/240401_해보고싶은 것.md",
-    "idea/라이프코드 강연.md",
     "image/240411_멘토링.txt",
     "공부재료/자바정석basic",
     "일정정리",
