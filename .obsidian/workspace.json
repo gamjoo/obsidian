@@ -95,7 +95,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -163,6 +163,9 @@
   },
   "active": "e155367c9f0ae806",
   "lastOpenFiles": [
+    "Fonts/나눔손글씨 성실체.ttf",
+    "Fonts",
+    "새 폴더",
     "멘토링/240411_멘토링과제.md",
     "Spring/240415_수업정리(스프링시작).md",
     "Servlet JSP/240312 ~ 240313 수업정리.md",
@@ -201,12 +204,10 @@
     "문제상황/240402_톰캣오류.md",
     "공부재료/240401_해보고싶은 것.md",
     "idea/라이프코드 강연.md",
-    "Servlet JSP/240307_수업정리.md",
     "image/240411_멘토링.txt",
     "공부재료/자바정석basic",
     "일정정리",
     "MyBatis",
-    "image/깃수업.pdf",
-    "git"
+    "image/깃수업.pdf"
   ]
 }

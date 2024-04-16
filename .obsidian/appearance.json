@@ -8,5 +8,6 @@
   "enabledCssSnippets": [
     "margin",
     "extended-colorschemes"
-  ]
+  ],
+  "interfaceFontFamily": "나눔고딕"
 }

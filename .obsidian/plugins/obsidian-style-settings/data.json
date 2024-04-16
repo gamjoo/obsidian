@@ -33,7 +33,7 @@
   "anuppuccin-theme-settings@@h1-size": 2,
   "anuppuccin-theme-settings@@anp-h4-divider": true,
   "anuppuccin-theme-settings@@anp-h5-divider": true,
-  "anuppuccin-theme-settings@@anp-colorful-frame": true,
+  "anuppuccin-theme-settings@@anp-colorful-frame": false,
   "anuppuccin-theme-settings@@anp-colorful-frame-icon-toggle-light": false,
   "anuppuccin-theme-settings@@anp-colorful-frame-icon-toggle-dark": false,
   "anuppuccin-theme-settings@@anp-custom-vault-toggle": true,
