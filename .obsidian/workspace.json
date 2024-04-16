@@ -21,8 +21,35 @@
               }
             },
             "group": "2c54bcf7c1f49ef8"
+          },
+          {
+            "id": "5ce35d6c1abf6596",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring/240415_수업정리(스프링시작).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "486c5f5988913fe0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "a2465fa7a65d85b9",
@@ -115,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/240415_수업정리(스프링시작).md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/240415_수업정리(스프링시작).md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -158,16 +185,18 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "random-note:랜덤 노트 열기": false
+      "random-note:랜덤 노트 열기": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e155367c9f0ae806",
+  "active": "486c5f5988913fe0",
   "lastOpenFiles": [
+    "Spring/240415_수업정리(스프링시작).md",
+    "conflict-files-obsidian-git.md",
     "Fonts/나눔손글씨 성실체.ttf",
     "Fonts",
     "새 폴더",
     "멘토링/240411_멘토링과제.md",
-    "Spring/240415_수업정리(스프링시작).md",
     "Servlet JSP/240312 ~ 240313 수업정리.md",
     "Servlet JSP/240229_수업정리_서블릿 시작&끝.md",
     "MyBatis/240412_수업정리_MyBatis시작.md",
@@ -207,7 +236,6 @@
     "image/240411_멘토링.txt",
     "공부재료/자바정석basic",
     "일정정리",
-    "MyBatis",
-    "image/깃수업.pdf"
+    "MyBatis"
   ]
 }
