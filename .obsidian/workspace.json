@@ -13,7 +13,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/240415_수업정리(스프링시작).md"
+                "file": "Spring/240416_수업정리.md"
               }
             }
           },
@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/240415_수업정리(스프링시작).md",
+                "file": "Spring/240416_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/240415_수업정리(스프링시작).md",
+                "file": "Spring/240416_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/240415_수업정리(스프링시작).md"
+                "file": "Spring/240416_수업정리.md"
               }
             }
           }
@@ -155,8 +155,10 @@
   },
   "active": "75039ab8e77c6404",
   "lastOpenFiles": [
-    "Spring/240416_수업정리.md",
+    "image/Pasted image 20240416094611.png",
+    "image/Pasted image 20240416094604.png",
     "Spring/240415_수업정리(스프링시작).md",
+    "Spring/240416_수업정리.md",
     "conflict-files-obsidian-git.md",
     "Fonts/나눔손글씨 성실체.ttf",
     "Fonts",
@@ -176,7 +178,6 @@
     "image/Pasted image 20240415172540.png",
     "image/Pasted image 20240415172157.png",
     "image/Pasted image 20240415172117.png",
-    "image/Pasted image 20240415172036.png",
     "명령어모음.md",
     "Spring",
     "일정정리/240413_일정정리(24년 15주차).md",
@@ -196,7 +197,6 @@
     "멘토링",
     "문제상황/240330_다수첨부파일.md",
     "문제상황/240402_톰캣오류.md",
-    "공부재료/240401_해보고싶은 것.md",
     "image/240411_멘토링.txt",
     "공부재료/자바정석basic",
     "일정정리",
