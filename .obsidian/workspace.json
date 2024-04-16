@@ -21,8 +21,17 @@
               }
             },
             "group": "6de62c09471bcc67"
+          },
+          {
+            "id": "8fc6b33e8c70bcbe",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b45dbb21442e0090",
@@ -99,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c616556be8acbe6b",
@@ -116,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/240416_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +145,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Spring/240416_수업정리.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -163,10 +168,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9921a6be039a8ecb",
+  "active": "8fc6b33e8c70bcbe",
   "lastOpenFiles": [
-    "멘토링/240411_멘토링과제.md",
     "Spring/240416_수업정리.md",
+    "멘토링/240411_멘토링과제.md",
     "Ajax/240315_수업정리.md",
     "Ajax/240325_수업정리.md",
     "jQuery/240228_수업정리.md",
