@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a2465fa7a65d85b9",
+        "id": "9948d1d2888be05f",
         "type": "tabs",
+        "dimension": 71.26436781609196,
         "children": [
           {
-            "id": "a557d3267f8962d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring/240415_수업정리(스프링시작).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "75039ab8e77c6404",
+            "id": "9921a6be039a8ecb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,10 +19,28 @@
                 "backlinks": false,
                 "source": false
               }
-            }
+            },
+            "group": "6de62c09471bcc67"
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "b45dbb21442e0090",
+        "type": "tabs",
+        "dimension": 28.735632183908045,
+        "children": [
+          {
+            "id": "01ebba94c5ef363b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Spring/240416_수업정리.md"
+              }
+            },
+            "group": "6de62c09471bcc67"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "시험문제",
+                "query": "task",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,10 +162,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "75039ab8e77c6404",
+  "active": "9921a6be039a8ecb",
   "lastOpenFiles": [
-    "Spring/무제 파일.md",
+    "image/Image20240416151253.gif",
+    "image/Pasted image 20240416151230.png",
+    "Spring/240415_수업정리(스프링시작).md",
+    "문제상황/240402_톰캣오류.md",
     "Spring/240416_수업정리.md",
+    "Spring/무제 파일.md",
     "image/Pasted image 20240416124608.png",
     "image/Pasted image 20240416124348.png",
     "image/Pasted image 20240416123034.png",
@@ -169,8 +179,6 @@
     "image/Image20240416120210.gif",
     "image/Pasted image 20240416120157.png",
     "image/Pasted image 20240416114431.png",
-    "image/Pasted image 20240416113830.png",
-    "Spring/240415_수업정리(스프링시작).md",
     "conflict-files-obsidian-git.md",
     "Fonts/나눔손글씨 성실체.ttf",
     "Fonts",
@@ -198,8 +206,6 @@
     "idea/money•appearance and power.md",
     "idea/Power of Love.md",
     "멘토링",
-    "문제상황/240330_다수첨부파일.md",
-    "문제상황/240402_톰캣오류.md",
     "image/240411_멘토링.txt",
     "공부재료/자바정석basic",
     "일정정리",
