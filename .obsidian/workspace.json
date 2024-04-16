@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/240416_수업정리.md",
+                "file": "멘토링/240411_멘토링과제.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -35,7 +35,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/240416_수업정리.md"
+                "file": "멘토링/240411_멘토링과제.md"
               }
             },
             "group": "6de62c09471bcc67"
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/240416_수업정리.md",
+                "file": "멘토링/240411_멘토링과제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/240416_수업정리.md"
+                "file": "멘토링/240411_멘토링과제.md"
               }
             }
           }
@@ -164,6 +164,14 @@
   },
   "active": "9921a6be039a8ecb",
   "lastOpenFiles": [
+    "Spring/240416_수업정리.md",
+    "Ajax/240315_수업정리.md",
+    "Ajax/240325_수업정리.md",
+    "jQuery/240228_수업정리.md",
+    "Java/240206_수업정리.md",
+    "Java/240205_과제.md",
+    "Java/240205_과제_solution.md",
+    "Java/240124_과제.md",
     "image/Pasted image 20240416174917.png",
     "image/Pasted image 20240416174729.png",
     "image/Pasted image 20240416174555.png",
@@ -174,10 +182,8 @@
     "image/Pasted image 20240416171928.png",
     "image/Pasted image 20240416171922.png",
     "image/Pasted image 20240416171831.png",
-    "image/Pasted image 20240416171119.png",
     "Spring/240415_수업정리(스프링시작).md",
     "문제상황/240402_톰캣오류.md",
-    "Spring/240416_수업정리.md",
     "Spring/무제 파일.md",
     "conflict-files-obsidian-git.md",
     "Fonts/나눔손글씨 성실체.ttf",
@@ -199,12 +205,6 @@
     "일정정리/240411_제출해야 할 것.md",
     "idea/Shadow of love.md",
     "문제상황/240215_이클립스 에디터.md",
-    "Ajax/240325_수업정리.md",
-    "Ajax/240314_수업정리.md",
-    "공부재료/240413_Gradle.md",
-    "idea/240214_포트폴리오특강.md",
-    "idea/money•appearance and power.md",
-    "idea/Power of Love.md",
     "멘토링",
     "image/240411_멘토링.txt",
     "공부재료/자바정석basic",
