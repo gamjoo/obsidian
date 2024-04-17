@@ -23,6 +23,19 @@
             "group": "6de62c09471bcc67"
           },
           {
+            "id": "234a41f2a36fa542",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring/240417_수업정리.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8fc6b33e8c70bcbe",
             "type": "leaf",
             "state": {
@@ -35,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b45dbb21442e0090",
@@ -128,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/240416_수업정리.md",
+                "file": "Spring/240417_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/240416_수업정리.md"
+                "file": "Spring/240417_수업정리.md"
               }
             }
           }
@@ -175,12 +189,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9921a6be039a8ecb",
+  "active": "234a41f2a36fa542",
   "lastOpenFiles": [
+    "Spring/240416_수업정리.md",
+    "Spring/240417_수업정리.md",
     "Servlet JSP/240308_수업정리.md",
     "JavaScript/240221_수업정리.md",
     "CSS/240215_수업정리_CSS시작.md",
-    "Spring/240416_수업정리.md",
     "멘토링/240411_멘토링과제.md",
     "Ajax/240315_수업정리.md",
     "Ajax/240325_수업정리.md",
@@ -201,7 +216,6 @@
     "image/Pasted image 20240416171831.png",
     "Spring/240415_수업정리(스프링시작).md",
     "문제상황/240402_톰캣오류.md",
-    "Spring/무제 파일.md",
     "conflict-files-obsidian-git.md",
     "Fonts/나눔손글씨 성실체.ttf",
     "Fonts",
