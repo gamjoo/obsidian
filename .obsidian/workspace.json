@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -143,9 +144,11 @@
   },
   "active": "7f920f7f00918305",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-04-18 08.46.24.excalidraw.md",
+    "멘토링/240411_멘토링과제.md",
+    "Excalidraw",
     "Java/240130_수업정리.md",
     "Java/240131_수업정리.md",
-    "멘토링/240411_멘토링과제.md",
     "image/Pasted image 20240418011353.png",
     "일정정리/240413_일정정리(24년 15주차).md",
     "Java/240124_수업정리(자바2 시작).md",
@@ -186,7 +189,6 @@
     "멘토링",
     "image/240411_멘토링.txt",
     "공부재료/자바정석basic",
-    "일정정리",
-    "MyBatis"
+    "일정정리"
   ]
 }
