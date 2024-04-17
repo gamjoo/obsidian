@@ -6,7 +6,7 @@
       {
         "id": "9948d1d2888be05f",
         "type": "tabs",
-        "dimension": 73.61477572559367,
+        "dimension": 71.26436781609196,
         "children": [
           {
             "id": "9921a6be039a8ecb",
@@ -19,8 +19,7 @@
                 "backlinks": false,
                 "source": false
               }
-            },
-            "group": "6de62c09471bcc67"
+            }
           },
           {
             "id": "234a41f2a36fa542",
@@ -33,7 +32,8 @@
                 "backlinks": false,
                 "source": false
               }
-            }
+            },
+            "group": "fcc8c8d9724813fb"
           },
           {
             "id": "8fc6b33e8c70bcbe",
@@ -52,20 +52,20 @@
         "currentTab": 1
       },
       {
-        "id": "b45dbb21442e0090",
+        "id": "fd4400dece7b9940",
         "type": "tabs",
-        "dimension": 26.385224274406333,
+        "dimension": 28.735632183908045,
         "children": [
           {
-            "id": "01ebba94c5ef363b",
+            "id": "e98317cca4f75488",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/240416_수업정리.md"
+                "file": "Spring/240417_수업정리.md"
               }
             },
-            "group": "6de62c09471bcc67"
+            "group": "fcc8c8d9724813fb"
           }
         ]
       }
@@ -191,6 +191,7 @@
   },
   "active": "234a41f2a36fa542",
   "lastOpenFiles": [
+    "image/Pasted image 20240417092931.png",
     "image/Pasted image 20240417092709.png",
     "image/Pasted image 20240417092616.png",
     "image/Pasted image 20240417092415.png",
@@ -214,7 +215,6 @@
     "image/Pasted image 20240416174555.png",
     "image/Pasted image 20240416174451.png",
     "image/Pasted image 20240416174138.png",
-    "image/Pasted image 20240416173450.png",
     "Spring/240415_수업정리(스프링시작).md",
     "문제상황/240402_톰캣오류.md",
     "conflict-files-obsidian-git.md",
