@@ -14,42 +14,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/240416_수업정리.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "234a41f2a36fa542",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Spring/240417_수업정리.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            },
-            "group": "fcc8c8d9724813fb"
-          },
-          {
-            "id": "8fc6b33e8c70bcbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Servlet JSP/240308_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "fd4400dece7b9940",
@@ -64,8 +36,7 @@
               "state": {
                 "file": "Spring/240417_수업정리.md"
               }
-            },
-            "group": "fcc8c8d9724813fb"
+            }
           }
         ]
       }
@@ -189,8 +160,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "234a41f2a36fa542",
+  "active": "9921a6be039a8ecb",
   "lastOpenFiles": [
+    "image/Pasted image 20240417123004.png",
+    "Spring/240416_수업정리.md",
+    "문제상황/240402_톰캣오류.md",
+    "Spring/240417_수업정리.md",
     "image/Pasted image 20240417121827.png",
     "image/Pasted image 20240417121517.png",
     "image/Pasted image 20240417121430.png",
@@ -198,12 +173,9 @@
     "image/Pasted image 20240417114527.png",
     "image/Pasted image 20240417111121.png",
     "image/Pasted image 20240417110731.png",
-    "Spring/240416_수업정리.md",
-    "Spring/240417_수업정리.md",
     "image/Pasted image 20240417102624.png",
     "image/Pasted image 20240417101733.png",
     "image/Pasted image 20240417101517.png",
-    "image/Pasted image 20240417100754.png",
     "Servlet JSP/240308_수업정리.md",
     "JavaScript/240221_수업정리.md",
     "CSS/240215_수업정리_CSS시작.md",
@@ -216,7 +188,6 @@
     "Java/240205_과제_solution.md",
     "Java/240124_과제.md",
     "Spring/240415_수업정리(스프링시작).md",
-    "문제상황/240402_톰캣오류.md",
     "conflict-files-obsidian-git.md",
     "Fonts/나눔손글씨 성실체.ttf",
     "Fonts",
