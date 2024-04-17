@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9948d1d2888be05f",
+        "id": "e61ddd4d13b5ed23",
         "type": "tabs",
-        "dimension": 71.26436781609196,
+        "dimension": 73.68421052631578,
         "children": [
           {
-            "id": "9921a6be039a8ecb",
+            "id": "9784eee7f332f892",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,24 +19,26 @@
                 "backlinks": false,
                 "source": false
               }
-            }
+            },
+            "group": "152d38c2dbdd09d0"
           }
         ]
       },
       {
-        "id": "fd4400dece7b9940",
+        "id": "0b3ca4e3f9487fb5",
         "type": "tabs",
-        "dimension": 28.735632183908045,
+        "dimension": 26.31578947368421,
         "children": [
           {
-            "id": "e98317cca4f75488",
+            "id": "99e53a8005ebf60a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
                 "file": "멘토링/240411_멘토링과제.md"
               }
-            }
+            },
+            "group": "152d38c2dbdd09d0"
           }
         ]
       }
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "멘토링/240411_멘토링과제.md",
+                "file": "Java/240130_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "멘토링/240411_멘토링과제.md"
+                "file": "Java/240130_수업정리.md"
               }
             }
           }
@@ -160,8 +162,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
+  "floating": {
+    "id": "7bfd65c2a94bbd6b",
+    "type": "floating",
+    "children": [
+      {
+        "id": "1df0fbb182507330",
+        "type": "window",
+        "children": [
+          {
+            "id": "c91dcb3effcb541f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9921a6be039a8ecb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Java/240130_수업정리.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 32,
+        "y": 7,
+        "width": 880,
+        "height": 978,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "9921a6be039a8ecb",
   "lastOpenFiles": [
+    "멘토링/240411_멘토링과제.md",
+    "Java/240130_수업정리.md",
+    "일정정리/240413_일정정리(24년 15주차).md",
+    "Java/240124_수업정리(자바2 시작).md",
+    "Java/240129_수업정리.md",
+    "Java/240131_수업정리.md",
+    "Java/240125_수업정리.md",
     "image/Pasted image 20240418004701.png",
     "image/Pasted image 20240418003444.png",
     "image/Pasted image 20240418002322.png",
@@ -172,7 +219,6 @@
     "image/Pasted image 20240418000258.png",
     "image/Pasted image 20240417235156.png",
     "image/JVM_runtime_data_area.png",
-    "image/JVM구조.png",
     "Spring/240417_수업정리.md",
     "Spring/240415_수업정리(스프링시작).md",
     "Spring/240416_수업정리.md",
@@ -180,7 +226,6 @@
     "Servlet JSP/240308_수업정리.md",
     "JavaScript/240221_수업정리.md",
     "CSS/240215_수업정리_CSS시작.md",
-    "멘토링/240411_멘토링과제.md",
     "Ajax/240315_수업정리.md",
     "Ajax/240325_수업정리.md",
     "jQuery/240228_수업정리.md",
@@ -197,12 +242,7 @@
     "MyBatis/240412_수업정리_MyBatis시작.md",
     "MyBatis/240415_수업정리(mybatis끝).md",
     "image/sts3-zip설치 톰캣10(2024-04-15).txt",
-    "명령어모음.md",
     "Spring",
-    "일정정리/240413_일정정리(24년 15주차).md",
-    "HTML/240213_수업정리_HTML시작.md",
-    "HTML/240214_수업정리.md",
-    "HTML/240215_수업정리_HTML끝.md",
     "멘토링",
     "image/240411_멘토링.txt",
     "공부재료/자바정석basic",
