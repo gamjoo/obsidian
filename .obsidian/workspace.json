@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/240418_수업정리.md",
+                "file": "멘토링/240411_멘토링과제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/240418_수업정리.md"
+                "file": "멘토링/240411_멘토링과제.md"
               }
             }
           }
@@ -212,11 +212,11 @@
       }
     ]
   },
-  "active": "248019be038e47c2",
+  "active": "978ead97f1b0aa2a",
   "lastOpenFiles": [
+    "Spring/240418_수업정리.md",
     "image/Pasted image 20240418142245.png",
     "멘토링/240411_멘토링과제.md",
-    "Spring/240418_수업정리.md",
     "MyBatis/240412_수업정리_MyBatis시작.md",
     "Java/240205_수업정리_JDBC시작 1.md",
     "Java/240206_수업정리.md",
@@ -232,7 +232,6 @@
     "image/Image20240418114750.jpg",
     "image/Pasted image 20240418113921.png",
     "image/Pasted image 20240418113454.png",
-    "image/Pasted image 20240418113417.png",
     "명령어모음.md",
     "JavaScript/240222_수업정리.md",
     "JavaScript/240223_수업정리.md",
