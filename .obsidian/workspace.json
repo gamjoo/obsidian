@@ -162,49 +162,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "339cb5cab6ce9ad4",
-    "type": "floating",
-    "children": [
-      {
-        "id": "4cc4e1e1c786a628",
-        "type": "window",
-        "children": [
-          {
-            "id": "045e7937cd6d2c05",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "978ead97f1b0aa2a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "멘토링/240411_멘토링과제.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -1510,
-        "y": 321,
-        "width": 1370,
-        "height": 971,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "c3cd6631b98f143b",
+  "active": "82696766819a8ba6",
   "lastOpenFiles": [
+    "image/Pasted image 20240418170043.png",
     "멘토링/240411_멘토링과제.md",
-    "Java/240205_수업정리_JDBC시작 1.md",
     "Spring/240418_수업정리.md",
+    "Java/240205_수업정리_JDBC시작 1.md",
     "image/Pasted image 20240418164536.png",
     "image/Pasted image 20240418163536.png",
     "image/Pasted image 20240418162851.png",
