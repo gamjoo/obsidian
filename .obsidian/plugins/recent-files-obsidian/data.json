@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "240418_수업정리",
-      "path": "Spring/240418_수업정리.md"
+      "basename": "240202_수업정리",
+      "path": "Java/240202_수업정리.md"
     },
     {
       "basename": "240411_멘토링과제",
       "path": "멘토링/240411_멘토링과제.md"
+    },
+    {
+      "basename": "240418_수업정리",
+      "path": "Spring/240418_수업정리.md"
+    },
+    {
+      "basename": "240205_수업정리_JDBC시작 1",
+      "path": "Java/240205_수업정리_JDBC시작 1.md"
     },
     {
       "basename": "명령어모음",
@@ -191,14 +199,6 @@
     {
       "basename": "240413_Maven",
       "path": "공부재료/240413_Maven.md"
-    },
-    {
-      "basename": "자바정석basic_p210연습문제6",
-      "path": "공부재료/자바정석basic/자바정석basic_p210연습문제6.md"
-    },
-    {
-      "basename": "240219_수업정리_JS시작",
-      "path": "JavaScript/240219_수업정리_JS시작.md"
     }
   ],
   "omittedPaths": [],

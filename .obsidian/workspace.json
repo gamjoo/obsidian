@@ -6,7 +6,7 @@
       {
         "id": "e1b7eb7e907fa287",
         "type": "tabs",
-        "dimension": 71.26436781609196,
+        "dimension": 87.27735368956743,
         "children": [
           {
             "id": "248019be038e47c2",
@@ -19,39 +19,39 @@
                 "backlinks": false,
                 "source": false
               }
-            },
-            "group": "7d95dce8f57e1d1c"
+            }
           },
           {
-            "id": "978ead97f1b0aa2a",
+            "id": "a66c5fc886772b8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "멘토링/240411_멘토링과제.md",
+                "file": "Java/240202_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "397ab449c6fda95f",
+        "id": "b67abdae147df1ac",
         "type": "tabs",
-        "dimension": 28.735632183908045,
+        "dimension": 12.72264631043257,
         "children": [
           {
-            "id": "17f70c059e18c3fb",
+            "id": "8d7229bec90941a1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/240418_수업정리.md"
+                "file": "멘토링/240411_멘토링과제.md"
               }
             },
-            "group": "7d95dce8f57e1d1c"
+            "group": "6c6451c732aa9797"
           }
         ]
       }
@@ -107,12 +107,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 284.5
   },
   "right": {
     "id": "c616556be8acbe6b",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/240418_수업정리.md",
+                "file": "Java/240202_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/240418_수업정리.md"
+                "file": "Java/240202_수업정리.md"
               }
             }
           }
@@ -175,11 +174,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "248019be038e47c2",
+  "floating": {
+    "id": "339cb5cab6ce9ad4",
+    "type": "floating",
+    "children": [
+      {
+        "id": "4cc4e1e1c786a628",
+        "type": "window",
+        "children": [
+          {
+            "id": "045e7937cd6d2c05",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "978ead97f1b0aa2a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "멘토링/240411_멘토링과제.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                },
+                "group": "6c6451c732aa9797"
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1393,
+        "y": 71,
+        "width": 1370,
+        "height": 971,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "a66c5fc886772b8a",
   "lastOpenFiles": [
-    "image/Pasted image 20240418122051.png",
     "멘토링/240411_멘토링과제.md",
+    "Java/240202_수업정리.md",
     "Spring/240418_수업정리.md",
+    "Java/240205_수업정리_JDBC시작 1.md",
+    "Java/240205_수업정리.md",
+    "image/Pasted image 20240418122051.png",
     "image/Image20240418120442.png",
     "image/Pasted image 20240418120156.png",
     "image/Image20240418114750 1.jpg",
@@ -189,7 +230,6 @@
     "image/Pasted image 20240418113417.png",
     "image/Pasted image 20240418112854.png",
     "image/Pasted image 20240418112728.png",
-    "image/Pasted image 20240418112550.png",
     "명령어모음.md",
     "JavaScript/240222_수업정리.md",
     "JavaScript/240223_수업정리.md",
@@ -212,8 +252,6 @@
     "Ajax/240325_수업정리.md",
     "jQuery/240228_수업정리.md",
     "Java/240206_수업정리.md",
-    "Java/240205_과제.md",
-    "Java/240205_과제_solution.md",
     "Fonts/나눔손글씨 성실체.ttf",
     "Fonts",
     "새 폴더",
