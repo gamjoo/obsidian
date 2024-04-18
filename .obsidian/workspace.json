@@ -203,8 +203,8 @@
           }
         ],
         "direction": "vertical",
-        "x": -1145,
-        "y": 40,
+        "x": -130,
+        "y": 98,
         "width": 1370,
         "height": 971,
         "maximize": false,
@@ -214,6 +214,7 @@
   },
   "active": "978ead97f1b0aa2a",
   "lastOpenFiles": [
+    "image/Pasted image 20240418143323.png",
     "Spring/240418_수업정리.md",
     "image/Pasted image 20240418142245.png",
     "멘토링/240411_멘토링과제.md",
