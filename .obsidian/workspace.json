@@ -4,52 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "e1b7eb7e907fa287",
+        "id": "aaf64ad7a4be8635",
         "type": "tabs",
-        "dimension": 72.71487039563438,
+        "dimension": 71.26436781609196,
         "children": [
           {
-            "id": "248019be038e47c2",
+            "id": "82696766819a8ba6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "멘토링/240411_멘토링과제.md",
+                "file": "Spring/240418_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "a66c5fc886772b8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/240205_수업정리_JDBC시작 1.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
+            },
+            "group": "83772c849752668c"
           }
         ]
       },
       {
-        "id": "b67abdae147df1ac",
+        "id": "bed0492657df0a1b",
         "type": "tabs",
-        "dimension": 27.285129604365622,
+        "dimension": 28.735632183908045,
         "children": [
           {
-            "id": "8d7229bec90941a1",
+            "id": "c3cd6631b98f143b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "멘토링/240411_멘토링과제.md"
+                "file": "Spring/240418_수업정리.md"
               }
-            }
+            },
+            "group": "83772c849752668c"
           }
         ]
       }
@@ -126,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "멘토링/240411_멘토링과제.md",
+                "file": "Spring/240418_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "멘토링/240411_멘토링과제.md"
+                "file": "Spring/240418_수업정리.md"
               }
             }
           }
@@ -211,14 +200,15 @@
       }
     ]
   },
-  "active": "248019be038e47c2",
+  "active": "c3cd6631b98f143b",
   "lastOpenFiles": [
+    "멘토링/240411_멘토링과제.md",
+    "Java/240205_수업정리_JDBC시작 1.md",
     "Spring/240418_수업정리.md",
     "image/Pasted image 20240418164536.png",
     "image/Pasted image 20240418163536.png",
     "image/Pasted image 20240418162851.png",
     "image/Pasted image 20240418162138.png",
-    "멘토링/240411_멘토링과제.md",
     "image/Pasted image 20240418160750.png",
     "image/Pasted image 20240418160110.png",
     "image/Pasted image 20240418154726.png",
@@ -228,7 +218,6 @@
     "image/Pasted image 20240418153551.png",
     "Spring/240418_수업정리.html",
     "MyBatis/240412_수업정리_MyBatis시작.md",
-    "Java/240205_수업정리_JDBC시작 1.md",
     "Java/240206_수업정리.md",
     "Java/JDBC/240206_수업정리.md",
     "Java/240202_수업정리.md",
