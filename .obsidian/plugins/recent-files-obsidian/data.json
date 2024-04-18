@@ -5,6 +5,14 @@
       "path": "Spring/240418_수업정리.md"
     },
     {
+      "basename": "명령어모음",
+      "path": "명령어모음.md"
+    },
+    {
+      "basename": "240411_멘토링과제",
+      "path": "멘토링/240411_멘토링과제.md"
+    },
+    {
       "basename": "240222_수업정리",
       "path": "JavaScript/240222_수업정리.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "240417_수업정리",
       "path": "Spring/240417_수업정리.md"
-    },
-    {
-      "basename": "240411_멘토링과제",
-      "path": "멘토링/240411_멘토링과제.md"
     },
     {
       "basename": "Drawing 2024-04-18 08.46.24.excalidraw",
@@ -115,10 +119,6 @@
     {
       "basename": "240415_수업정리(mybatis끝)",
       "path": "MyBatis/240415_수업정리(mybatis끝).md"
-    },
-    {
-      "basename": "명령어모음",
-      "path": "명령어모음.md"
     },
     {
       "basename": "240213_수업정리_HTML시작",

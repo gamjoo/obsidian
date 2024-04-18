@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ed425c37e747b8a4",
+        "id": "e1b7eb7e907fa287",
         "type": "tabs",
         "dimension": 71.26436781609196,
         "children": [
           {
-            "id": "7f920f7f00918305",
+            "id": "248019be038e47c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,17 +20,17 @@
                 "source": false
               }
             },
-            "group": "c755135ec358ae30"
+            "group": "7d95dce8f57e1d1c"
           }
         ]
       },
       {
-        "id": "e1b7eb7e907fa287",
+        "id": "397ab449c6fda95f",
         "type": "tabs",
         "dimension": 28.735632183908045,
         "children": [
           {
-            "id": "4c9ac412040d4554",
+            "id": "17f70c059e18c3fb",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -38,7 +38,7 @@
                 "file": "Spring/240418_수업정리.md"
               }
             },
-            "group": "c755135ec358ae30"
+            "group": "7d95dce8f57e1d1c"
           }
         ]
       }
@@ -162,8 +162,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7f920f7f00918305",
+  "active": "248019be038e47c2",
   "lastOpenFiles": [
+    "image/Pasted image 20240418110249.png",
+    "명령어모음.md",
+    "멘토링/240411_멘토링과제.md",
+    "Spring/240418_수업정리.md",
     "image/Pasted image 20240418104904.png",
     "image/Pasted image 20240418103156.png",
     "image/Pasted image 20240418102950.png",
@@ -171,15 +175,12 @@
     "image/Pasted image 20240418101010.png",
     "JavaScript/240222_수업정리.md",
     "JavaScript/240223_수업정리.md",
-    "Spring/240418_수업정리.md",
     "image/Pasted image 20240418093919.png",
     "image/Pasted image 20240418093736.png",
     "image/Pasted image 20240418090844.png",
     "image/Pasted image 20240418090729.png",
     "image/Pasted image 20240418090719.png",
-    "image/Pasted image 20240418090707.png",
     "Spring/240417_수업정리.md",
-    "멘토링/240411_멘토링과제.md",
     "Excalidraw/Drawing 2024-04-18 08.46.24.excalidraw.md",
     "Excalidraw",
     "Java/240130_수업정리.md",
@@ -200,7 +201,6 @@
     "Java/240206_수업정리.md",
     "Java/240205_과제.md",
     "Java/240205_과제_solution.md",
-    "Java/240124_과제.md",
     "Fonts/나눔손글씨 성실체.ttf",
     "Fonts",
     "새 폴더",
