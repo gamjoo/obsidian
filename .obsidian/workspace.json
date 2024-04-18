@@ -205,8 +205,8 @@
           }
         ],
         "direction": "vertical",
-        "x": -1393,
-        "y": 71,
+        "x": 70,
+        "y": 138,
         "width": 1370,
         "height": 971,
         "maximize": false,
@@ -216,6 +216,7 @@
   },
   "active": "978ead97f1b0aa2a",
   "lastOpenFiles": [
+    "image/Pasted image 20240418133922.png",
     "Java/240205_수업정리_JDBC시작 1.md",
     "멘토링/240411_멘토링과제.md",
     "Java/240202_수업정리.md",
@@ -252,7 +253,6 @@
     "Ajax/240315_수업정리.md",
     "Ajax/240325_수업정리.md",
     "jQuery/240228_수업정리.md",
-    "Java/240206_수업정리.md",
     "Fonts/나눔손글씨 성실체.ttf",
     "Fonts",
     "새 폴더",
