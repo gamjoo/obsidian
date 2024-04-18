@@ -13,8 +13,8 @@
   "tabSize": 3,
   "pdfExportSettings": {
     "includeName": false,
-    "pageSize": "A4",
-    "landscape": false,
+    "pageSize": "Tabloid",
+    "landscape": true,
     "margin": "0",
     "downscalePercent": 74
   }
