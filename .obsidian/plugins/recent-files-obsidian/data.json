@@ -5,8 +5,20 @@
       "path": "Spring/240418_수업정리.md"
     },
     {
+      "basename": "240412_수업정리_MyBatis시작",
+      "path": "MyBatis/240412_수업정리_MyBatis시작.md"
+    },
+    {
       "basename": "240205_수업정리_JDBC시작 1",
       "path": "Java/240205_수업정리_JDBC시작 1.md"
+    },
+    {
+      "basename": "240206_수업정리",
+      "path": "Java/240206_수업정리.md"
+    },
+    {
+      "basename": "240206_수업정리",
+      "path": "Java/JDBC/240206_수업정리.md"
     },
     {
       "basename": "240411_멘토링과제",
@@ -97,10 +109,6 @@
       "path": "jQuery/240228_수업정리.md"
     },
     {
-      "basename": "240206_수업정리",
-      "path": "Java/240206_수업정리.md"
-    },
-    {
       "basename": "240205_과제",
       "path": "Java/240205_과제.md"
     },
@@ -119,10 +127,6 @@
     {
       "basename": "240229_수업정리_서블릿 시작&끝",
       "path": "Servlet JSP/240229_수업정리_서블릿 시작&끝.md"
-    },
-    {
-      "basename": "240412_수업정리_MyBatis시작",
-      "path": "MyBatis/240412_수업정리_MyBatis시작.md"
     },
     {
       "basename": "240415_수업정리(mybatis끝)",
@@ -195,10 +199,6 @@
     {
       "basename": "자바정석basic_p209연습문제5",
       "path": "공부재료/자바정석basic/자바정석basic_p209연습문제5.md"
-    },
-    {
-      "basename": "240413_Maven",
-      "path": "공부재료/240413_Maven.md"
     }
   ],
   "omittedPaths": [],

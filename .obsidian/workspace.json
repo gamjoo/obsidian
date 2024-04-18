@@ -6,7 +6,7 @@
       {
         "id": "e1b7eb7e907fa287",
         "type": "tabs",
-        "dimension": 87.27735368956743,
+        "dimension": 72.71487039563438,
         "children": [
           {
             "id": "248019be038e47c2",
@@ -39,7 +39,7 @@
       {
         "id": "b67abdae147df1ac",
         "type": "tabs",
-        "dimension": 12.72264631043257,
+        "dimension": 27.285129604365622,
         "children": [
           {
             "id": "8d7229bec90941a1",
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "DTO",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,12 +106,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 284.5
+    "width": 200
   },
   "right": {
     "id": "c616556be8acbe6b",
@@ -215,11 +214,15 @@
   },
   "active": "248019be038e47c2",
   "lastOpenFiles": [
+    "MyBatis/240412_수업정리_MyBatis시작.md",
     "Java/240205_수업정리_JDBC시작 1.md",
+    "Java/240206_수업정리.md",
+    "Java/JDBC/240206_수업정리.md",
+    "Spring/240418_수업정리.md",
+    "image/Pasted image 20240418140959.png",
     "멘토링/240411_멘토링과제.md",
     "image/Pasted image 20240418133922.png",
     "Java/240202_수업정리.md",
-    "Spring/240418_수업정리.md",
     "Java/240205_수업정리.md",
     "image/Pasted image 20240418122051.png",
     "image/Image20240418120442.png",
@@ -229,7 +232,6 @@
     "image/Pasted image 20240418113921.png",
     "image/Pasted image 20240418113454.png",
     "image/Pasted image 20240418113417.png",
-    "image/Pasted image 20240418112854.png",
     "명령어모음.md",
     "JavaScript/240222_수업정리.md",
     "JavaScript/240223_수업정리.md",
@@ -249,8 +251,6 @@
     "JavaScript/240221_수업정리.md",
     "CSS/240215_수업정리_CSS시작.md",
     "Ajax/240315_수업정리.md",
-    "Ajax/240325_수업정리.md",
-    "jQuery/240228_수업정리.md",
     "Fonts/나눔손글씨 성실체.ttf",
     "Fonts",
     "새 폴더",
