@@ -34,8 +34,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "b67abdae147df1ac",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "멘토링/240411_멘토링과제.md",
+                "file": "Spring/240418_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "멘토링/240411_멘토링과제.md"
+                "file": "Spring/240418_수업정리.md"
               }
             }
           }
@@ -205,8 +204,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 70,
-        "y": 138,
+        "x": -3,
+        "y": 10,
         "width": 1370,
         "height": 971,
         "maximize": false,
@@ -214,11 +213,11 @@
       }
     ]
   },
-  "active": "978ead97f1b0aa2a",
+  "active": "248019be038e47c2",
   "lastOpenFiles": [
-    "image/Pasted image 20240418133922.png",
     "Java/240205_수업정리_JDBC시작 1.md",
     "멘토링/240411_멘토링과제.md",
+    "image/Pasted image 20240418133922.png",
     "Java/240202_수업정리.md",
     "Spring/240418_수업정리.md",
     "Java/240205_수업정리.md",
@@ -231,7 +230,6 @@
     "image/Pasted image 20240418113454.png",
     "image/Pasted image 20240418113417.png",
     "image/Pasted image 20240418112854.png",
-    "image/Pasted image 20240418112728.png",
     "명령어모음.md",
     "JavaScript/240222_수업정리.md",
     "JavaScript/240223_수업정리.md",
