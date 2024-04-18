@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/240418_수업정리.md",
+                "file": "멘토링/240411_멘토링과제.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +47,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/240418_수업정리.md"
+                "file": "멘토링/240411_멘토링과제.md"
               }
             }
           }
@@ -105,7 +105,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/240418_수업정리.md",
+                "file": "멘토링/240411_멘토링과제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/240418_수업정리.md"
+                "file": "멘토링/240411_멘토링과제.md"
               }
             }
           }
@@ -212,23 +213,24 @@
   },
   "active": "248019be038e47c2",
   "lastOpenFiles": [
-    "image/Pasted image 20240418152918.png",
-    "멘토링/240411_멘토링과제.md",
     "Spring/240418_수업정리.md",
-    "image/Pasted image 20240418152141.png",
-    "image/Pasted image 20240418150134.png",
-    "image/Pasted image 20240418144705.png",
-    "image/Pasted image 20240418144212.png",
-    "image/Pasted image 20240418144033.png",
-    "image/Pasted image 20240418143745.png",
-    "image/Pasted image 20240418143323.png",
-    "image/Pasted image 20240418142245.png",
+    "image/Pasted image 20240418164536.png",
+    "image/Pasted image 20240418163536.png",
+    "image/Pasted image 20240418162851.png",
+    "image/Pasted image 20240418162138.png",
+    "멘토링/240411_멘토링과제.md",
+    "image/Pasted image 20240418160750.png",
+    "image/Pasted image 20240418160110.png",
+    "image/Pasted image 20240418154726.png",
+    "image/Pasted image 20240418154458.png",
+    "멘토링/240411_멘토링과제.pptx",
+    "image/Pasted image 20240418153958.png",
+    "image/Pasted image 20240418153551.png",
+    "Spring/240418_수업정리.html",
     "MyBatis/240412_수업정리_MyBatis시작.md",
     "Java/240205_수업정리_JDBC시작 1.md",
     "Java/240206_수업정리.md",
     "Java/JDBC/240206_수업정리.md",
-    "image/Pasted image 20240418140959.png",
-    "image/Pasted image 20240418133922.png",
     "Java/240202_수업정리.md",
     "Java/240205_수업정리.md",
     "명령어모음.md",
@@ -255,8 +257,6 @@
     "image/sts3-zip설치 톰캣10(2024-04-15).txt",
     "Spring",
     "멘토링",
-    "image/240411_멘토링.txt",
-    "공부재료/자바정석basic",
-    "일정정리"
+    "image/240411_멘토링.txt"
   ]
 }
