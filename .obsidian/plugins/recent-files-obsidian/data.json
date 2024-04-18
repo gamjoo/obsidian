@@ -5,6 +5,14 @@
       "path": "Spring/240418_수업정리.md"
     },
     {
+      "basename": "240222_수업정리",
+      "path": "JavaScript/240222_수업정리.md"
+    },
+    {
+      "basename": "240223_수업정리",
+      "path": "JavaScript/240223_수업정리.md"
+    },
+    {
       "basename": "240417_수업정리",
       "path": "Spring/240417_수업정리.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "240219_수업정리_JS시작",
       "path": "JavaScript/240219_수업정리_JS시작.md"
-    },
-    {
-      "basename": "240216_수업정리",
-      "path": "CSS/240216_수업정리.md"
-    },
-    {
-      "basename": "240306_수업정리",
-      "path": "Servlet JSP/240306_수업정리.md"
     }
   ],
   "omittedPaths": [],
