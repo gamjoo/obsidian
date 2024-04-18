@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "240418_수업정리",
+      "path": "Spring/240418_수업정리.md"
+    },
+    {
       "basename": "240417_수업정리",
       "path": "Spring/240417_수업정리.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "240306_수업정리",
       "path": "Servlet JSP/240306_수업정리.md"
-    },
-    {
-      "basename": "240305_수업정리",
-      "path": "Servlet JSP/240305_수업정리.md"
     }
   ],
   "omittedPaths": [],
