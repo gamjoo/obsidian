@@ -6,6 +6,7 @@
       {
         "id": "c01ffc28764c46a8",
         "type": "tabs",
+        "dimension": 71.26436781609196,
         "children": [
           {
             "id": "8f272a6c452f4427",
@@ -18,7 +19,26 @@
                 "backlinks": false,
                 "source": false
               }
-            }
+            },
+            "group": "7b0e644447dda0e9"
+          }
+        ]
+      },
+      {
+        "id": "2bbdf54d88f07c8c",
+        "type": "tabs",
+        "dimension": 28.735632183908045,
+        "children": [
+          {
+            "id": "efd2f4effd914638",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Spring/240418_수업정리.md"
+              }
+            },
+            "group": "7b0e644447dda0e9"
           }
         ]
       }
@@ -142,7 +162,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8f272a6c452f4427",
+  "active": "efd2f4effd914638",
   "lastOpenFiles": [
     "멘토링/240411_멘토링과제.md",
     "Java/240131_수업정리.md",
