@@ -6,6 +6,7 @@
       {
         "id": "ed425c37e747b8a4",
         "type": "tabs",
+        "dimension": 71.26436781609196,
         "children": [
           {
             "id": "7f920f7f00918305",
@@ -13,12 +14,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "멘토링/240411_멘토링과제.md",
+                "file": "Spring/240417_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
-            }
+            },
+            "group": "c755135ec358ae30"
+          }
+        ]
+      },
+      {
+        "id": "e1b7eb7e907fa287",
+        "type": "tabs",
+        "dimension": 28.735632183908045,
+        "children": [
+          {
+            "id": "4c9ac412040d4554",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Spring/240417_수업정리.md"
+              }
+            },
+            "group": "c755135ec358ae30"
           }
         ]
       }
@@ -95,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "멘토링/240411_멘토링과제.md",
+                "file": "Spring/240417_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "멘토링/240411_멘토링과제.md"
+                "file": "Spring/240417_수업정리.md"
               }
             }
           }
@@ -142,10 +162,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7f920f7f00918305",
+  "active": "4c9ac412040d4554",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-04-18 08.46.24.excalidraw.md",
     "멘토링/240411_멘토링과제.md",
+    "image/JavaRunExplain 1.png",
+    "image/JavaRunExplain.png",
+    "Excalidraw/Drawing 2024-04-18 08.46.24.excalidraw.md",
     "Excalidraw",
     "Java/240130_수업정리.md",
     "Java/240131_수업정리.md",
@@ -161,8 +183,6 @@
     "image/Pasted image 20240418001921.png",
     "image/Pasted image 20240418001704.png",
     "image/Pasted image 20240418001632.png",
-    "image/Pasted image 20240418000258.png",
-    "image/Pasted image 20240417235156.png",
     "Spring/240417_수업정리.md",
     "Spring/240415_수업정리(스프링시작).md",
     "Spring/240416_수업정리.md",
@@ -183,7 +203,6 @@
     "새 폴더",
     "Servlet JSP/240312 ~ 240313 수업정리.md",
     "Servlet JSP/240229_수업정리_서블릿 시작&끝.md",
-    "MyBatis/240412_수업정리_MyBatis시작.md",
     "image/sts3-zip설치 톰캣10(2024-04-15).txt",
     "Spring",
     "멘토링",
