@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/240418_수업정리.md",
+                "file": "Spring/240418~240419_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -35,7 +35,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/240418_수업정리.md"
+                "file": "Spring/240418~240419_수업정리.md"
               }
             },
             "group": "7b0e644447dda0e9"
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/240418_수업정리.md",
+                "file": "Spring/240418~240419_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/240418_수업정리.md"
+                "file": "Spring/240418~240419_수업정리.md"
               }
             }
           }
@@ -162,13 +162,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8f272a6c452f4427",
+  "active": "ffb4f3fb5a9558bb",
   "lastOpenFiles": [
     "멘토링/240411_멘토링과제.md",
     "Java/240131_수업정리.md",
     "image/Pasted image 20240418195451.png",
     "image/싱글 vs 멀티.png",
-    "Spring/240418_수업정리.md",
+    "Spring/240418~240419_수업정리.md",
     "image/Pasted image 20240418172930.png",
     "image/Pasted image 20240418172902.png",
     "image/Pasted image 20240418172459.png",
