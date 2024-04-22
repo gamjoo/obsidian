@@ -25,8 +25,13 @@
             "id": "2be55201c9d7ffe6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "멘토링/240424_멘토링과제.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -42,7 +47,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "멘토링/240424_멘토링과제.md"
+              }
             }
           }
         ]
@@ -120,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "멘토링/240424_멘토링과제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "멘토링/240424_멘토링과제.md"
+              }
             }
           }
         ]
