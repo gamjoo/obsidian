@@ -6,7 +6,7 @@
       {
         "id": "c01ffc28764c46a8",
         "type": "tabs",
-        "dimension": 71.26436781609196,
+        "dimension": 87.92270531400966,
         "children": [
           {
             "id": "dfc8e7006f5eae7b",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "멘토링/240424_멘토링과제.md",
+                "file": "Spring/240422_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -39,7 +39,7 @@
       {
         "id": "2bbdf54d88f07c8c",
         "type": "tabs",
-        "dimension": 28.735632183908045,
+        "dimension": 12.077294685990339,
         "children": [
           {
             "id": "efd2f4effd914638",
@@ -47,7 +47,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "멘토링/240424_멘토링과제.md"
+                "file": "Spring/240422_수업정리.md"
               }
             }
           }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "멘토링/240424_멘토링과제.md",
+                "file": "Spring/240422_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "멘토링/240424_멘토링과제.md"
+                "file": "Spring/240422_수업정리.md"
               }
             }
           }
@@ -175,19 +175,18 @@
   },
   "active": "dfc8e7006f5eae7b",
   "lastOpenFiles": [
+    "멘토링/240424_멘토링과제.md",
     "image/Pasted image 20240423002238.png",
     "image/Pasted image 20240423001529.png",
     "image/Pasted image 20240423000532.png",
     "image/memory_stack_heap.jpg",
     "Spring/240422_수업정리.md",
     "image/Pasted image 20240422175008.png",
-    "멘토링/240424_멘토링과제.md",
     "image/Pasted image 20240422174623.png",
     "image/Pasted image 20240422173730.png",
     "image/Pasted image 20240422171232.png",
     "image/Pasted image 20240422171009.png",
     "image/Pasted image 20240422170434.png",
-    "image/Pasted image 20240422163519.png",
     "멘토링/240418_멘토링과제.md",
     "Spring/240418~240419_수업정리.md",
     "Java/240131_수업정리.md",
