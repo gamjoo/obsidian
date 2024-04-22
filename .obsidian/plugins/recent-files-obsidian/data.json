@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "무제 파일",
+      "path": "멘토링/무제 파일.md"
+    },
+    {
+      "basename": "240411_멘토링과제",
+      "path": "멘토링/240411_멘토링과제.md"
+    },
+    {
       "basename": "240422_수업정리",
       "path": "Spring/240422_수업정리.md"
     },
     {
       "basename": "240418~240419_수업정리",
       "path": "Spring/240418~240419_수업정리.md"
-    },
-    {
-      "basename": "240411_멘토링과제",
-      "path": "멘토링/240411_멘토링과제.md"
     },
     {
       "basename": "240131_수업정리",
@@ -195,10 +199,6 @@
     {
       "basename": "라이프코드 강연",
       "path": "idea/라이프코드 강연.md"
-    },
-    {
-      "basename": "240307_수업정리",
-      "path": "Servlet JSP/240307_수업정리.md"
     }
   ],
   "omittedPaths": [],
