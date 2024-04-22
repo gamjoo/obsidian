@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "멘토링/240411_멘토링과제.md",
+                "file": "멘토링/240418_멘토링과제.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "멘토링/무제 파일.md",
+                "file": "멘토링/240424_멘토링과제.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "멘토링/240411_멘토링과제.md"
+                "file": "멘토링/240418_멘토링과제.md"
               }
             },
             "group": "7b0e644447dda0e9"
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "멘토링/무제 파일.md",
+                "file": "멘토링/240424_멘토링과제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "멘토링/무제 파일.md"
+                "file": "멘토링/240424_멘토링과제.md"
               }
             }
           }
@@ -176,10 +176,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ffb4f3fb5a9558bb",
+  "active": "dfc8e7006f5eae7b",
   "lastOpenFiles": [
-    "멘토링/240411_멘토링과제.md",
-    "멘토링/무제 파일.md",
+    "멘토링/240418_멘토링과제.md",
+    "멘토링/240424_멘토링과제.md",
     "Spring/240422_수업정리.md",
     "Spring/240418~240419_수업정리.md",
     "image/Pasted image 20240422094840.png",
