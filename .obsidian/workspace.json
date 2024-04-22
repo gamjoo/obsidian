@@ -9,20 +9,6 @@
         "dimension": 71.26436781609196,
         "children": [
           {
-            "id": "8f272a6c452f4427",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "멘토링/240418_멘토링과제.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            },
-            "group": "7b0e644447dda0e9"
-          },
-          {
             "id": "dfc8e7006f5eae7b",
             "type": "leaf",
             "state": {
@@ -35,8 +21,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "2bbdf54d88f07c8c",
@@ -49,10 +34,9 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "멘토링/240418_멘토링과제.md"
+                "file": "멘토링/240424_멘토링과제.md"
               }
-            },
-            "group": "7b0e644447dda0e9"
+            }
           }
         ]
       }
@@ -176,7 +160,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dfc8e7006f5eae7b",
+  "active": "efd2f4effd914638",
   "lastOpenFiles": [
     "멘토링/240418_멘토링과제.md",
     "멘토링/240424_멘토링과제.md",
