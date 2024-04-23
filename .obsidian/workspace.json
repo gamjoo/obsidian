@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "2bbdf54d88f07c8c",
@@ -61,7 +61,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/240423_수업정리.md"
+                "file": "멘토링/240424_멘토링과제.md"
               }
             }
           }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/240423_수업정리.md",
+                "file": "멘토링/240424_멘토링과제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/240423_수업정리.md"
+                "file": "멘토링/240424_멘토링과제.md"
               }
             }
           }
@@ -187,8 +187,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ce80b5203d42f3c2",
+  "active": "2be55201c9d7ffe6",
   "lastOpenFiles": [
+    "Spring/240423_수업정리.md",
     "image/Pasted image 20240423111448.png",
     "image/Pasted image 20240423110223.png",
     "image/Pasted image 20240423103446.png",
@@ -198,13 +199,11 @@
     "Spring/240418~240419_수업정리.md",
     "Spring/240422_수업정리.md",
     "Spring/240417_수업정리.md",
-    "Spring/240423_수업정리.md",
     "image/Pasted image 20240423093432.png",
     "image/Pasted image 20240423093418.png",
     "image/Pasted image 20240423092302.png",
     "멘토링/240424_멘토링과제.md",
     "image/Pasted image 20240423002238.png",
-    "image/Pasted image 20240423001529.png",
     "멘토링/240418_멘토링과제.md",
     "Java/240131_수업정리.md",
     "Java/240205_수업정리_JDBC시작 1.md",
