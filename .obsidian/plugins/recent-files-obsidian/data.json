@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "240422~240423_수업정리",
-      "path": "Spring/240422~240423_수업정리.md"
+      "basename": "240423_수업정리",
+      "path": "Spring/240423_수업정리.md"
+    },
+    {
+      "basename": "240422_수업정리",
+      "path": "Spring/240422_수업정리.md"
     },
     {
       "basename": "240418~240419_수업정리",
@@ -195,10 +199,6 @@
     {
       "basename": "240401_해보고싶은 것",
       "path": "공부재료/240401_해보고싶은 것.md"
-    },
-    {
-      "basename": "라이프코드 강연",
-      "path": "idea/라이프코드 강연.md"
     }
   ],
   "omittedPaths": [],
