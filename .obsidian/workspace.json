@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/240418~240419_수업정리.md",
+                "file": "Spring/240423_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -61,7 +61,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/240418~240419_수업정리.md"
+                "file": "Spring/240423_수업정리.md"
               }
             }
           }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/240418~240419_수업정리.md",
+                "file": "Spring/240423_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/240418~240419_수업정리.md"
+                "file": "Spring/240423_수업정리.md"
               }
             }
           }
@@ -189,9 +189,10 @@
   },
   "active": "ce80b5203d42f3c2",
   "lastOpenFiles": [
+    "image/Pasted image 20240423100438.png",
+    "Spring/240418~240419_수업정리.md",
     "Spring/240422_수업정리.md",
     "Spring/240417_수업정리.md",
-    "Spring/240418~240419_수업정리.md",
     "Spring/240423_수업정리.md",
     "image/Pasted image 20240423093432.png",
     "image/Pasted image 20240423093418.png",
