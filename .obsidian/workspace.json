@@ -190,8 +190,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 475,
-        "y": 72,
+        "x": 995,
+        "y": 0,
         "width": 600,
         "height": 971,
         "maximize": false,
@@ -201,6 +201,7 @@
   },
   "active": "2be55201c9d7ffe6",
   "lastOpenFiles": [
+    "image/Pasted image 20240423230904.png",
     "Java/240129_수업정리.md",
     "멘토링/240424_멘토링과제.md",
     "image/Pasted image 20240423225406.png",
