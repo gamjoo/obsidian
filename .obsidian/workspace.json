@@ -4,39 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "c01ffc28764c46a8",
+        "id": "79418e05b59b0522",
         "type": "tabs",
-        "dimension": 71.34670487106017,
+        "dimension": 71.26436781609196,
         "children": [
           {
-            "id": "dfc8e7006f5eae7b",
+            "id": "34353c06fb863c67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/240422_수업정리.md",
+                "file": "Java/240129_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
-            }
+            },
+            "group": "35c406b7303c7e16"
           }
         ]
       },
       {
-        "id": "2bbdf54d88f07c8c",
+        "id": "234bf42caedfd433",
         "type": "tabs",
-        "dimension": 28.653295128939828,
+        "dimension": 28.735632183908045,
         "children": [
           {
-            "id": "efd2f4effd914638",
+            "id": "dccafd0ef2060e51",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "멘토링/240424_멘토링과제.md"
+                "file": "Java/240129_수업정리.md"
               }
-            }
+            },
+            "group": "35c406b7303c7e16"
           }
         ]
       }
@@ -92,8 +94,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "멘토링/240424_멘토링과제.md",
+                "file": "Java/240129_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "멘토링/240424_멘토링과제.md"
+                "file": "Java/240129_수업정리.md"
               }
             }
           }
@@ -189,8 +190,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 559,
-        "y": 64,
+        "x": 283,
+        "y": 13,
         "width": 600,
         "height": 971,
         "maximize": false,
@@ -198,14 +199,14 @@
       }
     ]
   },
-  "active": "2be55201c9d7ffe6",
+  "active": "34353c06fb863c67",
   "lastOpenFiles": [
+    "멘토링/240424_멘토링과제.md",
     "Java/240129_수업정리.md",
     "Java/240126_수업정리.md",
     "Java/240125_수업정리.md",
     "Java/240124_수업정리(자바2 시작).md",
     "Java/240124_과제.md",
-    "멘토링/240424_멘토링과제.md",
     "image/Pasted image 20240423215449.png",
     "image/Pasted image 20240423184510.png",
     "image/Pasted image 20240423184507.png",
