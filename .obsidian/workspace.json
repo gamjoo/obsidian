@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "2bbdf54d88f07c8c",
@@ -61,7 +61,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "멘토링/240424_멘토링과제.md"
+                "file": "Spring/240423_수업정리.md"
               }
             }
           }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "멘토링/240424_멘토링과제.md",
+                "file": "Spring/240423_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "멘토링/240424_멘토링과제.md"
+                "file": "Spring/240423_수업정리.md"
               }
             }
           }
@@ -187,15 +187,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2be55201c9d7ffe6",
+  "active": "ce80b5203d42f3c2",
   "lastOpenFiles": [
+    "멘토링/240424_멘토링과제.md",
     "Spring/240423_수업정리.md",
     "image/Pasted image 20240423144817.png",
     "image/Pasted image 20240423144009.png",
     "image/Pasted image 20240423143949.png",
     "image/Pasted image 20240423142610.png",
     "image/Pasted image 20240423141708.png",
-    "멘토링/240424_멘토링과제.md",
     "image/Pasted image 20240423140522.png",
     "image/Pasted image 20240423140126.png",
     "image/Pasted image 20240423124654.png",
