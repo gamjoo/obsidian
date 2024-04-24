@@ -6,7 +6,7 @@
       {
         "id": "4a4a0b0549b46dce",
         "type": "tabs",
-        "dimension": 87.92270531400966,
+        "dimension": 71.26436781609196,
         "children": [
           {
             "id": "82b77715ba50996d",
@@ -20,7 +20,7 @@
                 "source": false
               }
             },
-            "group": "f0dd10089d422ba0"
+            "group": "c7792a9d7a8e47d3"
           },
           {
             "id": "7e5ba9ed70b2757d",
@@ -38,12 +38,12 @@
         ]
       },
       {
-        "id": "0892ac7a601c77c0",
+        "id": "41ecf5bab3272683",
         "type": "tabs",
-        "dimension": 12.077294685990339,
+        "dimension": 28.735632183908045,
         "children": [
           {
-            "id": "30aeb1f558fe5a80",
+            "id": "265a1a73c83a85e5",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -51,7 +51,7 @@
                 "file": "Oracle/240123_수업정리.md"
               }
             },
-            "group": "f0dd10089d422ba0"
+            "group": "c7792a9d7a8e47d3"
           }
         ]
       }
@@ -175,7 +175,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "82b77715ba50996d",
+  "active": "265a1a73c83a85e5",
   "lastOpenFiles": [
     "Spring/240423~240424_수업정리.md",
     "Oracle/240123_수업정리.md",
