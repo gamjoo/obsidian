@@ -6,7 +6,7 @@
       {
         "id": "4a4a0b0549b46dce",
         "type": "tabs",
-        "dimension": 71.26436781609196,
+        "dimension": 87.92270531400966,
         "children": [
           {
             "id": "82b77715ba50996d",
@@ -40,7 +40,7 @@
       {
         "id": "41ecf5bab3272683",
         "type": "tabs",
-        "dimension": 28.735632183908045,
+        "dimension": 12.077294685990339,
         "children": [
           {
             "id": "265a1a73c83a85e5",
@@ -175,7 +175,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "265a1a73c83a85e5",
+  "active": "82b77715ba50996d",
   "lastOpenFiles": [
     "Spring/240423~240424_수업정리.md",
     "Oracle/240123_수업정리.md",
