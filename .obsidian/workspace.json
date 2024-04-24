@@ -21,6 +21,19 @@
               }
             },
             "group": "f0dd10089d422ba0"
+          },
+          {
+            "id": "7e5ba9ed70b2757d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring/240423~240424_수업정리.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ]
       },
@@ -77,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "트리거",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -164,9 +177,10 @@
   },
   "active": "82b77715ba50996d",
   "lastOpenFiles": [
+    "Spring/240423~240424_수업정리.md",
+    "Oracle/240123_수업정리.md",
     "jQuery/240227_수업정리.md",
     "멘토링/240424_멘토링과제.md",
-    "Spring/240423~240424_수업정리.md",
     "image/Pasted image 20240424173711.png",
     "image/Pasted image 20240424171458.png",
     "image/Pasted image 20240424170934.png",
@@ -202,7 +216,6 @@
     "Excalidraw/Drawing 2024-04-18 08.46.24.excalidraw.md",
     "Excalidraw",
     "Java/240130_수업정리.md",
-    "일정정리/240413_일정정리(24년 15주차).md",
     "Fonts/나눔손글씨 성실체.ttf",
     "Fonts",
     "새 폴더",
