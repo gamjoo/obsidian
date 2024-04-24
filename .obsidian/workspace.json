@@ -168,38 +168,6 @@
     "type": "floating",
     "children": [
       {
-        "id": "c3ec6609dc4f952d",
-        "type": "window",
-        "children": [
-          {
-            "id": "176aba38a2ff3a48",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "2be55201c9d7ffe6",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "멘토링/240424_멘토링과제.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -1571,
-        "y": 48,
-        "width": 600,
-        "height": 971,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
         "id": "cede2bb723fcbb9e",
         "type": "window",
         "children": [
@@ -235,19 +203,19 @@
   },
   "active": "d6b5976b479ad8b7",
   "lastOpenFiles": [
+    "image/Pasted image 20240424113546.png",
+    "멘토링/240424_멘토링과제.md",
+    "Spring/240423~240424_수업정리.md",
     "image/Pasted image 20240424111622.png",
     "image/Pasted image 20240424111202.png",
     "image/Pasted image 20240424110059.png",
     "image/Pasted image 20240424104840.png",
-    "멘토링/240424_멘토링과제.md",
-    "Spring/240423~240424_수업정리.md",
     "image/Pasted image 20240424102836.png",
     "image/Pasted image 20240424101815.png",
     "image/Pasted image 20240424101702.png",
     "image/Pasted image 20240424095741.png",
     "image/Pasted image 20240424092227.png",
     "image/Pasted image 20240424091700.png",
-    "image/Pasted image 20240424091336.png",
     "Spring/240424_수업정리.md",
     "Java/240129_수업정리.md",
     "Java/240126_수업정리.md",
