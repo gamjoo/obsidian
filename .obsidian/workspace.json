@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/240423_수업정리.md",
+                "file": "Spring/240424_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -35,7 +35,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/240423_수업정리.md"
+                "file": "Spring/240424_수업정리.md"
               }
             },
             "group": "35c406b7303c7e16"
@@ -94,12 +94,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c616556be8acbe6b",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/240423_수업정리.md",
+                "file": "멘토링/240424_멘토링과제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/240423_수업정리.md"
+                "file": "멘토링/240424_멘토링과제.md"
               }
             }
           }
@@ -197,16 +197,48 @@
         "height": 971,
         "maximize": false,
         "zoom": 0
+      },
+      {
+        "id": "cede2bb723fcbb9e",
+        "type": "window",
+        "children": [
+          {
+            "id": "43496cd3ef3ed84b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3e2f6e5ec68fd242",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "멘토링/240424_멘토링과제.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1158,
+        "y": 10,
+        "width": 600,
+        "height": 971,
+        "maximize": false,
+        "zoom": 0
       }
     ]
   },
-  "active": "34353c06fb863c67",
+  "active": "3e2f6e5ec68fd242",
   "lastOpenFiles": [
-    "image/Pasted image 20240424090512.png",
     "Spring/240424_수업정리.md",
-    "Spring/240423_수업정리.md",
-    "Java/240129_수업정리.md",
     "멘토링/240424_멘토링과제.md",
+    "Spring/240423_수업정리.md",
+    "image/Pasted image 20240424090512.png",
+    "Java/240129_수업정리.md",
     "image/Pasted image 20240424084944.png",
     "image/Pasted image 20240423232849.png",
     "image/Pasted image 20240423232548.png",
@@ -216,7 +248,6 @@
     "image/Pasted image 20240423232001.png",
     "image/Pasted image 20240423231729.png",
     "image/Pasted image 20240423231533.png",
-    "image/Pasted image 20240423231525.png",
     "Java/240126_수업정리.md",
     "Java/240125_수업정리.md",
     "Java/240124_수업정리(자바2 시작).md",
