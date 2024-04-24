@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/240423~240424_수업정리.md",
+                "file": "멘토링/240424_멘토링과제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/240423~240424_수업정리.md"
+                "file": "멘토링/240424_멘토링과제.md"
               }
             }
           }
@@ -233,11 +233,11 @@
       }
     ]
   },
-  "active": "d6b5976b479ad8b7",
+  "active": "3e2f6e5ec68fd242",
   "lastOpenFiles": [
+    "Spring/240423~240424_수업정리.md",
     "image/Pasted image 20240424102836.png",
     "멘토링/240424_멘토링과제.md",
-    "Spring/240423~240424_수업정리.md",
     "image/Pasted image 20240424101815.png",
     "image/Pasted image 20240424101702.png",
     "image/Pasted image 20240424095741.png",
@@ -249,7 +249,6 @@
     "Java/240129_수업정리.md",
     "image/Pasted image 20240424084944.png",
     "image/Pasted image 20240423232849.png",
-    "image/Pasted image 20240423232548.png",
     "Java/240126_수업정리.md",
     "Java/240125_수업정리.md",
     "Java/240124_수업정리(자바2 시작).md",
