@@ -4,41 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "79418e05b59b0522",
+        "id": "e4dcfc10b2095add",
         "type": "tabs",
-        "dimension": 71.22302158273382,
+        "dimension": 59.67741935483871,
         "children": [
           {
-            "id": "34353c06fb863c67",
+            "id": "d6b5976b479ad8b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/240424_수업정리.md",
+                "file": "Spring/240423~240424_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             },
-            "group": "35c406b7303c7e16"
+            "group": "816b1daf202619fc"
           }
         ]
       },
       {
-        "id": "234bf42caedfd433",
+        "id": "b9bf4662e82529bd",
         "type": "tabs",
-        "dimension": 28.776978417266186,
+        "dimension": 40.32258064516129,
         "children": [
           {
-            "id": "dccafd0ef2060e51",
+            "id": "0df1ae4da3976de8",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/240424_수업정리.md"
+                "file": "Spring/240423~240424_수업정리.md"
               }
             },
-            "group": "35c406b7303c7e16"
+            "group": "816b1daf202619fc"
           }
         ]
       }
@@ -94,7 +94,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "멘토링/240424_멘토링과제.md",
+                "file": "Spring/240423~240424_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "멘토링/240424_멘토링과제.md"
+                "file": "Spring/240423~240424_수업정리.md"
               }
             }
           }
@@ -232,11 +233,11 @@
       }
     ]
   },
-  "active": "3e2f6e5ec68fd242",
+  "active": "0df1ae4da3976de8",
   "lastOpenFiles": [
     "Spring/240424_수업정리.md",
+    "Spring/240423~240424_수업정리.md",
     "멘토링/240424_멘토링과제.md",
-    "Spring/240423_수업정리.md",
     "image/Pasted image 20240424090512.png",
     "Java/240129_수업정리.md",
     "image/Pasted image 20240424084944.png",
