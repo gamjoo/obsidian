@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "240123_수업정리",
+      "path": "Oracle/240123_수업정리.md"
+    },
+    {
+      "basename": "240227_수업정리",
+      "path": "jQuery/240227_수업정리.md"
+    },
+    {
       "basename": "240424_멘토링과제",
       "path": "멘토링/240424_멘토링과제.md"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "money•appearance and power",
       "path": "idea/money•appearance and power.md"
-    },
-    {
-      "basename": "Power of Love",
-      "path": "idea/Power of Love.md"
     }
   ],
   "omittedPaths": [],
