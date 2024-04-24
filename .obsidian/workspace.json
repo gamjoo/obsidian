@@ -6,7 +6,7 @@
       {
         "id": "79418e05b59b0522",
         "type": "tabs",
-        "dimension": 71.26436781609196,
+        "dimension": 71.22302158273382,
         "children": [
           {
             "id": "34353c06fb863c67",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/240423_수업정리.md",
+                "file": "Spring/240424_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -27,7 +27,7 @@
       {
         "id": "234bf42caedfd433",
         "type": "tabs",
-        "dimension": 28.735632183908045,
+        "dimension": 28.776978417266186,
         "children": [
           {
             "id": "dccafd0ef2060e51",
@@ -35,7 +35,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/240423_수업정리.md"
+                "file": "Spring/240424_수업정리.md"
               }
             },
             "group": "35c406b7303c7e16"
@@ -99,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c616556be8acbe6b",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/240423_수업정리.md",
+                "file": "Spring/240424_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/240423_수업정리.md"
+                "file": "Spring/240424_수업정리.md"
               }
             }
           }
@@ -202,6 +203,8 @@
   },
   "active": "34353c06fb863c67",
   "lastOpenFiles": [
+    "Spring/240423_수업정리.md",
+    "Spring/240424_수업정리.md",
     "Java/240129_수업정리.md",
     "멘토링/240424_멘토링과제.md",
     "image/Pasted image 20240424084944.png",
@@ -218,7 +221,6 @@
     "Java/240125_수업정리.md",
     "Java/240124_수업정리(자바2 시작).md",
     "Java/240124_과제.md",
-    "Spring/240423_수업정리.md",
     "Spring/240418~240419_수업정리.md",
     "Spring/240422_수업정리.md",
     "Spring/240417_수업정리.md",
