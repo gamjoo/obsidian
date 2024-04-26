@@ -6,6 +6,7 @@
       {
         "id": "4a4a0b0549b46dce",
         "type": "tabs",
+        "dimension": 71.26436781609196,
         "children": [
           {
             "id": "7e5ba9ed70b2757d",
@@ -18,7 +19,26 @@
                 "backlinks": false,
                 "source": false
               }
-            }
+            },
+            "group": "9c946a39c6c75d85"
+          }
+        ]
+      },
+      {
+        "id": "f2c30a9431d0c222",
+        "type": "tabs",
+        "dimension": 28.735632183908045,
+        "children": [
+          {
+            "id": "a0ca02d5a6779fe7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Spring/240425_수업정리.md"
+              }
+            },
+            "group": "9c946a39c6c75d85"
           }
         ]
       }
