@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "240426_수업정리",
+      "path": "Spring/240426_수업정리.md"
+    },
+    {
       "basename": "240425_수업정리",
       "path": "Spring/240425_수업정리.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "240413_Gradle",
       "path": "공부재료/240413_Gradle.md"
-    },
-    {
-      "basename": "240214_포트폴리오특강",
-      "path": "idea/240214_포트폴리오특강.md"
     }
   ],
   "omittedPaths": [],
