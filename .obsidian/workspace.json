@@ -99,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c616556be8acbe6b",
@@ -164,6 +165,7 @@
   },
   "active": "7e5ba9ed70b2757d",
   "lastOpenFiles": [
+    "image/Pasted image 20240426141307.png",
     "image/Pasted image 20240426124059.png",
     "image/Pasted image 20240426122823.png",
     "image/Pasted image 20240426122158.png",
@@ -174,7 +176,6 @@
     "image/Pasted image 20240426112326.png",
     "image/Pasted image 20240426112320.png",
     "image/Pasted image 20240426111553.png",
-    "image/Pasted image 20240426110745.png",
     "Spring/240425_수업정리.md",
     "Spring/240426_수업정리.md",
     "Spring/240423~240424_수업정리.md",
