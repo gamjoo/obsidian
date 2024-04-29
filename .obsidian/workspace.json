@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/240426_수업정리.md",
+                "file": "Spring/무제 파일.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -35,7 +35,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/240426_수업정리.md"
+                "file": "Spring/무제 파일.md"
               }
             },
             "group": "9c946a39c6c75d85"
@@ -99,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c616556be8acbe6b",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/240426_수업정리.md",
+                "file": "Spring/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/240426_수업정리.md"
+                "file": "Spring/무제 파일.md"
               }
             }
           }
@@ -165,6 +164,8 @@
   },
   "active": "7e5ba9ed70b2757d",
   "lastOpenFiles": [
+    "Spring/240426_수업정리.md",
+    "Spring/무제 파일.md",
     "image/Pasted image 20240426174444.png",
     "image/Pasted image 20240426173903.png",
     "image/Pasted image 20240426173835.png",
@@ -175,9 +176,7 @@
     "image/Pasted image 20240426164754.png",
     "image/Pasted image 20240426150913.png",
     "image/Pasted image 20240426143719.png",
-    "image/Pasted image 20240426143607.png",
     "Spring/240425_수업정리.md",
-    "Spring/240426_수업정리.md",
     "Spring/240423~240424_수업정리.md",
     "Oracle/240123_수업정리.md",
     "jQuery/240227_수업정리.md",
