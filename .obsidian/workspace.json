@@ -35,8 +35,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f2c30a9431d0c222",
@@ -129,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "아이디어/240214_포트폴리오특강.md",
+                "file": "Spring/240429_ 수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "아이디어/240214_포트폴리오특강.md"
+                "file": "Spring/240429_ 수업정리.md"
               }
             }
           }
@@ -176,12 +175,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "de776a8a296f4ca7",
+  "active": "7e5ba9ed70b2757d",
   "lastOpenFiles": [
+    "image/Pasted image 20240429143441.png",
+    "아이디어/240214_포트폴리오특강.md",
     "Spring/240429_ 수업정리.md",
     "image/Pasted image 20240429142508.png",
     "image/Pasted image 20240429141328.png",
-    "아이디어/240214_포트폴리오특강.md",
     "image/Pasted image 20240429140825.png",
     "image/Pasted image 20240429140105.png",
     "image/Pasted image 20240429124459.png",
