@@ -14,13 +14,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/240430_수업정리.md",
+                "file": "Spring/240429_ 수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             },
             "group": "9c946a39c6c75d85"
+          },
+          {
+            "id": "ce351b5c1c34cff0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring/240430_수업정리.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           },
           {
             "id": "de776a8a296f4ca7",
@@ -35,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f2c30a9431d0c222",
@@ -48,7 +62,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/240430_수업정리.md"
+                "file": "Spring/240429_ 수업정리.md"
               }
             },
             "group": "9c946a39c6c75d85"
@@ -175,7 +189,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7e5ba9ed70b2757d",
+  "active": "ce351b5c1c34cff0",
   "lastOpenFiles": [
     "Spring/240429_ 수업정리.md",
     "아이디어/240214_포트폴리오특강.md",
