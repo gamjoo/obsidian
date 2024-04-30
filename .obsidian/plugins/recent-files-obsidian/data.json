@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "240430_수업정리",
+      "path": "Spring/240430_수업정리.md"
+    },
+    {
       "basename": "240429_ 수업정리",
       "path": "Spring/240429_ 수업정리.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Shadow of love",
       "path": "idea/Shadow of love.md"
-    },
-    {
-      "basename": "240215_이클립스 에디터",
-      "path": "문제상황/240215_이클립스 에디터.md"
     }
   ],
   "omittedPaths": [],
