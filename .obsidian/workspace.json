@@ -6,7 +6,7 @@
       {
         "id": "4a4a0b0549b46dce",
         "type": "tabs",
-        "dimension": 74.45721583652617,
+        "dimension": 74.42455242966753,
         "children": [
           {
             "id": "7e5ba9ed70b2757d",
@@ -19,8 +19,7 @@
                 "backlinks": false,
                 "source": false
               }
-            },
-            "group": "9c946a39c6c75d85"
+            }
           },
           {
             "id": "de776a8a296f4ca7",
@@ -46,26 +45,27 @@
                 "backlinks": false,
                 "source": false
               }
-            }
+            },
+            "group": "cb0736832c64043e"
           }
         ],
         "currentTab": 2
       },
       {
-        "id": "f2c30a9431d0c222",
+        "id": "8c686ecb3e57822c",
         "type": "tabs",
-        "dimension": 25.542784163473822,
+        "dimension": 25.575447570332482,
         "children": [
           {
-            "id": "a0ca02d5a6779fe7",
+            "id": "9efaacd8985e058e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "멘토링/240424_멘토링과제.md"
+                "file": "Spring/240430_수업정리.md"
               }
             },
-            "group": "9c946a39c6c75d85"
+            "group": "cb0736832c64043e"
           }
         ]
       }
@@ -189,7 +189,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8d87f5063da90b2a",
+  "active": "9efaacd8985e058e",
   "lastOpenFiles": [
     "image/Pasted image 20240430140518.png",
     "image/Pasted image 20240430124754.png",
