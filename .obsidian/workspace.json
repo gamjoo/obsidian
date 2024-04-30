@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring Boot/240423~240424_수업정리.md",
+                "file": "Spring Boot/240417_수업정리_spring boot 시작.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -74,7 +74,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring Boot/240423~240424_수업정리.md"
+                "file": "Spring Boot/240417_수업정리_spring boot 시작.md"
               }
             }
           }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring Boot/240423~240424_수업정리.md",
+                "file": "Spring Boot/240417_수업정리_spring boot 시작.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring Boot/240423~240424_수업정리.md"
+                "file": "Spring Boot/240417_수업정리_spring boot 시작.md"
               }
             }
           }
@@ -202,6 +202,8 @@
   },
   "active": "ce25df161ae5ac39",
   "lastOpenFiles": [
+    "Spring Boot/240425_수업정리.md",
+    "Spring Boot/240423~240424_수업정리.md",
     "Spring Boot/240422_수업정리.md",
     "Spring Boot/240418~240419_수업정리.md",
     "Spring Boot/240417_수업정리_spring boot 시작.md",
@@ -225,8 +227,6 @@
     "멘토링/240424_멘토링과제.md",
     "문제상황/240402_톰캣오류.md",
     "아이디어/240214_포트폴리오특강.md",
-    "Spring Boot/240425_수업정리.md",
-    "Spring Boot/240423~240424_수업정리.md",
     "Oracle/240123_수업정리.md",
     "jQuery/240227_수업정리.md",
     "Spring/240424_수업정리.md",
