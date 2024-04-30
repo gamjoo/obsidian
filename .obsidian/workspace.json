@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/240416_수업정리.md",
+                "file": "Spring/240417_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -74,7 +74,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/240416_수업정리.md"
+                "file": "Spring/240417_수업정리.md"
               }
             }
           }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/240416_수업정리.md",
+                "file": "Spring/240417_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/240416_수업정리.md"
+                "file": "Spring/240417_수업정리.md"
               }
             }
           }
@@ -202,6 +202,9 @@
   },
   "active": "ce25df161ae5ac39",
   "lastOpenFiles": [
+    "Spring/240418~240419_수업정리.md",
+    "Spring/240417_수업정리.md",
+    "Spring/240416_수업정리.md",
     "Spring/240415_수업정리(스프링시작).md",
     "Spring/240426_수업정리.md",
     "Spring/240429_ 수업정리.md",
@@ -229,9 +232,7 @@
     "Java/240125_수업정리.md",
     "Java/240124_수업정리(자바2 시작).md",
     "Java/240124_과제.md",
-    "Spring/240418~240419_수업정리.md",
     "Spring/240422_수업정리.md",
-    "Spring/240417_수업정리.md",
     "멘토링/240418_멘토링과제.md",
     "Java/240131_수업정리.md",
     "Java/240205_수업정리_JDBC시작 1.md",
@@ -239,7 +240,6 @@
     "Spring/240418_수업정리.html",
     "MyBatis/240412_수업정리_MyBatis시작.md",
     "Java/240206_수업정리.md",
-    "Java/JDBC/240206_수업정리.md",
     "Excalidraw",
     "Fonts/나눔손글씨 성실체.ttf",
     "Fonts",
