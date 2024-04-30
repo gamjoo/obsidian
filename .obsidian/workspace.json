@@ -14,26 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/240429_ 수업정리.md",
+                "file": "Spring/240430_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             },
             "group": "9c946a39c6c75d85"
-          },
-          {
-            "id": "ce351b5c1c34cff0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "문제상황/240402_톰캣오류.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           },
           {
             "id": "de776a8a296f4ca7",
@@ -61,7 +48,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/240429_ 수업정리.md"
+                "file": "Spring/240430_수업정리.md"
               }
             },
             "group": "9c946a39c6c75d85"
@@ -125,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 200
   },
   "right": {
     "id": "c616556be8acbe6b",
@@ -141,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/240429_ 수업정리.md",
+                "file": "Spring/240430_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/240429_ 수업정리.md"
+                "file": "Spring/240430_수업정리.md"
               }
             }
           }
@@ -190,6 +177,7 @@
   },
   "active": "7e5ba9ed70b2757d",
   "lastOpenFiles": [
+    "Spring/240429_ 수업정리.md",
     "문제상황/240402_톰캣오류.md",
     "Spring/240430_수업정리.md",
     "image/Pasted image 20240430103753.png",
@@ -197,7 +185,6 @@
     "image/Pasted image 20240430102632.png",
     "image/Pasted image 20240430102126.png",
     "image/Pasted image 20240430100547.png",
-    "Spring/240429_ 수업정리.md",
     "아이디어/240214_포트폴리오특강.md",
     "image/Pasted image 20240430093729.png",
     "image/Pasted image 20240430093426.png",
