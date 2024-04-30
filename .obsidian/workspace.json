@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/240417_수업정리.md",
+                "file": "Spring Boot/240417_수업정리_spring boot 시작.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -74,7 +74,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/240417_수업정리.md"
+                "file": "Spring Boot/240417_수업정리_spring boot 시작.md"
               }
             }
           }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/240417_수업정리.md",
+                "file": "Spring Boot/240417_수업정리_spring boot 시작.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/240417_수업정리.md"
+                "file": "Spring Boot/240417_수업정리_spring boot 시작.md"
               }
             }
           }
@@ -202,8 +202,10 @@
   },
   "active": "ce25df161ae5ac39",
   "lastOpenFiles": [
-    "Spring/240418~240419_수업정리.md",
     "Spring/240417_수업정리.md",
+    "Spring Boot/240417_수업정리_spring boot 시작.md",
+    "Spring Boot",
+    "Spring/240418~240419_수업정리.md",
     "Spring/240416_수업정리.md",
     "Spring/240415_수업정리(스프링시작).md",
     "Spring/240426_수업정리.md",
@@ -239,14 +241,12 @@
     "멘토링/240411_멘토링과제.pptx",
     "Spring/240418_수업정리.html",
     "MyBatis/240412_수업정리_MyBatis시작.md",
-    "Java/240206_수업정리.md",
     "Excalidraw",
     "Fonts/나눔손글씨 성실체.ttf",
     "Fonts",
     "새 폴더",
     "image/sts3-zip설치 톰캣10(2024-04-15).txt",
     "Spring",
-    "멘토링",
-    "image/240411_멘토링.txt"
+    "멘토링"
   ]
 }

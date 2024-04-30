@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "240417_수업정리_spring boot 시작",
+      "path": "Spring Boot/240417_수업정리_spring boot 시작.md"
+    },
+    {
       "basename": "240417_수업정리",
       "path": "Spring/240417_수업정리.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "240411_제출해야 할 것",
       "path": "일정정리/240411_제출해야 할 것.md"
-    },
-    {
-      "basename": "Shadow of love",
-      "path": "idea/Shadow of love.md"
     }
   ],
   "omittedPaths": [],
