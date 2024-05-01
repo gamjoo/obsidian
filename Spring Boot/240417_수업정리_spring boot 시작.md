@@ -67,9 +67,9 @@
 - @Controller 어노테이션을 사용한 컨트롤러 클래스를 이용해서 특정 요청 URL을 처리한다.
 - @Component를 상속한 @Controller는 @Controller가 붙은 클래스의 객체를 메모리에 생성하는 기능을 제공한다
 - 단순히 객체를 생성하는 것에 그치지 않고 DispatcherServlet이 인식하는 Controller객체로 만들어 준다.
-- 스프링 컨테이너는 @Controller가 선언된 객체를 자동으로 Controller 객체로 인식한다.
-
+- 스프링 컨테이너는 @Controller가 선언된 클래스의 객체를 자동으로 Controller 객체로 인식한다.
 ![](../image/Pasted%20image%2020240417144040.png)
+📌@ㄲ
 - @RequestMapping 어노테이션을 사용해서 메소드에 처리할 요청 경로를 지정한다. value="요청 경로", method는 전송 방식을 지정한다.
 - @RequestMapping 뒤에는 반드시 메소드가 나와야 하고 자동 호출 된다.
 - 메소드 이름은 다른 메소드들과 중복되지 않게만 작성한다.
