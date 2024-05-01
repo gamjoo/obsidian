@@ -1,7 +1,7 @@
 # Spring Boot
 ![](../image/Pasted%20image%2020240417114527.png)
 📌왜 spring boot를 쓸까? [코드스테이츠 블로그_스프링/스프링부트](https://www.codestates.com/blog/content/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8)
-- 스프링
+- 스프링 부트는 스프링에서 진행한 기존의 복잡한 초기 설정을 간단하게 해준다. 즉, 스프링 부트는 스프링으로 애플리케이션을 만들 때 필요한 설정을 간편하게 처리해주는 별도 프레임워크이다. 스프링 부트를 사용하면 기존에 어려운 초기 서렂ㅇ
 📌configuration : 구성 / 설정
 📌@SpringBootApplication
 - (1)자동 설정을 담당하는 annotation으로 스프링 부트의 자동 설정, 스프링 bean 읽기와 생성이 모두 자동으로 설정된다.
