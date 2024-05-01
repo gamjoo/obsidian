@@ -35,11 +35,14 @@
 
 ### JSP 파일 사용하기 (1)
 ![](../image/Pasted%20image%2020240417124431.png)
-📌spring.mvc.view.prefix
-📌spring.mvc.view.suffix
+📌spring.mvc.view.prefix -> view 페이지 경로를 붙여준다
+📌spring.mvc.view.suffix -> view 페이지 확장자를 붙여준다
 
 ### JSP 파일 사용하기 (2)
 ![](../image/Pasted%20image%2020240417124725.png)
+📌jsp 처리를 위해 dependency를 3개 추가한다.
+
+
 ![](../image/Pasted%20image%2020240417124838.png)
 ★이렇게 사용할 수 있는 컨트롤러를 만들어야 한다.
 
