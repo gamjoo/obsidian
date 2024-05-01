@@ -72,9 +72,8 @@
 📌@RequestMapping
 - @RequestMapping 어노테이션을 사용해서 메소드에 처리할 요청 경로를 지정한다. value="요청 경로", method는 전송 방식을 지정한다.
 - @RequestMapping 뒤에는 반드시 메소드가 정의되어야 하고 그 메소드는 해당 경로로 요청이 들어오면 자동 호출 된다.
-- 메소드 이름은 다른 메소드들과 중복되지 않게만 작성한다.
-- post방식과 get방식을 모두 적용할 경우에는 method={RequestMethod.POST, RequestMethod.GET} 또는 생략한다.
-
+- 메소드 이름은 다른 메소드들과 중복되지 않게 작성한다.
+- post방식과 get방식을 모두 적용할 경우에는 method={RequestMethod.POST, RequestMethod.GET} 값을 입력하거나 method 속성 자체를 생략한다.
 ![](../image/Pasted%20image%2020240417144451.png)
 ![](../image/Pasted%20image%2020240417144612.png)
 ![](../image/Pasted%20image%2020240417144914.png)
