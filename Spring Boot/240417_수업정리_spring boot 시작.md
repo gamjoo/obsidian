@@ -132,12 +132,13 @@
 ### @ModelAttribute
 ![](../image/Pasted%20image%2020240417163734.png)
 📌command 객체에 접근할 때 사용할 속성명을 변경하고 싶다면 @ModelAttribute를 사용한다.
-- @ModelAttribute("hoho") BbsBean bbs -> view페이지에서 "hoho"라는 이름으로 사용할 수 있다.
+- @ModelAttribute("hoho") BbsBean bbs -> return으로 값을 반환하는 view페이지에서 "hoho"라는 이름으로 command 객체에 접근할 수 있다.
 - \<th>ID\</th>\<td>${hoho.id}\</td>
+
 
 ## 파라미터 (command 객체에 담을 수 없는 정보 전달)
 ![](../image/Pasted%20image%2020240417164648.png)
-★@RequestParam(value="age") int age
+📌@RequestParam(value="age") int age
 - 파라미터 age의 값을 정수형 변수 age에 저장하라는 의미
 - String으로 넘어오는 파라미터의 값을 변수형에 맞추어 캐스팅한다.
 - int age = Integer.parseInt(request.getParameter("age"));
