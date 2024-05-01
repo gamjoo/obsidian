@@ -131,7 +131,7 @@
 
 ### @ModelAttribute
 ![](../image/Pasted%20image%2020240417163734.png)
-★command 객체에 접근할 때 사용할 속성명을 변경하고 싶다면 @ModelAttribute를 사용한다.
+📌command 객체에 접근할 때 사용할 속성명을 변경하고 싶다면 @ModelAttribute를 사용한다.
 - @ModelAttribute("hoho") BbsBean bbs -> view페이지에서 "hoho"라는 이름으로 사용할 수 있다.
 - \<th>ID\</th>\<td>${hoho.id}\</td>
 
