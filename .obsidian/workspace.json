@@ -6,7 +6,7 @@
       {
         "id": "4a4a0b0549b46dce",
         "type": "tabs",
-        "dimension": 87.92270531400966,
+        "dimension": 78.37837837837837,
         "children": [
           {
             "id": "7e5ba9ed70b2757d",
@@ -66,7 +66,7 @@
       {
         "id": "8c686ecb3e57822c",
         "type": "tabs",
-        "dimension": 12.077294685990339,
+        "dimension": 21.62162162162162,
         "children": [
           {
             "id": "9efaacd8985e058e",
@@ -137,7 +137,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c616556be8acbe6b",
@@ -179,8 +180,17 @@
                 "file": "Spring/240416_수업정리.md"
               }
             }
+          },
+          {
+            "id": "210eba4e2d94a78a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -200,7 +210,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8d87f5063da90b2a",
+  "active": "210eba4e2d94a78a",
   "lastOpenFiles": [
     "Spring/240415_수업정리(스프링시작).md",
     "Spring Boot/240430_수업정리.md",
