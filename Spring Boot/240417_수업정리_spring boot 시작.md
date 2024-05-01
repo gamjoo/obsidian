@@ -147,10 +147,10 @@
 ### ParamController2_int.java
 ![](../image/Pasted%20image%2020240417170503.png)
 ![](../image/Pasted%20image%2020240417172754.png)
-★@RequestParam(value="age")에서 @RequestParam(value="age2")로 수정
+📌@RequestParam(value="age")에서 @RequestParam(value="age2")로 수정
 - HTTP Status 400 - Bad Request Message Required int parameter 'age2' is not present
 ![](../image/Pasted%20image%2020240417173736.png)
-★400오류 발생 해결법
+📌400오류 발생 해결법 - required=false 추가
 - Optional int parameter 'age2' is present but cannot be translated into a null valude due to being declared as a primitive type.
 - required=false로 400오류는 발생하지 않지만 넘어온 값이 null이라 이것을 기본형 int형으로 변환하면서 500에러 발생.
 
