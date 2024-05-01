@@ -93,10 +93,10 @@
 - ModelAndView에서 데이터를 저장할 때 사용하는 메소드는 addObject(String, Object)이다.
     - addObject의 첫번째 매개변수는 키(key), 두번째 매개변수는 값(Value)을 의미한다.
     - bbs는 id와 pass가 저장되어 있는 VO(Value Object, 도메인에서 한 개 또는 그 이상의 속성들을 묶어서 특정 값을 나타내는 객체)객체 이다.
-    - ModelAndView에 key에 저장한 value는 WEB-INF/views/login/list.jsp에서 EL 표현식을 사용하여 나타낼 수 있다.
+    - ModelAndView에 key에 저장한 value는 WEB-INF/views/login/list.jsp에서 EL 표현식으로 사용할 수 있다다.
     - ID : ${bkey.id} / pass : ${bkey.pass}
 ![](../image/Pasted%20image%2020240417153224.png)
-★WEB-INF/views/login/list.jsp의 내용이 보이지만 포워딩되어 있는 주소는 \http://localhost:8088/myhome3/login_ok1.do를 나타낸다. redirect를 원하면 'redirect:' 접두사를 붙인다.
+📌WEB-INF/views/login/list.jsp의 내용이 보이지만 포워딩되어 있는 주소는 \http://localhost:8088/myhome3/login_ok1.do를 나타낸다. redirect를 원하면 'redirect:' 접두사를 붙인다.
 
 
 ### BbsBean.java (Value Object)
