@@ -76,8 +76,9 @@
 - post방식과 get방식을 모두 적용할 경우에는 method={RequestMethod.POST, RequestMethod.GET} 값을 입력하거나 method 속성 자체를 생략한다.
 ![](../image/Pasted%20image%2020240417144451.png)
 ![](../image/Pasted%20image%2020240417144612.png)
+📌클라이언트로부터 요청이 들어오면 Dispatcher Servlet이 Initializing 된다.
 ![](../image/Pasted%20image%2020240417144914.png)
-★dispatcher에 의해 요청 / 처리가 이뤄진다.
+📌dispatcher에 의해 요청 / 처리가 이뤄진다.
 
 ### loginForm.jsp
 ![](../image/Pasted%20image%2020240417150300.png)
