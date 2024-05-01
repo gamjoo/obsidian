@@ -60,7 +60,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "8c686ecb3e57822c",
@@ -73,7 +74,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "아이디어/240214_포트폴리오특강.md"
+                "file": "Spring Boot/240418~240419_수업정리.md"
               }
             }
           }
@@ -152,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "아이디어/240214_포트폴리오특강.md",
+                "file": "Spring Boot/240418~240419_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "아이디어/240214_포트폴리오특강.md"
+                "file": "Spring Boot/240418~240419_수업정리.md"
               }
             }
           },
@@ -208,8 +209,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7e5ba9ed70b2757d",
+  "active": "8d87f5063da90b2a",
   "lastOpenFiles": [
+    "아이디어/240214_포트폴리오특강.md",
     "멘토링/240424_멘토링과제.md",
     "Spring Boot/240418~240419_수업정리.md",
     "Spring Boot/240417_수업정리_spring boot 시작.md",
@@ -217,7 +219,6 @@
     "Spring/240416_수업정리.md",
     "Spring/240415_수업정리(스프링시작).md",
     "Spring Boot/240430_수업정리.md",
-    "아이디어/240214_포트폴리오특강.md",
     "Spring Boot/240425_수업정리.md",
     "Spring Boot/240423~240424_수업정리.md",
     "Spring Boot/240422_수업정리.md",
