@@ -61,7 +61,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "8c686ecb3e57822c",
@@ -74,7 +74,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring Boot/240417_수업정리_spring boot 시작.md"
+                "file": "아이디어/240214_포트폴리오특강.md"
               }
             }
           }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring Boot/240417_수업정리_spring boot 시작.md",
+                "file": "아이디어/240214_포트폴리오특강.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring Boot/240417_수업정리_spring boot 시작.md"
+                "file": "아이디어/240214_포트폴리오특강.md"
               }
             }
           }
@@ -200,13 +200,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ce25df161ae5ac39",
+  "active": "de776a8a296f4ca7",
   "lastOpenFiles": [
+    "멘토링/240424_멘토링과제.md",
+    "Spring Boot/240417_수업정리_spring boot 시작.md",
     "Spring Boot/240425_수업정리.md",
     "Spring Boot/240423~240424_수업정리.md",
     "Spring Boot/240422_수업정리.md",
     "Spring Boot/240418~240419_수업정리.md",
-    "Spring Boot/240417_수업정리_spring boot 시작.md",
     "Spring/240417_수업정리.md",
     "Spring Boot",
     "Spring/240416_수업정리.md",
@@ -224,7 +225,6 @@
     "image/Pasted image 20240430161623.png",
     "image/Pasted image 20240430160449.png",
     "image/Pasted image 20240430154148.png",
-    "멘토링/240424_멘토링과제.md",
     "문제상황/240402_톰캣오류.md",
     "아이디어/240214_포트폴리오특강.md",
     "Oracle/240123_수업정리.md",
