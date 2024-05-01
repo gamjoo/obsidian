@@ -144,7 +144,7 @@
 - int age = Integer.parseInt(request.getParameter("age"));
 ![](../image/Pasted%20image%2020240417165054.png)
 
-### ParamController2_int.java
+### @RequestParam 활용
 ![](../image/Pasted%20image%2020240417170503.png)
 ![](../image/Pasted%20image%2020240417172754.png)
 📌@RequestParam(value="age")에서 @RequestParam(value="age2")로 수정
@@ -152,11 +152,11 @@
 ![](../image/Pasted%20image%2020240417173736.png)
 📌400오류 발생 해결법 - required=false 추가
 - Optional int parameter 'age2' is present but cannot be translated into a null valude due to being declared as a primitive type.
-- required=false로 400오류는 발생하지 않지만 넘어온 값이 null이라 이것을 기본형 int형으로 변환하면서 500에러 발생.
+- required=false로 400오류는 발생하지 않지만 넘어온 값이 null이라 이것을 기본형 int형으로 변환할 수 없어서 500에러 발생.
 
-#### 파라미터가 항상 넘어올지 확신할 수 없는 경우
+#### 파라미터가 항상 넘어올지 확신할 수 없는 경우 (defaultValue)
 ![](../image/Pasted%20image%2020240417174103.png)
-★오류 수정 방법 : age2라는 파라미터가 없는 경우 기본값으로 10을 설정한다.
+📌오류 수정 방법 : age2라는 파라미터가 없는 경우 기본값으로 10을 설정한다.
 - (@RequestParam(value="age2", defaultValue="10", required=false) int age, Model model)
 
 #### 파라미터가 항상 넘어오는 경우
