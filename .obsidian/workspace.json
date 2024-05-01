@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring Boot/240430_수업정리.md",
+                "file": "Spring/240415_수업정리(스프링시작).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -74,7 +74,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring Boot/240430_수업정리.md"
+                "file": "Spring/240415_수업정리(스프링시작).md"
               }
             }
           }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring Boot/240430_수업정리.md",
+                "file": "Spring/240415_수업정리(스프링시작).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring Boot/240430_수업정리.md"
+                "file": "Spring/240415_수업정리(스프링시작).md"
               }
             }
           }
@@ -202,8 +202,8 @@
   },
   "active": "8d87f5063da90b2a",
   "lastOpenFiles": [
-    "Spring Boot/240417_수업정리_spring boot 시작.md",
     "Spring Boot/240430_수업정리.md",
+    "Spring Boot/240417_수업정리_spring boot 시작.md",
     "아이디어/240214_포트폴리오특강.md",
     "멘토링/240424_멘토링과제.md",
     "Spring Boot/240425_수업정리.md",
