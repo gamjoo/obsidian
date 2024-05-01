@@ -26,10 +26,7 @@
 
 ## @RestController
 ![](../image/Pasted%20image%2020240417123004.png)
-★@RestController : response.getWriter( ) 역할과 동일하다.
-
-
-
+📌@RestController : response.getWriter( ) 역할과 동일하다. view페이지나 어떤 주소로 이동하는 것이 아닌, 현재 페이지에 값을 던져주는 기능을 한다.
 
 ## Dependency에 devtools 적용하여 실행
 ![](../image/Image20240417123758.png)
