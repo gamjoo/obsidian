@@ -6,7 +6,7 @@
 📌configuration : 구성 / 설정
 📌@SpringBootApplication
 - (1)자동 설정을 담당하는 annotation으로 스프링 부트의 자동 설정, 스프링 bean 읽기와 생성이 모두 자동으로 설정된다.
-- (2)SpringBootApplications annotation이 포함하고 있는 3가지 annotation은 다음과 같다
+- (2)SpringBootApplication annotation이 포함하고 있는 3가지 annotation은 다음과 같다
   - ①@SpringBootConfiguration
     - Spring Boot 애플리케이션의 @Configuration을 제공함을 나타낸다. 즉, 클래스가 Spring Boot의 구성 클래스임을 나타낸다.
   - ②@ComponentScan
