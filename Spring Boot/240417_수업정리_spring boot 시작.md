@@ -49,7 +49,7 @@
 
 ## 컨트롤러 작업
 ![](../image/Pasted%20image%2020240417124932.png)
-📌스프링은 기본적으로 forwarding 방식이다(redirect 방식으로 페이지를 이동하려면 관련.
+📌스프링은 기본적으로 forwarding 방식이다(redirect 방식으로 페이지를 이동하려면 코드를 추가해야 한다).
 ![](../image/Pasted%20image%2020240417141331.png)
 
 
@@ -63,6 +63,7 @@
 ![](../image/Pasted%20image%2020240417142849.png)
 ### LoginController.java
 ![](../image/Pasted%20image%2020240417143204.png)
+📌@Controller
 - @Controller 어노테이션을 사용한 컨트롤러 클래스를 이용해서 특정 요청 URL을 처리한다.
 - @Component를 상속한 @Controller는 @Controller가 붙은 클래스의 객체를 메모리에 생성하는 기능을 제공한다
 - 단순히 객체를 생성하는 것에 그치지 않고 DispatcherServlet이 인식하는 Controller객체로 만들어 준다.
