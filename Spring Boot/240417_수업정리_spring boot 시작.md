@@ -16,12 +16,12 @@
     - @ComponentScan으로 bean이 등록된 이후, @EnableAutoConfiguration를 통해 한 번 더 스캔되는데 그 때 등록되는 bean들을 설정하기 위해 사용되는 다양한 bean들이 등록된다.
     - 참고) Maven Dependencies 선택 -> spring-boot-autoconfigure-3.1.10.jar -> META-INF/spring/spring.factories -> 이곳에 설정 관련된 정보들이 key와 value 형태로 저장되어 있다. 이 파일을 참조하여 여러 가지 bean을 생성한다.
 ![](../image/Pasted%20image%2020240417121315.png)
-port 8080은 oracle에서 사용 중
+📌port 8080은 oracle에서 사용 중
 ![](../image/Pasted%20image%2020240417121430.png)
-★정적인(.css/.js) 등은 static 폴더에 들어간다.
-★templates 폴더는 Thymleaf 사용과 관련있다.
+📌정적인(.css/.js) 등은 static 폴더에 넣어서 관리한다.
+📌templates 폴더는 Thymleaf 사용과 관련있다.
 ![](../image/Pasted%20image%2020240417121517.png)
-★server.port=8088로 port를 변경하면 에러 발생하지 않는다.
+📌server.port=8088(현재 사용중이지 않은 port)로 port를 변경하면 에러 발생하지 않는다.
 ![](../image/Pasted%20image%2020240417121827.png)
 
 ## @RestController
