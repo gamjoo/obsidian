@@ -1,6 +1,7 @@
 # Spring Boot
 ![](../image/Pasted%20image%2020240417114527.png)
-📌왜 spring boot를 쓸까? ()
+📌왜 spring boot를 쓸까? [코드스테이츠 블로그_스프링/스프링부트](https://www.codestates.com/blog/content/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8)
+- 스프링
 📌configuration : 구성 / 설정
 📌@SpringBootApplication
 - (1)자동 설정을 담당하는 annotation으로 스프링 부트의 자동 설정, 스프링 bean 읽기와 생성이 모두 자동으로 설정된다.
