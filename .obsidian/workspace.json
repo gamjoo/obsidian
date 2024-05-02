@@ -6,6 +6,7 @@
       {
         "id": "9494d5b9906f42bd",
         "type": "tabs",
+        "dimension": 71.26436781609196,
         "children": [
           {
             "id": "6b5b982622dec665",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring Boot/240502_수업정리.md",
+                "file": "Spring Boot/240429_ 수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,6 +27,7 @@
       {
         "id": "06d5720c06d3ece3",
         "type": "tabs",
+        "dimension": 28.735632183908045,
         "children": [
           {
             "id": "cae52f5cac1a7022",
@@ -33,7 +35,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring Boot/240502_수업정리.md"
+                "file": "Spring Boot/240429_ 수업정리.md"
               }
             },
             "group": "45b11d096f1197dc"
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring Boot/240502_수업정리.md",
+                "file": "Spring Boot/240429_ 수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring Boot/240502_수업정리.md"
+                "file": "Spring Boot/240429_ 수업정리.md"
               }
             }
           },
@@ -169,8 +171,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cae52f5cac1a7022",
+  "active": "6b5b982622dec665",
   "lastOpenFiles": [
+    "Spring Boot/Thymeleaf/240429_수업정리.md",
+    "Spring Boot/240429_ 수업정리.md",
+    "Spring Boot/240430_수업정리.md",
+    "Spring Boot/240502_수업정리.md",
     "Linux/240502_수업정리.md",
     "Spring Boot/Thymeleaf",
     "멘토링/240424(240503)_멘토링.md",
@@ -193,7 +199,6 @@
     "문제상황/240228_이클립스github연동.md",
     "문제상황/240222_CSS문제.md",
     "문제상황/240215_이클립스 에디터.md",
-    "Spring Boot/240502_수업정리.md",
     "Spring Boot/240417_수업정리_spring boot 시작.md",
     "image/Pasted image 20240502172133.png",
     "image/Pasted image 20240502171755.png",
@@ -206,9 +211,7 @@
     "image/Pasted image 20240502163433.png",
     "image/Pasted image 20240502163257.png",
     "Linux",
-    "Spring Boot/240430_수업정리.md",
     "Spring Boot/240418~240419_수업정리.md",
-    "Spring/240417_수업정리.md",
     "Spring Boot",
     "멘토링/240411_멘토링과제.pptx",
     "Spring/240418_수업정리.html",
