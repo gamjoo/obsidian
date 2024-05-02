@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문제상황/240309_github잔디.md",
+                "file": "아이디어/240214_포트폴리오특강.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "문제상황/240309_github잔디.md"
+                "file": "아이디어/240214_포트폴리오특강.md"
               }
             }
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "문제상황/240309_github잔디.md",
+                "file": "아이디어/240214_포트폴리오특강.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "문제상황/240309_github잔디.md"
+                "file": "아이디어/240214_포트폴리오특강.md"
               }
             }
           },
@@ -171,13 +171,20 @@
   },
   "active": "ce25df161ae5ac39",
   "lastOpenFiles": [
+    "문제상황/240402_톰캣오류.md",
+    "문제상황/240330_다수첨부파일.md",
+    "문제상황/240325_JSON데이터.md",
+    "문제상황/240325_CORS.md",
+    "문제상황/240314_JDBC드라이버.md",
+    "문제상황/240312_옵시디언@git.md",
+    "문제상황/240311_자바버전.md",
     "문제상황/240311_옵시디언충돌.md",
+    "문제상황/240309_github잔디.md",
     "문제상황/240309_github 연동확인.md",
     "문제상황/240229_이클립스git.md",
     "문제상황/240228_이클립스github연동.md",
     "문제상황/240222_CSS문제.md",
     "문제상황/240215_이클립스 에디터.md",
-    "문제상황/240325_JSON데이터.md",
     "Spring Boot/240502_수업정리.md",
     "Linux/240502_수업정리.md",
     "멘토링/240424_멘토링과제.md",
@@ -201,14 +208,7 @@
     "Spring/240417_수업정리.md",
     "Spring/240416_수업정리.md",
     "Spring/240415_수업정리(스프링시작).md",
-    "Spring Boot/240425_수업정리.md",
-    "Spring Boot/240423~240424_수업정리.md",
-    "Spring Boot/240422_수업정리.md",
     "Spring Boot",
-    "Spring Boot/240426_수업정리.md",
-    "Spring Boot/240429_ 수업정리.md",
-    "문제상황/240402_톰캣오류.md",
-    "Oracle/240123_수업정리.md",
     "멘토링/240411_멘토링과제.pptx",
     "Spring/240418_수업정리.html",
     "Excalidraw",
