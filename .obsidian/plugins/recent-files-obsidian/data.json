@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "240502_수업정리",
+      "path": "Spring Boot/240502_수업정리.md"
+    },
+    {
       "basename": "240430_수업정리",
       "path": "Spring Boot/240430_수업정리.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "240414_세미프로젝트회고",
       "path": "idea/240414_세미프로젝트회고.md"
-    },
-    {
-      "basename": "240411_제출해야 할 것",
-      "path": "일정정리/240411_제출해야 할 것.md"
     }
   ],
   "omittedPaths": [],
