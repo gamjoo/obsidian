@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "멘토링/240424_멘토링과제.md",
+                "file": "Linux/240502_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "멘토링/240424_멘토링과제.md"
+                "file": "Linux/240502_수업정리.md"
               }
             }
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "멘토링/240424_멘토링과제.md",
+                "file": "Linux/240502_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "멘토링/240424_멘토링과제.md"
+                "file": "Linux/240502_수업정리.md"
               }
             }
           },
@@ -171,8 +171,9 @@
   },
   "active": "ce25df161ae5ac39",
   "lastOpenFiles": [
-    "멘토링/무제 파일 1.md",
+    "Spring Boot/240502_수업정리.md",
     "멘토링/240424_멘토링과제.md",
+    "멘토링/무제 파일 1.md",
     "Spring Boot/240417_수업정리_spring boot 시작.md",
     "멘토링/무제 파일.md",
     "Linux/240502_수업정리.md",
@@ -186,7 +187,6 @@
     "image/Pasted image 20240502164201.png",
     "image/Pasted image 20240502163433.png",
     "image/Pasted image 20240502163257.png",
-    "Spring Boot/240502_수업정리.md",
     "Linux",
     "Spring Boot/240430_수업정리.md",
     "Spring Boot/240418~240419_수업정리.md",
