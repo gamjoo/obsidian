@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "240325_JSON데이터",
+      "path": "문제상황/240325_JSON데이터.md"
+    },
+    {
       "basename": "240502_수업정리",
       "path": "Spring Boot/240502_수업정리.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "240415_수업정리(mybatis끝)",
       "path": "MyBatis/240415_수업정리(mybatis끝).md"
-    },
-    {
-      "basename": "240213_수업정리_HTML시작",
-      "path": "HTML/240213_수업정리_HTML시작.md"
     }
   ],
   "omittedPaths": [],
