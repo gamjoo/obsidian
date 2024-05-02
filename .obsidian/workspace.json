@@ -9,38 +9,12 @@
         "dimension": 77.67857142857143,
         "children": [
           {
-            "id": "7e5ba9ed70b2757d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "아이디어/240214_포트폴리오특강.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de776a8a296f4ca7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "아이디어/240214_포트폴리오특강.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8d87f5063da90b2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring Boot/240502_수업정리.md",
+                "file": "멘토링/240424_멘토링과제.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,8 +34,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "8c686ecb3e57822c",
@@ -74,7 +47,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring Boot/240502_수업정리.md"
+                "file": "멘토링/240424_멘토링과제.md"
               }
             }
           }
@@ -132,12 +105,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c616556be8acbe6b",
@@ -153,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring Boot/240502_수업정리.md",
+                "file": "멘토링/240424_멘토링과제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring Boot/240502_수업정리.md"
+                "file": "멘토링/240424_멘토링과제.md"
               }
             }
           },
@@ -211,6 +184,7 @@
   },
   "active": "8d87f5063da90b2a",
   "lastOpenFiles": [
+    "Spring Boot/240502_수업정리.md",
     "image/Pasted image 20240502124557.png",
     "image/Pasted image 20240502121234.png",
     "image/Pasted image 20240502120946.png",
@@ -221,9 +195,7 @@
     "image/Pasted image 20240502114738.png",
     "image/Pasted image 20240502114652.png",
     "image/Pasted image 20240502114615.png",
-    "image/Pasted image 20240502114520.png",
     "Spring Boot/240430_수업정리.md",
-    "Spring Boot/240502_수업정리.md",
     "Spring Boot/240418~240419_수업정리.md",
     "아이디어/240214_포트폴리오특강.md",
     "멘토링/240424_멘토링과제.md",
