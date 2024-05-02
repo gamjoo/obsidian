@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "240309_github잔디",
+      "path": "문제상황/240309_github잔디.md"
+    },
+    {
+      "basename": "240311_옵시디언충돌",
+      "path": "문제상황/240311_옵시디언충돌.md"
+    },
+    {
+      "basename": "240309_github 연동확인",
+      "path": "문제상황/240309_github 연동확인.md"
+    },
+    {
+      "basename": "240229_이클립스git",
+      "path": "문제상황/240229_이클립스git.md"
+    },
+    {
+      "basename": "240228_이클립스github연동",
+      "path": "문제상황/240228_이클립스github연동.md"
+    },
+    {
+      "basename": "240222_CSS문제",
+      "path": "문제상황/240222_CSS문제.md"
+    },
+    {
+      "basename": "240215_이클립스 에디터",
+      "path": "문제상황/240215_이클립스 에디터.md"
+    },
+    {
       "basename": "240325_JSON데이터",
       "path": "문제상황/240325_JSON데이터.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "240315_수업정리",
       "path": "Ajax/240315_수업정리.md"
-    },
-    {
-      "basename": "240325_수업정리",
-      "path": "Ajax/240325_수업정리.md"
-    },
-    {
-      "basename": "240228_수업정리",
-      "path": "jQuery/240228_수업정리.md"
-    },
-    {
-      "basename": "240205_과제",
-      "path": "Java/240205_과제.md"
-    },
-    {
-      "basename": "240205_과제_solution",
-      "path": "Java/240205_과제_solution.md"
-    },
-    {
-      "basename": "240312 ~ 240313 수업정리",
-      "path": "Servlet JSP/240312 ~ 240313 수업정리.md"
-    },
-    {
-      "basename": "240229_수업정리_서블릿 시작&끝",
-      "path": "Servlet JSP/240229_수업정리_서블릿 시작&끝.md"
-    },
-    {
-      "basename": "240415_수업정리(mybatis끝)",
-      "path": "MyBatis/240415_수업정리(mybatis끝).md"
     }
   ],
   "omittedPaths": [],
