@@ -20,22 +20,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e16fdae32c87cf63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "멘토링/무제 파일 1.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "8c686ecb3e57822c",
@@ -48,7 +34,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "멘토링/무제 파일 1.md"
+                "file": "멘토링/240424_멘토링과제.md"
               }
             }
           }
@@ -127,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "멘토링/무제 파일 1.md",
+                "file": "멘토링/240424_멘토링과제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "멘토링/무제 파일 1.md"
+                "file": "멘토링/240424_멘토링과제.md"
               }
             }
           },
@@ -183,10 +169,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e16fdae32c87cf63",
+  "active": "ce25df161ae5ac39",
   "lastOpenFiles": [
-    "멘토링/240424_멘토링과제.md",
     "멘토링/무제 파일 1.md",
+    "멘토링/240424_멘토링과제.md",
     "Spring Boot/240417_수업정리_spring boot 시작.md",
     "멘토링/무제 파일.md",
     "Linux/240502_수업정리.md",
