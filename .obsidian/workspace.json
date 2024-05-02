@@ -132,12 +132,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c616556be8acbe6b",
@@ -211,6 +211,7 @@
   },
   "active": "8d87f5063da90b2a",
   "lastOpenFiles": [
+    "image/Pasted image 20240502091410.png",
     "image/Pasted image 20240502090330.png",
     "Spring Boot/240430_수업정리.md",
     "Spring Boot/240502_수업정리.md",
@@ -236,7 +237,6 @@
     "image/Pasted image 20240430162703.png",
     "image/Pasted image 20240430161623.png",
     "image/Pasted image 20240430160449.png",
-    "image/Pasted image 20240430154148.png",
     "문제상황/240402_톰캣오류.md",
     "Oracle/240123_수업정리.md",
     "jQuery/240227_수업정리.md",
