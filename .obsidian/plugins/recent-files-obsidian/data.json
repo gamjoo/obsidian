@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "무제 파일 1",
+      "path": "멘토링/무제 파일 1.md"
+    },
+    {
       "basename": "240424_멘토링과제",
       "path": "멘토링/240424_멘토링과제.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "240213_수업정리_HTML시작",
       "path": "HTML/240213_수업정리_HTML시작.md"
-    },
-    {
-      "basename": "240214_수업정리",
-      "path": "HTML/240214_수업정리.md"
     }
   ],
   "omittedPaths": [],
