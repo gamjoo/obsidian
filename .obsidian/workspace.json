@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "멘토링/무제 파일 1.md",
+                "file": "멘토링/240424(240503)_멘토링.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "멘토링/무제 파일 1.md"
+                "file": "멘토링/240424(240503)_멘토링.md"
               }
             }
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "멘토링/무제 파일 1.md",
+                "file": "멘토링/240424(240503)_멘토링.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "멘토링/무제 파일 1.md"
+                "file": "멘토링/240424(240503)_멘토링.md"
               }
             }
           },
@@ -171,6 +171,8 @@
   },
   "active": "ce25df161ae5ac39",
   "lastOpenFiles": [
+    "멘토링/240418_멘토링.md",
+    "멘토링/240424(240503)_멘토링.md",
     "멘토링/무제 파일.md",
     "멘토링/무제 파일 1.md",
     "취업/240214_포트폴리오특강.md",
@@ -191,7 +193,6 @@
     "문제상황/240215_이클립스 에디터.md",
     "Spring Boot/240502_수업정리.md",
     "Linux/240502_수업정리.md",
-    "멘토링/240424_멘토링과제.md",
     "Spring Boot/240417_수업정리_spring boot 시작.md",
     "image/Pasted image 20240502172133.png",
     "image/Pasted image 20240502171755.png",
