@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "아이디어/240214_포트폴리오특강.md",
+                "file": "멘토링/무제 파일 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "아이디어/240214_포트폴리오특강.md"
+                "file": "멘토링/무제 파일 1.md"
               }
             }
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "아이디어/240214_포트폴리오특강.md",
+                "file": "멘토링/무제 파일 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "아이디어/240214_포트폴리오특강.md"
+                "file": "멘토링/무제 파일 1.md"
               }
             }
           },
@@ -171,6 +171,10 @@
   },
   "active": "ce25df161ae5ac39",
   "lastOpenFiles": [
+    "멘토링/무제 파일.md",
+    "멘토링/무제 파일 1.md",
+    "취업/240214_포트폴리오특강.md",
+    "취업",
     "문제상황/240402_톰캣오류.md",
     "문제상황/240330_다수첨부파일.md",
     "문제상황/240325_JSON데이터.md",
@@ -188,9 +192,7 @@
     "Spring Boot/240502_수업정리.md",
     "Linux/240502_수업정리.md",
     "멘토링/240424_멘토링과제.md",
-    "멘토링/무제 파일 1.md",
     "Spring Boot/240417_수업정리_spring boot 시작.md",
-    "멘토링/무제 파일.md",
     "image/Pasted image 20240502172133.png",
     "image/Pasted image 20240502171755.png",
     "image/Pasted image 20240502171244.png",
@@ -204,10 +206,8 @@
     "Linux",
     "Spring Boot/240430_수업정리.md",
     "Spring Boot/240418~240419_수업정리.md",
-    "아이디어/240214_포트폴리오특강.md",
     "Spring/240417_수업정리.md",
     "Spring/240416_수업정리.md",
-    "Spring/240415_수업정리(스프링시작).md",
     "Spring Boot",
     "멘토링/240411_멘토링과제.pptx",
     "Spring/240418_수업정리.html",
@@ -215,7 +215,6 @@
     "Fonts/나눔손글씨 성실체.ttf",
     "Fonts",
     "새 폴더",
-    "image/sts3-zip설치 톰캣10(2024-04-15).txt",
-    "Spring"
+    "image/sts3-zip설치 톰캣10(2024-04-15).txt"
   ]
 }
