@@ -9,32 +9,6 @@
         "dimension": 77.67857142857143,
         "children": [
           {
-            "id": "8d87f5063da90b2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "멘토링/무제 파일.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5905a56020aa977c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "멘토링/무제 파일.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ce25df161ae5ac39",
             "type": "leaf",
             "state": {
@@ -60,7 +34,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "멘토링/무제 파일.md"
+                "file": "Spring Boot/240417_수업정리_spring boot 시작.md"
               }
             }
           }
@@ -139,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "멘토링/무제 파일.md",
+                "file": "Spring Boot/240417_수업정리_spring boot 시작.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "멘토링/무제 파일.md"
+                "file": "Spring Boot/240417_수업정리_spring boot 시작.md"
               }
             }
           },
@@ -195,10 +169,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8d87f5063da90b2a",
+  "active": "ce25df161ae5ac39",
   "lastOpenFiles": [
-    "Spring Boot/240417_수업정리_spring boot 시작.md",
     "멘토링/무제 파일.md",
+    "Spring Boot/240417_수업정리_spring boot 시작.md",
     "멘토링/240424_멘토링과제.md",
     "Linux/240502_수업정리.md",
     "image/Pasted image 20240502172133.png",
