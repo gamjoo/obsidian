@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring Boot/240429_ 수업정리.md",
+                "file": "Thymeleaf/무제 파일.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -35,7 +35,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring Boot/240429_ 수업정리.md"
+                "file": "Thymeleaf/무제 파일.md"
               }
             },
             "group": "45b11d096f1197dc"
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring Boot/240429_ 수업정리.md",
+                "file": "Thymeleaf/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring Boot/240429_ 수업정리.md"
+                "file": "Thymeleaf/무제 파일.md"
               }
             }
           },
@@ -171,11 +171,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ffb4f3fb5a9558bb",
+  "active": "6b5b982622dec665",
   "lastOpenFiles": [
+    "Spring Boot/240429_ 수업정리.md",
+    "Thymeleaf/무제 파일.md",
     "Thymeleaf",
     "Spring Boot/Thymeleaf/240429_수업정리.md",
-    "Spring Boot/240429_ 수업정리.md",
     "Spring Boot/240430_수업정리.md",
     "Spring Boot/240502_수업정리.md",
     "Linux/240502_수업정리.md",
@@ -217,7 +218,6 @@
     "Spring/240418_수업정리.html",
     "Excalidraw",
     "Fonts/나눔손글씨 성실체.ttf",
-    "Fonts",
-    "새 폴더"
+    "Fonts"
   ]
 }
