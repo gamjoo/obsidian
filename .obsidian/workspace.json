@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ubuntu_Linux/240502_수업정리.md",
+                "file": "Ubuntu_Linux/240503_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -35,7 +35,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ubuntu_Linux/240502_수업정리.md"
+                "file": "Ubuntu_Linux/240503_수업정리.md"
               }
             },
             "group": "45b11d096f1197dc"
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ubuntu_Linux/240502_수업정리.md",
+                "file": "Ubuntu_Linux/240503_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ubuntu_Linux/240502_수업정리.md"
+                "file": "Ubuntu_Linux/240503_수업정리.md"
               }
             }
           },
@@ -173,8 +173,8 @@
   },
   "active": "6b5b982622dec665",
   "lastOpenFiles": [
-    "Ubuntu_Linux/240503_수업정리.md",
     "Ubuntu_Linux/240502_수업정리.md",
+    "Ubuntu_Linux/240503_수업정리.md",
     "image/Pasted image 20240503091455.png",
     "image/Pasted image 20240503091258.png",
     "image/Pasted image 20240503090742.png",
