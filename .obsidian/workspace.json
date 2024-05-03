@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thymeleaf/무제 파일.md",
+                "file": "Thymeleaf/240429_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -35,7 +35,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thymeleaf/무제 파일.md"
+                "file": "Thymeleaf/240429_수업정리.md"
               }
             },
             "group": "45b11d096f1197dc"
@@ -115,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thymeleaf/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,10 +170,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6b5b982622dec665",
+  "active": "ffb4f3fb5a9558bb",
   "lastOpenFiles": [
-    "Spring Boot/240429_ 수업정리.md",
+    "파이널프로젝트",
+    "Thymeleaf/240429_수업정리.md",
     "Thymeleaf/무제 파일.md",
+    "Spring Boot/240429_ 수업정리.md",
     "Thymeleaf",
     "Spring Boot/Thymeleaf/240429_수업정리.md",
     "Spring Boot/240430_수업정리.md",
@@ -200,8 +201,6 @@
     "문제상황/240229_이클립스git.md",
     "문제상황/240228_이클립스github연동.md",
     "문제상황/240222_CSS문제.md",
-    "문제상황/240215_이클립스 에디터.md",
-    "Spring Boot/240417_수업정리_spring boot 시작.md",
     "image/Pasted image 20240502172133.png",
     "image/Pasted image 20240502171755.png",
     "image/Pasted image 20240502171244.png",
