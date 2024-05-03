@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/240503_수업정리.md",
+                "file": "Ubuntu_Linux/240503_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -35,7 +35,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/240503_수업정리.md"
+                "file": "Ubuntu_Linux/240503_수업정리.md"
               }
             },
             "group": "45b11d096f1197dc"
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/240503_수업정리.md",
+                "file": "Ubuntu_Linux/240503_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/240503_수업정리.md"
+                "file": "Ubuntu_Linux/240503_수업정리.md"
               }
             }
           },
@@ -171,11 +171,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6b5b982622dec665",
+  "active": "ffb4f3fb5a9558bb",
   "lastOpenFiles": [
     "image/Pasted image 20240503090742.png",
-    "Linux/240502_수업정리.md",
-    "Linux/240503_수업정리.md",
+    "Ubuntu_Linux/240502_수업정리.md",
+    "Ubuntu_Linux/240503_수업정리.md",
     "Thymeleaf/240502_수업정리.md",
     "Thymeleaf/240430_수업정리.md",
     "Thymeleaf/240429_수업정리.md",
@@ -213,7 +213,7 @@
     "image/Pasted image 20240502164201.png",
     "image/Pasted image 20240502163433.png",
     "image/Pasted image 20240502163257.png",
-    "Linux",
+    "Ubuntu_Linux",
     "Spring Boot",
     "멘토링/240411_멘토링과제.pptx",
     "Spring/240418_수업정리.html",
