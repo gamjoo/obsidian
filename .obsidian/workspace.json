@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kubernetes (k8s)/240508_수업시작.md",
+                "file": "멘토링/240508_멘토링.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -35,7 +35,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kubernetes (k8s)/240508_수업시작.md"
+                "file": "멘토링/240508_멘토링.md"
               }
             },
             "group": "45b11d096f1197dc"
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kubernetes (k8s)/240508_수업시작.md",
+                "file": "멘토링/240508_멘토링.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kubernetes (k8s)/240508_수업시작.md"
+                "file": "멘토링/240508_멘토링.md"
               }
             }
           },
@@ -173,8 +173,9 @@
   },
   "active": "6b5b982622dec665",
   "lastOpenFiles": [
-    "Ubuntu_Linux/240503_수업정리.md",
     "kubernetes (k8s)/240508_수업시작.md",
+    "멘토링/240508_멘토링.md",
+    "Ubuntu_Linux/240503_수업정리.md",
     "image/Pasted image 20240508154113.png",
     "image/Pasted image 20240508153510.png",
     "image/Pasted image 20240508153350.png",
@@ -204,7 +205,6 @@
     "Spring Boot/Thymeleaf",
     "멘토링/240424(240503)_멘토링.md",
     "멘토링/240418_멘토링.md",
-    "멘토링/무제 파일.md",
     "멘토링/무제 파일 1.md",
     "취업",
     "문제상황/240402_톰캣오류.md",

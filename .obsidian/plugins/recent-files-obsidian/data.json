@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "240508_멘토링",
+      "path": "멘토링/240508_멘토링.md"
+    },
+    {
       "basename": "240508_수업시작",
       "path": "kubernetes (k8s)/240508_수업시작.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "240206_수업정리",
       "path": "Java/JDBC/240206_수업정리.md"
-    },
-    {
-      "basename": "240202_수업정리",
-      "path": "Java/240202_수업정리.md"
     }
   ],
   "omittedPaths": [],
