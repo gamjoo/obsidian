@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "멘토링/240508_멘토링.md",
+                "file": "kubernetes (k8s)/240508_수업시작.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -35,7 +35,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "멘토링/240508_멘토링.md"
+                "file": "kubernetes (k8s)/240508_수업시작.md"
               }
             },
             "group": "45b11d096f1197dc"
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "멘토링/240508_멘토링.md",
+                "file": "kubernetes (k8s)/240508_수업시작.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "멘토링/240508_멘토링.md"
+                "file": "kubernetes (k8s)/240508_수업시작.md"
               }
             }
           },
@@ -173,6 +173,8 @@
   },
   "active": "6b5b982622dec665",
   "lastOpenFiles": [
+    "Docker/240508_수업정리.md",
+    "Docker/240503_수업정리.md",
     "kubernetes (k8s)/240508_수업시작.md",
     "멘토링/240508_멘토링.md",
     "Ubuntu_Linux/240503_수업정리.md",
@@ -186,9 +188,7 @@
     "image/Pasted image 20240508152847.png",
     "image/Pasted image 20240508152702.png",
     "image/Pasted image 20240508152614.png",
-    "Docker/240508_수업정리.md",
     "kubernetes (k8s)",
-    "Docker/240503_수업정리.md",
     "취업/240214_포트폴리오특강.md",
     "Docker",
     "Ubuntu_Linux/240502_수업정리.md",
