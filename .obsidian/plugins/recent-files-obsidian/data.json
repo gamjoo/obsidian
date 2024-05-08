@@ -5,6 +5,10 @@
       "path": "kubernetes (k8s)/240508_수업시작.md"
     },
     {
+      "basename": "240503_수업정리",
+      "path": "Ubuntu_Linux/240503_수업정리.md"
+    },
+    {
       "basename": "240508_수업정리",
       "path": "Docker/240508_수업정리.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "240214_포트폴리오특강",
       "path": "취업/240214_포트폴리오특강.md"
-    },
-    {
-      "basename": "240503_수업정리",
-      "path": "Ubuntu_Linux/240503_수업정리.md"
     },
     {
       "basename": "240502_수업정리",
