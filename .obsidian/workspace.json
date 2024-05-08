@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "취업/240214_포트폴리오특강.md",
+                "file": "Docker/240508_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -35,7 +35,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "취업/240214_포트폴리오특강.md"
+                "file": "Docker/240508_수업정리.md"
               }
             },
             "group": "45b11d096f1197dc"
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "취업/240214_포트폴리오특강.md",
+                "file": "Docker/240508_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "취업/240214_포트폴리오특강.md"
+                "file": "Docker/240508_수업정리.md"
               }
             }
           },
@@ -173,6 +173,11 @@
   },
   "active": "6b5b982622dec665",
   "lastOpenFiles": [
+    "image/Pasted image 20240508090425.png",
+    "image/Pasted image 20240508090423.png",
+    "image/Pasted image 20240508090422.png",
+    "취업/240214_포트폴리오특강.md",
+    "Docker/240508_수업정리.md",
     "Docker/240503_수업정리.md",
     "image/Pasted image 20240503174742.png",
     "image/Pasted image 20240503174224.png",
@@ -182,8 +187,6 @@
     "image/Pasted image 20240503172912.png",
     "image/Pasted image 20240503172613.png",
     "image/Pasted image 20240503172317.png",
-    "image/Pasted image 20240503171929.png",
-    "image/Pasted image 20240503171020.png",
     "Ubuntu_Linux/240503_수업정리.md",
     "Docker",
     "Ubuntu_Linux/240502_수업정리.md",
@@ -202,7 +205,6 @@
     "멘토링/240418_멘토링.md",
     "멘토링/무제 파일.md",
     "멘토링/무제 파일 1.md",
-    "취업/240214_포트폴리오특강.md",
     "취업",
     "문제상황/240402_톰캣오류.md",
     "문제상황/240330_다수첨부파일.md",
@@ -212,7 +214,6 @@
     "문제상황/240312_옵시디언@git.md",
     "문제상황/240311_자바버전.md",
     "문제상황/240311_옵시디언충돌.md",
-    "문제상황/240309_github잔디.md",
     "Ubuntu_Linux",
     "Spring Boot",
     "멘토링/240411_멘토링과제.pptx",

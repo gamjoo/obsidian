@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "240508_수업정리",
+      "path": "Docker/240508_수업정리.md"
+    },
+    {
       "basename": "240214_포트폴리오특강",
       "path": "취업/240214_포트폴리오특강.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "240223_수업정리",
       "path": "JavaScript/240223_수업정리.md"
-    },
-    {
-      "basename": "240130_수업정리",
-      "path": "Java/240130_수업정리.md"
     }
   ],
   "omittedPaths": [],
