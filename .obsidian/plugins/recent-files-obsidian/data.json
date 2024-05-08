@@ -5,6 +5,10 @@
       "path": "Docker/240508_수업정리.md"
     },
     {
+      "basename": "Pasted image 20240508114153",
+      "path": "image/Pasted image 20240508114153.png"
+    },
+    {
       "basename": "240503_수업정리",
       "path": "Docker/240503_수업정리.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "240222_수업정리",
       "path": "JavaScript/240222_수업정리.md"
-    },
-    {
-      "basename": "240223_수업정리",
-      "path": "JavaScript/240223_수업정리.md"
     }
   ],
   "omittedPaths": [],
