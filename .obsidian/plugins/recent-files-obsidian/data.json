@@ -1,24 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "240508_수업정리",
-      "path": "Docker/240508_수업정리.md"
-    },
-    {
-      "basename": "240503_수업정리",
-      "path": "Ubuntu_Linux/240503_수업정리.md"
-    },
-    {
       "basename": "240509_수업정리",
       "path": "AWS/240509_수업정리.md"
+    },
+    {
+      "basename": "240509_수업시작",
+      "path": "kubernetes (k8s)/240509_수업시작.md"
     },
     {
       "basename": "240502_수업정리",
       "path": "Ubuntu_Linux/240502_수업정리.md"
     },
     {
-      "basename": "240509_수업시작",
-      "path": "kubernetes (k8s)/240509_수업시작.md"
+      "basename": "240503_수업정리",
+      "path": "Ubuntu_Linux/240503_수업정리.md"
+    },
+    {
+      "basename": "240508_수업정리",
+      "path": "Docker/240508_수업정리.md"
     },
     {
       "basename": "240508_수업시작",
