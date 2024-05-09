@@ -6,7 +6,7 @@
       {
         "id": "9494d5b9906f42bd",
         "type": "tabs",
-        "dimension": 71.26436781609196,
+        "dimension": 69.68390804597702,
         "children": [
           {
             "id": "6b5b982622dec665",
@@ -27,7 +27,7 @@
       {
         "id": "06d5720c06d3ece3",
         "type": "tabs",
-        "dimension": 28.735632183908045,
+        "dimension": 30.31609195402299,
         "children": [
           {
             "id": "cae52f5cac1a7022",
@@ -173,6 +173,8 @@
   },
   "active": "6b5b982622dec665",
   "lastOpenFiles": [
+    "image/Pasted image 20240509101935.png",
+    "image/Pasted image 20240509101911.png",
     "image/Pasted image 20240509101309.png",
     "image/Pasted image 20240509101251.png",
     "image/Pasted image 20240509101235.png",
@@ -182,8 +184,6 @@
     "image/Pasted image 20240509094852.png",
     "image/Pasted image 20240509094802.png",
     "image/Pasted image 20240509094353.png",
-    "image/Pasted image 20240509094303.png",
-    "image/Pasted image 20240509094008.png",
     "kubernetes (k8s)/240508_수업시작.md",
     "kubernetes (k8s)/240509_수업시작.md",
     "Docker/240507_수업자료(예비군).md",
