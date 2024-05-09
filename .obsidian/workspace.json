@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ubuntu_Linux/240502_수업정리.md",
+                "file": "AWS/240509_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -35,7 +35,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ubuntu_Linux/240502_수업정리.md"
+                "file": "AWS/240509_수업정리.md"
               }
             },
             "group": "45b11d096f1197dc"
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ubuntu_Linux/240502_수업정리.md",
+                "file": "AWS/240509_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ubuntu_Linux/240502_수업정리.md"
+                "file": "AWS/240509_수업정리.md"
               }
             }
           },
@@ -173,6 +173,8 @@
   },
   "active": "6b5b982622dec665",
   "lastOpenFiles": [
+    "image/Pasted image 20240509143009.png",
+    "Ubuntu_Linux/240502_수업정리.md",
     "AWS/240509_수업정리.md",
     "image/Pasted image 20240509141737.png",
     "image/Pasted image 20240509141346.png",
@@ -197,7 +199,6 @@
     "취업/240214_포트폴리오특강.md",
     "kubernetes (k8s)",
     "Docker",
-    "Ubuntu_Linux/240502_수업정리.md",
     "Thymeleaf/240502_수업정리.md",
     "명령어모음.md",
     "Thymeleaf/240430_수업정리.md",
