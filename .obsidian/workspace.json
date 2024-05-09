@@ -173,6 +173,8 @@
   },
   "active": "6b5b982622dec665",
   "lastOpenFiles": [
+    "image/docker0507_1.png",
+    "image/docker0507_1.png.crdownload",
     "Ubuntu_Linux/240503_수업정리.md",
     "Docker/240507_수업자료(예비군).md",
     "kubernetes (k8s)/240508_수업시작.md",
@@ -214,10 +216,8 @@
     "문제상황/240325_CORS.md",
     "문제상황/240314_JDBC드라이버.md",
     "문제상황/240312_옵시디언@git.md",
-    "문제상황/240311_자바버전.md",
     "Ubuntu_Linux",
     "Spring Boot",
-    "멘토링/240411_멘토링과제.pptx",
-    "Spring/240418_수업정리.html"
+    "멘토링/240411_멘토링과제.pptx"
   ]
 }
