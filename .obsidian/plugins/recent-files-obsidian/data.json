@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "240507_수업자료(예비군)",
+      "path": "Docker/240507_수업자료(예비군).md"
+    },
+    {
       "basename": "240503_수업정리",
       "path": "Ubuntu_Linux/240503_수업정리.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "240206_수업정리",
       "path": "Java/240206_수업정리.md"
-    },
-    {
-      "basename": "240206_수업정리",
-      "path": "Java/JDBC/240206_수업정리.md"
     }
   ],
   "omittedPaths": [],
