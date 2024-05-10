@@ -5,6 +5,10 @@
       "path": "AWS/240509_수업정리.md"
     },
     {
+      "basename": "240510_수업정리",
+      "path": "AWS/240510_수업정리.md"
+    },
+    {
       "basename": "240508_수업정리",
       "path": "Docker/240508_수업정리.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "240131_수업정리",
       "path": "Java/240131_수업정리.md"
-    },
-    {
-      "basename": "240205_수업정리_JDBC시작 1",
-      "path": "Java/240205_수업정리_JDBC시작 1.md"
     }
   ],
   "omittedPaths": [],
