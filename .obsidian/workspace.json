@@ -173,6 +173,7 @@
   },
   "active": "6b5b982622dec665",
   "lastOpenFiles": [
+    "image/Pasted image 20240510101350.png",
     "AWS/240509_수업정리.md",
     "AWS/240510_수업정리.md",
     "Docker/240508_수업정리.md",
@@ -216,7 +217,6 @@
     "문제상황/240402_톰캣오류.md",
     "문제상황/240330_다수첨부파일.md",
     "문제상황/240325_JSON데이터.md",
-    "문제상황/240325_CORS.md",
     "Ubuntu_Linux",
     "Spring Boot"
   ]
