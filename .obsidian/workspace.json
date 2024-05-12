@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문제상황/240325_JSON데이터.md",
+                "file": "AWS/240510_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -35,7 +35,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "문제상황/240325_JSON데이터.md"
+                "file": "AWS/240510_수업정리.md"
               }
             },
             "group": "45b11d096f1197dc"
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "문제상황/240325_JSON데이터.md",
+                "file": "AWS/240510_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "문제상황/240325_JSON데이터.md"
+                "file": "AWS/240510_수업정리.md"
               }
             }
           },
@@ -173,6 +173,8 @@
   },
   "active": "6b5b982622dec665",
   "lastOpenFiles": [
+    "kubernetes (k8s)/240509_수업시작.md",
+    "문제상황/240325_JSON데이터.md",
     "문제상황/240325_CORS.md",
     "문제상황/240330_다수첨부파일.md",
     "문제상황/240314_JDBC드라이버.md",
@@ -199,7 +201,6 @@
     "image/Pasted image 20240510170958.png",
     "AWS/240509_수업정리.md",
     "Docker/240508_수업정리.md",
-    "kubernetes (k8s)/240509_수업시작.md",
     "kubernetes (k8s)/240508_수업시작.md",
     "Ubuntu_Linux/240503_수업정리.md",
     "Ubuntu_Linux/240502_수업정리.md",
@@ -212,7 +213,6 @@
     "kubernetes (k8s)",
     "Docker",
     "Thymeleaf/240502_수업정리.md",
-    "명령어모음.md",
     "프로젝트_파이널",
     "Thymeleaf",
     "Spring Boot/Thymeleaf",
