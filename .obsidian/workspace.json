@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "취업/240214_포트폴리오특강.md",
+                "file": "프로젝트_파이널/240429_프로젝트 관련 공지.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -35,7 +35,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "취업/240214_포트폴리오특강.md"
+                "file": "프로젝트_파이널/240429_프로젝트 관련 공지.md"
               }
             },
             "group": "45b11d096f1197dc"
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "취업/240214_포트폴리오특강.md",
+                "file": "프로젝트_파이널/240429_프로젝트 관련 공지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "취업/240214_포트폴리오특강.md"
+                "file": "프로젝트_파이널/240429_프로젝트 관련 공지.md"
               }
             }
           },
@@ -173,6 +173,7 @@
   },
   "active": "6b5b982622dec665",
   "lastOpenFiles": [
+    "취업/240214_포트폴리오특강.md",
     "AWS/240510_수업정리.md",
     "image/Pasted image 20240510173319.png",
     "image/Pasted image 20240510173226.png",
@@ -196,7 +197,6 @@
     "Docker/240503_수업정리.md",
     "image/docker0507_1.png.crdownload",
     "멘토링/240424(240503)_멘토링.md",
-    "취업/240214_포트폴리오특강.md",
     "kubernetes (k8s)",
     "Docker",
     "Thymeleaf/240502_수업정리.md",
