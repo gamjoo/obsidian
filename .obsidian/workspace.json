@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문제상황/240228_이클립스github연동.md",
+                "file": "문제상황/240325_CORS.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -35,7 +35,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "문제상황/240228_이클립스github연동.md"
+                "file": "문제상황/240325_CORS.md"
               }
             },
             "group": "45b11d096f1197dc"
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "문제상황/240228_이클립스github연동.md",
+                "file": "문제상황/240325_CORS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "문제상황/240228_이클립스github연동.md"
+                "file": "문제상황/240325_CORS.md"
               }
             }
           },
@@ -173,6 +173,14 @@
   },
   "active": "6b5b982622dec665",
   "lastOpenFiles": [
+    "문제상황/240314_JDBC드라이버.md",
+    "문제상황/240312_옵시디언@git.md",
+    "문제상황/240311_자바버전.md",
+    "문제상황/240311_옵시디언충돌.md",
+    "문제상황/240309_github잔디.md",
+    "문제상황/240309_github 연동확인.md",
+    "문제상황/240229_이클립스git.md",
+    "문제상황/240228_이클립스github연동.md",
     "문제상황/240222_CSS문제.md",
     "프로젝트_파이널/240429_프로젝트 관련 공지.md",
     "취업/240214_포트폴리오특강.md",
@@ -205,18 +213,10 @@
     "명령어모음.md",
     "Thymeleaf/240430_수업정리.md",
     "Thymeleaf/240429_수업정리.md",
-    "Thymeleaf/무제 파일.md",
     "프로젝트_파이널",
-    "Spring Boot/240429_ 수업정리.md",
     "Thymeleaf",
-    "Spring Boot/Thymeleaf/240429_수업정리.md",
     "Spring Boot/Thymeleaf",
-    "멘토링/240418_멘토링.md",
-    "멘토링/무제 파일 1.md",
     "취업",
-    "문제상황/240402_톰캣오류.md",
-    "문제상황/240330_다수첨부파일.md",
-    "문제상황/240325_JSON데이터.md",
     "Ubuntu_Linux",
     "Spring Boot"
   ]
