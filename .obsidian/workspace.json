@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS_Jenkins/240513_수업정리.md",
+                "file": "HTML/240213_수업정리_HTML시작.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -43,7 +43,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "06d5720c06d3ece3",
@@ -55,7 +55,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "HTML/240213_수업정리_HTML시작.md"
+              }
             }
           }
         ]
@@ -133,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS_Jenkins/240510_수업정리.md",
+                "file": "HTML/240213_수업정리_HTML시작.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS_Jenkins/240510_수업정리.md"
+                "file": "HTML/240213_수업정리_HTML시작.md"
               }
             }
           },
@@ -189,8 +191,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "662e0d653e7504f2",
+  "active": "884e2f93455bd207",
   "lastOpenFiles": [
+    "Docker/240508_수업정리.md",
+    "git/240325_수업정리.md",
+    "문제상황/240228_이클립스github연동.md",
+    "문제상황/240222_CSS문제.md",
+    "Spring/240415_수업정리(스프링시작).md",
+    "Spring/240416_수업정리.md",
+    "Thymeleaf/240429_수업정리.md",
+    "Thymeleaf/240502_수업정리.md",
+    "Thymeleaf/240430_수업정리.md",
     "AWS_Jenkins/240513_수업정리.md",
     "Ajax/240314_수업정리.md",
     "image/Pasted image 20240513172927.png",
@@ -217,19 +228,10 @@
     "문제상황/240309_github잔디.md",
     "문제상황/240309_github 연동확인.md",
     "문제상황/240229_이클립스git.md",
-    "문제상황/240228_이클립스github연동.md",
-    "문제상황/240222_CSS문제.md",
     "프로젝트_파이널/240429_프로젝트 관련 공지.md",
     "취업/240214_포트폴리오특강.md",
     "AWS_Jenkins/240509_수업정리.md",
-    "Docker/240508_수업정리.md",
-    "kubernetes (k8s)/240508_수업시작.md",
-    "Ubuntu_Linux/240503_수업정리.md",
-    "Ubuntu_Linux/240502_수업정리.md",
     "AWS_Jenkins",
-    "멘토링/240508_멘토링.md",
-    "Docker/240507_수업자료(예비군).md",
-    "Docker/240503_수업정리.md",
     "image/docker0507_1.png.crdownload",
     "kubernetes (k8s)",
     "Docker",

@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "240213_수업정리_HTML시작",
+      "path": "HTML/240213_수업정리_HTML시작.md"
+    },
+    {
+      "basename": "240508_수업정리",
+      "path": "Docker/240508_수업정리.md"
+    },
+    {
+      "basename": "240325_수업정리",
+      "path": "git/240325_수업정리.md"
+    },
+    {
+      "basename": "240228_이클립스github연동",
+      "path": "문제상황/240228_이클립스github연동.md"
+    },
+    {
+      "basename": "240222_CSS문제",
+      "path": "문제상황/240222_CSS문제.md"
+    },
+    {
+      "basename": "240415_수업정리(스프링시작)",
+      "path": "Spring/240415_수업정리(스프링시작).md"
+    },
+    {
+      "basename": "240416_수업정리",
+      "path": "Spring/240416_수업정리.md"
+    },
+    {
+      "basename": "240429_수업정리",
+      "path": "Thymeleaf/240429_수업정리.md"
+    },
+    {
+      "basename": "240502_수업정리",
+      "path": "Thymeleaf/240502_수업정리.md"
+    },
+    {
+      "basename": "240430_수업정리",
+      "path": "Thymeleaf/240430_수업정리.md"
+    },
+    {
       "basename": "240513_수업정리",
       "path": "AWS_Jenkins/240513_수업정리.md"
     },
@@ -57,14 +97,6 @@
       "path": "문제상황/240229_이클립스git.md"
     },
     {
-      "basename": "240228_이클립스github연동",
-      "path": "문제상황/240228_이클립스github연동.md"
-    },
-    {
-      "basename": "240222_CSS문제",
-      "path": "문제상황/240222_CSS문제.md"
-    },
-    {
       "basename": "240429_프로젝트 관련 공지",
       "path": "프로젝트_파이널/240429_프로젝트 관련 공지.md"
     },
@@ -75,10 +107,6 @@
     {
       "basename": "240509_수업정리",
       "path": "AWS_Jenkins/240509_수업정리.md"
-    },
-    {
-      "basename": "240508_수업정리",
-      "path": "Docker/240508_수업정리.md"
     },
     {
       "basename": "240508_수업시작",
@@ -113,18 +141,6 @@
       "path": "image/Pasted image 20240508114153.png"
     },
     {
-      "basename": "240502_수업정리",
-      "path": "Thymeleaf/240502_수업정리.md"
-    },
-    {
-      "basename": "240430_수업정리",
-      "path": "Thymeleaf/240430_수업정리.md"
-    },
-    {
-      "basename": "240429_수업정리",
-      "path": "Thymeleaf/240429_수업정리.md"
-    },
-    {
       "basename": "240429_ 수업정리",
       "path": "Spring Boot/240429_ 수업정리.md"
     },
@@ -151,14 +167,6 @@
     {
       "basename": "240417_수업정리",
       "path": "Spring/240417_수업정리.md"
-    },
-    {
-      "basename": "240416_수업정리",
-      "path": "Spring/240416_수업정리.md"
-    },
-    {
-      "basename": "240415_수업정리(스프링시작)",
-      "path": "Spring/240415_수업정리(스프링시작).md"
     },
     {
       "basename": "240425_수업정리",
@@ -191,14 +199,6 @@
     {
       "basename": "240126_수업정리",
       "path": "Java/240126_수업정리.md"
-    },
-    {
-      "basename": "240125_수업정리",
-      "path": "Java/240125_수업정리.md"
-    },
-    {
-      "basename": "240124_수업정리(자바2 시작)",
-      "path": "Java/240124_수업정리(자바2 시작).md"
     }
   ],
   "omittedPaths": [],
