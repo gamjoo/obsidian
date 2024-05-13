@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "240513_수업정리",
+      "path": "AWS/240513_수업정리.md"
+    },
+    {
       "basename": "240510_수업정리",
       "path": "AWS/240510_수업정리.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "240124_과제",
       "path": "Java/240124_과제.md"
-    },
-    {
-      "basename": "240131_수업정리",
-      "path": "Java/240131_수업정리.md"
     }
   ],
   "omittedPaths": [],
