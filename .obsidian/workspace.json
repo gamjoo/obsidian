@@ -187,9 +187,9 @@
   },
   "active": "884e2f93455bd207",
   "lastOpenFiles": [
-    "image/과정1_배포.txt",
     "AWS/240510_수업정리.md",
     "AWS/240513_수업정리.md",
+    "image/과정1_배포.txt",
     "image/Pasted image 20240513090819.png",
     "kubernetes (k8s)/240509_수업시작.md",
     "문제상황/240325_JSON데이터.md",
@@ -231,7 +231,6 @@
     "Thymeleaf",
     "Spring Boot/Thymeleaf",
     "취업",
-    "Ubuntu_Linux",
-    "Spring Boot"
+    "Ubuntu_Linux"
   ]
 }
