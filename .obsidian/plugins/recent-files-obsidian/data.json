@@ -2,11 +2,15 @@
   "recentFiles": [
     {
       "basename": "240513_수업정리",
-      "path": "AWS/240513_수업정리.md"
+      "path": "AWS_Jenkins/240513_수업정리.md"
+    },
+    {
+      "basename": "240314_수업정리",
+      "path": "Ajax/240314_수업정리.md"
     },
     {
       "basename": "240510_수업정리",
-      "path": "AWS/240510_수업정리.md"
+      "path": "AWS_Jenkins/240510_수업정리.md"
     },
     {
       "basename": "240509_수업시작",
@@ -70,7 +74,7 @@
     },
     {
       "basename": "240509_수업정리",
-      "path": "AWS/240509_수업정리.md"
+      "path": "AWS_Jenkins/240509_수업정리.md"
     },
     {
       "basename": "240508_수업정리",
@@ -195,10 +199,6 @@
     {
       "basename": "240124_수업정리(자바2 시작)",
       "path": "Java/240124_수업정리(자바2 시작).md"
-    },
-    {
-      "basename": "240124_과제",
-      "path": "Java/240124_과제.md"
     }
   ],
   "omittedPaths": [],

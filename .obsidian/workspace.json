@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/240510_수업정리.md",
+                "file": "AWS_Jenkins/240510_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/240513_수업정리.md",
+                "file": "AWS_Jenkins/240513_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -56,7 +56,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/240513_수업정리.md"
+                "file": "AWS_Jenkins/240513_수업정리.md"
               }
             }
           }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/240513_수업정리.md",
+                "file": "AWS_Jenkins/240513_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/240513_수업정리.md"
+                "file": "AWS_Jenkins/240513_수업정리.md"
               }
             }
           },
@@ -193,6 +193,9 @@
   },
   "active": "884e2f93455bd207",
   "lastOpenFiles": [
+    "Ajax/240314_수업정리.md",
+    "AWS_Jenkins/240513_수업정리.md",
+    "image/Pasted image 20240513172927.png",
     "image/Pasted image 20240513160745.png",
     "image/Pasted image 20240513160607.png",
     "image/Pasted image 20240513160503.png",
@@ -202,11 +205,8 @@
     "image/Pasted image 20240513152516.png",
     "image/Pasted image 20240513151138.png",
     "image/Pasted image 20240513150624.png",
-    "image/Pasted image 20240513144529.png",
-    "image/Pasted image 20240513144426.png",
     "image/전체과정_배포.txt",
-    "AWS/240510_수업정리.md",
-    "AWS/240513_수업정리.md",
+    "AWS_Jenkins/240510_수업정리.md",
     "image/과정1_배포.txt",
     "kubernetes (k8s)/240509_수업시작.md",
     "문제상황/240325_JSON데이터.md",
@@ -223,12 +223,12 @@
     "문제상황/240222_CSS문제.md",
     "프로젝트_파이널/240429_프로젝트 관련 공지.md",
     "취업/240214_포트폴리오특강.md",
-    "AWS/240509_수업정리.md",
+    "AWS_Jenkins/240509_수업정리.md",
     "Docker/240508_수업정리.md",
     "kubernetes (k8s)/240508_수업시작.md",
     "Ubuntu_Linux/240503_수업정리.md",
     "Ubuntu_Linux/240502_수업정리.md",
-    "AWS",
+    "AWS_Jenkins",
     "멘토링/240508_멘토링.md",
     "Docker/240507_수업자료(예비군).md",
     "Docker/240503_수업정리.md",
