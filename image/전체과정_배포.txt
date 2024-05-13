@@ -822,6 +822,47 @@ Jenkins 관리
           -> ok
       (2) pipeline 항목에 테스트 내용 입력 후 저장
 
+①확인
+pipeline {
+    agent any
+   environment {
+       //@뒤에는 배포용 public 아이피
+
+        TARGET_HOST = "ubuntu@43.202.113.6"
+    }
+    stages {
+        stage('test ssh') {
+            steps {        
+                 sshagent (credentials: ['deploy-ec2']) {   
+                 sh  'ssh -o StrictHostKeyChecking=no ${TARGET_HOST} "pwd"'
+                }
+            }
+        }
+
+        stage('multiline ssh') {
+            steps {        
+                sshagent (credentials: ['deploy-ec2']) {
+                sh """
+                    ssh -o StrictHostKeyChecking=no ${TARGET_HOST} '
+                    rm -rf test
+                    mkdir test
+                    cd test
+                    mkdir test2
+                    cd test2
+                    pwd
+                    '
+                """
+                }
+            }
+        }
+    }
+    
+}
+
+=>다 작성하고 빌드 해보기
+
+
+②실행
 pipeline {
     agent any
      environment {
@@ -856,7 +897,7 @@ pipeline {
 (3) apply
        ->save
 
-    (4) ssh-test 아이템에 접속해서   지금 빌드 수행 후 에러 없는지 확인
+(4) ssh-test 아이템에 접속해서   지금 빌드 수행 후 에러 없는지 확인
 
 =====================================================
 17. Jenkinsfile_third 파일은 sts에서 작성
@@ -1037,7 +1078,7 @@ pipeline {
 =============================
 18. docker-compose.yaml에서 이미지 tag 변경하기
 
-[deploy Ec2]
+[deploy -> web-server Ec2]
 docker-compose.yaml에서
 
 이미지 변경(도커허브_username/security:1.0 => 도커허브_username/security)
