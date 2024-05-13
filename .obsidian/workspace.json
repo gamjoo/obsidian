@@ -12,25 +12,9 @@
             "id": "6b5b982622dec665",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "AWS_Jenkins/240510_수업정리.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "884e2f93455bd207",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTML/240213_수업정리_HTML시작.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "image/Pasted image 20240218210719.png"
               }
             }
           },
@@ -42,8 +26,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "06d5720c06d3ece3",
@@ -56,7 +39,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/240213_수업정리_HTML시작.md"
+                "file": "image/Pasted image 20240218210719.png"
               }
             }
           }
@@ -135,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/240213_수업정리_HTML시작.md",
+                "file": "image/Pasted image 20240218210719.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/240213_수업정리_HTML시작.md"
+                "file": "image/Pasted image 20240218210719.png"
               }
             }
           },
@@ -191,8 +174,50 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "884e2f93455bd207",
+  "floating": {
+    "id": "f2a490d00f7be4a4",
+    "type": "floating",
+    "children": [
+      {
+        "id": "66c60320a35e6f50",
+        "type": "window",
+        "children": [
+          {
+            "id": "0eecc1b469bf00f1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "884e2f93455bd207",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "멘토링/240424(240503)_멘토링.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1291,
+        "y": 137,
+        "width": 600,
+        "height": 739,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "6b5b982622dec665",
   "lastOpenFiles": [
+    "공부재료/자바정석basic_p210연습문제6.md",
+    "멘토링/240424(240503)_멘토링.md",
+    "공부재료/자바정석basic_p209연습문제5.md",
+    "HTML/240213_수업정리_HTML시작.md",
     "Docker/240508_수업정리.md",
     "git/240325_수업정리.md",
     "문제상황/240228_이클립스github연동.md",
@@ -227,10 +252,6 @@
     "문제상황/240311_옵시디언충돌.md",
     "문제상황/240309_github잔디.md",
     "문제상황/240309_github 연동확인.md",
-    "문제상황/240229_이클립스git.md",
-    "프로젝트_파이널/240429_프로젝트 관련 공지.md",
-    "취업/240214_포트폴리오특강.md",
-    "AWS_Jenkins/240509_수업정리.md",
     "AWS_Jenkins",
     "image/docker0507_1.png.crdownload",
     "kubernetes (k8s)",

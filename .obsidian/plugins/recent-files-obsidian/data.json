@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Pasted image 20240218210719",
+      "path": "image/Pasted image 20240218210719.png"
+    },
+    {
+      "basename": "자바정석basic_p210연습문제6",
+      "path": "공부재료/자바정석basic_p210연습문제6.md"
+    },
+    {
+      "basename": "240424(240503)_멘토링",
+      "path": "멘토링/240424(240503)_멘토링.md"
+    },
+    {
+      "basename": "자바정석basic_p209연습문제5",
+      "path": "공부재료/자바정석basic_p209연습문제5.md"
+    },
+    {
       "basename": "240213_수업정리_HTML시작",
       "path": "HTML/240213_수업정리_HTML시작.md"
     },
@@ -133,10 +149,6 @@
       "path": "Docker/240503_수업정리.md"
     },
     {
-      "basename": "240424(240503)_멘토링",
-      "path": "멘토링/240424(240503)_멘토링.md"
-    },
-    {
       "basename": "Pasted image 20240508114153",
       "path": "image/Pasted image 20240508114153.png"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "240123_수업정리",
       "path": "Oracle/240123_수업정리.md"
-    },
-    {
-      "basename": "240227_수업정리",
-      "path": "jQuery/240227_수업정리.md"
-    },
-    {
-      "basename": "240129_수업정리",
-      "path": "Java/240129_수업정리.md"
-    },
-    {
-      "basename": "240126_수업정리",
-      "path": "Java/240126_수업정리.md"
     }
   ],
   "omittedPaths": [],
