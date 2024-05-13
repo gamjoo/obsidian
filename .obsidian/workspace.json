@@ -6,7 +6,6 @@
       {
         "id": "9494d5b9906f42bd",
         "type": "tabs",
-        "dimension": 75.36945812807882,
         "children": [
           {
             "id": "6b5b982622dec665",
@@ -14,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "공부재료/자바정석basic_p213연습문제16.md",
+                "file": "프로젝트_파이널/240429_프로젝트 관련 공지.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -27,23 +26,6 @@
             "state": {
               "type": "empty",
               "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "06d5720c06d3ece3",
-        "type": "tabs",
-        "dimension": 24.63054187192118,
-        "children": [
-          {
-            "id": "cae52f5cac1a7022",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "공부재료/자바정석basic_p213연습문제16.md"
-              }
             }
           }
         ]
@@ -121,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "공부재료/자바정석basic_p213연습문제16.md",
+                "file": "프로젝트_파이널/240429_프로젝트 관련 공지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "공부재료/자바정석basic_p213연습문제16.md"
+                "file": "프로젝트_파이널/240429_프로젝트 관련 공지.md"
               }
             }
           },
@@ -179,8 +161,8 @@
   },
   "active": "6b5b982622dec665",
   "lastOpenFiles": [
-    "image/Pasted image 20240218225938.png",
     "공부재료/자바정석basic_p213연습문제16.md",
+    "image/Pasted image 20240218225938.png",
     "멘토링/240424(240503)_멘토링.md",
     "image/Pasted image 20240218210719.png",
     "공부재료/자바정석basic_p210연습문제6.md",
