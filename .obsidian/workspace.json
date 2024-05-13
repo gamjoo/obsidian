@@ -19,8 +19,7 @@
                 "backlinks": false,
                 "source": false
               }
-            },
-            "group": "45b11d096f1197dc"
+            }
           },
           {
             "id": "884e2f93455bd207",
@@ -49,10 +48,9 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/240510_수업정리.md"
+                "file": "AWS/240513_수업정리.md"
               }
-            },
-            "group": "45b11d096f1197dc"
+            }
           }
         ]
       }
