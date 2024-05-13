@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/240510_수업정리.md",
+                "file": "AWS/240513_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/240510_수업정리.md",
+                "file": "AWS/240513_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/240510_수업정리.md"
+                "file": "AWS/240513_수업정리.md"
               }
             }
           },
@@ -187,9 +187,10 @@
   },
   "active": "884e2f93455bd207",
   "lastOpenFiles": [
+    "image/과정1_배포.txt",
+    "AWS/240510_수업정리.md",
     "AWS/240513_수업정리.md",
     "image/Pasted image 20240513090819.png",
-    "AWS/240510_수업정리.md",
     "kubernetes (k8s)/240509_수업시작.md",
     "문제상황/240325_JSON데이터.md",
     "문제상황/240325_CORS.md",
