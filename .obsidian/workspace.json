@@ -19,14 +19,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "662e0d653e7504f2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ]
       }
@@ -161,6 +153,7 @@
   },
   "active": "6b5b982622dec665",
   "lastOpenFiles": [
+    "프로젝트_파이널/240429_프로젝트 관련 공지.md",
     "공부재료/자바정석basic_p213연습문제16.md",
     "image/Pasted image 20240218225938.png",
     "멘토링/240424(240503)_멘토링.md",
