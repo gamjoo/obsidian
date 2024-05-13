@@ -12,9 +12,12 @@
             "id": "6b5b982622dec665",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "image/Pasted image 20240218210719.png"
+                "file": "공부재료/자바정석basic_p213연습문제16.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -39,7 +42,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "image/Pasted image 20240218210719.png"
+                "file": "공부재료/자바정석basic_p213연습문제16.md"
               }
             }
           }
@@ -118,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "image/Pasted image 20240218210719.png",
+                "file": "공부재료/자바정석basic_p213연습문제16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "image/Pasted image 20240218210719.png"
+                "file": "공부재료/자바정석basic_p213연습문제16.md"
               }
             }
           },
@@ -214,8 +217,11 @@
   },
   "active": "6b5b982622dec665",
   "lastOpenFiles": [
-    "공부재료/자바정석basic_p210연습문제6.md",
+    "image/Pasted image 20240218225938.png",
+    "공부재료/자바정석basic_p213연습문제16.md",
     "멘토링/240424(240503)_멘토링.md",
+    "image/Pasted image 20240218210719.png",
+    "공부재료/자바정석basic_p210연습문제6.md",
     "공부재료/자바정석basic_p209연습문제5.md",
     "HTML/240213_수업정리_HTML시작.md",
     "Docker/240508_수업정리.md",
@@ -237,8 +243,6 @@
     "image/Pasted image 20240513160306.png",
     "image/Pasted image 20240513160037.png",
     "image/Pasted image 20240513152516.png",
-    "image/Pasted image 20240513151138.png",
-    "image/Pasted image 20240513150624.png",
     "image/전체과정_배포.txt",
     "AWS_Jenkins/240510_수업정리.md",
     "image/과정1_배포.txt",
@@ -250,8 +254,6 @@
     "문제상황/240312_옵시디언@git.md",
     "문제상황/240311_자바버전.md",
     "문제상황/240311_옵시디언충돌.md",
-    "문제상황/240309_github잔디.md",
-    "문제상황/240309_github 연동확인.md",
     "AWS_Jenkins",
     "image/docker0507_1.png.crdownload",
     "kubernetes (k8s)",

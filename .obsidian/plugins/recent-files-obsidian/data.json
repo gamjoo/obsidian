@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "자바정석basic_p213연습문제16",
+      "path": "공부재료/자바정석basic_p213연습문제16.md"
+    },
+    {
+      "basename": "Pasted image 20240218225938",
+      "path": "image/Pasted image 20240218225938.png"
+    },
+    {
+      "basename": "240424(240503)_멘토링",
+      "path": "멘토링/240424(240503)_멘토링.md"
+    },
+    {
       "basename": "Pasted image 20240218210719",
       "path": "image/Pasted image 20240218210719.png"
     },
     {
       "basename": "자바정석basic_p210연습문제6",
       "path": "공부재료/자바정석basic_p210연습문제6.md"
-    },
-    {
-      "basename": "240424(240503)_멘토링",
-      "path": "멘토링/240424(240503)_멘토링.md"
     },
     {
       "basename": "자바정석basic_p209연습문제5",
@@ -191,14 +199,6 @@
     {
       "basename": "240422_수업정리",
       "path": "Spring Boot/240422_수업정리.md"
-    },
-    {
-      "basename": "240426_수업정리",
-      "path": "Spring Boot/240426_수업정리.md"
-    },
-    {
-      "basename": "240123_수업정리",
-      "path": "Oracle/240123_수업정리.md"
     }
   ],
   "omittedPaths": [],

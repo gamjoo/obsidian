@@ -1,4 +1,5 @@
-![[Pasted image 20240218225938.png]]
+![](../image/Pasted%20image%2020240218225938.png)
+[[Pasted image 20240218225938.png]]
 ![[Pasted image 20240218225944.png]]
 ![[Pasted image 20240218230111.png]]
 ★main 메소드에서 선언된 str 과 change 메소드의 매개변수(지역변수) str
