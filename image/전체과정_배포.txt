@@ -1,0 +1,1054 @@
+아래의 폴더 만들어 주세요
+
+mkdir -p /home/ubuntu/download/upload
+mkdir /home/ubuntu/oracle
+ls -al /home/ubuntu/download/upload
+ls -al /home/ubuntu/oracle
+
+1. jar 다시 만들기
+   clean compile package
+   pom.xml 없애기
+   Skip tests 체크박스 체크하기
+
+
+2. Dockerfile 만들기 && 이미지 만들기   (도커아이디/security_aws:01)
+   (1) 프로젝트 폴더에 이미지가 있는지 확인
+   (2) 프로젝트 폴더에서 Dockerfile 만들기
+        FROM openjdk:17-ea-11-jdk-slim
+
+        COPY ./target/myhome4-0.0.1-SNAPSHOT.jar /security.jar 
+        COPY ./icecream.png  ./icecream.png 
+
+        RUN mkdir ./image && mv ./icecream.png ./image/icecream.png
+
+        ENTRYPOINT ["java", "-jar", "security.jar"]
+
+    (3) 프로젝트 폴더 위치에서 작업
+         docker image build -t 도커아이디/security_aws:01    -f Dockerfile_aws .
+
+3. 만든 이미지 도커 허브에 올리기
+    docker image push 도커아이디/security_aws:01
+
+4. docker-compose.yaml 파일 완성
+   sudo docker-compose up -d
+   sudo docker-compose down --rmi all
+
+   sudo docker logs web
+   sudo docker logs oracle
+
+   sudo docker exec -it web /bin/bash
+   sudo docker exec -it oracle /bin/bash
+
+==================================================================================================================
+* github에 저장소 만들기 및 토큰 생성
+
+1-1. github repository name : web2024
+     -> Private
+    -> Create repository
+        https://github.com/github_username/web2024.git
+
+1-2. git hub
+  계정의 Settings 
+  => 왼쪽 맨 아래 Developer settings  
+  => Personal access tokens
+     => Tokens(classic)  
+  => Generate new Token 
+  => Generate new token(classic)
+  => Note : web2024 
+  => Select scopes : repo 선택
+  => Generate token   
+
+=============================================================================================
+sts에서 클론, 프로젝트 생성, git과 연동, 
+2-1. sts에서  Git Perspective에서 클론(Clone a Git reposioty)
+    https://github.com/github_username/web2024.git
+    -> Next
+      -> Destination
+         Directory : C:\Users\use\git\web2024
+    -> finish
+  
+2-2.  Java EE Perspective
+     Spring Starter Project 
+   -> Name : Spring10_Security_Thymeleaf_Jenkins
+   -> Type :Maven ,  
+      Java Version : 17 ,  
+      Packging : Jar
+   -> Group :  com.naver 
+   -> Artifact : myhom4
+   -> Package : com.naver.myhome4
+   -> Next
+   -> Spring Boot Version : 3.1.11
+   -> Spring web
+   -> Finish
+
+
+2-3. EC2에 올리기 위해 만든 프로젝트의 src 폴더, pom.xml, Dockerfile, icecream.png 프로젝트에 복사 붙여넣기  
+
+
+2-4. 메인에서 실행해 봅시다.  
+     http://localhost:9500/myhome5/member/login
+
+2-5.  프로젝트 우클릭 
+    => Team 
+    => Share Project 
+    => Repositoty : web 선택 (박스안에 현재 프로젝트의 위치와 Target Location 위치가 나타납니다.) 
+    => Finish
+
+2-6.  프로젝트 우클릭 
+    => Team 
+    => Commit 
+    => 모든 것 선택하고 , 커밋 메시지 : 1. jar
+    => Push to branch in remote 에서 
+          Destination Branch는 main 
+        
+    => Preview 
+    => Push
+    => close
+===============================================================
+
+Jenkins 설치
+
+- 아마존 접속 후 새로운 EC2 만들기
+
+3-1. EC2 검색 => EC2 대시보드 
+   => 인스턴스 시작
+   => 이름 및 태그 : jenkins
+   => 애플리케이션 및 OS 이미지(Amazon Machine Image) : Ubuntu 선택
+
+   => 인스턴스 유형 : t2.micro
+                  (t3.medium) 
+
+   => 키 페어(로그인) 
+      키 페어 이름 : CICD 선택(deploy 인스턴스 생성시 만듬)         
+      
+
+   => 네트워크 설정 -> 편집
+      퍼블릭 IP 자동 할당 -> 활성
+
+   => 인스턴스 시작
+
+   => 모든 인스턴스 보기
+
+   
+
+
+3-2.  인스턴스 jenkins 선택
+ 
+     => 하단에 보안 탭을 클릭
+
+     => 보안 그룹 링크 선택
+
+     => 인바운드 규칙 편집 클릭
+
+     => 규칙 추가
+
+     => 포트 범위 : 8080, 소스 : Anywhere IPv4, 설명 : jenkins connect
+
+     => 규칙저장
+
+3-3. putty로 접속 합니다.
+    (1) Category : Session  
+                    Host Name : EC2 퍼블릭 주소 입력
+    (2) Category : Connection -> SSH -> Auth -> Credentials ->  앞에서 EC2 만들면서 생성한 키페어 ppk를 선택합니다.        
+    (3) Category : Session 
+                   Saved Sessions : jenkins  -> Save
+                   Open 클릭
+    (4) Accept 클릭
+
+3-4.  ubuntu로 접속합니다.
+
+- 도커 설치
+3-5. 도커 설치
+    https://jongsky.tistory.com/49
+    # 시스템의 패키지 목록을 최신 상태로 업데이트 후 해당 패키지들을 설치합니다.
+    $ sudo apt-get update && sudo apt-get install apt-transport-https ca-certificates curl gnupg-agent software-properties-common
+    
+     #GPG는 GNU Privacy Guard의 약자로, 오픈 소스로 개발된 암호화 및 전자 서명 프로그램입니다
+     # curl을 사용하여 Docker의 공식 GPG 키를 다운로드합니다. 
+     #Docker의 APT 저장소가 Docker로부터 배포되었음을 확인하는 데 사용됩니다
+    $ curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+
+    # Docker의 APT 저장소가 시스템에 추가되어, Docker 패키지를 설치하고 업데이트하는 데 사용할 수 있게 됩니다.   .
+    $ sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
+
+    $ sudo apt-get update
+    $ sudo apt-get install docker-ce docker-ce-cli containerd.io
+    $ sudo systemctl status docker
+   
+  도커 컴포즈 설치 안해도 됩니다.
+
+
+3-6. 잘 설치 되었는지 확인
+
+    $ sudo docker version
+   ---------------------------
+Client:
+ Version:           26.1.1
+
+ 
+Server:
+ Engine:
+  Version:          26.1.1
+
+
+===================================================================
+4. 젠킨스 설치
+https://www.jenkins.io/doc/
+ Jenkins는 소프트웨어 구축, 테스트, 제공 또는 배포와 관련된 모든 종류의 작업을 자동화하는 데 사용할 수 있는 
+ 독립형 오픈 소스 자동화 서버입니다.
+ 자바로 제작된 CI(Continuous Integration)  툴입니다.
+
+*젠킨스 컨테이너 실행
+$ sudo docker run -d -p 8080:8080 --name jenkins -v /home/jenkins:/var/jenkins_home -v /var/run/docker.sock:/var/run/docker.sock -u root jenkins/jenkins:lts
+
+*젠킨스 실행 확인
+$ sudo docker container ps -a
+
+*젠킨스 컨테이너 내부에 도커를 설치합니다.
+$ sudo docker exec jenkins apt update
+ 
+$ sudo docker exec jenkins apt install -y docker.io
+
+*브라우저에서 접속합니다.
+ ec2 인스턴스의 퍼블릭 IP:8080
+
+* 비밀번호 확인
+$ sudo docker exec -it jenkins /bin/bash
+root@595eb908d355:/# cat /var/jenkins_home/secrets/initialAdminPassword
+=> Continue
+
+*  install suggested plugins 클릭해 플러그인 설치합니다.
+        시간이 걸립니다.
+
+* Create First Admin User
+     => 계정명:admin
+         암호:1234
+         암호확인:1234
+         이름:admin
+         이메일 주소:admin@test.com
+     => Save and Continue
+
+    => Save and Finish
+
+    => Start using Jenkins
+
+* install suggested plugins 클릭해 플러그인 설치합니다.
+
+
+설치 오류 시 
+인스턴스 만드는 것부터 다시 다시하세요
+
+
+Instance Configuration
+    Save and Finish 
+    http://13.209.66.42:8080/ 
+
+
+Jenkins is ready!
+   Start using Jenkins
+
+
+==================================================
+5. 웹 훅 설정
+
+*웹훅(Webhook)이란 특정 작업이 수행되었음을 다른 대상(서비스)에게 알려주는 기능을 말합니다.
+Github에서는 웹훅 기능을 제공하여 우리가 사용할 Jenkin로 신호를 보낼 수 있습니다.
+
+일반적으로 Webhook은 POST 방식으로 진행되며, application/json 형태의 데이터로 전송된다.
+http://13.209.66.42:8080/
+
+* Webhook 이용하기
+
+1.  github 접속
+
+2. web 레파지토리 선택 (https://github.com/github_username/web2024)
+  
+   => Settings 
+  
+   =>  왼쪽 메뉴 중 Webhooks 선택 
+
+   =>  Add webhook 클릭
+
+   =>  Payload URL (http://젠킨스 EC2인스턴스 public 아이피:8080/github-webhook/)
+        http://43.201.252.202:8080/github-webhook/
+
+   => Content type
+     application/json
+
+   => Add webhook
+
+   => 화면에 초록색의 체크 표시가 되기를 기다립니다. (F5)
+     http://43.201.252.202:8080/github-webhook/
+==========================================================
+6. 젠킨스에서 Maven 설치하기
+
+  Dashboard
+
+=>  Jenkins 관리 
+
+=>  System Configuration -> Tools 
+
+=>  Maven installations
+
+=>  Add Maven 선택
+
+      Name : maven      ***** 스크립트에서 사용할 이름 *****
+
+      체크박스 선택 Install automatically
+                 
+             Install from Apache
+             version  : 3.8.4
+=> Apply
+
+=> Save
+============================================================
+7. 도커 CI 파이프라인용 플러그인 설치 
+
+ Dashboard
+
+=> Jenkins 관리 
+
+=> System Configuration -> Plugins 
+
+=> 왼쪽  Available plugins 선택
+
+  -> SSH Pipeline Steps 검색 
+ 
+
+  -> Install 
+
+=>  메인 페이지로 돌아가기
+
+=> 설치 성공이 되면 메인 페이지로 돌아가기 선택
+==============================================
+8. 도커 허브에 올리기 위해 도커 허브의 Credentials 등록 하기
+ 
+Dashboard 
+       => Jenkins관리 
+       
+       =>  Security -> Credentials 
+
+       => Stores scoped to Jenkins의   System 클릭 
+
+       => Global credentials (unrestricted)          
+
+        => Add Credentials
+         Username : 도커허브아이디
+         Password: 도커허브비밀번호
+         ID : dockerhub
+         Description : dockerhub
+       => Create
+==============================================
+9. Pipeline Project 만들기
+
+Dashboard
+
+=> 새로운 아이템
+
+=> Enter an item name : pipeline_item
+      Pipeline 선택  
+      OK
+
+=>  Configure -> Pipeline
+      try sample Pipeline > Hello World 를 선택해서 확인해 보자.
+
+--------------------------------------------------------------------------
+pipeline {
+    agent any
+
+    stages {
+        stage('Hello') {
+            steps {
+                echo 'Hello World'
+            } //steps
+        }//state
+    }//stages
+}//pipeline
+--------------------------------------------------------------------------
+=> Apply , 저장
+
+=> 지금 빌드 -> #1 클릭 ->     Console Output  ->  "Hello World"가 보인다.
+
+설명) 
+* Jenkins Pipeline은 지속적 통합 및 지속적 전달을 자동화하기 위한 도구 입니다.
+        1. Jenkins Pipeline을 정의하는 블록입니다. 이 블록 내에는 파이프라인의 구성 요소가 정의됩니다.
+        2. agent는 이 파이프라인 스크립트를 실행할 executor를 지정합니다. any로 두면 어떤 executor도 실행할 수 있다는 의미가 됩니다.
+        3. stages는 실행할 Job들의 집합입니다
+        4. stage는 각각의 Job을 의미합니다. Job 내부의 단계를 의미하는 steps를 포함해야합니다.
+        5. steps에선 실제로 실행할 쉘이나 syntax를 입력해주면 됩니다.
+
+======================================================================
+
+10. github 연동을 위한 Credentials 등록 하기 및 코드 생성
+
+
+Dashboard
+
+ => 오른쪽에서 위에서 만든 item 선택 (pipeline_item) 
+
+=> 구성
+
+=> General   
+   -> GitHub project 체크  
+   -> Project url (https://github.com/github_username/web2024)
+   -> Pipeline 
+      Definition : Pipeline script 하단의  Pipeline Syntax 클릭
+                 ->  왼쪽 Snippet Generator  ->  Steps  -> Sample Step  -> git Git
+                 -> Repository URL : https://github.com/github_username/web2024
+                 -> Branch : main
+                 -> Credentials : 
+                       Add  -> Jenkins
+                        -> Username:github 아이디
+                                          Password:github 토큰
+                                          ID:github
+                                          Description:github
+                                       ->Add
+                       -> github_username/*****(github)
+                 -> Generate Pipeline Script 
+                
+              ->git branch: 'main', credentialsId: 'github', url: 'https://github.com/github_username/web2024'
+           
+ 이전 화면으로 이동
+        
+       Pipeline
+       Definition
+           Pipeline script
+
+
+---------------------------------------------------------------------------------------------------------------
+     Script 영역
+
+pipeline {
+    agent any
+
+    tools {
+        // 설치된 Maven의 이름
+        maven "maven"
+    }
+
+    stages {
+        stage('Git Pull') {
+            steps {
+                 //  GitHub 저장소에서 코드를 가져오는 작업을 수행합니다.
+                git branch: 'main', credentialsId: 'github', url: 'https://github.com/github_username/web2024'
+            }
+        }
+         
+        stage('Build') {
+            steps {    
+                      //clone 받은 프로젝트 안의 Spring10_Security_Thymeleaf_Jenkins 디렉토리에서 stage 실행  
+                      dir("Spring10_Security_Thymeleaf_Jenkins"){     
+                           sh "mvn -DskipTests  clean package"  
+                    }  
+            }
+       
+     }
+    }
+}
+----------------------------------------
+
+=>  apply -> 저장 
+=> 지금 빌드
+
+--------------------------------------------------------
+인스턴스에서 확인 => git clone을 잘 했는지 확인 합니다.
+ $ sudo docker exec -it jenkins bash
+ $ cd /var/jenkins_home/workspace
+ $ ls -al 
+ $ cd pipeline_item
+ $ cd Spring10_Security_Thymeleaf_Jenkins
+
+-=============================
+11. 젠킨스에서 SCM 적용하기
+
+[젠킨스]
+
+pipeline script를 깃에서 가져와서 작동하도록 합니다.
+이 때 SCM 을 이용합니다.
+"Pipeline script from SCM"은 젠킨스( Jenkins)에서 사용되는 개념 중 하나로, 
+              소스 코드 관리 시스템(Source Code Management, SCM)에서 파이프라인 스크립트를 가져와 실행하는 메커니즘을 나타냅니다.
+
+
+- 작성한 item의 Configure에서 Pipeline을 수정합니다.
+
+ Pipeline -> Definition : Pipeline script from SCM
+             -> SCM : git
+             -> Repository URL : https://github.com/github_username/web2024.git
+            -> Credentials : github_username/****(github)
+            -> Branches to build  Branch Specifier (blank for 'any') : */main
+            -> Script Path
+            -> Spring10_Security_Thymeleaf_Jenkins/Jenkinsfile_first (github에서 만들 파일 명)
+            -> apply
+           -> 저장
+==============================================================
+12. Jenkinsfile_first 파일 생성하기
+
+[github]
+
+github에 접속
+https://github.com/github_username/web2024/tree/main/Spring10_Security_Thymeleaf_Jenkins에서 
+Add File 
+=> Create new file 
+=> web2024/Spring10_Security_Thymeleaf_Jenkins/    옆에 Jenkinsfile_first 입력
+=> 아래 스크립트 복사 붙여 넣기 후 Commit changes.. 클릭
+--------------------------------------------------------------------------------------------
+pipeline {
+    agent any
+
+    tools {
+        // 설치된 Maven의 이름
+        maven "maven"
+    }
+
+    stages {
+        stage('Git Pull') {
+            steps {
+                //  GitHub 저장소에서 코드를 가져오는 작업을 수행합니다.
+                git branch: 'main', credentialsId: 'github', url: 'https://github.com/github_username/web2024'
+            }
+        }
+         
+        stage('Build') {
+            steps {    
+                      //clone 받은 프로젝트 안의 Spring10_Security_Thymeleaf_Jenkins 디렉토리에서 stage 실행  
+                      dir("Spring10_Security_Thymeleaf_Jenkins"){ 
+                           sh "mvn -DskipTests  clean package"  
+                    }  
+            }
+       
+     }
+    }
+}
+----------------------------------------------------------------------------------
+
+[젠킨스]
+
+지금 빌드
+=====================================================
+
+13. Jenkinsfile_second 생성하기
+
+[github]
+
+
+https://github.com/github_username/web2024/tree/main/Spring10_Security_Thymeleaf_Jenkins에서 
+Add File 
+=> Create new file 
+=> web2024/Spring10_Security_Thymeleaf_Jenkins/  옆에 Jenkinsfile_second 입력
+=> 아래 스크립트 복사 붙여 넣기 후 Commit changes.. 클릭
+
+
+--------------------------------------------------
+pipeline {
+    environment { 
+       // dockerhub : jenkins에 등록해 놓은 docker hub credentials 이름      
+        DOCKERHUB_CREDENTIALS = credentials('dockerhub') 
+        
+    }
+    agent any
+
+    tools {
+        // 설치된 Maven의 이름
+        maven "maven"
+    }
+
+    stages {
+        stage('Git Pull') {
+            steps {
+                 // Get some code from a GitHub repository
+                git branch: 'main', credentialsId: 'github', url: 'https://github.com/github 아이디/web2024'
+
+            }
+            post {
+                success { 
+                    sh 'echo "Successfully Cloned Repository"'
+                }
+                failure {
+                    sh 'echo "Fail Cloned Repository"'
+                    exit 1
+                }
+            }    
+        }
+
+         //clone 받은 프로젝트 안의 Spring10_Security_War 디렉토리에서 stage 실행
+        stage('Build') {
+            steps {    
+                dir("Spring10_Security_Thymeleaf_Jenkins"){   //var/jenkins_home/workspace/pipeline_item/Spring10_Security_Thymeleaf_Jenkins
+                    sh "mvn -DskipTests clean compile package"
+                    }  
+            }
+            post {
+                success {
+                    echo 'maven build success'
+                }
+
+                failure {
+                    echo 'maven build failed'
+                    exit 1
+                }
+            } 
+
+        }
+
+        stage('Dockerizing'){
+            steps{
+                dir("Spring10_Security_Thymeleaf_Jenkins"){   //var/jenkins_home/workspace/pipeline_item/Spring10_Security_Thymeleaf_Jenkins/Dockerfile 위치
+                    sh 'echo " Image Bulid Start"'
+                    sh 'docker build . -t $DOCKERHUB_CREDENTIALS_USR/security:$BUILD_NUMBER'  //예) 빌드 번호가 10번인 경우      도커허브_username/security:10  이름의 이미지 생성
+                    sh 'docker build . -t $DOCKERHUB_CREDENTIALS_USR/security'                          // 도커허브_username/security:latest 이름의 이미지 생성
+                }
+            }
+                post {
+                    success {
+                        sh 'echo "Bulid Docker Image Success"'
+                    }
+
+                    failure {
+                        sh 'echo "Bulid Docker Image Fail"'
+                        exit 1
+                    }
+                }
+        }
+    
+        stage('Login'){
+            steps{
+               //도커 허브에 로그인
+                sh 'docker login -u $DOCKERHUB_CREDENTIALS_USR -p $DOCKERHUB_CREDENTIALS_PSW'  
+                
+            }
+            
+            post {
+                success {
+                    sh 'echo "Docker Login Success"'
+                }
+
+                failure {
+                    sh 'echo "Docker Login Fail"'
+                    exit 1
+                }
+            }
+        }
+
+        stage('Docker hub push'){
+            steps{
+                sh 'echo " docker hub push"'
+                sh 'docker push  $DOCKERHUB_CREDENTIALS_USR/security:$BUILD_NUMBER'   
+                sh 'docker push  $DOCKERHUB_CREDENTIALS_USR/security'
+            }
+            post {
+                success {
+                    sh 'echo "Docker hub push Success"'
+                }
+
+                failure {
+                    sh 'echo "Docker hub push Fail"'
+                    exit 1
+                }
+            }
+        }    
+
+     stage('Cleaning up'){
+            steps{
+                sh 'echo " docker image rmi"'
+                sh "docker rmi $DOCKERHUB_CREDENTIALS_USR/security:$BUILD_NUMBER" // docker image 제거
+                sh "docker rmi $DOCKERHUB_CREDENTIALS_USR/security"              // docker image 제거
+            }
+            post {
+                success {
+                    sh 'echo " image rmi Success"'
+                }
+
+                failure {
+                    sh 'echo " image rmi Fail"'
+                    exit 1
+                }
+            }
+        }      
+     }//stages
+}//pipeline
+
+------------------------------------------------------------------------------
+
+[Jenkins]
+
+Configure -> Pipeline 
+             -> Script Path
+             -> Spring10_Security_Thymeleaf_Jenkins/Jenkinsfile_second
+             -> 저장
+
+지금 빌드
+
+성공 후 https://hub.docker.com/  접속 후 이미지 업로드 확인합니다.
+
+====================================================
+
+14. deploy EC2 인스턴스  실행 중으로 만들기
+
+=====================================================
+
+15. 다른 EC2에 연결을 위한 과정
+
+
+[젠킨스]
+*  SSH Agent 플러그인 설치
+   Dashboard > Jenkins 관리
+=> System Configuration   -> Plugins
+     -> Available plugins 
+     -> SSH Agent 검색 후 
+     -> SSH Agent 항목 선택 
+     -> Install 버튼 클릭
+         메인페이지로 돌아가기
+
+
+[젠킨스]
+   (1)  젠킨스에 접속
+        $ sudo docker exec -it jenkins bash
+
+   (2) 젠키스 home으로 이동
+        root@d321c6baeaa2:/# cd /var/jenkins_home
+
+    (3)  jenkins_home 경로에 .ssh 폴더 생성         
+        root@d321c6baeaa2:/var/jenkins_home# mkdir .ssh
+        root@d321c6baeaa2:/var/jenkins_home# cd .ssh
+
+    (4) ssh 인증서 생성 - 키페어 생성하는 명령어(id_rsa와 id_rsa.pub 생성) 
+            설명) ssh-keygen  : SSH 키 생성 명령어
+                     -t rsa: 이 옵션은 생성할 키의 유형을 지정(RSA는 SSH를 위한 널리 사용되는 비대칭 암호화 알고리즘)
+                      -b 4086: 이 옵션은 키의 비트 수를 지정
+
+                      아래의 명령 수행 후 두 개의 파일이 생성
+                      id_rsa:  개인 키로, 비밀과 안전하게 보관해야 한다.
+                      id_rsa.pub: 이것은 공개 키로, 원격 서버나 시스템과 안전한 SSH 액세스를 허용하려면 이를 공유할 수 있다.
+
+            $ ssh-keygen -t rsa -b 4086 
+        
+Enter file in which to save the key (/root/.ssh/id_rsa): /var/jenkins_home/.ssh/id_rsa(입력)
+Enter passphrase (empty for no passphrase): 엔터
+Enter same passphrase again: 엔터
+Your identification has been saved in /var/jenkins_home/.ssh/id_rsa
+Your public key has been saved in /var/jenkins_home/.ssh/id_rsa.pub
+The key fingerprint is:
+SHA256:GRr7dgZFMLwxRG/Ps7cyiFRSnnUlMXh0FJVn3jNtr5Q root@d321c6baeaa2
+The key's randomart image is:
++---[RSA 4086]----+
+|       +=..  o==O|
+|        ++. o o=o|
+|      . .*+o o o+|
+|       +o=+o   o=|
+|      o So  +  o+|
+|       ...   oE .|
+|       .o.o..... |
+|       ..o. o... |
+|             o.  |
++----[SHA256]-----+
+
+
+
+* 젠키스에서 배포용 EC2에 연결하기 위한 작업
+
+
+   #내용 모두 복사
+   root@d321c6baeaa2:/var/jenkins_home/.ssh# cat id_rsa.pub
+----------------------------------------------------------------------------------------------------------------------------
+
+  [배포용 EC2]
+
+# 경로 이동
+   cd /home/ubuntu/.ssh
+
+#authorized_keys 있는지 확인
+   ubuntu@ip-172-31-8-84:~/.ssh$ cat authorized_keys
+
+# 백업용 authorized_keys 만들겠습니다.
+   ubuntu@ip-172-31-8-84:~/.ssh$ cp authorized_keys authorized_keys_backup
+
+# 젠키스 설치 된 EC2에서 복사한 것을 붙여넣기 합니다. 
+ubuntu@ip-172-31-8-84:~/.ssh$ cat >> authorized_keys (엔터)
+ssh-rsa 부터 끝까지
+=> 엔터 
+=> ctrl + d
+---------------------------------------------------------------------------------------------------------
+[젠킨스]
+
+* 연결 확인
+#@다음에는 배포용 EC2 public 아이피 주소를 넣어주세요
+root@d321c6baeaa2:/var/jenkins_home/.ssh# ssh -i id_rsa ubuntu@3.39.222.205
+
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+
+
+연결 된 화면
+Welcome to Ubuntu 22.04.2 LTS (GNU/Linux 5.19.0-1025-aws x86_64)
+
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/advantage
+
+  System information as of Sat Feb 25 23:49:32 UTC 2023
+
+ ........
+
+ubuntu@ip-172-31-8-84:~$ exit  (연결종료)
+
+
+[젠킨스 브라우저]
+
+* jenkins에 ssh 인증 정보 등록
+Jenkins 관리 
+=> Security -> Credentials
+
+=> Stores scoped to Jenkins
+     -> global 
+     -> Global Credntials Credntials 선택
+
+=> Add credentials
+
+     Kind : SSH Username with private key
+     ID : 중복되지 않는 인증 ID - 해당 ID 값으로 pipline에서 인증 정보를 사용 (deploy-ec2)
+     username : 생략
+     private key : ssh-keygen 으로 생성한 private key 내용 (ex: id_rsa)  
+                   cat id_rsa 명령어로 출력되는 내용
+                    -> Enter directly  
+                    -> Add
+                    ->cat id_rsa 내용 모두 붙여넣기 합니다. 
+                       (-----BEGIN OPENSSH PRIVATE KEY---- 부터 -----END OPENSSH PRIVATE KEY-----까지)
+     ->create
+====================================================================
+16.   pipeline에서 ssh 사용하기
+      (1) 새로운 Item 생성 
+          -> Enter an item name : ssh-test
+          -> Pipeline 선택
+          -> ok
+      (2) pipeline 항목에 테스트 내용 입력 후 저장
+
+pipeline {
+    agent any
+     environment {
+        TARGET_HOST = "ubuntu@deploy 인스턴스 public 아이피 주소"
+    }
+    stages {
+        stage('test ssh') {
+            steps {        
+                 sshagent (credentials: ['deploy-ec2']) {   
+                 sh  'ssh -o StrictHostKeyChecking=no ${TARGET_HOST} "pwd"'
+                }
+            }//steps
+        }//stage
+
+      stage('multiline ssh') {
+            steps {        
+                sshagent (credentials: ['deploy-ec2']) {
+                sh """
+                    ssh -o StrictHostKeyChecking=no ${TARGET_HOST} '
+                    sudo docker-compose up -d
+                    '
+                """
+                }
+           }
+     }
+
+      
+    }//stages
+    
+}//pipeline
+
+(3) apply
+       ->save
+
+    (4) ssh-test 아이템에 접속해서   지금 빌드 수행 후 에러 없는지 확인
+
+=====================================================
+17. Jenkinsfile_third 파일은 sts에서 작성
+
+
+* pipeline_item  프로젝트에서 ssh연결
+
+
+Dashboard
+=>pipeline_item
+=>Configuration
+   General
+     -> GitHub project 체크
+           Project url :  https://github.com/github_username/web2024/
+
+   Build Triggers 
+      ->  GitHub hook trigger for GITScm polling 선택
+
+
+    Pipeline
+    -> Script Path
+         Spring10_Security_Thymeleaf_Jenkins/Jenkinsfile_third
+
+확인 후
+
+* sts에서 pull ...
+   Refs/heades/main : refs/heads/main
+
+
+* sts 프로젝트 폴더에서 작성
+파일명 : Jenkinsfile_third
+
+------------------------------------------------------------------------------------------
+pipeline {
+    environment { 
+       // dockerhub : jenkins에 등록해 놓은 docker hub credentials 이름      
+        DOCKERHUB_CREDENTIALS = credentials('dockerhub') 
+        TARGET_HOST = "ubuntu@3.34.46.56"  //@뒤에는 배포용 public 아이피 
+
+    }
+    agent any
+
+    tools {
+        // 설치된 Maven의 이름
+        maven "maven"
+    }
+
+    stages {
+        stage('Git Pull') {
+            steps {
+                 // Get some code from a GitHub repository
+                git branch: 'main', credentialsId: 'github', url: 'https://github.com/github 아이디/web2024'
+
+            }
+            post {
+                success { 
+                    sh 'echo "Successfully Cloned Repository"'
+                }
+                failure {
+                    sh 'echo "Fail Cloned Repository"'
+                    exit 1
+                }
+            }    
+        }
+
+         //clone 받은 프로젝트 안의 Spring10_Security_War 디렉토리에서 stage 실행
+        stage('Build') {
+            steps {    
+                dir("Spring10_Security_Thymeleaf_Jenkins"){   //var/jenkins_home/workspace/pipeline_item/Spring10_Security_Thymeleaf_Jenkins
+                    sh "mvn -DskipTests clean compile package"
+                    }  
+            }
+            post {
+                success {
+                    echo 'maven build success'
+                }
+
+                failure {
+                    echo 'maven build failed'
+                    exit 1
+                }
+            } 
+
+        }
+
+        stage('Dockerizing'){
+            steps{
+                dir("Spring10_Security_Thymeleaf_Jenkins"){   //var/jenkins_home/workspace/pipeline_item/Spring10_Security_Thymeleaf_Jenkins/Dockerfile 위치
+                    sh 'echo " Image Bulid Start"'
+                    sh 'docker build . -t $DOCKERHUB_CREDENTIALS_USR/security:$BUILD_NUMBER'  //예) 빌드 번호가 10번인 경우      도커허브_username/security:10  이름의 이미지 생성
+                    sh 'docker build . -t $DOCKERHUB_CREDENTIALS_USR/security'                          // 도커허브_username/security:latest 이름의 이미지 생성
+                }
+            }
+                post {
+                    success {
+                        sh 'echo "Bulid Docker Image Success"'
+                    }
+
+                    failure {
+                        sh 'echo "Bulid Docker Image Fail"'
+                        exit 1
+                    }
+                }
+        }
+    
+        stage('Login'){
+            steps{
+               //도커 허브에 로그인
+                sh 'docker login -u $DOCKERHUB_CREDENTIALS_USR -p $DOCKERHUB_CREDENTIALS_PSW'  
+                
+            }
+            
+            post {
+                success {
+                    sh 'echo "Docker Login Success"'
+                }
+
+                failure {
+                    sh 'echo "Docker Login Fail"'
+                    exit 1
+                }
+            }
+        }
+
+        stage('Docker hub push'){
+            steps{
+                sh 'echo " docker hub push"'
+                sh 'docker push  $DOCKERHUB_CREDENTIALS_USR/security:$BUILD_NUMBER'   
+                sh 'docker push  $DOCKERHUB_CREDENTIALS_USR/security'
+            }
+            post {
+                success {
+                    sh 'echo "Docker hub push Success"'
+                }
+
+                failure {
+                    sh 'echo "Docker hub push Fail"'
+                    exit 1
+                }
+            }
+        }    
+
+     stage('Cleaning up'){
+            steps{
+                sh 'echo " docker image rmi"'
+                sh "docker rmi $DOCKERHUB_CREDENTIALS_USR/security:$BUILD_NUMBER" // docker image 제거
+                sh "docker rmi $DOCKERHUB_CREDENTIALS_USR/security"              // docker image 제거
+            }
+            post {
+                success {
+                    sh 'echo " image rmi Success"'
+                }
+
+                failure {
+                    sh 'echo " image rmi Fail"'
+                    exit 1
+                }
+            }
+        }
+
+   stage('multiline ssh') {
+            steps {        
+                sshagent (credentials: ['deploy-ec2']) {
+                sh """
+                    ssh -o StrictHostKeyChecking=no ${TARGET_HOST} '
+                    sudo docker-compose up -d
+                    '
+                """
+                }
+           }
+     }
+
+
+      
+     }//stages
+}//pipeline
+
+=============================
+18. docker-compose.yaml에서 이미지 tag 변경하기
+
+[deploy Ec2]
+docker-compose.yaml에서
+
+이미지 변경(도커허브_username/security:1.0 => 도커허브_username/security)
+
+web_service:
+    container_name: web
+    image: 도커허브_username/security
+==================================
+
+19. sts에서 Commit and Push 하면 자동으로 젠킨스가 빌드하는 확인
+
+20. 배포용 EC2에서 컨테이너가 실행되었는지 확인
+      sudo docker container ps -a
+
