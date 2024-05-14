@@ -173,6 +173,7 @@
   },
   "active": "6b5b982622dec665",
   "lastOpenFiles": [
+    "image/Pasted image 20240514090727.png",
     "image/3. RDS와 EC2 연동_배포.txt",
     "AWS_Jenkins/240513_수업정리.md",
     "AWS_Jenkins/240514_RDS EC2 연동 배포.md",
@@ -217,7 +218,6 @@
     "Docker",
     "프로젝트_파이널",
     "Thymeleaf",
-    "Spring Boot/Thymeleaf",
-    "취업"
+    "Spring Boot/Thymeleaf"
   ]
 }
