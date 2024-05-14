@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS_Jenkins/240514_RDS.md",
+                "file": "AWS_Jenkins/240514_RDS EC2 연동 배포.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -35,7 +35,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS_Jenkins/240514_RDS.md"
+                "file": "AWS_Jenkins/240514_RDS EC2 연동 배포.md"
               }
             },
             "group": "c84851caae3ccd2d"
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS_Jenkins/240514_RDS.md",
+                "file": "AWS_Jenkins/240514_RDS EC2 연동 배포.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS_Jenkins/240514_RDS.md"
+                "file": "AWS_Jenkins/240514_RDS EC2 연동 배포.md"
               }
             }
           },
@@ -175,7 +175,7 @@
   "lastOpenFiles": [
     "image/3. RDS와 EC2 연동_배포.txt",
     "AWS_Jenkins/240513_수업정리.md",
-    "AWS_Jenkins/240514_RDS.md",
+    "AWS_Jenkins/240514_RDS EC2 연동 배포.md",
     "멘토링/240508_멘토링.md",
     "프로젝트_파이널/240429_프로젝트 관련 공지.md",
     "공부재료/자바정석basic_p213연습문제16.md",
