@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS_Jenkins_RDS/240514_RDS EC2 연동 배포.md",
+                "file": "AWS_Jenkins_RDS_마이크로서비스/240514_마이크로 서비스.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS_Jenkins_RDS/240514_RDS EC2 연동 배포.md"
+                "file": "AWS_Jenkins_RDS_마이크로서비스/240514_마이크로 서비스.md"
               }
             }
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS_Jenkins_RDS/240514_RDS EC2 연동 배포.md",
+                "file": "AWS_Jenkins_RDS_마이크로서비스/240514_마이크로 서비스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS_Jenkins_RDS/240514_RDS EC2 연동 배포.md"
+                "file": "AWS_Jenkins_RDS_마이크로서비스/240514_마이크로 서비스.md"
               }
             }
           },
@@ -171,10 +171,13 @@
   },
   "active": "6b5b982622dec665",
   "lastOpenFiles": [
+    "AWS_Jenkins_RDS_마이크로서비스/240514_RDS EC2 연동 배포.md",
+    "AWS_Jenkins_RDS_마이크로서비스/240514_마이크로 서비스.md",
+    "image/Pasted image 20240514113530.png",
+    "AWS_Jenkins_RDS/무제 파일.md",
     "image/Pasted image 20240514103753.png",
     "image/Pasted image 20240514100111.png",
-    "AWS_Jenkins_RDS/240513_수업정리.md",
-    "AWS_Jenkins_RDS/240514_RDS EC2 연동 배포.md",
+    "AWS_Jenkins_RDS_마이크로서비스/240513_수업정리.md",
     "image/Pasted image 20240514090727.png",
     "image/3. RDS와 EC2 연동_배포.txt",
     "멘토링/240508_멘토링.md",
@@ -200,17 +203,13 @@
     "image/Pasted image 20240513160745.png",
     "image/Pasted image 20240513160607.png",
     "image/Pasted image 20240513160503.png",
-    "image/Pasted image 20240513160319.png",
-    "image/Pasted image 20240513160306.png",
     "image/전체과정_배포.txt",
-    "AWS_Jenkins_RDS/240510_수업정리.md",
+    "AWS_Jenkins_RDS_마이크로서비스/240510_수업정리.md",
     "image/과정1_배포.txt",
     "kubernetes (k8s)/240509_수업시작.md",
     "문제상황/240325_JSON데이터.md",
     "문제상황/240325_CORS.md",
-    "문제상황/240330_다수첨부파일.md",
-    "문제상황/240314_JDBC드라이버.md",
-    "AWS_Jenkins_RDS",
+    "AWS_Jenkins_RDS_마이크로서비스",
     "image/docker0507_1.png.crdownload",
     "kubernetes (k8s)",
     "Docker",

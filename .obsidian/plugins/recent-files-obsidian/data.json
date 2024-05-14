@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "240514_마이크로 서비스",
+      "path": "AWS_Jenkins_RDS_마이크로서비스/240514_마이크로 서비스.md"
+    },
+    {
       "basename": "240514_RDS EC2 연동 배포",
-      "path": "AWS_Jenkins_RDS/240514_RDS EC2 연동 배포.md"
+      "path": "AWS_Jenkins_RDS_마이크로서비스/240514_RDS EC2 연동 배포.md"
     },
     {
       "basename": "240513_수업정리",
-      "path": "AWS_Jenkins_RDS/240513_수업정리.md"
+      "path": "AWS_Jenkins_RDS_마이크로서비스/240513_수업정리.md"
     },
     {
       "basename": "240508_멘토링",
@@ -86,7 +90,7 @@
     },
     {
       "basename": "240510_수업정리",
-      "path": "AWS_Jenkins_RDS/240510_수업정리.md"
+      "path": "AWS_Jenkins_RDS_마이크로서비스/240510_수업정리.md"
     },
     {
       "basename": "240509_수업시작",
@@ -138,7 +142,7 @@
     },
     {
       "basename": "240509_수업정리",
-      "path": "AWS_Jenkins_RDS/240509_수업정리.md"
+      "path": "AWS_Jenkins_RDS_마이크로서비스/240509_수업정리.md"
     },
     {
       "basename": "240508_수업시작",
@@ -191,14 +195,6 @@
     {
       "basename": "240417_수업정리",
       "path": "Spring/240417_수업정리.md"
-    },
-    {
-      "basename": "240425_수업정리",
-      "path": "Spring Boot/240425_수업정리.md"
-    },
-    {
-      "basename": "240423~240424_수업정리",
-      "path": "Spring Boot/240423~240424_수업정리.md"
     }
   ],
   "omittedPaths": [],
