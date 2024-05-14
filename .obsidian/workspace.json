@@ -6,7 +6,7 @@
       {
         "id": "9494d5b9906f42bd",
         "type": "tabs",
-        "dimension": 71.26436781609196,
+        "dimension": 76.93194925028835,
         "children": [
           {
             "id": "6b5b982622dec665",
@@ -19,15 +19,14 @@
                 "backlinks": false,
                 "source": false
               }
-            },
-            "group": "c84851caae3ccd2d"
+            }
           }
         ]
       },
       {
         "id": "cf255a3699d051b5",
         "type": "tabs",
-        "dimension": 28.735632183908045,
+        "dimension": 23.06805074971165,
         "children": [
           {
             "id": "aa7527fe5f85f069",
@@ -37,8 +36,7 @@
               "state": {
                 "file": "AWS_Jenkins/240514_RDS EC2 연동 배포.md"
               }
-            },
-            "group": "c84851caae3ccd2d"
+            }
           }
         ]
       }
