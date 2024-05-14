@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS_Jenkins/240513_수업정리.md",
+                "file": "AWS_Jenkins/240514_RDS.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -35,7 +35,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS_Jenkins/240513_수업정리.md"
+                "file": "AWS_Jenkins/240514_RDS.md"
               }
             },
             "group": "c84851caae3ccd2d"
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS_Jenkins/240513_수업정리.md",
+                "file": "AWS_Jenkins/240514_RDS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS_Jenkins/240513_수업정리.md"
+                "file": "AWS_Jenkins/240514_RDS.md"
               }
             }
           },
@@ -173,6 +173,9 @@
   },
   "active": "6b5b982622dec665",
   "lastOpenFiles": [
+    "image/3. RDS와 EC2 연동_배포.txt",
+    "AWS_Jenkins/240513_수업정리.md",
+    "AWS_Jenkins/240514_RDS.md",
     "멘토링/240508_멘토링.md",
     "프로젝트_파이널/240429_프로젝트 관련 공지.md",
     "공부재료/자바정석basic_p213연습문제16.md",
@@ -191,7 +194,6 @@
     "Thymeleaf/240429_수업정리.md",
     "Thymeleaf/240502_수업정리.md",
     "Thymeleaf/240430_수업정리.md",
-    "AWS_Jenkins/240513_수업정리.md",
     "Ajax/240314_수업정리.md",
     "image/Pasted image 20240513172927.png",
     "image/Pasted image 20240513160745.png",
@@ -209,8 +211,6 @@
     "문제상황/240325_CORS.md",
     "문제상황/240330_다수첨부파일.md",
     "문제상황/240314_JDBC드라이버.md",
-    "문제상황/240312_옵시디언@git.md",
-    "문제상황/240311_자바버전.md",
     "AWS_Jenkins",
     "image/docker0507_1.png.crdownload",
     "kubernetes (k8s)",

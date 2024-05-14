@@ -1,0 +1,327 @@
+RDS란?
+RDS는 (Relational Database Service)의 약어로 관계형 데이터베이스 서비스를 의미합니다.
+AWS RDS란 아마존 웹 서비스가 서비스하는 분산 관계형 데이터베이스입니다.
+
+애플리케이션 내에서 관계형 데이터베이스의 설정, 운영, 스케일링을 단순케 하도록 설계된 클라우드 내에서 동작하는 웹 서비스입니다.
+DB 백업이나 복구 활성화 등의 관리 프로세스들을 자동으로 관리해줍니다.
+
+AWS에서는 서버와 DB를 분리 시키기 위해 DB전용 가상 환경 서비스를 제공하는데 그중 대표적으로 이용되는 것이 바로 RDS입니다.
+
+EC2에서는 직접 리눅스에 DB를 설치하고 서비스합니다.
+RDS는 DB의 설정, 운영, 백업 등의 기능을 편하게 이용할 수 있게 분리된 DB 전용 서버입니다.
+
+매월 MySQL, MariaDB, PostgreSQL 데이터베이스를 실행하는 Amazon RDS 단일 AZ db.t2.micro, db.t3.micro 및 db.t4g.micro 인스턴스 사용량 750시간. 
+2개 이상의 인스턴스를 실행하는 경우 인스턴스 클래스 전체의 사용량이 집계됩니다.
+매월 SQL Server(SQL Server Express Edition 실행)를 실행하는 Amazon RDS 단일 AZ db.t2.micro 인스턴스 사용량 750시간.
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+EC2와 RDS 연동 시 알아 두어야 할 것
+
+1.  EC2와 RDS를 같은 VPC 안에 두어 서로 통신할 수 있도록 합니다.
+
+2.  EC2는 Public Subnet에, RDS는 Private Subnet에 위치시킵니다.
+
+3.  EC2의 보안 그룹은 인바운드 규칙으로 자신의 IP 주소와 RDS의 보안 그룹을 허용하고, 아웃바운드 규칙으로 모든 트래픽을 허용합니다
+
+4.  RDS의 보안 그룹은 인바운드 규칙으로 EC2의 보안 그룹을 허용하고, 아웃바운드 규칙으로 모든 트래픽을 허용합니다.
+
+5.  EC2에서 RDS로 접속합니다. 이때, RDS의 엔드포인트 주소와 포트 번호를 사용합니다.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+이미 만들어 놓은 EC2(deploy)의 아래 정보들을 확인합니다.
+
+VPC(Virtual Private Cloud) ID                vpc-012f5a89d5236ca45 
+
+서브넷 ID                                          subnet-044910f6efa104b84           
+
+보안그룹                                           sg-089a6212c9449c69f (launch-wizard-5)
+
+
+---------------------------------------------------------------------------------------------------------------
+EC2 ->  RDS에서 3306포트로 접근하는 것을 허용하는 보안그룹을 생성합니다.
+
+1. EC2 대시보드 아래 -> EC2 > 보안 그룹 > [보안 그룹 생성]
+
+보안그룹이름 : mysql-ec2-sg 
+설명 : mysql-ec2-sg
+
+VPC(Virtual Private Cloud) ID             vpc-012f5a89d5236ca45 
+
+
+
+2. 인바운드 규칙 추가
+
+  유형은 MYSQL/Aurora
+ => 소스의 돋보기 선택 
+     ->  sg-089a6212c9449c69f (launch-wizard-5)   //배포용 EC2에서 들어오는 3306 포트를 허용하도록 설정하고 있습니다.
+    -> 설명 :   mysql-connect
+ =>  보안 그룹 생성 
+
+
+===========================
+RDS => 서브넷 그룹 => DB 서브넷 그룹을 생성
+서브넷은 VPC의 IP 주소를 나누어 리소스가 배치되는 물리적인 주소 범위를 뜻합니다.
+
+ =>  서브넷 그룹 세부 정보 :  
+    이름 : mysql-subnetgroup
+    설명 : mysql-subnetgroup
+
+    VPC :  vpc-012f5a89d5236ca45
+
+
+=>  서브넷 추가
+    (1) 가용영역 :  RDS의 가용 영역은 모두 선택 
+       복수의 가용 영역에 걸쳐 인스턴스를 배포했을 때 하나의 인스턴스에 장애가 발생한 경우를 대비하여, 
+        다른 가용 영역의 인스턴스가 장애가 발생한 인스턴스 관련 요청을  처리할 수 있도록 애플리케이션을 설계할 수 있습니다.-
+    (2) 서브넷
+        모든 체크 박스 선택
+
+     (3)  서브넷이 선택됨(2)
+가용 영역            서브넷 ID                            CIDR 블록
+ap-northeast-2d	subnet-0fbd11be136b62280	172.31.48.0/20
+ap-northeast-2b	subnet-077efcd7aefc52ceb	172.31.16.0/20
+ap-northeast-2c	subnet-044910f6efa104b84	172.31.32.0/20
+ap-northeast-2a	subnet-0e95cee65ec6cf620	172.31.0.0/20
+
+
+=> 생성
+
+                                                                     
+
+============================================
+https://codesyun.tistory.com/303
+대시보드
+-> 데이터 베이스
+
+ -> 데이터베이스 생성 
+  (1) 데이터베이스 생성 방식 선택   : 표준 생성
+
+  (2) 엔진 유형 : MySQL
+       에디션: MYSQL Community
+       엔진 버전 :  MySQL 8.0.36
+
+  (3) 템플릿 : 프리티어
+
+
+  (4) 설정  
+      DB 인스턴스 식별자 :  database-1
+
+     
+      마스터 사용자 이름 : admin
+      마스터 암호 :admin1234
+      마스터 암호 확인 : admin1234
+
+    (5) 인스턴스 구성 
+         db.t3.micro
+
+    (6) 연결
+         - 컴퓨팅 리소스 :  EC2 컴퓨팅 리소스에 연결
+
+         - EC2 인스턴스  : deploy   (반드시 실행 중이어야 합니다)
+
+          - DB 서브넷 그룹
+            -> 기존 항목 선택 
+            ->  기존 DB 서브넷 그룹 :  mysql-subnetgroup
+
+
+         -  VPC 보안 그룹(방화벽) 
+            -> 기존 항목 선택
+            ->  추가 VPC 보안 그룹 : mysql-ec2-sg    //배포용 EC2에서 들어오는 3306 포트를 허용하도록 설정하고 있습니다.
+
+
+
+    (7) 데이터베이스 인증 : 암호인증
+
+    (8) 데이터 베이스 생성 => 시간 걸려요
+
+==============================
+RDS에서 확인
+
+(1) 데이터베이스 ->  DB 식별자 -> database-1
+
+(2)  연결 & 보안
+엔드 포인트 확인
+database-2............amazonaws.com
+
+
+===============================
+EC2 에서 실행
+
+$ sudo apt install mysql-client-core-8.0
+ 
+$ mysql -u admin -p -h database-2.......rds.amazonaws.com
+
+$ Enter password:admin1234
+mysql>
+
+연결성공입니다
+-----------------------------------------------------
+(1) 현재 사용가능한 데이터베이스의 목록을 출력
+mysql> show databases;
++--------------------+
+| Database           |
++--------------------+
+| information_schema |
+| mysql              |
+| performance_schema |
+| sys                |
++--------------------+
+
+(2) 데이터베이스 생성
+
+mysql> create database mysql_DB;
+Query OK, 1 row affected (0.06 sec)
+create 명령어로 mysql_DB를 생성하였습니다s
+
+(3) 데이터베이스 사용
+
+mysql> use mysql_DB;
+생성된 데이터베이스 mysqlDB 사용하려면 use를 입력하여 mysqlDB를 선택하여 줍니다.
+
+
+MySQL데이터 타입 #
+[http://www.incodom.kr/DB_-_%EB%8D%B0%EC%9D%B4%ED%84%B0_%ED%83%80%EC%9E%85/MYSQL]
+
+(4) 테이블 생성
+
+mysql> create table member(
+  id         varchar(15),
+  password   varchar(60),
+  name       varchar(15),
+  age        int,
+  gender     varchar(5),
+  email      varchar(30),
+  PRIMARY KEY(id)
+);
+Query OK, 0 rows affected (0.00 sec)
+
+VARCHAR(n)	가변 길이 데이터 타입(최대 65535byte)- 지정된 길이보다 짦은 데이터 입력될 시 나머지 공간은 채우지 않는다.
+INT(n)	정수형 데이터 타입(4byte) -2147483648 ~ +2147483647 또는 0 ~ 4294967295수 표현할 수 있다.
+
+
+(5) 데이터베이스 테이블 출력
+
+mysql> show tables;
++--------------------+
+| Tables_in_mysql_DB |
++--------------------+
+| member       |
++--------------------+
+1 row in set (0.00 sec)
+테이블 출력 명령어를 출력하면 위에서 생성한 test_table 생성된것을 확인할수 있습니다.
+
+
+
+
+(6)  데이터베이스 테이블 구조 확인
+
+
+mysql> desc member;
++----------+-------------+------+-----+---------+-------+
+| Field    | Type        | Null | Key | Default | Extra |
++----------+-------------+------+-----+---------+-------+
+| id       | varchar(15) | NO   | PRI | NULL    |       |
+| password | varchar(60) | YES  |     | NULL    |       |
+| name     | varchar(15) | YES  |     | NULL    |       |
+| age      | int         | YES  |     | NULL    |       |
+| gender   | varchar(5)  | YES  |     | NULL    |       |
+| email    | varchar(30) | YES  |     | NULL    |       |
++----------+-------------+------+-----+---------+-------+
+6 rows in set (0.01 sec)
+
+desc 명령어로 생성한 테이블의 출력하면 위에서 생성한 테이블 내용을 볼수 있습니다.
+
+
+
+
+==================
+스프링 부트와 MySQL 연결
+
+(1) pom.xml 변경
+<dependency>
+    <groupId>com.mysql</groupId>
+    <artifactId>mysql-connector-j</artifactId>
+   </dependency>
+
+(2) 설정 부분 - 오라클 부분 제거합니다. 아래의 설정은 컨테이너 실행시 환경설정 부분에 넣을 예정입니다.
+spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+
+//   jdbc:mysql://위에서 엔드 포인트 :3306/데이터베이스?characterEncoding=utf8
+spring.datasource.url=jdbc:mysql://database-1.........com:3306/mysql_DB?characterEncoding=utf8
+
+spring.datasource.username=admin
+spring.datasource.password=admin1234
+
+
+(3) 빌드 후 war 파일 생성
+RUN - As - Maven Build... => clean compile package
+
+
+(4)  이미지 만들기
+C:\클라우드 수업\git_workspace\Spring10_Security_Thymeleaf_Jar_MySQL>docker build -t 도커허브_username/security-mysql .
+
+
+(5) 도커 허브에 올리기 - access denied 나면 (6) 단계 실행 
+C:\클라우드 수업\git_workspace\Spring10_Security_War-MySql>docker push 도커허브_username/security-mysql
+Using default tag: latest
+The push refers to repository [docker.io/도커허브_username/security-mysql]
+4ddf94b9646c: Preparing
+3d3fdb9815af: Preparing
+08664b16f94c: Preparing
+9eb82f04c782: Preparing
+denied: requested access to the resource is denied
+
+(6) 도커 허브 로그인 하기
+C:\클라우드 수업\git_workspace\Spring10_Security_War-MySql>docker login -u 도커허브_username
+Password:
+Login Succeeded
+
+Logging in with your password grants your terminal complete access to your account.
+For better security, log in with a limited-privilege personal access token. Learn more at https://docs.docker.com/go/access-tokens/
+
+
+
+(7) 로그인 후 다시 도커허브에 올리기
+C:\클라우드 수업\git_workspace\Spring10_Security_War-MySql>docker push 도커허브_username/security-mysql
+Using default tag: latest
+The push refers to repository [docker.io/도커허브_username/security-mysql]
+4ddf94b9646c: Pushed
+3d3fdb9815af: Pushed
+08664b16f94c: Pushed
+9eb82f04c782: Pushed
+latest: digest: sha256:79839d3a8ec834964ae27db8cc486d598df72757ad3a79faf8f9f54a26510b14 size: 1165
+==================================
+인스턴스 web-server 시작
+
+=>  sudo docker login
+Login with your Docker ID to push and pull images from Docker Hub. If you don't have a Docker ID, head over to https://hub.docker.com to create one.
+Username: 도커허브_username
+Password:
+
+
+sudo docker pull 도커허브_username/security-mysql
+
+sudo docker run -d -p 9000:9500 \
+              --name test-mysql  \
+              -e "spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver" \
+             -e "spring.datasource.url=jdbc:mysql://database-1......amazonaws.com:3306/mysql_DB?characterEncoding=utf8"  \
+             -e "spring.datasource.username=admin" \
+              -e "spring.datasource.password=admin1234" \
+             도커허브_username/security-mysql
+
+sudo docker run -d -p 9000:9500    --name test-mysql   도커허브_username/security-mysql
+
+
+===================================================
+웹 브라우저 접속
+http://3.35.140.151:9000/myhome5/member/login
+
+
+
+
+
+
+
+

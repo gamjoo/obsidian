@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "240514_RDS",
+      "path": "AWS_Jenkins/240514_RDS.md"
+    },
+    {
       "basename": "240513_수업정리",
       "path": "AWS_Jenkins/240513_수업정리.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "240423~240424_수업정리",
       "path": "Spring Boot/240423~240424_수업정리.md"
-    },
-    {
-      "basename": "240422_수업정리",
-      "path": "Spring Boot/240422_수업정리.md"
     }
   ],
   "omittedPaths": [],
