@@ -171,6 +171,7 @@
   },
   "active": "6b5b982622dec665",
   "lastOpenFiles": [
+    "image/Pasted image 20240514114506.png",
     "image/1. 유레카 서버 만들기.pdf",
     "image/Pasted image 20240514114158.png",
     "image/Pasted image 20240514113953.png",
@@ -215,7 +216,6 @@
     "kubernetes (k8s)",
     "Docker",
     "프로젝트_파이널",
-    "Thymeleaf",
-    "Spring Boot/Thymeleaf"
+    "Thymeleaf"
   ]
 }
