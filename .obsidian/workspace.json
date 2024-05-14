@@ -6,6 +6,7 @@
       {
         "id": "9494d5b9906f42bd",
         "type": "tabs",
+        "dimension": 71.26436781609196,
         "children": [
           {
             "id": "6b5b982622dec665",
@@ -13,12 +14,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로젝트_파이널/240429_프로젝트 관련 공지.md",
+                "file": "AWS_Jenkins/240513_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
-            }
+            },
+            "group": "c84851caae3ccd2d"
+          }
+        ]
+      },
+      {
+        "id": "cf255a3699d051b5",
+        "type": "tabs",
+        "dimension": 28.735632183908045,
+        "children": [
+          {
+            "id": "aa7527fe5f85f069",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AWS_Jenkins/240513_수업정리.md"
+              }
+            },
+            "group": "c84851caae3ccd2d"
           }
         ]
       }
@@ -95,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로젝트_파이널/240429_프로젝트 관련 공지.md",
+                "file": "AWS_Jenkins/240513_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로젝트_파이널/240429_프로젝트 관련 공지.md"
+                "file": "AWS_Jenkins/240513_수업정리.md"
               }
             }
           },
@@ -153,6 +173,7 @@
   },
   "active": "6b5b982622dec665",
   "lastOpenFiles": [
+    "멘토링/240508_멘토링.md",
     "프로젝트_파이널/240429_프로젝트 관련 공지.md",
     "공부재료/자바정석basic_p213연습문제16.md",
     "image/Pasted image 20240218225938.png",
@@ -190,7 +211,6 @@
     "문제상황/240314_JDBC드라이버.md",
     "문제상황/240312_옵시디언@git.md",
     "문제상황/240311_자바버전.md",
-    "문제상황/240311_옵시디언충돌.md",
     "AWS_Jenkins",
     "image/docker0507_1.png.crdownload",
     "kubernetes (k8s)",
