@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS_Jenkins_RDS_마이크로서비스/240514_마이크로 서비스.md",
+                "file": "AWS_Jenkins_RDS_마이크로서비스/240514_RDS EC2 연동 배포.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS_Jenkins_RDS_마이크로서비스/240514_마이크로 서비스.md"
+                "file": "AWS_Jenkins_RDS_마이크로서비스/240514_RDS EC2 연동 배포.md"
               }
             }
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS_Jenkins_RDS_마이크로서비스/240514_마이크로 서비스.md",
+                "file": "AWS_Jenkins_RDS_마이크로서비스/240514_RDS EC2 연동 배포.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS_Jenkins_RDS_마이크로서비스/240514_마이크로 서비스.md"
+                "file": "AWS_Jenkins_RDS_마이크로서비스/240514_RDS EC2 연동 배포.md"
               }
             }
           },
@@ -171,6 +171,8 @@
   },
   "active": "6b5b982622dec665",
   "lastOpenFiles": [
+    "AWS_Jenkins_RDS_마이크로서비스/240514_마이크로 서비스.md",
+    "AWS_Jenkins_RDS_마이크로서비스/240514_RDS EC2 연동 배포.md",
     "image/Pasted image 20240514154945.png",
     "image/Pasted image 20240514154939.png",
     "image/Pasted image 20240514154932.png",
@@ -181,10 +183,7 @@
     "image/Pasted image 20240514154848.png",
     "image/Pasted image 20240514154841.png",
     "image/Pasted image 20240514154833.png",
-    "image/Pasted image 20240514154820.png",
     "image/1. 유레카 서버 만들기.pdf",
-    "AWS_Jenkins_RDS_마이크로서비스/240514_RDS EC2 연동 배포.md",
-    "AWS_Jenkins_RDS_마이크로서비스/240514_마이크로 서비스.md",
     "AWS_Jenkins_RDS/무제 파일.md",
     "AWS_Jenkins_RDS_마이크로서비스/240513_수업정리.md",
     "image/3. RDS와 EC2 연동_배포.txt",
