@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로젝트_파이널/240429_프로젝트 관련 공지.md",
+                "file": "AWS_Jenkins_RDS_마이크로서비스/240514_RDS EC2 연동 배포.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로젝트_파이널/240429_프로젝트 관련 공지.md"
+                "file": "AWS_Jenkins_RDS_마이크로서비스/240514_RDS EC2 연동 배포.md"
               }
             }
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로젝트_파이널/240429_프로젝트 관련 공지.md",
+                "file": "AWS_Jenkins_RDS_마이크로서비스/240514_RDS EC2 연동 배포.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로젝트_파이널/240429_프로젝트 관련 공지.md"
+                "file": "AWS_Jenkins_RDS_마이크로서비스/240514_RDS EC2 연동 배포.md"
               }
             }
           },
@@ -171,6 +171,8 @@
   },
   "active": "6b5b982622dec665",
   "lastOpenFiles": [
+    "AWS_Jenkins_RDS_마이크로서비스/240509_수업정리.md",
+    "프로젝트_파이널/240429_프로젝트 관련 공지.md",
     "AWS_Jenkins_RDS_마이크로서비스/240514_마이크로 서비스.md",
     "image/Pasted image 20240514174042.png",
     "AWS_Jenkins_RDS_마이크로서비스/240514_RDS EC2 연동 배포.md",
@@ -188,7 +190,6 @@
     "AWS_Jenkins_RDS_마이크로서비스/240513_수업정리.md",
     "image/3. RDS와 EC2 연동_배포.txt",
     "멘토링/240508_멘토링.md",
-    "프로젝트_파이널/240429_프로젝트 관련 공지.md",
     "공부재료/자바정석basic_p213연습문제16.md",
     "멘토링/240424(240503)_멘토링.md",
     "공부재료/자바정석basic_p210연습문제6.md",
