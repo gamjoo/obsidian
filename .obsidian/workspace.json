@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "멘토링/240508_멘토링.md",
+                "file": "프로젝트_파이널/240429_프로젝트 관련 공지.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "멘토링/240508_멘토링.md"
+                "file": "프로젝트_파이널/240429_프로젝트 관련 공지.md"
               }
             }
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "멘토링/240508_멘토링.md",
+                "file": "프로젝트_파이널/240429_프로젝트 관련 공지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "멘토링/240508_멘토링.md"
+                "file": "프로젝트_파이널/240429_프로젝트 관련 공지.md"
               }
             }
           },
@@ -171,10 +171,10 @@
   },
   "active": "6b5b982622dec665",
   "lastOpenFiles": [
+    "AWS_Jenkins_RDS_마이크로서비스/240516_수업정리.md",
     "멘토링/240508_멘토링.md",
     "AWS_Jenkins_RDS_마이크로서비스/240514_RDS EC2 연동 배포.md",
     "프로젝트_파이널/240429_프로젝트 관련 공지.md",
-    "AWS_Jenkins_RDS_마이크로서비스/240516_수업정리.md",
     "image/Pasted image 20240516091400.png",
     "image/Pasted image 20240516091353.png",
     "image/Pasted image 20240516091340.png",
