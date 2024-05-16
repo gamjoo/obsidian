@@ -14,14 +14,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로젝트_파이널/240429_프로젝트 관련 공지.md",
+                "file": "멘토링/240508_멘토링.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e64bcb3e8d39cd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "멘토링/무제 파일.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cf255a3699d051b5",
@@ -34,7 +48,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로젝트_파이널/240429_프로젝트 관련 공지.md"
+                "file": "멘토링/무제 파일.md"
               }
             }
           }
@@ -113,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로젝트_파이널/240429_프로젝트 관련 공지.md",
+                "file": "멘토링/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로젝트_파이널/240429_프로젝트 관련 공지.md"
+                "file": "멘토링/무제 파일.md"
               }
             }
           },
@@ -169,12 +183,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6b5b982622dec665",
+  "active": "3e64bcb3e8d39cd2",
   "lastOpenFiles": [
-    "AWS_Jenkins_RDS_마이크로서비스/240516_수업정리.md",
     "멘토링/240508_멘토링.md",
-    "AWS_Jenkins_RDS_마이크로서비스/240514_RDS EC2 연동 배포.md",
+    "멘토링/무제 파일.md",
+    "멘토링/240418_멘토링.md",
+    "멘토링/240424(240503)_멘토링.md",
     "프로젝트_파이널/240429_프로젝트 관련 공지.md",
+    "AWS_Jenkins_RDS_마이크로서비스/240516_수업정리.md",
+    "AWS_Jenkins_RDS_마이크로서비스/240514_RDS EC2 연동 배포.md",
     "image/Pasted image 20240516091400.png",
     "image/Pasted image 20240516091353.png",
     "image/Pasted image 20240516091340.png",
@@ -192,7 +209,6 @@
     "AWS_Jenkins_RDS_마이크로서비스/240513_수업정리.md",
     "image/3. RDS와 EC2 연동_배포.txt",
     "공부재료/자바정석basic_p213연습문제16.md",
-    "멘토링/240424(240503)_멘토링.md",
     "공부재료/자바정석basic_p210연습문제6.md",
     "공부재료/자바정석basic_p209연습문제5.md",
     "HTML/240213_수업정리_HTML시작.md",
@@ -209,7 +225,6 @@
     "image/전체과정_배포.txt",
     "AWS_Jenkins_RDS_마이크로서비스/240510_수업정리.md",
     "image/과정1_배포.txt",
-    "kubernetes (k8s)/240509_수업시작.md",
     "AWS_Jenkins_RDS_마이크로서비스",
     "image/docker0507_1.png.crdownload",
     "kubernetes (k8s)",
