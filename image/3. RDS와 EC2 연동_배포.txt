@@ -32,9 +32,9 @@ EC2와 RDS 연동 시 알아 두어야 할 것
 
 이미 만들어 놓은 EC2(deploy)의 아래 정보들을 확인합니다.
 
-VPC(Virtual Private Cloud) ID                vpc-012f5a89d5236ca45 
+VPC(Virtual Private Cloud) ID                vpc-06e0273493c4763f2 
 
-서브넷 ID                                          subnet-044910f6efa104b84           
+서브넷 ID                                          subnet-04aba55152a6a9d5e           
 
 보안그룹                                           sg-089a6212c9449c69f (launch-wizard-5)
 
