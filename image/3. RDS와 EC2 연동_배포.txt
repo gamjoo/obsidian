@@ -250,7 +250,7 @@ desc 명령어로 생성한 테이블의 출력하면 위에서 생성한 테이
 spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
 
 //   jdbc:mysql://위에서 엔드 포인트 :3306/데이터베이스?characterEncoding=utf8
-spring.datasource.url=jdbc:mysql://database-1.czg0im8cs8fs.ap-northeast-2.rds.amazonaws.com:3306/mysql_DB?characterEncoding=utf8
+spring.datasource.url=jdbc:mysql://database-1.czg0im8cs8fs.ap-northeast-2.rds.amazonaws.com:3306/bunge?characterEncoding=utf8
 
 spring.datasource.username=bunge
 spring.datasource.password=bunge2308
@@ -305,14 +305,14 @@ Password:
 sudo docker pull 도커허브_username/security-mysql
 
 sudo docker run -d -p 9000:9500 \
-              --name test-mysql  \
+              --name mysql-test \
               -e "spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver" \
              -e "spring.datasource.url=jdbc:mysql://database-1.czg0im8cs8fs.ap-northeast-2.rds.amazonaws.com:3306/mysql_DB?characterEncoding=utf8"  \
-             -e "spring.datasource.username=admin" \
-              -e "spring.datasource.password=admin1234" \
-             도커허브_username/security-mysql
+             -e "spring.datasource.username=bunge" \
+              -e "spring.datasource.password=bunge2308" \
+             raynerius/security-mysql
 
-sudo docker run -d -p 9000:9500    --name test-mysql   도커허브_username/security-mysql
+sudo docker run -d -p 9000:9500 --name mysql-test raynerius/security-mysql
 
 
 ===================================================
