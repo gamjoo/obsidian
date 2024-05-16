@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로젝트_파이널/240429_프로젝트 관련 공지.md",
+                "file": "AWS_Jenkins_RDS_마이크로서비스/240514_RDS EC2 연동 배포.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로젝트_파이널/240429_프로젝트 관련 공지.md"
+                "file": "AWS_Jenkins_RDS_마이크로서비스/240514_RDS EC2 연동 배포.md"
               }
             }
           }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로젝트_파이널/240429_프로젝트 관련 공지.md",
+                "file": "AWS_Jenkins_RDS_마이크로서비스/240514_RDS EC2 연동 배포.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로젝트_파이널/240429_프로젝트 관련 공지.md"
+                "file": "AWS_Jenkins_RDS_마이크로서비스/240514_RDS EC2 연동 배포.md"
               }
             }
           },
@@ -179,6 +179,7 @@
   },
   "active": "6b5b982622dec665",
   "lastOpenFiles": [
+    "프로젝트_파이널/240429_프로젝트 관련 공지.md",
     "AWS_Jenkins_RDS_마이크로서비스/240514_RDS EC2 연동 배포.md",
     "AWS_Jenkins_RDS_마이크로서비스/240516_수업정리.md",
     "image/Pasted image 20240516091400.png",
@@ -189,7 +190,6 @@
     "image/Pasted image 20240516090558.png",
     "AWS_Jenkins_RDS_마이크로서비스/240514_마이크로 서비스.md",
     "AWS_Jenkins_RDS_마이크로서비스/240509_수업정리.md",
-    "프로젝트_파이널/240429_프로젝트 관련 공지.md",
     "image/Pasted image 20240514174042.png",
     "image/Pasted image 20240514154945.png",
     "image/Pasted image 20240514154939.png",
