@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS_Jenkins_RDS_마이크로서비스/240514_마이크로 서비스.md",
+                "file": "AWS_Jenkins_RDS_마이크로서비스/240516_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS_Jenkins_RDS_마이크로서비스/240514_마이크로 서비스.md"
+                "file": "AWS_Jenkins_RDS_마이크로서비스/240516_수업정리.md"
               }
             }
           }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS_Jenkins_RDS_마이크로서비스/240514_마이크로 서비스.md",
+                "file": "AWS_Jenkins_RDS_마이크로서비스/240516_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS_Jenkins_RDS_마이크로서비스/240514_마이크로 서비스.md"
+                "file": "AWS_Jenkins_RDS_마이크로서비스/240516_수업정리.md"
               }
             }
           },
@@ -179,10 +179,12 @@
   },
   "active": "6b5b982622dec665",
   "lastOpenFiles": [
+    "image/Pasted image 20240516090558.png",
+    "AWS_Jenkins_RDS_마이크로서비스/240514_마이크로 서비스.md",
     "AWS_Jenkins_RDS_마이크로서비스/240514_RDS EC2 연동 배포.md",
+    "AWS_Jenkins_RDS_마이크로서비스/240516_수업정리.md",
     "AWS_Jenkins_RDS_마이크로서비스/240509_수업정리.md",
     "프로젝트_파이널/240429_프로젝트 관련 공지.md",
-    "AWS_Jenkins_RDS_마이크로서비스/240514_마이크로 서비스.md",
     "image/Pasted image 20240514174042.png",
     "image/Pasted image 20240514154945.png",
     "image/Pasted image 20240514154939.png",
@@ -217,8 +219,6 @@
     "AWS_Jenkins_RDS_마이크로서비스/240510_수업정리.md",
     "image/과정1_배포.txt",
     "kubernetes (k8s)/240509_수업시작.md",
-    "문제상황/240325_JSON데이터.md",
-    "문제상황/240325_CORS.md",
     "AWS_Jenkins_RDS_마이크로서비스",
     "image/docker0507_1.png.crdownload",
     "kubernetes (k8s)",
