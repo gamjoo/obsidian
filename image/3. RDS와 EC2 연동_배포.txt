@@ -47,7 +47,7 @@ EC2 ->  RDS에서 3306포트로 접근하는 것을 허용하는 보안그룹을
 보안그룹이름 : mysql-ec2-sg 
 설명 : mysql-ec2-sg
 
-VPC(Virtual Private Cloud) ID             vpc-012f5a89d5236ca45 
+VPC(Virtual Private Cloud) ID             vpc-06e0273493c4763f2 
 
 
 
