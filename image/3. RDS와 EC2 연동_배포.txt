@@ -68,7 +68,7 @@ RDS => 서브넷 그룹 => DB 서브넷 그룹을 생성
     이름 : mysql-subnetgroup
     설명 : mysql-subnetgroup
 
-    VPC :  vpc-012f5a89d5236ca45
+    VPC :  vpc-06e0273493c4763f2
 
 
 =>  서브넷 추가
