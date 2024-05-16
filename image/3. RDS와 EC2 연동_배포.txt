@@ -109,9 +109,9 @@ https://codesyun.tistory.com/303
       DB 인스턴스 식별자 :  database-1
 
      
-      마스터 사용자 이름 : admin
-      마스터 암호 :admin1234
-      마스터 암호 확인 : admin1234
+      마스터 사용자 이름 : bunge
+      마스터 암호 : bunge2308
+      마스터 암호 확인 : bunge2308
 
     (5) 인스턴스 구성 
          db.t3.micro
@@ -119,7 +119,7 @@ https://codesyun.tistory.com/303
     (6) 연결
          - 컴퓨팅 리소스 :  EC2 컴퓨팅 리소스에 연결
 
-         - EC2 인스턴스  : deploy   (반드시 실행 중이어야 합니다)
+         - EC2 인스턴스  : web-server (반드시 실행 중이어야 합니다)
 
           - DB 서브넷 그룹
             -> 기존 항목 선택 
