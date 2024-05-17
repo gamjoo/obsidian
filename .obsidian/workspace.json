@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/240503_수업정리.md",
+                "file": "AWS_Jenkins_RDS_마이크로서비스/240509_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/240503_수업정리.md"
+                "file": "AWS_Jenkins_RDS_마이크로서비스/240509_수업정리.md"
               }
             }
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/240503_수업정리.md",
+                "file": "AWS_Jenkins_RDS_마이크로서비스/240509_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/240503_수업정리.md"
+                "file": "AWS_Jenkins_RDS_마이크로서비스/240509_수업정리.md"
               }
             }
           },
@@ -171,13 +171,14 @@
   },
   "active": "3e64bcb3e8d39cd2",
   "lastOpenFiles": [
-    "AWS_Jenkins_RDS_마이크로서비스/240509_수업정리.md",
     "AWS_Jenkins_RDS_마이크로서비스/240510_수업정리.md",
+    "AWS_Jenkins_RDS_마이크로서비스/240513_수업정리.md",
+    "AWS_Jenkins_RDS_마이크로서비스/240517_ECS_시험문제.md",
+    "Docker/240503_수업정리.md",
+    "AWS_Jenkins_RDS_마이크로서비스/240509_수업정리.md",
     "kubernetes (k8s)/240508_수업정리.md",
     "kubernetes (k8s)/240509_수업정리.md",
-    "Docker/240503_수업정리.md",
     "Docker/240507_수업자료(예비군).md",
-    "AWS_Jenkins_RDS_마이크로서비스/240517_ECS_시험문제.md",
     "image/Pasted image 20240517091143.png",
     "AWS_Jenkins_RDS_마이크로서비스/240516_수업정리.md",
     "AWS_Jenkins_RDS_마이크로서비스/240514_RDS EC2 연동 배포.md",
@@ -198,7 +199,6 @@
     "프로젝트_파이널/240429_프로젝트 관련 공지.md",
     "image/1. 유레카 서버 만들기.pdf",
     "AWS_Jenkins_RDS/무제 파일.md",
-    "AWS_Jenkins_RDS_마이크로서비스/240513_수업정리.md",
     "image/3. RDS와 EC2 연동_배포.txt",
     "공부재료/자바정석basic_p213연습문제16.md",
     "공부재료/자바정석basic_p210연습문제6.md",
