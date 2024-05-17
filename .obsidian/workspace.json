@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS_Jenkins_RDS_마이크로서비스/240517_ECS.md",
+                "file": "AWS_Jenkins_RDS_마이크로서비스/240517_ECS_시험문제.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS_Jenkins_RDS_마이크로서비스/240517_ECS.md"
+                "file": "AWS_Jenkins_RDS_마이크로서비스/240517_ECS_시험문제.md"
               }
             }
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS_Jenkins_RDS_마이크로서비스/240517_ECS.md",
+                "file": "AWS_Jenkins_RDS_마이크로서비스/240517_ECS_시험문제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS_Jenkins_RDS_마이크로서비스/240517_ECS.md"
+                "file": "AWS_Jenkins_RDS_마이크로서비스/240517_ECS_시험문제.md"
               }
             }
           },
@@ -173,7 +173,7 @@
   "lastOpenFiles": [
     "image/Pasted image 20240517091143.png",
     "AWS_Jenkins_RDS_마이크로서비스/240516_수업정리.md",
-    "AWS_Jenkins_RDS_마이크로서비스/240517_ECS.md",
+    "AWS_Jenkins_RDS_마이크로서비스/240517_ECS_시험문제.md",
     "AWS_Jenkins_RDS_마이크로서비스/240514_RDS EC2 연동 배포.md",
     "멘토링/240517_멘토링.md",
     "image/Pasted image 20240517085914.png",
