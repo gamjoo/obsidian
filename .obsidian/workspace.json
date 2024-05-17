@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS_Jenkins_RDS_마이크로서비스/240517_ECS_시험문제.md",
+                "file": "AWS_Jenkins_RDS_마이크로서비스/240509_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS_Jenkins_RDS_마이크로서비스/240517_ECS_시험문제.md"
+                "file": "AWS_Jenkins_RDS_마이크로서비스/240509_수업정리.md"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "시험문제",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +101,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS_Jenkins_RDS_마이크로서비스/240517_ECS_시험문제.md",
+                "file": "AWS_Jenkins_RDS_마이크로서비스/240509_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS_Jenkins_RDS_마이크로서비스/240517_ECS_시험문제.md"
+                "file": "AWS_Jenkins_RDS_마이크로서비스/240509_수업정리.md"
               }
             }
           },
@@ -179,10 +179,10 @@
   },
   "active": "3e64bcb3e8d39cd2",
   "lastOpenFiles": [
+    "AWS_Jenkins_RDS_마이크로서비스/240517_ECS_시험문제.md",
     "AWS_Jenkins_RDS_마이크로서비스/240509_수업정리.md",
     "AWS_Jenkins_RDS_마이크로서비스/240514_마이크로 서비스.md",
     "AWS_Jenkins_RDS_마이크로서비스/240514_RDS EC2 연동 배포.md",
-    "AWS_Jenkins_RDS_마이크로서비스/240517_ECS_시험문제.md",
     "AWS_Jenkins_RDS_마이크로서비스/240516_수업정리.md",
     "AWS_Jenkins_RDS_마이크로서비스/240513_수업정리.md",
     "Docker/240508_수업정리.md",
