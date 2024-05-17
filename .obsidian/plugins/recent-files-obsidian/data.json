@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "240510_수업정리",
+      "path": "AWS_Jenkins_RDS_마이크로서비스/240510_수업정리.md"
+    },
+    {
       "basename": "240508_수업정리",
       "path": "kubernetes (k8s)/240508_수업정리.md"
     },
@@ -123,10 +127,6 @@
     {
       "basename": "240314_수업정리",
       "path": "Ajax/240314_수업정리.md"
-    },
-    {
-      "basename": "240510_수업정리",
-      "path": "AWS_Jenkins_RDS_마이크로서비스/240510_수업정리.md"
     },
     {
       "basename": "240325_JSON데이터",
