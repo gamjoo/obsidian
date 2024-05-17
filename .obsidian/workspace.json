@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "discover",
+                "query": "config server",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,7 +169,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3e64bcb3e8d39cd2",
+  "active": "e347d56d8c798a89",
   "lastOpenFiles": [
     "AWS_Jenkins_RDS_마이크로서비스/240514_마이크로 서비스.md",
     "AWS_Jenkins_RDS_마이크로서비스/240517_ECS_시험문제.md",
