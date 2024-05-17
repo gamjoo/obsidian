@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "240508_수업정리",
+      "path": "kubernetes (k8s)/240508_수업정리.md"
+    },
+    {
       "basename": "240509_수업정리",
       "path": "kubernetes (k8s)/240509_수업정리.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "240507_수업자료(예비군)",
       "path": "Docker/240507_수업자료(예비군).md"
-    },
-    {
-      "basename": "240508_수업정리",
-      "path": "kubernetes (k8s)/240508_수업정리.md"
     },
     {
       "basename": "240517_ECS_시험문제",
