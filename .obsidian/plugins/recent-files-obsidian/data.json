@@ -5,6 +5,10 @@
       "path": "AWS_Jenkins_RDS_마이크로서비스/240510_수업정리.md"
     },
     {
+      "basename": "240509_수업정리",
+      "path": "AWS_Jenkins_RDS_마이크로서비스/240509_수업정리.md"
+    },
+    {
       "basename": "240508_수업정리",
       "path": "kubernetes (k8s)/240508_수업정리.md"
     },
@@ -55,10 +59,6 @@
     {
       "basename": "240429_프로젝트 관련 공지",
       "path": "프로젝트_파이널/240429_프로젝트 관련 공지.md"
-    },
-    {
-      "basename": "240509_수업정리",
-      "path": "AWS_Jenkins_RDS_마이크로서비스/240509_수업정리.md"
     },
     {
       "basename": "240513_수업정리",

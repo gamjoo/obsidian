@@ -93,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -169,8 +169,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e347d56d8c798a89",
+  "active": "3e64bcb3e8d39cd2",
   "lastOpenFiles": [
+    "AWS_Jenkins_RDS_마이크로서비스/240509_수업정리.md",
+    "AWS_Jenkins_RDS_마이크로서비스/240510_수업정리.md",
     "kubernetes (k8s)/240508_수업정리.md",
     "kubernetes (k8s)/240509_수업정리.md",
     "Docker/240503_수업정리.md",
@@ -194,7 +196,6 @@
     "멘토링/240418_멘토링.md",
     "멘토링/240424(240503)_멘토링.md",
     "프로젝트_파이널/240429_프로젝트 관련 공지.md",
-    "AWS_Jenkins_RDS_마이크로서비스/240509_수업정리.md",
     "image/1. 유레카 서버 만들기.pdf",
     "AWS_Jenkins_RDS/무제 파일.md",
     "AWS_Jenkins_RDS_마이크로서비스/240513_수업정리.md",
@@ -208,7 +209,6 @@
     "문제상황/240228_이클립스github연동.md",
     "문제상황/240222_CSS문제.md",
     "Spring/240415_수업정리(스프링시작).md",
-    "Spring/240416_수업정리.md",
     "image/전체과정_배포.txt",
     "image/과정1_배포.txt",
     "AWS_Jenkins_RDS_마이크로서비스",
