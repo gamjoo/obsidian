@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/240503_수업정리.md",
+                "file": "kubernetes (k8s)/240509_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/240503_수업정리.md"
+                "file": "kubernetes (k8s)/240509_수업정리.md"
               }
             }
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/240503_수업정리.md",
+                "file": "kubernetes (k8s)/240509_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/240503_수업정리.md"
+                "file": "kubernetes (k8s)/240509_수업정리.md"
               }
             }
           },
@@ -171,6 +171,7 @@
   },
   "active": "3e64bcb3e8d39cd2",
   "lastOpenFiles": [
+    "Docker/240503_수업정리.md",
     "Docker/240507_수업자료(예비군).md",
     "kubernetes (k8s)/240509_수업정리.md",
     "kubernetes (k8s)/240508_수업정리.md",
@@ -208,7 +209,6 @@
     "문제상황/240222_CSS문제.md",
     "Spring/240415_수업정리(스프링시작).md",
     "Spring/240416_수업정리.md",
-    "Thymeleaf/240429_수업정리.md",
     "image/전체과정_배포.txt",
     "image/과정1_배포.txt",
     "AWS_Jenkins_RDS_마이크로서비스",
