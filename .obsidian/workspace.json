@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "멘토링/240517_멘토링.md",
+                "file": "멘토링/240508_멘토링.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "멘토링/240517_멘토링.md"
+                "file": "멘토링/240508_멘토링.md"
               }
             }
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "멘토링/240517_멘토링.md",
+                "file": "멘토링/240508_멘토링.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "멘토링/240517_멘토링.md"
+                "file": "멘토링/240508_멘토링.md"
               }
             }
           },
@@ -171,6 +171,10 @@
   },
   "active": "3e64bcb3e8d39cd2",
   "lastOpenFiles": [
+    "멘토링/240424(240503)_멘토링.md",
+    "멘토링/240508_멘토링.md",
+    "멘토링/240418_멘토링.md",
+    "멘토링/240517_멘토링.md",
     "image/Pasted image 20240517202616.png",
     "image/Pasted image 20240517202344.png",
     "image/Pasted image 20240517202232.png",
@@ -181,7 +185,6 @@
     "image/Pasted image 20240517113147.png",
     "image/Pasted image 20240517113135.png",
     "image/Pasted image 20240517112809.png",
-    "image/Pasted image 20240517112557.png",
     "AWS_Jenkins_RDS_마이크로서비스/240514_마이크로 서비스.md",
     "AWS_Jenkins_RDS_마이크로서비스/240513_수업정리.md",
     "AWS_Jenkins_RDS_마이크로서비스/240510_수업정리.md",
@@ -194,10 +197,6 @@
     "kubernetes (k8s)/240508_수업정리.md",
     "kubernetes (k8s)/240509_수업정리.md",
     "Docker/240507_수업자료(예비군).md",
-    "멘토링/240517_멘토링.md",
-    "멘토링/240508_멘토링.md",
-    "멘토링/240418_멘토링.md",
-    "멘토링/240424(240503)_멘토링.md",
     "프로젝트_파이널/240429_프로젝트 관련 공지.md",
     "image/1. 유레카 서버 만들기.pdf",
     "AWS_Jenkins_RDS/무제 파일.md",
