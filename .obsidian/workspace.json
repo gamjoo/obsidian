@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/240130_수업정리.md",
+                "file": "프로젝트_파이널/240520_페이지 레이아웃.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/240130_수업정리.md"
+                "file": "프로젝트_파이널/240520_페이지 레이아웃.md"
               }
             }
           }
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "면접",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/240130_수업정리.md",
+                "file": "프로젝트_파이널/240520_페이지 레이아웃.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/240130_수업정리.md"
+                "file": "프로젝트_파이널/240520_페이지 레이아웃.md"
               }
             }
           },
@@ -171,6 +171,9 @@
   },
   "active": "3e64bcb3e8d39cd2",
   "lastOpenFiles": [
+    "image/Pasted image 20240520123150.png",
+    "Java/240130_수업정리.md",
+    "프로젝트_파이널/240520_페이지 레이아웃.md",
     "Spring/240415_수업정리(스프링시작).md",
     "멘토링/240508_멘토링.md",
     "멘토링/240424(240503)_멘토링.md",
@@ -206,9 +209,6 @@
     "공부재료/자바정석basic_p210연습문제6.md",
     "공부재료/자바정석basic_p209연습문제5.md",
     "HTML/240213_수업정리_HTML시작.md",
-    "git/240325_수업정리.md",
-    "문제상황/240228_이클립스github연동.md",
-    "문제상황/240222_CSS문제.md",
     "image/전체과정_배포.txt",
     "image/과정1_배포.txt",
     "AWS_Jenkins_RDS_마이크로서비스",
