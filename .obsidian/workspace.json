@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "취업/240520_1분자기소개.md",
+                "file": "프로젝트_파이널/240429_프로젝트 관련 공지.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "취업/240520_1분자기소개.md"
+                "file": "프로젝트_파이널/240429_프로젝트 관련 공지.md"
               }
             }
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "취업/240520_1분자기소개.md",
+                "file": "프로젝트_파이널/240429_프로젝트 관련 공지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "취업/240520_1분자기소개.md"
+                "file": "프로젝트_파이널/240429_프로젝트 관련 공지.md"
               }
             }
           },
@@ -171,8 +171,8 @@
   },
   "active": "3e64bcb3e8d39cd2",
   "lastOpenFiles": [
-    "Java/240130_수업정리.md",
     "취업/240520_1분자기소개.md",
+    "Java/240130_수업정리.md",
     "프로젝트_파이널/240520_페이지 레이아웃.md",
     "image/Pasted image 20240520123150.png",
     "Spring/240415_수업정리(스프링시작).md",
