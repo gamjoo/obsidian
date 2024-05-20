@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "240130_수업정리",
+      "path": "Java/240130_수업정리.md"
+    },
+    {
       "basename": "240415_수업정리(스프링시작)",
       "path": "Spring/240415_수업정리(스프링시작).md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "240215_이클립스 에디터",
       "path": "문제상황/240215_이클립스 에디터.md"
-    },
-    {
-      "basename": "240417_수업정리_spring boot 시작",
-      "path": "Spring Boot/240417_수업정리_spring boot 시작.md"
     }
   ],
   "omittedPaths": [],
