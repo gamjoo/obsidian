@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/240130_수업정리.md",
+                "file": "취업/240520_1분자기소개.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/240130_수업정리.md"
+                "file": "취업/240520_1분자기소개.md"
               }
             }
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/240130_수업정리.md",
+                "file": "취업/240520_1분자기소개.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/240130_수업정리.md"
+                "file": "취업/240520_1분자기소개.md"
               }
             }
           },
@@ -171,9 +171,10 @@
   },
   "active": "3e64bcb3e8d39cd2",
   "lastOpenFiles": [
+    "Java/240130_수업정리.md",
+    "취업/240520_1분자기소개.md",
     "프로젝트_파이널/240520_페이지 레이아웃.md",
     "image/Pasted image 20240520123150.png",
-    "Java/240130_수업정리.md",
     "Spring/240415_수업정리(스프링시작).md",
     "멘토링/240508_멘토링.md",
     "멘토링/240424(240503)_멘토링.md",
