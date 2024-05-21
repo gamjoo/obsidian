@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thymeleaf/240502_수업정리.md",
+                "file": "프로젝트_파이널/240429_프로젝트 관련 공지.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thymeleaf/240502_수업정리.md"
+                "file": "프로젝트_파이널/240429_프로젝트 관련 공지.md"
               }
             }
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thymeleaf/240502_수업정리.md",
+                "file": "프로젝트_파이널/240429_프로젝트 관련 공지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thymeleaf/240502_수업정리.md"
+                "file": "프로젝트_파이널/240429_프로젝트 관련 공지.md"
               }
             }
           },
@@ -171,9 +171,9 @@
   },
   "active": "3e64bcb3e8d39cd2",
   "lastOpenFiles": [
+    "Thymeleaf/240502_수업정리.md",
     "Thymeleaf/240430_수업정리.md",
     "Thymeleaf/240429_수업정리.md",
-    "Thymeleaf/240502_수업정리.md",
     "Spring Boot/240429_ 수업정리.md",
     "Spring Boot/240426_수업정리.md",
     "Spring Boot/240425_수업정리.md",
