@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring Boot/240423~240424_수업정리.md",
+                "file": "Thymeleaf/240502_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring Boot/240423~240424_수업정리.md"
+                "file": "Thymeleaf/240502_수업정리.md"
               }
             }
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring Boot/240423~240424_수업정리.md",
+                "file": "Thymeleaf/240502_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring Boot/240423~240424_수업정리.md"
+                "file": "Thymeleaf/240502_수업정리.md"
               }
             }
           },
@@ -171,6 +171,13 @@
   },
   "active": "3e64bcb3e8d39cd2",
   "lastOpenFiles": [
+    "Thymeleaf/240430_수업정리.md",
+    "Thymeleaf/240429_수업정리.md",
+    "Thymeleaf/240502_수업정리.md",
+    "Spring Boot/240429_ 수업정리.md",
+    "Spring Boot/240426_수업정리.md",
+    "Spring Boot/240425_수업정리.md",
+    "Spring Boot/240423~240424_수업정리.md",
     "Spring Boot/240422_수업정리.md",
     "Spring Boot/240418~240419_수업정리.md",
     "Spring Boot/240417_수업정리_spring boot 시작.md",
@@ -200,13 +207,6 @@
     "AWS_Jenkins_RDS_마이크로서비스/240510_수업정리.md",
     "AWS_Jenkins_RDS_마이크로서비스/240509_수업정리.md",
     "AWS_Jenkins_RDS_마이크로서비스/240517_ECS_시험문제.md",
-    "AWS_Jenkins_RDS_마이크로서비스/240514_RDS EC2 연동 배포.md",
-    "AWS_Jenkins_RDS_마이크로서비스/240516_수업정리.md",
-    "Docker/240508_수업정리.md",
-    "Docker/240503_수업정리.md",
-    "kubernetes (k8s)/240508_수업정리.md",
-    "kubernetes (k8s)/240509_수업정리.md",
-    "Docker/240507_수업자료(예비군).md",
     "image/1. 유레카 서버 만들기.pdf",
     "image/3. RDS와 EC2 연동_배포.txt",
     "image/전체과정_배포.txt",

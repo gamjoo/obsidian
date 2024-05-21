@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "240502_수업정리",
+      "path": "Thymeleaf/240502_수업정리.md"
+    },
+    {
+      "basename": "240430_수업정리",
+      "path": "Thymeleaf/240430_수업정리.md"
+    },
+    {
+      "basename": "240429_수업정리",
+      "path": "Thymeleaf/240429_수업정리.md"
+    },
+    {
+      "basename": "240429_ 수업정리",
+      "path": "Spring Boot/240429_ 수업정리.md"
+    },
+    {
+      "basename": "240426_수업정리",
+      "path": "Spring Boot/240426_수업정리.md"
+    },
+    {
+      "basename": "240425_수업정리",
+      "path": "Spring Boot/240425_수업정리.md"
+    },
+    {
       "basename": "240423~240424_수업정리",
       "path": "Spring Boot/240423~240424_수업정리.md"
     },
@@ -141,18 +165,6 @@
       "path": "문제상황/240222_CSS문제.md"
     },
     {
-      "basename": "240429_수업정리",
-      "path": "Thymeleaf/240429_수업정리.md"
-    },
-    {
-      "basename": "240502_수업정리",
-      "path": "Thymeleaf/240502_수업정리.md"
-    },
-    {
-      "basename": "240430_수업정리",
-      "path": "Thymeleaf/240430_수업정리.md"
-    },
-    {
       "basename": "240314_수업정리",
       "path": "Ajax/240314_수업정리.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "240309_github잔디",
       "path": "문제상황/240309_github잔디.md"
-    },
-    {
-      "basename": "240309_github 연동확인",
-      "path": "문제상황/240309_github 연동확인.md"
-    },
-    {
-      "basename": "240229_이클립스git",
-      "path": "문제상황/240229_이클립스git.md"
-    },
-    {
-      "basename": "240214_포트폴리오특강",
-      "path": "취업/240214_포트폴리오특강.md"
     }
   ],
   "omittedPaths": [],
