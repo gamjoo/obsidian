@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "240418~240419_수업정리",
+      "path": "Spring Boot/240418~240419_수업정리.md"
+    },
+    {
+      "basename": "240417_수업정리_spring boot 시작",
+      "path": "Spring Boot/240417_수업정리_spring boot 시작.md"
+    },
+    {
+      "basename": "240417_수업정리",
+      "path": "Spring/240417_수업정리.md"
+    },
+    {
+      "basename": "240416_수업정리",
+      "path": "Spring/240416_수업정리.md"
+    },
+    {
+      "basename": "240415_수업정리(스프링시작)",
+      "path": "Spring/240415_수업정리(스프링시작).md"
+    },
+    {
       "basename": "240429_프로젝트 관련 공지",
       "path": "프로젝트_파이널/240429_프로젝트 관련 공지.md"
     },
@@ -11,10 +31,6 @@
     {
       "basename": "240130_수업정리",
       "path": "Java/240130_수업정리.md"
-    },
-    {
-      "basename": "240415_수업정리(스프링시작)",
-      "path": "Spring/240415_수업정리(스프링시작).md"
     },
     {
       "basename": "240508_멘토링",
@@ -117,10 +133,6 @@
       "path": "문제상황/240222_CSS문제.md"
     },
     {
-      "basename": "240416_수업정리",
-      "path": "Spring/240416_수업정리.md"
-    },
-    {
       "basename": "240429_수업정리",
       "path": "Thymeleaf/240429_수업정리.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "240502_수업정리",
       "path": "Ubuntu_Linux/240502_수업정리.md"
-    },
-    {
-      "basename": "Pasted image 20240508114153",
-      "path": "image/Pasted image 20240508114153.png"
-    },
-    {
-      "basename": "240429_ 수업정리",
-      "path": "Spring Boot/240429_ 수업정리.md"
-    },
-    {
-      "basename": "240402_톰캣오류",
-      "path": "문제상황/240402_톰캣오류.md"
     }
   ],
   "omittedPaths": [],
