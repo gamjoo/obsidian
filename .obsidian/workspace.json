@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring Boot/240418~240419_수업정리.md",
+                "file": "Spring Boot/240422_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring Boot/240418~240419_수업정리.md"
+                "file": "Spring Boot/240422_수업정리.md"
               }
             }
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring Boot/240418~240419_수업정리.md",
+                "file": "Spring Boot/240422_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring Boot/240418~240419_수업정리.md"
+                "file": "Spring Boot/240422_수업정리.md"
               }
             }
           },
@@ -171,6 +171,7 @@
   },
   "active": "3e64bcb3e8d39cd2",
   "lastOpenFiles": [
+    "Spring Boot/240418~240419_수업정리.md",
     "Spring Boot/240417_수업정리_spring boot 시작.md",
     "Spring/240417_수업정리.md",
     "Spring/240416_수업정리.md",
@@ -208,7 +209,6 @@
     "image/1. 유레카 서버 만들기.pdf",
     "AWS_Jenkins_RDS/무제 파일.md",
     "image/3. RDS와 EC2 연동_배포.txt",
-    "공부재료/자바정석basic_p213연습문제16.md",
     "image/전체과정_배포.txt",
     "image/과정1_배포.txt",
     "AWS_Jenkins_RDS_마이크로서비스",
