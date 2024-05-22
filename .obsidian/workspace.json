@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로젝트_파이널/240429_프로젝트 관련 공지.md",
+                "file": "문제상황/240402_톰캣오류.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로젝트_파이널/240429_프로젝트 관련 공지.md"
+                "file": "문제상황/240402_톰캣오류.md"
               }
             }
           }
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "task",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로젝트_파이널/240429_프로젝트 관련 공지.md",
+                "file": "문제상황/240402_톰캣오류.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로젝트_파이널/240429_프로젝트 관련 공지.md"
+                "file": "문제상황/240402_톰캣오류.md"
               }
             }
           },
@@ -171,6 +171,7 @@
   },
   "active": "3e64bcb3e8d39cd2",
   "lastOpenFiles": [
+    "프로젝트_파이널/240429_프로젝트 관련 공지.md",
     "Thymeleaf/240502_수업정리.md",
     "Thymeleaf/240430_수업정리.md",
     "Thymeleaf/240429_수업정리.md",
@@ -184,7 +185,6 @@
     "Spring/240417_수업정리.md",
     "Spring/240416_수업정리.md",
     "Spring/240415_수업정리(스프링시작).md",
-    "프로젝트_파이널/240429_프로젝트 관련 공지.md",
     "취업/240520_1분자기소개.md",
     "Java/240130_수업정리.md",
     "프로젝트_파이널/240520_페이지 레이아웃.md",
