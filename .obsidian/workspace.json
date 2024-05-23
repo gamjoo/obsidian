@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문제상황/240402_톰캣오류.md",
+                "file": "멘토링/240523_멘토링.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "문제상황/240402_톰캣오류.md"
+                "file": "멘토링/240523_멘토링.md"
               }
             }
           }
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "task",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "문제상황/240402_톰캣오류.md",
+                "file": "멘토링/240523_멘토링.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "문제상황/240402_톰캣오류.md"
+                "file": "멘토링/240523_멘토링.md"
               }
             }
           },
@@ -171,6 +171,9 @@
   },
   "active": "3e64bcb3e8d39cd2",
   "lastOpenFiles": [
+    "image/Pasted image 20240523200055.png",
+    "문제상황/240402_톰캣오류.md",
+    "멘토링/240523_멘토링.md",
     "프로젝트_파이널/240429_프로젝트 관련 공지.md",
     "Thymeleaf/240502_수업정리.md",
     "Thymeleaf/240430_수업정리.md",
@@ -204,9 +207,6 @@
     "image/Pasted image 20240517113135.png",
     "AWS_Jenkins_RDS_마이크로서비스/240514_마이크로 서비스.md",
     "AWS_Jenkins_RDS_마이크로서비스/240513_수업정리.md",
-    "AWS_Jenkins_RDS_마이크로서비스/240510_수업정리.md",
-    "AWS_Jenkins_RDS_마이크로서비스/240509_수업정리.md",
-    "AWS_Jenkins_RDS_마이크로서비스/240517_ECS_시험문제.md",
     "image/1. 유레카 서버 만들기.pdf",
     "image/3. RDS와 EC2 연동_배포.txt",
     "image/전체과정_배포.txt",
