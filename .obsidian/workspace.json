@@ -6,7 +6,6 @@
       {
         "id": "9494d5b9906f42bd",
         "type": "tabs",
-        "dimension": 66.77740863787376,
         "children": [
           {
             "id": "3e64bcb3e8d39cd2",
@@ -18,23 +17,6 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "cf255a3699d051b5",
-        "type": "tabs",
-        "dimension": 33.222591362126245,
-        "children": [
-          {
-            "id": "aa7527fe5f85f069",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "멘토링/240523_멘토링.md"
               }
             }
           }
