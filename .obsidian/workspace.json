@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "taskk",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -151,7 +151,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3e64bcb3e8d39cd2",
+  "active": "e347d56d8c798a89",
   "lastOpenFiles": [
     "image/Pasted image 20240523205236.png",
     "image/Pasted image 20240523202510.png",
