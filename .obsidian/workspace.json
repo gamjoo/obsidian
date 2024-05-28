@@ -77,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "requestpara",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
