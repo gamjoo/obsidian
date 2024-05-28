@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "taskkil",
+                "query": "@RequestParam",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -151,7 +151,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3e64bcb3e8d39cd2",
+  "active": "e347d56d8c798a89",
   "lastOpenFiles": [
     "멘토링/240523_멘토링.md",
     "image/Pasted image 20240523205236.png",
