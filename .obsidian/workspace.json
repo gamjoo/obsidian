@@ -6,6 +6,7 @@
       {
         "id": "9494d5b9906f42bd",
         "type": "tabs",
+        "dimension": 66.77740863787376,
         "children": [
           {
             "id": "3e64bcb3e8d39cd2",
@@ -13,12 +14,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring Boot/240417_수업정리_spring boot 시작.md",
+                "file": "Thymeleaf/240429_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
-            }
+            },
+            "group": "62aad3e875758af6"
+          }
+        ]
+      },
+      {
+        "id": "f716c6c78c707d5e",
+        "type": "tabs",
+        "dimension": 33.222591362126245,
+        "children": [
+          {
+            "id": "0bbb99f295c2c1a0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Thymeleaf/240429_수업정리.md"
+              }
+            },
+            "group": "62aad3e875758af6"
           }
         ]
       }
@@ -57,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "@RequestParam",
+                "query": "text",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +95,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -95,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring Boot/240417_수업정리_spring boot 시작.md",
+                "file": "Thymeleaf/240429_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring Boot/240417_수업정리_spring boot 시작.md"
+                "file": "Thymeleaf/240429_수업정리.md"
               }
             }
           },
@@ -151,8 +171,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3e64bcb3e8d39cd2",
+  "active": "0bbb99f295c2c1a0",
   "lastOpenFiles": [
+    "Spring Boot/240417_수업정리_spring boot 시작.md",
     "문제상황/240402_톰캣오류.md",
     "멘토링/240523_멘토링.md",
     "image/Pasted image 20240523205236.png",
@@ -172,7 +193,6 @@
     "Spring Boot/240423~240424_수업정리.md",
     "Spring Boot/240422_수업정리.md",
     "Spring Boot/240418~240419_수업정리.md",
-    "Spring Boot/240417_수업정리_spring boot 시작.md",
     "Spring/240417_수업정리.md",
     "Spring/240416_수업정리.md",
     "Spring/240415_수업정리(스프링시작).md",
