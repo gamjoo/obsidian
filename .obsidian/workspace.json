@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thymeleaf/240429_수업정리.md",
+                "file": "Spring Boot/240417_수업정리_spring boot 시작.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -35,7 +35,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thymeleaf/240429_수업정리.md"
+                "file": "Spring Boot/240417_수업정리_spring boot 시작.md"
               }
             },
             "group": "62aad3e875758af6"
@@ -77,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "@Param",
+                "query": "param",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thymeleaf/240429_수업정리.md",
+                "file": "Spring Boot/240417_수업정리_spring boot 시작.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thymeleaf/240429_수업정리.md"
+                "file": "Spring Boot/240417_수업정리_spring boot 시작.md"
               }
             }
           },
@@ -171,8 +171,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e347d56d8c798a89",
+  "active": "3e64bcb3e8d39cd2",
   "lastOpenFiles": [
+    "Spring Boot/240425_수업정리.md",
+    "Thymeleaf/240429_수업정리.md",
     "Spring Boot/240417_수업정리_spring boot 시작.md",
     "문제상황/240402_톰캣오류.md",
     "멘토링/240523_멘토링.md",
@@ -186,10 +188,8 @@
     "프로젝트_파이널/240429_프로젝트 관련 공지.md",
     "Thymeleaf/240502_수업정리.md",
     "Thymeleaf/240430_수업정리.md",
-    "Thymeleaf/240429_수업정리.md",
     "Spring Boot/240429_ 수업정리.md",
     "Spring Boot/240426_수업정리.md",
-    "Spring Boot/240425_수업정리.md",
     "Spring Boot/240423~240424_수업정리.md",
     "Spring Boot/240422_수업정리.md",
     "Spring Boot/240418~240419_수업정리.md",
