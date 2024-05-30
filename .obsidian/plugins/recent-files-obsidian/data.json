@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "240228_수업정리",
+      "path": "jQuery/240228_수업정리.md"
+    },
+    {
       "basename": "240529_멘토링",
       "path": "멘토링/240529_멘토링.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "240314_JDBC드라이버",
       "path": "문제상황/240314_JDBC드라이버.md"
-    },
-    {
-      "basename": "240312_옵시디언@git",
-      "path": "문제상황/240312_옵시디언@git.md"
     }
   ],
   "omittedPaths": [],
