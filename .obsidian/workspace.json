@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "jQuery/240228_수업정리.md",
+                "file": "멘토링/240529_멘토링.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -109,7 +109,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "멘토링/240523_멘토링.md",
+                "file": "멘토링/240529_멘토링.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "멘토링/240523_멘토링.md"
+                "file": "멘토링/240529_멘토링.md"
               }
             }
           },
@@ -185,12 +185,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e347d56d8c798a89",
+  "active": "811c16350e415cbe",
   "lastOpenFiles": [
+    "멘토링/240523_멘토링.md",
     "멘토링/240529_멘토링.md",
     "image/Pasted image 20240529201348.png",
     "image/Pasted image 20240529200927.png",
-    "멘토링/240523_멘토링.md",
     "Thymeleaf/240502_수업정리.md",
     "Thymeleaf/240430_수업정리.md",
     "Thymeleaf/240429_수업정리.md",
