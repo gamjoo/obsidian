@@ -91,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "매개변수 3개",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "jQuery/240228_수업정리.md",
+                "file": "멘토링/240523_멘토링.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "jQuery/240228_수업정리.md"
+                "file": "멘토링/240523_멘토링.md"
               }
             }
           },
