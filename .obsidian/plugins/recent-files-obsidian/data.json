@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "240514_RDS EC2 연동 배포",
-      "path": "AWS_Jenkins_RDS_마이크로서비스/240514_RDS EC2 연동 배포.md"
-    },
-    {
       "basename": "240509_수업정리",
       "path": "AWS_Jenkins_RDS_마이크로서비스/240509_수업정리.md"
+    },
+    {
+      "basename": "240508_수업정리",
+      "path": "Docker/240508_수업정리.md"
+    },
+    {
+      "basename": "240523_멘토링",
+      "path": "멘토링/240523_멘토링.md"
+    },
+    {
+      "basename": "240514_RDS EC2 연동 배포",
+      "path": "AWS_Jenkins_RDS_마이크로서비스/240514_RDS EC2 연동 배포.md"
     },
     {
       "basename": "240510_수업정리",
@@ -19,10 +27,6 @@
     {
       "basename": "240514_마이크로 서비스",
       "path": "AWS_Jenkins_RDS_마이크로서비스/240514_마이크로 서비스.md"
-    },
-    {
-      "basename": "240508_수업정리",
-      "path": "Docker/240508_수업정리.md"
     },
     {
       "basename": "240507_수업자료(예비군)",
@@ -43,10 +47,6 @@
     {
       "basename": "240529_멘토링",
       "path": "멘토링/240529_멘토링.md"
-    },
-    {
-      "basename": "240523_멘토링",
-      "path": "멘토링/240523_멘토링.md"
     },
     {
       "basename": "240228_수업정리",
