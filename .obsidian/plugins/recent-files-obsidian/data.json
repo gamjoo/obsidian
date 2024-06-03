@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "240513_수업정리",
+      "path": "AWS_Jenkins_RDS_마이크로서비스/240513_수업정리.md"
+    },
+    {
+      "basename": "240514_마이크로 서비스",
+      "path": "AWS_Jenkins_RDS_마이크로서비스/240514_마이크로 서비스.md"
+    },
+    {
       "basename": "240509_수업정리",
       "path": "AWS_Jenkins_RDS_마이크로서비스/240509_수업정리.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "240510_수업정리",
       "path": "AWS_Jenkins_RDS_마이크로서비스/240510_수업정리.md"
-    },
-    {
-      "basename": "240513_수업정리",
-      "path": "AWS_Jenkins_RDS_마이크로서비스/240513_수업정리.md"
     },
     {
       "basename": "240503_수업정리",
@@ -131,10 +135,6 @@
     {
       "basename": "240517_멘토링",
       "path": "멘토링/240517_멘토링.md"
-    },
-    {
-      "basename": "240514_마이크로 서비스",
-      "path": "AWS_Jenkins_RDS_마이크로서비스/240514_마이크로 서비스.md"
     },
     {
       "basename": "240517_ECS_시험문제",
