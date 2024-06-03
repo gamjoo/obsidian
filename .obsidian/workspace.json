@@ -6,7 +6,6 @@
       {
         "id": "9494d5b9906f42bd",
         "type": "tabs",
-        "dimension": 66.77740863787376,
         "children": [
           {
             "id": "3e64bcb3e8d39cd2",
@@ -19,8 +18,7 @@
                 "backlinks": false,
                 "source": false
               }
-            },
-            "group": "62aad3e875758af6"
+            }
           },
           {
             "id": "811c16350e415cbe",
@@ -37,24 +35,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "f716c6c78c707d5e",
-        "type": "tabs",
-        "dimension": 33.222591362126245,
-        "children": [
-          {
-            "id": "0bbb99f295c2c1a0",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "멘토링/240523_멘토링.md"
-              }
-            },
-            "group": "62aad3e875758af6"
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -187,8 +167,13 @@
   },
   "active": "811c16350e415cbe",
   "lastOpenFiles": [
-    "AWS_Jenkins_RDS_마이크로서비스/240510_수업정리.md",
+    "Docker/240508_수업정리.md",
+    "Docker/240507_수업자료(예비군).md",
+    "Docker/240503_수업정리.md",
     "AWS_Jenkins_RDS_마이크로서비스/240509_수업정리.md",
+    "AWS_Jenkins_RDS_마이크로서비스/240510_수업정리.md",
+    "AWS_Jenkins_RDS_마이크로서비스/240513_수업정리.md",
+    "AWS_Jenkins_RDS_마이크로서비스/240514_RDS EC2 연동 배포.md",
     "Ubuntu_Linux/240503_수업정리.md",
     "Ubuntu_Linux/240502_수업정리.md",
     "멘토링/240529_멘토링.md",
@@ -217,12 +202,7 @@
     "Spring/240417_수업정리.md",
     "Spring/240416_수업정리.md",
     "Spring/240415_수업정리(스프링시작).md",
-    "취업/240520_1분자기소개.md",
-    "Java/240130_수업정리.md",
-    "프로젝트_파이널/240520_페이지 레이아웃.md",
     "image/Pasted image 20240520123150.png",
-    "멘토링/240508_멘토링.md",
-    "멘토링/240424(240503)_멘토링.md",
     "image/1. 유레카 서버 만들기.pdf",
     "image/3. RDS와 EC2 연동_배포.txt",
     "image/전체과정_배포.txt",
