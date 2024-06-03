@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로젝트_파이널/240603_gradle 빌드하는 법.md",
+                "file": "프로젝트_파이널/240603_aws 배포 관련.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로젝트_파이널/240603_gradle 빌드하는 법.md",
+                "file": "프로젝트_파이널/240603_aws 배포 관련.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로젝트_파이널/240603_gradle 빌드하는 법.md"
+                "file": "프로젝트_파이널/240603_aws 배포 관련.md"
               }
             }
           },
@@ -192,7 +192,7 @@
   "active": "9ae4b8b2eec71c72",
   "lastOpenFiles": [
     "AWS_Jenkins_RDS_마이크로서비스/240514_RDS EC2 연동 배포.md",
-    "프로젝트_파이널/240603_gradle 빌드하는 법.md",
+    "프로젝트_파이널/240603_aws 배포 관련.md",
     "AWS_Jenkins_RDS_마이크로서비스/240510_수업정리.md",
     "AWS_Jenkins_RDS_마이크로서비스/240509_수업정리.md",
     "Docker/240508_수업정리.md",
