@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "240509_수업정리",
+      "path": "AWS_Jenkins_RDS_마이크로서비스/240509_수업정리.md"
+    },
+    {
       "basename": "240514_RDS EC2 연동 배포",
       "path": "AWS_Jenkins_RDS_마이크로서비스/240514_RDS EC2 연동 배포.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "240503_수업정리",
       "path": "Docker/240503_수업정리.md"
-    },
-    {
-      "basename": "240509_수업정리",
-      "path": "AWS_Jenkins_RDS_마이크로서비스/240509_수업정리.md"
     },
     {
       "basename": "240510_수업정리",
