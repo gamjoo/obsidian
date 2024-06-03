@@ -26,11 +26,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS_Jenkins_RDS_마이크로서비스/240509_수업정리.md",
+                "file": "AWS_Jenkins_RDS_마이크로서비스/240514_RDS EC2 연동 배포.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
+            }
+          },
+          {
+            "id": "e96a9e6981878a7f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -109,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS_Jenkins_RDS_마이크로서비스/240509_수업정리.md",
+                "file": "AWS_Jenkins_RDS_마이크로서비스/240514_RDS EC2 연동 배포.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS_Jenkins_RDS_마이크로서비스/240509_수업정리.md"
+                "file": "AWS_Jenkins_RDS_마이크로서비스/240514_RDS EC2 연동 배포.md"
               }
             }
           },
@@ -167,10 +175,10 @@
   },
   "active": "811c16350e415cbe",
   "lastOpenFiles": [
+    "AWS_Jenkins_RDS_마이크로서비스/240509_수업정리.md",
     "AWS_Jenkins_RDS_마이크로서비스/240510_수업정리.md",
     "AWS_Jenkins_RDS_마이크로서비스/240513_수업정리.md",
     "AWS_Jenkins_RDS_마이크로서비스/240514_마이크로 서비스.md",
-    "AWS_Jenkins_RDS_마이크로서비스/240509_수업정리.md",
     "AWS_Jenkins_RDS_마이크로서비스/240514_RDS EC2 연동 배포.md",
     "Docker/240508_수업정리.md",
     "Docker/240507_수업자료(예비군).md",
