@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS_Jenkins_RDS_마이크로서비스/240510_수업정리.md",
+                "file": "프로젝트_파이널/240603_gradle 빌드하는 법.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS_Jenkins_RDS_마이크로서비스/240510_수업정리.md",
+                "file": "프로젝트_파이널/240603_gradle 빌드하는 법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS_Jenkins_RDS_마이크로서비스/240510_수업정리.md"
+                "file": "프로젝트_파이널/240603_gradle 빌드하는 법.md"
               }
             }
           },
@@ -189,13 +189,14 @@
       }
     ]
   },
-  "active": "e347d56d8c798a89",
+  "active": "9ae4b8b2eec71c72",
   "lastOpenFiles": [
+    "AWS_Jenkins_RDS_마이크로서비스/240510_수업정리.md",
+    "프로젝트_파이널/240603_gradle 빌드하는 법.md",
     "AWS_Jenkins_RDS_마이크로서비스/240509_수업정리.md",
     "AWS_Jenkins_RDS_마이크로서비스/240514_RDS EC2 연동 배포.md",
     "Docker/240508_수업정리.md",
     "멘토링/240523_멘토링.md",
-    "AWS_Jenkins_RDS_마이크로서비스/240510_수업정리.md",
     "AWS_Jenkins_RDS_마이크로서비스/240513_수업정리.md",
     "AWS_Jenkins_RDS_마이크로서비스/240514_마이크로 서비스.md",
     "Docker/240507_수업자료(예비군).md",
@@ -225,7 +226,6 @@
     "Spring Boot/240422_수업정리.md",
     "Spring Boot/240418~240419_수업정리.md",
     "Spring/240417_수업정리.md",
-    "Spring/240416_수업정리.md",
     "image/Pasted image 20240520123150.png",
     "image/1. 유레카 서버 만들기.pdf",
     "image/3. RDS와 EC2 연동_배포.txt",

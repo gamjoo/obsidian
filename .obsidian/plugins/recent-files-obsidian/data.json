@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "240603_gradle 빌드하는 법",
+      "path": "프로젝트_파이널/240603_gradle 빌드하는 법.md"
+    },
+    {
       "basename": "240510_수업정리",
       "path": "AWS_Jenkins_RDS_마이크로서비스/240510_수업정리.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "240325_JSON데이터",
       "path": "문제상황/240325_JSON데이터.md"
-    },
-    {
-      "basename": "240325_CORS",
-      "path": "문제상황/240325_CORS.md"
     }
   ],
   "omittedPaths": [],
