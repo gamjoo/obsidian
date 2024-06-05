@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로젝트_파이널/240603_aws 배포 관련.md",
+                "file": "멘토링/240605_멘토링.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로젝트_파이널/240603_aws 배포 관련.md",
+                "file": "멘토링/240605_멘토링.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로젝트_파이널/240603_aws 배포 관련.md"
+                "file": "멘토링/240605_멘토링.md"
               }
             }
           },
@@ -151,48 +151,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "c77b507c1304b6dd",
-    "type": "floating",
-    "children": [
-      {
-        "id": "cc1595338d5ea549",
-        "type": "window",
-        "children": [
-          {
-            "id": "81f968bab792701c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "811c16350e415cbe",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "AWS_Jenkins_RDS_마이크로서비스/240514_RDS EC2 연동 배포.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -1660,
-        "y": 0,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "9ae4b8b2eec71c72",
   "lastOpenFiles": [
-    "AWS_Jenkins_RDS_마이크로서비스/240514_RDS EC2 연동 배포.md",
+    "멘토링/240529_멘토링.md",
+    "멘토링/240605_멘토링.md",
     "프로젝트_파이널/240603_aws 배포 관련.md",
+    "AWS_Jenkins_RDS_마이크로서비스/240514_RDS EC2 연동 배포.md",
     "AWS_Jenkins_RDS_마이크로서비스/240510_수업정리.md",
     "AWS_Jenkins_RDS_마이크로서비스/240509_수업정리.md",
     "Docker/240508_수업정리.md",
@@ -203,7 +167,6 @@
     "Docker/240503_수업정리.md",
     "Ubuntu_Linux/240503_수업정리.md",
     "Ubuntu_Linux/240502_수업정리.md",
-    "멘토링/240529_멘토링.md",
     "image/Pasted image 20240529201348.png",
     "image/Pasted image 20240529200927.png",
     "Thymeleaf/240502_수업정리.md",
@@ -225,7 +188,6 @@
     "Spring Boot/240423~240424_수업정리.md",
     "Spring Boot/240422_수업정리.md",
     "Spring Boot/240418~240419_수업정리.md",
-    "Spring/240417_수업정리.md",
     "image/Pasted image 20240520123150.png",
     "image/1. 유레카 서버 만들기.pdf",
     "image/3. RDS와 EC2 연동_배포.txt",
