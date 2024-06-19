@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "멘토링/240605_멘토링.md",
+                "file": "AWS_Jenkins_RDS_마이크로서비스/240510_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "docker",
+                "query": "jenkins",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "멘토링/240605_멘토링.md",
+                "file": "AWS_Jenkins_RDS_마이크로서비스/240510_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "멘토링/240605_멘토링.md"
+                "file": "AWS_Jenkins_RDS_마이크로서비스/240510_수업정리.md"
               }
             }
           },
@@ -153,6 +153,7 @@
   },
   "active": "9ae4b8b2eec71c72",
   "lastOpenFiles": [
+    "멘토링/240605_멘토링.md",
     "image/Pasted image 20240605202929.png",
     "image/Pasted image 20240605202603.png",
     "image/Pasted image 20240605202336.png",
@@ -161,7 +162,6 @@
     "image/Pasted image 20240605200118.png",
     "image/Pasted image 20240605195254.png",
     "멘토링/240529_멘토링.md",
-    "멘토링/240605_멘토링.md",
     "프로젝트_파이널/240603_aws 배포 관련.md",
     "AWS_Jenkins_RDS_마이크로서비스/240514_RDS EC2 연동 배포.md",
     "AWS_Jenkins_RDS_마이크로서비스/240510_수업정리.md",
@@ -183,7 +183,6 @@
     "Spring Boot/240425_수업정리.md",
     "문제상황/240402_톰캣오류.md",
     "image/Pasted image 20240523205236.png",
-    "image/Pasted image 20240523202510.png",
     "프로젝트_파이널/240429_프로젝트 관련 공지.md",
     "Spring Boot/240429_ 수업정리.md",
     "Spring Boot/240426_수업정리.md",
