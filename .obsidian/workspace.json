@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS_Jenkins_RDS_마이크로서비스/240510_수업정리.md",
+                "file": "프로젝트_세미/세미프로젝트일정.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c616556be8acbe6b",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS_Jenkins_RDS_마이크로서비스/240510_수업정리.md",
+                "file": "프로젝트_세미/세미프로젝트일정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS_Jenkins_RDS_마이크로서비스/240510_수업정리.md"
+                "file": "프로젝트_세미/세미프로젝트일정.md"
               }
             }
           },
@@ -154,6 +153,7 @@
   },
   "active": "9ae4b8b2eec71c72",
   "lastOpenFiles": [
+    "AWS_Jenkins_RDS_마이크로서비스/240510_수업정리.md",
     "멘토링/240605_멘토링.md",
     "image/Pasted image 20240605202929.png",
     "image/Pasted image 20240605202603.png",
@@ -165,7 +165,6 @@
     "멘토링/240529_멘토링.md",
     "프로젝트_파이널/240603_aws 배포 관련.md",
     "AWS_Jenkins_RDS_마이크로서비스/240514_RDS EC2 연동 배포.md",
-    "AWS_Jenkins_RDS_마이크로서비스/240510_수업정리.md",
     "AWS_Jenkins_RDS_마이크로서비스/240509_수업정리.md",
     "Docker/240508_수업정리.md",
     "멘토링/240523_멘토링.md",
