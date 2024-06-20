@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -151,7 +151,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9ae4b8b2eec71c72",
+  "active": "e347d56d8c798a89",
   "lastOpenFiles": [
     "AWS_Jenkins_RDS_마이크로서비스/240510_수업정리.md",
     "멘토링/240605_멘토링.md",
