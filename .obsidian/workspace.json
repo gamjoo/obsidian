@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로젝트_세미/세미프로젝트일정.md",
+                "file": "idea/240414_세미프로젝트회고.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -75,11 +75,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 291.5
   },
   "right": {
     "id": "c616556be8acbe6b",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로젝트_세미/세미프로젝트일정.md",
+                "file": "idea/240414_세미프로젝트회고.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로젝트_세미/세미프로젝트일정.md"
+                "file": "idea/240414_세미프로젝트회고.md"
               }
             }
           },
@@ -151,8 +151,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e347d56d8c798a89",
+  "active": "9ae4b8b2eec71c72",
   "lastOpenFiles": [
+    "프로젝트_세미/세미프로젝트일정.md",
     "AWS_Jenkins_RDS_마이크로서비스/240510_수업정리.md",
     "멘토링/240605_멘토링.md",
     "image/Pasted image 20240605202929.png",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "240414_세미프로젝트회고",
+      "path": "idea/240414_세미프로젝트회고.md"
+    },
+    {
       "basename": "세미프로젝트일정",
       "path": "프로젝트_세미/세미프로젝트일정.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "240228_이클립스github연동",
       "path": "문제상황/240228_이클립스github연동.md"
-    },
-    {
-      "basename": "240222_CSS문제",
-      "path": "문제상황/240222_CSS문제.md"
     }
   ],
   "omittedPaths": [],
