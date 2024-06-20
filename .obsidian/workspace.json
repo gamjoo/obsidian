@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c616556be8acbe6b",
@@ -151,7 +152,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ffb4f3fb5a9558bb",
+  "active": "9ae4b8b2eec71c72",
   "lastOpenFiles": [
     "멘토링/240605_멘토링.md",
     "image/Pasted image 20240605202929.png",
