@@ -1,4 +1,4 @@
-![](../image/Pasted%image%20240125090442.png)
+![](../image/Pasted%20image%2020240125090442.png)
 ###### ★|| 써서 or 조건으로 쓰면 코드를 더 간결하게 쓸 수 있었다.
 
 ![[Pasted image 20240125090541.png]]
