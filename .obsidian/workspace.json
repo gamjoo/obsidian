@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/240126_과제.md",
+                "file": "Java/240126_수업정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/240126_과제.md",
+                "file": "Java/240126_수업정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/240126_과제.md"
+                "file": "Java/240126_수업정리.md"
               }
             }
           },
@@ -153,6 +153,8 @@
   },
   "active": "9ae4b8b2eec71c72",
   "lastOpenFiles": [
+    "Java/240126_과제.md",
+    "Java/240126_수업정리.md",
     "Java/240125_calendar과제_solution.md",
     "AWS_Jenkins_RDS_마이크로서비스/240513_수업정리.md",
     "AWS_Jenkins_RDS_마이크로서비스/240510_수업정리.md",
@@ -187,8 +189,6 @@
     "문제상황/240402_톰캣오류.md",
     "image/Pasted image 20240523205236.png",
     "프로젝트_파이널/240429_프로젝트 관련 공지.md",
-    "Spring Boot/240429_ 수업정리.md",
-    "Spring Boot/240426_수업정리.md",
     "image/1. 유레카 서버 만들기.pdf",
     "image/3. RDS와 EC2 연동_배포.txt",
     "image/전체과정_배포.txt",

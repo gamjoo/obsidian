@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "240126_수업정리",
+      "path": "Java/240126_수업정리.md"
+    },
+    {
       "basename": "240126_과제",
       "path": "Java/240126_과제.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "자바정석basic_p209연습문제5",
       "path": "공부재료/자바정석basic_p209연습문제5.md"
-    },
-    {
-      "basename": "240213_수업정리_HTML시작",
-      "path": "HTML/240213_수업정리_HTML시작.md"
     }
   ],
   "omittedPaths": [],
