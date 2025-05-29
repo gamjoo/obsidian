@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "240125_calendar과제_solution",
+      "path": "Java/240125_calendar과제_solution.md"
+    },
+    {
       "basename": "240513_수업정리",
       "path": "AWS_Jenkins_RDS_마이크로서비스/240513_수업정리.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "240325_수업정리",
       "path": "git/240325_수업정리.md"
-    },
-    {
-      "basename": "240228_이클립스github연동",
-      "path": "문제상황/240228_이클립스github연동.md"
     }
   ],
   "omittedPaths": [],
