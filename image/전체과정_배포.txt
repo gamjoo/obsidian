@@ -241,7 +241,7 @@ root@595eb908d355:/# cat /var/jenkins_home/secrets/initialAdminPassword
 
 Instance Configuration
     Save and Finish 
-    http://13.209.66.42:8080/ 
+    http://13.209.234.90:8080/
 
 
 Jenkins is ready!
@@ -255,7 +255,7 @@ Jenkins is ready!
 Github에서는 웹훅 기능을 제공하여 우리가 사용할 Jenkin로 신호를 보낼 수 있습니다.
 
 일반적으로 Webhook은 POST 방식으로 진행되며, application/json 형태의 데이터로 전송된다.
-http://13.209.66.42:8080/
+http://13.209.234.90:8080/
 
 * Webhook 이용하기
 
@@ -270,7 +270,7 @@ http://13.209.66.42:8080/
    =>  Add webhook 클릭
 
    =>  Payload URL (http://젠킨스 EC2인스턴스 public 아이피:8080/github-webhook/)
-        http://43.201.252.202:8080/github-webhook/
+        http://13.209.234.90:8080/github-webhook/
 
    => Content type
      application/json
@@ -278,7 +278,7 @@ http://13.209.66.42:8080/
    => Add webhook
 
    => 화면에 초록색의 체크 표시가 되기를 기다립니다. (F5)
-     http://43.201.252.202:8080/github-webhook/
+     http://13.209.234.90:8080/github-webhook/
 ==========================================================
 6. 젠킨스에서 Maven 설치하기
 
@@ -828,7 +828,7 @@ pipeline {
    environment {
        //@뒤에는 배포용 public 아이피
 
-        TARGET_HOST = "ubuntu@43.202.113.6"
+        TARGET_HOST = "ec2-user@43.201.236.54"
     }
     stages {
         stage('test ssh') {
@@ -935,7 +935,7 @@ pipeline {
     environment { 
        // dockerhub : jenkins에 등록해 놓은 docker hub credentials 이름      
         DOCKERHUB_CREDENTIALS = credentials('dockerhub') 
-        TARGET_HOST = "ubuntu@3.34.46.56"  //@뒤에는 배포용 public 아이피 
+        TARGET_HOST = "ec2-user@43.201.236.54"  //@뒤에는 배포용 public 아이피 
 
     }
     agent any
