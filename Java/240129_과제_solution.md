@@ -1,4 +1,5 @@
 ![](../image/Pasted%20image%2020240130090528.png)
+
 sort 메소드를 정의하는 논리
 
 ```java
