@@ -19,19 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9ce7dc5222a5fd70",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,7 +151,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9ce7dc5222a5fd70",
+  "active": "9ae4b8b2eec71c72",
   "lastOpenFiles": [
     "AWS_Jenkins_RDS_마이크로서비스/240510_수업정리.md",
     "Docker/240503_수업정리.md",
